@@ -19,15 +19,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 dieselbe Sicherheit, derselbe Weg durch den Aufenthalt. Ihre
 Zusatzversicherung erweitert Wahl und Komfort.]{.lede}
 
-## Gleich vorweg, für alle {#fuer-alle}
-
-Ob allgemein, halbprivat oder privat versichert: Der [Wegweiser durch
-Ihren Aufenthalt](index.qmd) gilt für Sie vollständig, und die
-medizinische Qualität hängt bei uns an der Behandlung, nie an der
-Versicherungsklasse. Auch mit allgemeiner Versicherung sind Sie bei
-uns richtig und willkommen.
-
-## Was Ihre Zusatzversicherung Ihnen eröffnet {#leistungen}
+## Was Ihre Zusatzversicherung Ihnen bei uns eröffnet {#leistungen}
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Freie Arztwahl
