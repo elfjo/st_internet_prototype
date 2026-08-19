@@ -15,6 +15,12 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 [Die Antworten auf die häufigsten Fragen — kurz und ohne Umwege. Alles
 Weitere finden Sie über die Links.]{.lede}
 
+## Alles auf einem Blatt {#blatt}
+
+Die Kerninformationen zum Ausdrucken und an den Kühlschrank:
+
+[Zum Merkblatt →](merkblatt.qmd)
+
 ## Ab wann darf ich nichts mehr essen und trinken? {#nuechtern}
 
 Essen bis **6 Stunden** vor der Eintrittszeit. Trinken (Wasser ohne
@@ -46,11 +52,6 @@ melden und was am Tag selbst passiert:
 
 [Mein Eintrittstag →](phasen/eintrittstag.qmd)
 
-## Alles auf einem Blatt {#blatt}
-
-Die Kerninformationen zum Ausdrucken und an den Kühlschrank:
-
-[Zum Merkblatt →](merkblatt.qmd)
 
 ::: {.mini-nav}
 [⌂ Übersicht](index.qmd)
