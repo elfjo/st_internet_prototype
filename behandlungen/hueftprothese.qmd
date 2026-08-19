@@ -20,13 +20,13 @@ Schritt für Schritt in Ihren Alltag zurückkehren.]{.lede}
 
 Ihr Hüftgelenk ist ein Kugelgelenk: Der Hüftkopf dreht sich in der
 Gelenkpfanne, eine Knorpelschicht lässt beides geschmeidig gleiten.
-Bei einer Arthrose ist dieser Knorpel abgenutzt — Knochen reibt auf
-Knochen, das schmerzt. Bei der Operation erhalten Kopf und Pfanne
-einen Ersatz aus Metall, Keramik und Kunststoff.
+Bei einer Arthrose ist diese Gleitschicht abgenutzt. Die Operation
+gibt dem Gelenk beides zurück: glatte Flächen und freies Spiel — Kopf
+und Pfanne erhalten einen Ersatz aus Metall, Keramik und Kunststoff.
 
-Das neue Gelenk ist auf Dauer gebaut: Die meisten Menschen werden an
-dieser Hüfte nie wieder operiert. Ziel ist, dass Sie sich wieder frei
-und sicher bewegen — gehen, Treppen steigen, durchschlafen.
+Das neue Gelenk ist auf Dauer gebaut: Die meisten Menschen begleitet
+es ein Leben lang. Ziel ist, dass Sie sich wieder frei und sicher
+bewegen — gehen, Treppen steigen, durchschlafen.
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Mehr erfahren: das Implantat
@@ -42,10 +42,10 @@ Röntgenbilder und bespricht sie mit Ihnen.
 
 ## Wann sie infrage kommt {#warum}
 
-Typisch für eine fortgeschrittene Hüftarthrose: Schmerzen beim Gehen
-und Aufstehen, später auch in Ruhe und nachts, dazu eine Hüfte, die
-steifer wird und die Gehstrecke verkürzt. Die Diagnose entsteht aus
-der körperlichen Untersuchung und einem Röntgenbild.
+Vielleicht kennen Sie es: Schmerzen beim Gehen oder Aufstehen,
+manchmal auch nachts, und eine Hüfte, die steifer geworden ist. Die
+Diagnose entsteht aus der körperlichen Untersuchung und einem
+Röntgenbild.
 
 Der Zeitpunkt für die Operation richtet sich nach Ihnen: Wenn
 Schmerzen oder Einschränkung Ihren Alltag bestimmen, ist es Zeit,
@@ -143,12 +143,13 @@ andere.
 
 ## Die Operation {#ablauf}
 
-Üblich ist eine **Spinalanästhesie**: Ihre Beine werden für einige
-Stunden schmerzfrei, Ihr Kopf bleibt klar. Wenn Sie lieber schlafen
-möchten, erhalten Sie zusätzlich ein Schlafmittel — das entscheiden
-Sie mit. Falls die Spinalanästhesie im Einzelfall ungeeignet ist,
-übernimmt eine Vollnarkose. Die Operation dauert in der Regel
-[60 bis 90 Minuten]{.ph}.
+Üblich ist eine **Spinalanästhesie**: Ihre Beine ruhen für einige
+Stunden tief und schmerzfrei, Ihr Kopf bleibt klar. Ob Sie
+währenddessen dösen, [Ihre eigene Musik über Kopfhörer hören]{.ph}
+oder mit einem Schlafmittel ganz schlafen — das entscheiden Sie mit.
+Falls die Spinalanästhesie im Einzelfall ungeeignet ist, übernimmt
+eine Vollnarkose. Die Operation dauert in der Regel [60 bis
+90 Minuten]{.ph}.
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Mehr erfahren: so läuft es im Operationsbereich ab
@@ -172,8 +173,8 @@ die Operation verlaufen ist.
 
 ### Phase 1: Tag für Tag in der Klinik
 
-Ihre Erholung beginnt am Operationstag — früh mobil zu werden ist das
-beste Mittel gegen Schwellung und Schmerzen:
+Ihre Erholung beginnt am Operationstag — jeder frühe Schritt bringt
+die Heilung in Gang, und mit jedem Tag übernehmen Sie mehr selbst:
 
 - **Operationstag:** die ersten Schritte an Stöcken, mit Begleitung.
   Das operierte Bein darf teilbelastet werden.
@@ -183,10 +184,10 @@ beste Mittel gegen Schwellung und Schmerzen:
   — Sie übernehmen zunehmend selbst.
 - **Tag 3:** in der Regel Austritt nach Hause.
 
-Damit das gelingt, halten wir Ihre Schmerzen konsequent niedrig — Ziel
-sind höchstens leichte bis mässige Schmerzen. Ihr Schmerzempfinden ist
-individuell und von aussen unsichtbar: Sagen Sie es früh, wenn es mehr
-wird.
+Damit das gelingt, halten wir Ihre Schmerzen konsequent niedrig. Ihr
+Empfinden ist individuell und von aussen unsichtbar — sagen Sie uns
+früh, was Sie spüren: Je genauer wir Bescheid wissen, desto feiner
+stellen wir die Behandlung auf Sie ein.
 
 **Nach Hause gehen Sie, sobald Sie es können** — wörtlich: Sie gehen
 sicher und selbstständig, steigen Treppen, wenn Sie zu Hause welche
