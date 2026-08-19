@@ -1,5 +1,5 @@
 ---
-title: "Was möchten Sie wissen?"
+title: "Kurzinformationen, Fragen und Antworten"
 toc: false
 ---
 
