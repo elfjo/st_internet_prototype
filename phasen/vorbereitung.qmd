@@ -1,17 +1,17 @@
 ---
-title: "Ich bereite mich vor"
+title: "Ich bereite mich auf den Eintritt vor"
 ---
 
 ::: {.hinweis-prototyp}
-Struktur-Prototyp. Klinische Angaben sind Platzhalter, [so
-markiert]{.ph}, und brauchen vor jeder Verwendung eine fachliche
-Freigabe.
+Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 ::: {.stepper}
-**Ihr Weg:** [Ich entscheide mich](#) → [Ich warte auf meinen
-Termin](#) → **Ich bereite mich vor** → [Mein Eintrittstag](#) →
-[Ich bin in der Klinik](#) → [Ich gehe nach Hause](#)
+**Ihr Weg:** [Ich entscheide mich](entscheidung.qmd) → [Ich nutze die
+Zeit bis zur Operation optimal](wartezeit.qmd) → **Ich bereite mich auf
+den Eintritt vor** → [Mein Eintrittstag](eintrittstag.qmd) → [Ich bin
+in der Klinik](aufenthalt.qmd) → [Ich gehe nach
+Hause](nachhause.qmd)
 :::
 
 [Was Sie vor Ihrer Operation erledigen: Medikamente, Essen und Trinken,

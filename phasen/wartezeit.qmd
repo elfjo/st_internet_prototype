@@ -1,0 +1,93 @@
+---
+title: "Ich nutze die Zeit bis zur Operation optimal"
+---
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
+:::
+
+::: {.stepper}
+**Ihr Weg:** [Ich entscheide mich](entscheidung.qmd) → **Ich nutze die
+Zeit bis zur Operation optimal** → [Ich bereite mich auf den Eintritt
+vor](vorbereitung.qmd) → [Mein Eintrittstag](eintrittstag.qmd) → [Ich
+bin in der Klinik](aufenthalt.qmd) → [Ich gehe nach
+Hause](nachhause.qmd)
+:::
+
+[Die Wochen bis zur Operation sind keine verlorene Zeit: Wer vorbereitet
+in den Eingriff geht, erholt sich leichter.]{.lede}
+
+## Warum sich Vorbereitung lohnt {#warum}
+
+Eine Operation ist für den Körper eine Anstrengung, ähnlich wie ein
+sportlicher Wettkampf. Je besser Ihr Zustand vorher, desto leichter
+fällt die Erholung danach. Vieles davon haben Sie selbst in der Hand —
+und die Wartezeit ist genau das Zeitfenster dafür.
+
+## Was Sie ab heute tun können {#tun}
+
+::: {.callout-note collapse="true" icon="false"}
+### Bewegung
+
+Bleiben Sie aktiv, so gut es Ihre Beschwerden zulassen. Schon
+tägliches Gehen erhält Kraft und Ausdauer. [Konkrete, niedrigschwellige
+Vorschläge: Spazieren, Treppen, Aufstehen vom Stuhl. Ggf. Hinweis auf
+Physiotherapie vor der Operation.]{.ph}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Rauchstopp
+
+Der wirksamste einzelne Schritt. Ein Rauchstopp [mehrere Wochen]{.ph}
+vor der Operation verbessert Wundheilung und Atmung messbar.
+[Unterstützungsangebote: Rauchstopplinie, Beratung, Medikamente.]{.ph}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Ernährung und Alkohol
+
+Ausgewogen essen, genug Eiweiss, wenig Alkohol. Ungewollter
+Gewichtsverlust vor einer Operation ist ein Warnsignal — sprechen Sie
+ihn an. [Selbsttest oder Kontakt Ernährungsberatung.]{.ph}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Seelische Vorbereitung
+
+Anspannung vor einer Operation ist normal. Es hilft, zu wissen, was
+kommt — dafür sind diese Seiten da. Wenn die Angst gross ist,
+insbesondere vor der Narkose oder vor Nadeln: Sagen Sie es uns vor dem
+Eintritt. Es gibt erprobte Wege, damit umzugehen.
+[Kontakt; ggf. Entspannungsübungen, Audio-Angebote.]{.ph}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Alltag organisieren
+
+Arbeit ([Arbeitsunfähigkeit: wer stellt das Zeugnis aus, übliche
+Dauer]{.ph}), Angehörige und Betreuungspflichten, Fahrten, Einkäufe für
+die erste Woche danach. Was jetzt geregelt ist, fehlt später nicht.
+:::
+
+## Wenn sich Ihr Zustand verändert {#verschlechterung}
+
+::: {.warnung}
+### Melden Sie sich, statt abzuwarten
+
+Wenn sich Ihre Beschwerden deutlich verschlechtern, Sie neue Symptome
+bemerken oder eine Erkältung, Fieber oder eine Zahnentzündung
+auftritt: Rufen Sie uns an unter [Telefonnummer]{.ph}. Manches muss
+vor der Operation behandelt werden — je früher wir es wissen, desto
+eher bleibt Ihr Termin haltbar.
+:::
+
+## Wenn sich der Termin verschiebt {#verschiebung}
+
+Auch bei guter Planung kann sich ein Operationstermin verschieben, zum
+Beispiel durch Notfälle. Das ist selten, aber möglich. [Wie die Klinik
+in diesem Fall informiert, wie schnell ein Ersatztermin zustande kommt,
+an wen sich Betroffene wenden.]{.ph}
+
+{{< include ../_feedback.qmd >}}
+
+{{< include ../_governance.qmd >}}

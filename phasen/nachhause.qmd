@@ -1,0 +1,88 @@
+---
+title: "Ich gehe nach Hause"
+---
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
+:::
+
+::: {.stepper}
+**Ihr Weg:** [Ich entscheide mich](entscheidung.qmd) → [Ich nutze die
+Zeit bis zur Operation optimal](wartezeit.qmd) → [Ich bereite mich auf
+den Eintritt vor](vorbereitung.qmd) → [Mein
+Eintrittstag](eintrittstag.qmd) → [Ich bin in der
+Klinik](aufenthalt.qmd) → **Ich gehe nach Hause**
+:::
+
+[Der Austritt ist kein Endpunkt, sondern ein Übergang: was am letzten
+Tag passiert, was Sie mitnehmen und wie es danach weitergeht.]{.lede}
+
+## Der Austrittstag {#austrittstag}
+
+[Übliche Austrittszeit; wie der Tag abläuft; wer das
+Austrittsgespräch führt.]{.ph} Organisieren Sie Ihre Abholung — nach
+einem Spitalaufenthalt sollten Sie nicht selbst fahren.
+[Kosten des Heimtransports; wer sie trägt.]{.ph}
+
+## Das Austrittsgespräch: Ihre Checkliste {#austrittsgespraech}
+
+Diese Punkte sollten geklärt sein, bevor Sie die Klinik verlassen.
+Fragen Sie nach, wenn etwas fehlt:
+
+::: {.tasks-tbl}
+| Geklärt? | |
+|--------------------------------------------------------------|:--|
+| Welche Medikamente nehme ich — was ist neu, was fällt weg? | [Offen]{.st .st-offen} |
+| Wie versorge ich die Wunde, wann dürfen die Fäden raus? | [Offen]{.st .st-offen} |
+| Was darf ich wieder tun, was noch nicht — und wie lange? | [Offen]{.st .st-offen} |
+| Bei welchen Anzeichen melde ich mich, und wo? | [Offen]{.st .st-offen} |
+| Wann und wo ist die Nachkontrolle? | [Offen]{.st .st-offen} |
+| Habe ich Austrittsbericht, Rezepte und Arbeitsunfähigkeitszeugnis? | [Offen]{.st .st-offen} |
+:::
+
+[Der Austrittsbericht geht an Ihre Hausärztin oder Ihren Hausarzt;
+was er enthält, wer ihn wann erhält.]{.ph}
+
+## Die ersten Tage zu Hause {#erste-tage}
+
+Die Erholung geht zu Hause weiter — langsamer, als viele erwarten.
+Erschöpfung, wechselhafter Schlaf und zeitweise gedrückte Stimmung
+sind in den ersten Wochen normal. Planen Sie Pausen ein und steigern
+Sie sich schrittweise. [Konkrete Alltagsangaben je nach Eingriff:
+Duschen, Treppen, Heben, Autofahren, Arbeit — verlinkt auf die
+jeweilige Behandlungsseite.]{.ph}
+
+::: {.care}
+### Melden Sie sich sofort bei diesen Anzeichen
+
+- Fieber über [38.5 °C]{.ph}
+- Zunehmende Rötung, Schwellung oder Nässen der Wunde
+- Plötzlich stark zunehmende Schmerzen
+- Schwellung oder Schmerz in der Wade
+- Atemnot oder Brustschmerz — in diesem Fall direkt **144** anrufen
+
+In den ersten [7 Tagen]{.ph} nach Austritt erreichen Sie die Station
+unter [Nummer]{.ph}, danach [Sprechstunde / Hausärztin]{.ph}.
+:::
+
+## Unterstützung im Alltag {#unterstuetzung}
+
+Wenn es zu Hause allein nicht geht: [Spitex, Haushaltshilfe,
+Mahlzeitendienst, Rehabilitation — was das Austrittsmanagement bereits
+organisiert hat, und an wen Sie sich nachträglich wenden.]{.ph}
+
+## Nachkontrolle {#nachkontrolle}
+
+[Wann die Nachkontrolle stattfindet, bei wem (Operateur, Sprechstunde,
+Hausarzt), wie der Termin zustande kommt.]{.ph} Notieren Sie sich bis
+dahin, was Sie beschäftigt — auch hier gilt: keine Frage ist zu klein.
+
+## Sagen Sie uns, wie es war {#rueckmeldung}
+
+Ihre Erfahrung hilft den Patientinnen und Patienten nach Ihnen. [Wie
+die Rückmeldung funktioniert: Befragung, Kontakt, Ombudsstelle — und
+was die Klinik mit den Rückmeldungen macht.]{.ph}
+
+{{< include ../_feedback.qmd >}}
+
+{{< include ../_governance.qmd >}}

@@ -1,0 +1,93 @@
+---
+title: "Ich entscheide mich"
+---
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
+:::
+
+::: {.stepper}
+**Ihr Weg:** **Ich entscheide mich** → [Ich nutze die Zeit bis zur
+Operation optimal](wartezeit.qmd) → [Ich bereite mich auf den Eintritt
+vor](vorbereitung.qmd) → [Mein Eintrittstag](eintrittstag.qmd) → [Ich
+bin in der Klinik](aufenthalt.qmd) → [Ich gehe nach
+Hause](nachhause.qmd)
+:::
+
+[Ob eine Operation der richtige Weg ist, entscheiden Sie — gut
+informiert und ohne Zeitdruck.]{.lede}
+
+## Sie haben Zeit für diese Entscheidung {#zeit}
+
+Eine geplante Operation ist selten dringend. Meist bleibt genug Zeit,
+um die Möglichkeiten abzuwägen, Fragen zu stellen und die Entscheidung
+in Ruhe zu treffen. Niemand erwartet, dass Sie sich noch in der
+Sprechstunde festlegen.
+
+Auch nach einer Zusage gilt: Sie dürfen Ihre Einwilligung bis zum
+Eingriff jederzeit zurückziehen.
+
+## Ihre Möglichkeiten kennen {#moeglichkeiten}
+
+Für die meisten Beschwerden gibt es mehr als einen Weg. Zu einer guten
+Entscheidung gehört, dass Sie alle kennen:
+
+- die vorgeschlagene Operation
+- andere Behandlungen ohne Operation
+- Abwarten mit regelmässiger Kontrolle — auch das ist eine aktive
+  Entscheidung
+
+Zu den häufigsten Eingriffen finden Sie [eigene Seiten mit Nutzen,
+Risiken und Alternativen](../index.qmd#ihre-operation-im-detail).
+Unabhängige, werbefreie Informationen bietet
+[gesundheitsinformation.de](https://www.gesundheitsinformation.de).
+
+## Das Gespräch vorbereiten {#gespraech}
+
+::: {.fragen-modul}
+### Vier Fragen für Ihr Gespräch
+
+Nehmen Sie diese Fragen mit in die Sprechstunde:
+
+1. Welchen Nutzen habe ich von der Operation?
+2. Welche Risiken hat sie für mich?
+3. Welche Alternativen gibt es?
+4. Was passiert, wenn ich nichts tue oder noch warte?
+
+```{=html}
+<button class="drucken" type="button" onclick="window.print()">Diese Fragen drucken</button>
+```
+:::
+
+Drei Dinge, die das Gespräch besser machen:
+
+- **Nehmen Sie jemanden mit.** Vier Ohren hören mehr als zwei — solche
+  Gespräche sind aufregend, und dann geht schon einmal Information
+  verloren.
+- **Notieren Sie Ihre Fragen vorher.** Am besten am Vortag auf einem
+  Zettel oder im Handy.
+- **Fragen Sie nach, bis Sie es verstanden haben.** Es ist Aufgabe
+  Ihrer Ärztin oder Ihres Arztes, verständlich zu erklären — nicht Ihre
+  Aufgabe, Fachsprache zu übersetzen.
+
+## Eine zweite Meinung einholen {#zweitmeinung}
+
+Sie dürfen vor einer Operation eine zweite ärztliche Meinung einholen.
+Das ist üblich und wird nicht als Misstrauen verstanden.
+[Hinweis zur Kostenübernahme durch Grund- oder Zusatzversicherung;
+ggf. Zweitmeinungsangebote der Versicherer.]{.ph}
+
+## Wie es nach der Entscheidung weitergeht {#weiter}
+
+Wenn Sie sich für die Operation entschieden haben:
+
+1. [Terminvereinbarung: wer meldet sich bei wem, in welchem
+   Zeitraum.]{.ph}
+2. [Gespräch vor der Aufnahme: Untersuchungen, Anästhesiegespräch, und
+   ausdrücklich die Gelegenheit, alle offenen Fragen zu stellen.]{.ph}
+3. Danach beginnt die Wartezeit — [und die lässt sich
+   nutzen](wartezeit.qmd).
+
+{{< include ../_feedback.qmd >}}
+
+{{< include ../_governance.qmd >}}

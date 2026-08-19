@@ -1,0 +1,61 @@
+---
+title: "Das Wichtigste auf einem Blatt"
+toc: false
+---
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
+:::
+
+[Die Kerninformationen zu Ihrem Eintritt, zum Ausdrucken und an den
+Kühlschrank.]{.lede}
+
+```{=html}
+<button class="drucken" type="button" onclick="window.print()">Dieses Blatt drucken</button>
+```
+
+## Mein Eintritt
+
+| | |
+|---|---|
+| Eintrittsdatum | ______________________ |
+| Eintrittszeit (kommt [per SMS am Vortag]{.ph}) | ______________________ |
+| Wo ich mich melde | [Adresse, Eingang, Stockwerk]{.ph} |
+| Bei Fragen vorab | [Telefonnummer, Mo–Fr xx–xx Uhr]{.ph} |
+
+## Essen und Trinken vor dem Eintritt
+
+- Bis **6 Stunden** vor der Eintrittszeit: leichte Mahlzeit erlaubt,
+  danach nichts mehr essen.
+- Bis **2 Stunden** vor dem Eintritt: Wasser ohne Kohlensäure, Tee oder
+  schwarzer Kaffee erlaubt.
+- Die letzten **2 Stunden**: gar nichts mehr, auch keine Bonbons oder
+  Kaugummis.
+
+## Medikamente
+
+- Alle gewohnten Medikamente weiternehmen, **ausser** es wurde anders
+  mit Ihnen besprochen.
+- **Blutverdünner und Diabetesmedikamente:** nur nach Absprache
+  pausieren — im Zweifel anrufen: [Telefonnummer]{.ph}.
+- Medikamentenliste in der Originalverpackung mitbringen.
+
+## Was ich mitbringe
+
+Versichertenkarte · Ausweis · Medikamentenliste · [medizinische
+Ausweise (Allergie, Blutverdünner, Diabetes, Schrittmacher)]{.ph} ·
+bequeme Kleidung · feste rutschfeste Schuhe · Toilettenartikel ·
+Brille/Hörgerät mit Etui. **Zu Hause lassen:** Schmuck, Wertsachen.
+
+## Vorher noch erledigen
+
+- Abholung nach dem Austritt organisieren (nicht selbst fahren)
+- Unterstützung für die erste Woche zu Hause regeln
+- Bei Fieber, Erkältung oder Verschlechterung vor dem Eintritt:
+  anrufen unter [Telefonnummer]{.ph}
+
+::: {.rechtshinweis}
+Dieses Blatt fasst zusammen und ersetzt weder die ausführlichen
+Informationen auf [den Wegweiser-Seiten](index.qmd) noch das
+persönliche Gespräch. Stand: [Datum]{.ph}
+:::
