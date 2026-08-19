@@ -20,7 +20,7 @@ den Eintritt vor](vorbereitung.qmd) → **Mein Eintrittstag** → [Ich bin
 in der Klinik](aufenthalt.qmd) → [Ich gehe nach Hause](nachhause.qmd)
 :::
 
-[Was am Tag Ihrer Aufnahme passiert — Schritt für Schritt, von der
+[Wie der Tag der Aufnahme abläuft — Schritt für Schritt, von der
 Anmeldung bis in den Operationssaal.]{.lede}
 
 ## Ihre Eintrittszeit {#eintrittszeit}
@@ -62,7 +62,8 @@ So läuft der Vormittag ab:
    weitere Vorgehen.]{.ph}
 4. Kurz vor der Operation bringen wir Sie in den Operationsbereich.
    Dort werden Sie von Ihrem Bett auf den Operationstisch umgelagert —
-   das nennt sich «Einschleusen» und gehört zum normalen Ablauf.
+   das nennt sich «Einschleusen» und gehört zum normalen Ablauf. Ab
+   hier dürfen Sie alles Weitere getrost dem Team überlassen.
 
 ## Warum Sie warten werden {#wartezeit}
 

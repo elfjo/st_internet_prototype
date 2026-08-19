@@ -11,15 +11,16 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 Aufenthalts, von der Entscheidung bis zur Zeit danach.]{.lede}
 
 ::: {.eilig-teaser}
-Ich habe wenig Zeit und möchte nur das Allerwichtigste wissen.
+Ich habe gerade wenig Zeit und möchte nur das Allerwichtigste wissen.
 
 [Zu den häufigsten Fragen →](eilig.qmd)
 :::
 
 ## Ihr Weg durch den Aufenthalt
 
-Sie können den Schritten der Reihe nach folgen oder direkt dorthin
-springen, wo Sie gerade stehen.
+Dass Sie sich hier umsehen, ist bereits der erste Schritt einer guten
+Vorbereitung. Sie sind eingeladen, den Schritten der Reihe nach zu
+folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
 
 ::: {.phasen}
 1. [Ich entscheide mich](phasen/entscheidung.qmd)
@@ -32,7 +33,7 @@ springen, wo Sie gerade stehen.
    [Bewegung, Ernährung, Rauchstopp — und was tue ich, wenn sich mein Gesundheitszustand
    verschlechtern sollte?]{.p-frage}
 
-3. [Ich bereite mich auf den Eintritt vor](phasen/vorbereitung.qmd)
+3. [Ich bereite mich auf den Eintritt optimal vor](phasen/vorbereitung.qmd)
 
    [Was muss ich vor der Operation erledigen? Medikamente, Essen und
    Trinken, Packliste — und die Planung für die Zeit nach dem
@@ -40,8 +41,8 @@ springen, wo Sie gerade stehen.
 
 4. [Mein Eintrittstag](phasen/eintrittstag.qmd)
 
-   [Wo melde ich mich an? Was passiert vor der Operation? Wie lange
-   muss ich warten bis es losgeht?]{.p-frage}
+   [Wo melde ich mich an? Wie sind die Abläufe? Wie lange
+   ist Zeit bis es losgeht?]{.p-frage}
 
 5. [Ich bin in der Klinik](phasen/aufenthalt.qmd)
 
