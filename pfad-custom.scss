@@ -252,6 +252,22 @@ main > .mini-nav:last-of-type,
 }
 .warnung p:last-child { margin-bottom: 0; }
 
+/* ---------- Ampel: gruen = normal, warnung = melden, care = sofort ---------- */
+.ampel-gruen {
+  border: 1px solid #15803d;
+  border-left-width: 6px;
+  background: #f0fdf4;
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+.ampel-gruen h3 {
+  margin: 0 0 0.5rem;
+  padding: 0;
+  border: none;
+  font-size: 1.1rem;
+}
+
 /* ---------- Care Card: sofort melden ---------- */
 .care {
   border: 1px solid var(--care-border);

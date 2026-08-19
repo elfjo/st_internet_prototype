@@ -64,6 +64,7 @@ persönlicher Weg beginnt am besten dort:
 
 ::: {.op-wahl}
 [Hüftprothese](behandlungen/hueftprothese.qmd)
+[Wirbelsäule: Spondylodese](behandlungen/spondylodese.qmd)
 [Knieprothese]{.ph}
 [weitere Operationen]{.ph}
 :::
