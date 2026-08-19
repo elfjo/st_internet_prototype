@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.18">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Ich bereite mich vor – Klinik · Prototyp Patientenpfad</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-94d7e8eafe7a9a1609c38aa63b886f3a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "Keine Treffer",
+    "search-matching-documents-text": "Treffer",
+    "search-copy-link-title": "Link in die Suche kopieren",
+    "search-hide-matches-text": "Zusätzliche Treffer verbergen",
+    "search-more-match-text": "weitere Treffer in diesem Dokument",
+    "search-more-matches-text": "weitere Treffer in diesem Dokument",
+    "search-clear-button-title": "Zurücksetzen",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Abbrechen",
+    "search-submit-button-title": "Abschicken",
+    "search-label": "Suchen"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Klinik · Prototyp Patientenpfad</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navigation umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html#kontaktzone"> 
+<span class="menu-text">Kontakt &amp; Anmeldung</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Auf dieser Seite</h2>
+   
+  <ul class="collapse">
+  <li><a href="#erledigen" id="toc-erledigen" class="nav-link active" data-scroll-target="#erledigen">Was Sie jetzt erledigen</a></li>
+  <li><a href="#medikamente" id="toc-medikamente" class="nav-link" data-scroll-target="#medikamente">Ihre Medikamente</a></li>
+  <li><a href="#nuechtern" id="toc-nuechtern" class="nav-link" data-scroll-target="#nuechtern">Essen und Trinken vor dem Eintritt</a></li>
+  <li><a href="#koerperpflege" id="toc-koerperpflege" class="nav-link" data-scroll-target="#koerperpflege">Körperpflege</a></li>
+  <li><a href="#austrittsplanung" id="toc-austrittsplanung" class="nav-link" data-scroll-target="#austrittsplanung">Jetzt schon an den Austritt denken</a></li>
+  <li><a href="#packliste" id="toc-packliste" class="nav-link" data-scroll-target="#packliste">Packliste</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Ich bereite mich vor</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="hinweis-prototyp">
+<p>Struktur-Prototyp. Klinische Angaben sind Platzhalter, <span class="ph">so markiert</span>, und brauchen vor jeder Verwendung eine fachliche Freigabe.</p>
+</div>
+<div class="stepper">
+<p><strong>Ihr Weg:</strong> <a href="#">Ich entscheide mich</a> → <a href="#">Ich warte auf meinen Termin</a> → <strong>Ich bereite mich vor</strong> → <a href="#">Mein Eintrittstag</a> → <a href="#">Ich bin in der Klinik</a> → <a href="#">Ich gehe nach Hause</a></p>
+</div>
+<p><span class="lede">Was Sie vor Ihrer Operation erledigen: Medikamente, Essen und Trinken, Packliste — und die Planung für die Zeit nach dem Austritt.</span></p>
+<section id="erledigen" class="level2">
+<h2 class="anchored" data-anchor-id="erledigen">Was Sie jetzt erledigen</h2>
+<p>Diese Liste zeigt Ihnen alle Aufgaben bis zum Eintrittstag. Manche sind erst später möglich — Sie sehen, welche.</p>
+<div class="tasks-tbl">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Aufgabe</th>
+<th style="text-align: left;">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Eintrittsformular ausfüllen und zurücksenden</td>
+<td style="text-align: left;"><span class="st st-offen">Offen</span></td>
+</tr>
+<tr class="even">
+<td>Medikamentenliste bereitlegen und <a href="#medikamente">prüfen, welche Sie pausieren</a></td>
+<td style="text-align: left;"><span class="st st-offen">Offen</span></td>
+</tr>
+<tr class="odd">
+<td>Fahrt nach Hause und Unterstützung für die erste Woche organisieren</td>
+<td style="text-align: left;"><span class="st st-offen">Offen</span></td>
+</tr>
+<tr class="even">
+<td>Anruf der Anästhesieärztin am Tag vor der Operation entgegennehmen</td>
+<td style="text-align: left;"><span class="st st-gesperrt">Noch nicht möglich</span></td>
+</tr>
+<tr class="odd">
+<td>Eintrittszeit per SMS erhalten (am Vortag)</td>
+<td style="text-align: left;"><span class="st st-gesperrt">Noch nicht möglich</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="medikamente" class="level2">
+<h2 class="anchored" data-anchor-id="medikamente">Ihre Medikamente</h2>
+<p>Die meisten Medikamente nehmen Sie normal weiter. Zwei Gruppen sind die wichtige Ausnahme. Öffnen Sie den Abschnitt, der auf Sie zutrifft:</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Hinweis</span>Ich nehme Blutverdünner
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Blutverdünner (zum Beispiel <span class="ph">Aspirin cardio, Marcoumar, Eliquis, Xarelto</span>) müssen vor einer Operation oft pausiert werden — aber nie auf eigene Faust.</p>
+<p><span class="ph">Wer entscheidet, wann was pausiert wird; wer den Patienten wann kontaktiert; Rückfragenummer.</span></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Hinweis</span>Ich habe Diabetes
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><span class="ph">Regeln für Tabletten (v. a. SGLT2-Hemmer) und Insulin am Vortag und am Operationstag; Rückfragenummer.</span></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Hinweis</span>Ich nehme pflanzliche Mittel oder Nahrungsergänzung
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><span class="ph">Regel und Vorlaufzeit, z. B. zwei Wochen vorher absetzen; Begründung: Wechselwirkung mit Narkose und Blutgerinnung.</span></p>
+</div>
+</div>
+</div>
+<section id="pausieren-sie-blutverdünner-nie-ohne-rücksprache" class="level3 warnung">
+<h3 class="anchored" data-anchor-id="pausieren-sie-blutverdünner-nie-ohne-rücksprache">Pausieren Sie Blutverdünner nie ohne Rücksprache</h3>
+<p>Ob und wann Sie Blutverdünner absetzen, legt Ihre Ärztin oder Ihr Arzt mit Ihnen fest. Eigenmächtiges Absetzen kann gefährlich sein — eigenmächtiges Weiternehmen auch. Wenn Sie unsicher sind: <span class="ph">Telefonnummer</span>.</p>
+</section>
+</section>
+<section id="nuechtern" class="level2">
+<h2 class="anchored" data-anchor-id="nuechtern">Essen und Trinken vor dem Eintritt</h2>
+<!-- Bestehender St.-Anna-Text, fast wörtlich übernommen.
+     Beleg dafür, dass der Umbau ein Zerlege-, kein Schreibprojekt ist. -->
+<p>Am Eintrittstag findet Ihr operativer Eingriff statt. Für Ihre Sicherheit ist es wichtig, dass Sie dafür nüchtern sind.</p>
+<ul>
+<li>Bis <strong>sechs Stunden</strong> vor Ihrer Eintrittszeit können Sie etwas Leichtes essen. Danach essen Sie nichts mehr.</li>
+<li>Bis <strong>zwei Stunden</strong> vor Ihrem Eintritt dürfen Sie Wasser ohne Kohlensäure, Tee und schwarzen Kaffee (ohne Milch, ohne Rahm) trinken.</li>
+<li>In den <strong>zwei Stunden unmittelbar vor dem Eintritt</strong> nehmen Sie gar nichts mehr zu sich, auch keine Bonbons oder Kaugummis.</li>
+</ul>
+<section id="warum-das-wichtig-ist" class="level3 warnung">
+<h3 class="anchored" data-anchor-id="warum-das-wichtig-ist">Warum das wichtig ist</h3>
+<p>Ein leerer Magen schützt Sie während der Narkose davor, dass Mageninhalt in die Lunge gelangt. Wenn Sie nicht nüchtern sind, muss Ihre Operation unter Umständen kurzfristig verschoben werden.</p>
+</section>
+</section>
+<section id="koerperpflege" class="level2">
+<h2 class="anchored" data-anchor-id="koerperpflege">Körperpflege</h2>
+<p>Duschen Sie vor dem Spitaleintritt. Verwenden Sie danach kein Make-up und keine Gesichts- oder Bodylotion — sie behindern die Wirkung des Desinfektionsmittels. Entfernen Sie Nagellack. Rasieren Sie das Operationsgebiet nicht selbst: Kleine Hautverletzungen erhöhen das Infektionsrisiko. Falls nötig, übernehmen wir das in der Klinik.</p>
+</section>
+<section id="austrittsplanung" class="level2">
+<h2 class="anchored" data-anchor-id="austrittsplanung">Jetzt schon an den Austritt denken</h2>
+<p>Die Zeit nach der Operation lässt sich am besten planen, bevor Sie eintreten. Klären Sie vor dem Eintritt:</p>
+<ul>
+<li>Wer holt Sie ab? Nach einer Narkose dürfen Sie nicht selbst fahren.</li>
+<li>Wer unterstützt Sie zu Hause in der ersten Woche — beim Einkaufen, Kochen, im Haushalt?</li>
+<li>Brauchen Sie Hilfsmittel (<span class="ph">z. B. Gehstöcke, erhöhter Toilettensitz</span>)? <span class="ph">Wer organisiert sie, die Klinik oder Sie?</span></li>
+<li>Falls eine Rehabilitation oder Spitex nötig wird: <span class="ph">Das klärt unser Austrittsmanagement mit Ihnen während des Aufenthalts. Sie müssen nichts vorab organisieren, aber Ihre Zusatzversicherung lohnt einen Blick.</span></li>
+</ul>
+</section>
+<section id="packliste" class="level2">
+<h2 class="anchored" data-anchor-id="packliste">Packliste</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Hinweis</span>Dokumente
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><span class="ph">Versichertenkarte, amtlicher Ausweis, Medikamentenliste, Allergiepass, Blutverdünner-Ausweis, Diabetes-Ausweis, Schrittmacher-Ausweis, Patientenverfügung falls vorhanden.</span></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Hinweis</span>Persönliches
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><span class="ph">Bequeme Kleidung, feste rutschfeste Schuhe, Toilettenartikel, Brille/Hörgerät samt Etui und Ersatzbatterien, Handy und Ladekabel.</span></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Hinweis</span>Was Sie zu Hause lassen
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><span class="ph">Schmuck, Wertsachen, grössere Geldbeträge.</span></p>
+</div>
+</div>
+</div>
+<div class="feedback">
+<p>War diese Seite hilfreich?</p>
+<button type="button" onclick="fb(this,'Danke für Ihre Rückmeldung.')">Ja</button>
+<button type="button" onclick="fb(this,'Danke. Wir überarbeiten die Seite und prüfen sie mit Patientinnen und Patienten.')">Ich finde die Seite zu schwierig</button>
+<button type="button" onclick="fb(this,'Danke. Was fehlt? Rufen Sie uns an oder schreiben Sie uns.')">Mir fehlt etwas</button>
+<span class="fb-danke" role="status"></span>
+</div>
+<div class="governance">
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td>Geprüft am</td>
+<td><span class="ph">Datum</span></td>
+</tr>
+<tr class="even">
+<td>Nächste Prüfung</td>
+<td><span class="ph">Datum + 2 Jahre</span></td>
+</tr>
+<tr class="odd">
+<td>Fachliche Freigabe</td>
+<td><span class="ph">Name, Funktion</span></td>
+</tr>
+</tbody>
+</table>
+<p>Herausgeberin dieser Seiten ist eine Klinik, die die beschriebenen Behandlungen selbst anbietet. Unabhängige Informationen finden Sie bei <a href="https://www.gesundheitsinformation.de">gesundheitsinformation.de</a>.</p>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Kopiert");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Kopiert");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Struktur-Prototyp — keine geprüfte medizinische Information</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+<script>
+function fb(btn, msg){
+  var s = btn.parentElement.querySelector('.fb-danke');
+  if (s) { s.textContent = msg; }
+  btn.parentElement.querySelectorAll('button').forEach(function(b){ b.disabled = true; });
+}
+</script>
+
+
+
+
+</body></html>
