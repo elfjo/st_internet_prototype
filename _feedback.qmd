@@ -1,0 +1,10 @@
+::: {.feedback}
+War diese Seite hilfreich?
+
+```{=html}
+<button type="button" onclick="fb(this,'Danke für Ihre Rückmeldung.')">Ja</button>
+<button type="button" onclick="fb(this,'Danke. Wir überarbeiten die Seite und prüfen sie mit Patientinnen und Patienten.')">Ich finde die Seite zu schwierig</button>
+<button type="button" onclick="fb(this,'Danke. Was fehlt? Rufen Sie uns an oder schreiben Sie uns.')">Mir fehlt etwas</button>
+<span class="fb-danke" role="status"></span>
+```
+:::

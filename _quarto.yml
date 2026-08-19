@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+
+lang: de
+
+website:
+  title: "Klinik · Prototyp Patientenpfad"
+  search: false
+
+  navbar:
+    title: "Klinik · Prototyp Patientenpfad"
+    collapse-below: lg
+    right:
+      - text: "Kontakt & Anmeldung"
+        href: index.qmd#kontaktzone
+
+  page-navigation: true
+  back-to-top-navigation: false
+
+  page-footer:
+    left: "Struktur-Prototyp — keine geprüfte medizinische Information"
+
+format:
+  html:
+    theme: [default, pfad-custom.scss]
+    toc: true
+    toc-title: "Auf dieser Seite"
+    toc-depth: 2
+    grid:
+      body-width: 760px
+    link-external-newwindow: true
+    include-after-body:
+      text: |
+        <script>
+        function fb(btn, msg){
+          var s = btn.parentElement.querySelector('.fb-danke');
+          if (s) { s.textContent = msg; }
+          btn.parentElement.querySelectorAll('button').forEach(function(b){ b.disabled = true; });
+        }
+        </script>
+
+execute:
+  freeze: auto

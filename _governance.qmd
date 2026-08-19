@@ -1,0 +1,11 @@
+::: {.governance}
+| | |
+|---|---|
+| Geprüft am | [Datum]{.ph} |
+| Nächste Prüfung | [Datum + 2 Jahre]{.ph} |
+| Fachliche Freigabe | [Name, Funktion]{.ph} |
+
+Herausgeberin dieser Seiten ist eine Klinik, die die beschriebenen
+Behandlungen selbst anbietet. Unabhängige Informationen finden Sie bei
+[gesundheitsinformation.de](https://www.gesundheitsinformation.de).
+:::

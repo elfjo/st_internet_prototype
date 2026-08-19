@@ -1,0 +1,177 @@
+---
+title: "Künstliches Hüftgelenk (Hüftprothese)"
+---
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp mit dem Content-Type «Behandlung»: feste
+Pflichtabschnitte, die jede Eingriffsseite erbt (norwegisches Muster).
+Alle klinischen Zahlen sind [illustrative Platzhalter]{.ph} und keine
+geprüfte medizinische Information.
+:::
+
+[Wie die Operation abläuft, wie Sie sich vorbereiten und wie die
+Erholung verläuft — Schritt für Schritt.]{.lede}
+
+## Was ist eine Hüftprothese? {#was}
+
+Bei einer Hüftprothese ersetzt die Chirurgin oder der Chirurg das
+abgenutzte Hüftgelenk durch ein künstliches Gelenk aus Metall, Keramik
+oder Kunststoff. Ziel ist, dass Sie sich wieder ohne Schmerzen bewegen
+können.
+
+::: {.callout-note collapse="true" icon="false"}
+### Mehr erfahren: Aufbau und Materialien
+
+[Vertiefung: Pfanne, Schaft, Gleitpaarung, zementiert und unzementiert.
+Laienbegriff zuerst, Fachbegriff in Klammern.]{.ph}
+:::
+
+## Wann sie infrage kommt {#warum}
+
+Der häufigste Grund ist eine fortgeschrittene Abnutzung des Gelenks
+(Arthrose), die Schmerzen macht und den Alltag einschränkt — beim
+Gehen, Treppensteigen oder nachts.
+
+## Welche Alternativen es gibt {#alternativen}
+
+Eine Hüftprothese ist selten dringend. Meist bleibt Zeit, die
+Möglichkeiten abzuwägen:
+
+- [Bewegungstherapie und gezielter Muskelaufbau]{.ph}
+- [Schmerzmittel und Infiltrationen]{.ph}
+- [Abwarten mit regelmässiger Kontrolle — auch das ist eine aktive
+  Entscheidung]{.ph}
+
+Was für Sie passt, hängt von Ihren Beschwerden, Ihren Zielen und Ihrem
+Alltag ab. Das klären Sie im Gespräch mit Ihrer Ärztin oder Ihrem Arzt.
+
+::: {.fragen-modul}
+### Vier Fragen für Ihr Gespräch
+
+Nehmen Sie diese Fragen mit in die Sprechstunde:
+
+1. Welchen Nutzen habe ich von der Operation?
+2. Welche Risiken hat sie für mich?
+3. Welche Alternativen gibt es?
+4. Was passiert, wenn ich nichts tue oder noch warte?
+
+```{=html}
+<button class="drucken" type="button" onclick="window.print()">Diese Fragen drucken</button>
+```
+:::
+
+## Vorher: Ihre Vorbereitung {#vorher}
+
+Sobald der Operationstermin steht, beginnt Ihre Vorbereitung. Die
+allgemeinen Schritte — Medikamente, Nüchternheit, Packliste,
+Austrittsplanung — finden Sie im Wegweiser [«Ich bereite mich
+vor»](../phasen/vorbereitung.qmd). Speziell für die Hüftoperation gilt
+zusätzlich:
+
+- [Rauchstopp: ab wann, mit Begründung Wundheilung]{.ph}
+- [Zahnarztkontrolle vor dem Eingriff: Infektquellen sanieren]{.ph}
+- [Training vor der Operation: was Kraft im Vorfeld für die Erholung
+  bedeutet]{.ph}
+- [Wohnung vorbereiten: Stolperfallen, Greifhilfen, Schlafplatz]{.ph}
+
+::: {.callout-note collapse="true" icon="false"}
+### Mehr erfahren: das Gespräch mit der Anästhesie
+
+[Wann das Gespräch stattfindet, was besprochen wird, welche
+Narkoseformen bei diesem Eingriff üblich sind — mit Link auf die eigene
+Anästhesie-Sektion statt Lehrbuch auf dieser Seite.]{.ph}
+:::
+
+## Die Operation {#ablauf}
+
+Die Operation dauert in der Regel [60 bis 90 Minuten]{.ph}. Sie
+bekommen eine [Teil- oder Vollnarkose; wer das mit Ihnen
+entscheidet]{.ph}.
+
+::: {.callout-note collapse="true" icon="false"}
+### Mehr erfahren: was im Operationssaal passiert
+
+[Prozedurale und sensorische Information: Einschleusen, Lagerung, was
+Sie hören und spüren, Aufwachraum. Vorhersagbarkeit ist das Ziel, nicht
+Vollständigkeit.]{.ph}
+:::
+
+## Nachher: Ihre Erholung {#nachher}
+
+### Phase 1: Die ersten Tage in der Klinik
+
+[Aufstehen am Operationstag oder am Tag danach, Physiotherapie ab
+Tag 1, Schmerzbehandlung, übliche Aufenthaltsdauer in Tagen.]{.ph}
+
+### Phase 2: Zurück in den Alltag
+
+Die Entlassung ist kein Endpunkt, sondern ein Übergang. Schon während
+des Aufenthalts klären wir mit Ihnen, wie es zu Hause weitergeht — Ihre
+Nachsorge organisieren wir gemeinsam: [Link/Kontakt
+Austrittsmanagement]{.ph}.
+
+- [Gehstöcke: wie lange]{.ph}
+- [Autofahren: ab wann]{.ph}
+- [Arbeitsunfähigkeit: übliche Spanne je nach Tätigkeit]{.ph}
+- [Sport: was wann wieder geht]{.ph}
+- [Nachkontrolle: wann, bei wem]{.ph}
+
+Eine Operation ist anstrengend für den Körper. Es ist normal, wenn Sie
+sich in den ersten Wochen erschöpft fühlen oder die Stimmung zeitweise
+gedrückt ist. Wenn das anhält, sprechen Sie es bei der Nachkontrolle
+an.
+
+## Risiken in Zahlen {#risiken}
+
+Die Zahlen sind Durchschnittswerte aus Studien. Ihr persönliches Risiko
+kann höher oder tiefer liegen — das besprechen Sie im
+Aufklärungsgespräch.
+
+::: {.risiko}
+Nach der Hüftoperation — von je 100 Operierten [(illustrative
+Platzhalterzahlen)]{.ph}
+
+| Was passieren kann | Wie lange es meist dauert | hatten es | hatten es nicht |
+|--------------------------------|------------------|:----:|:----:|
+| Schmerzen, die Medikamente brauchen | [Tage bis Wochen]{.ph} | […]{.ph} | […]{.ph} |
+| Beinlängen-Unterschied, der spürbar bleibt | [dauerhaft]{.ph} | […]{.ph} | […]{.ph} |
+| Infektion, die eine weitere Behandlung braucht | [Wochen]{.ph} | […]{.ph} | […]{.ph} |
+:::
+
+Das Narkoserisiko ist vom Operationsrisiko zu unterscheiden. Es ist für
+gesunde Erwachsene sehr klein: [Grössenordnung nach RCoA-Vorbild, je
+100'000 dargestellt, auf eigener Seite mit eigenem Nenner]{.ph}.
+[Mehr zu Narkose und Risiko](#).
+
+::: {.rechtshinweis}
+Diese Informationen ersetzen nicht das persönliche Aufklärungsgespräch.
+Dort besprechen wir Ihre individuellen Risiken. Sie dürfen dieses
+Gespräch auch vertagen, wenn Sie mehr Bedenkzeit brauchen — und Ihre
+Einwilligung bis zum Eingriff jederzeit zurückziehen.
+:::
+
+::: {.care}
+## Melden Sie sich sofort bei diesen Anzeichen {#warnzeichen}
+
+- Fieber über [38.5 °C]{.ph}
+- Zunehmende Rötung, Schwellung oder Nässen der Wunde
+- Plötzlich stark zunehmende Schmerzen
+- Schwellung oder Schmerz in der Wade
+- Atemnot oder Brustschmerz — in diesem Fall direkt **144** anrufen
+
+In den ersten [7 Tagen]{.ph} nach Austritt erreichen Sie die Station
+unter [Nummer]{.ph}, danach das Sekretariat unter [Nummer]{.ph}.
+:::
+
+::: {.praxis}
+## Praktisches rund um den Aufenthalt {#praktisches}
+
+Anreise und Parken · Zimmer und Verpflegung · Besuchszeiten · WLAN ·
+Wertsachen · Versicherungsfragen — gesammelt unter [«Gut zu
+wissen»](#). Diese Themen stehen bewusst nicht zwischen den
+medizinischen Schritten.
+:::
+
+{{< include ../_feedback.qmd >}}
+
+{{< include ../_governance.qmd >}}

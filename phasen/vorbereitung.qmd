@@ -1,0 +1,147 @@
+---
+title: "Ich bereite mich vor"
+---
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Klinische Angaben sind Platzhalter, [so
+markiert]{.ph}, und brauchen vor jeder Verwendung eine fachliche
+Freigabe.
+:::
+
+::: {.stepper}
+**Ihr Weg:** [Ich entscheide mich](#) → [Ich warte auf meinen
+Termin](#) → **Ich bereite mich vor** → [Mein Eintrittstag](#) →
+[Ich bin in der Klinik](#) → [Ich gehe nach Hause](#)
+:::
+
+[Was Sie vor Ihrer Operation erledigen: Medikamente, Essen und Trinken,
+Packliste — und die Planung für die Zeit nach dem Austritt.]{.lede}
+
+## Was Sie jetzt erledigen {#erledigen}
+
+Diese Liste zeigt Ihnen alle Aufgaben bis zum Eintrittstag. Manche sind
+erst später möglich — Sie sehen, welche.
+
+::: {.tasks-tbl}
+| Aufgabe | Status |
+|---------------------------------------------------------------|:--|
+| Eintrittsformular ausfüllen und zurücksenden | [Offen]{.st .st-offen} |
+| Medikamentenliste bereitlegen und [prüfen, welche Sie pausieren](#medikamente) | [Offen]{.st .st-offen} |
+| Fahrt nach Hause und Unterstützung für die erste Woche organisieren | [Offen]{.st .st-offen} |
+| Anruf der Anästhesieärztin am Tag vor der Operation entgegennehmen | [Noch nicht möglich]{.st .st-gesperrt} |
+| Eintrittszeit per SMS erhalten (am Vortag) | [Noch nicht möglich]{.st .st-gesperrt} |
+:::
+
+## Ihre Medikamente {#medikamente}
+
+Die meisten Medikamente nehmen Sie normal weiter. Zwei Gruppen sind die
+wichtige Ausnahme. Öffnen Sie den Abschnitt, der auf Sie zutrifft:
+
+::: {.callout-note collapse="true" icon="false"}
+### Ich nehme Blutverdünner
+
+Blutverdünner (zum Beispiel [Aspirin cardio, Marcoumar, Eliquis,
+Xarelto]{.ph}) müssen vor einer Operation oft pausiert werden — aber
+nie auf eigene Faust.
+
+[Wer entscheidet, wann was pausiert wird; wer den Patienten wann
+kontaktiert; Rückfragenummer.]{.ph}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Ich habe Diabetes
+
+[Regeln für Tabletten (v. a. SGLT2-Hemmer) und Insulin am Vortag und am
+Operationstag; Rückfragenummer.]{.ph}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Ich nehme pflanzliche Mittel oder Nahrungsergänzung
+
+[Regel und Vorlaufzeit, z. B. zwei Wochen vorher absetzen; Begründung:
+Wechselwirkung mit Narkose und Blutgerinnung.]{.ph}
+:::
+
+::: {.warnung}
+### Pausieren Sie Blutverdünner nie ohne Rücksprache
+
+Ob und wann Sie Blutverdünner absetzen, legt Ihre Ärztin oder Ihr Arzt
+mit Ihnen fest. Eigenmächtiges Absetzen kann gefährlich sein —
+eigenmächtiges Weiternehmen auch. Wenn Sie unsicher sind:
+[Telefonnummer]{.ph}.
+:::
+
+## Essen und Trinken vor dem Eintritt {#nuechtern}
+
+<!-- Bestehender St.-Anna-Text, fast wörtlich übernommen.
+     Beleg dafür, dass der Umbau ein Zerlege-, kein Schreibprojekt ist. -->
+
+Am Eintrittstag findet Ihr operativer Eingriff statt. Für Ihre
+Sicherheit ist es wichtig, dass Sie dafür nüchtern sind.
+
+- Bis **sechs Stunden** vor Ihrer Eintrittszeit können Sie etwas
+  Leichtes essen. Danach essen Sie nichts mehr.
+- Bis **zwei Stunden** vor Ihrem Eintritt dürfen Sie Wasser ohne
+  Kohlensäure, Tee und schwarzen Kaffee (ohne Milch, ohne Rahm)
+  trinken.
+- In den **zwei Stunden unmittelbar vor dem Eintritt** nehmen Sie gar
+  nichts mehr zu sich, auch keine Bonbons oder Kaugummis.
+
+::: {.warnung}
+### Warum das wichtig ist
+
+Ein leerer Magen schützt Sie während der Narkose davor, dass
+Mageninhalt in die Lunge gelangt. Wenn Sie nicht nüchtern sind, muss
+Ihre Operation unter Umständen kurzfristig verschoben werden.
+:::
+
+## Körperpflege {#koerperpflege}
+
+Duschen Sie vor dem Spitaleintritt. Verwenden Sie danach kein Make-up
+und keine Gesichts- oder Bodylotion — sie behindern die Wirkung des
+Desinfektionsmittels. Entfernen Sie Nagellack. Rasieren Sie das
+Operationsgebiet nicht selbst: Kleine Hautverletzungen erhöhen das
+Infektionsrisiko. Falls nötig, übernehmen wir das in der Klinik.
+
+## Jetzt schon an den Austritt denken {#austrittsplanung}
+
+Die Zeit nach der Operation lässt sich am besten planen, bevor Sie
+eintreten. Klären Sie vor dem Eintritt:
+
+- Wer holt Sie ab? Nach einer Narkose dürfen Sie nicht selbst fahren.
+- Wer unterstützt Sie zu Hause in der ersten Woche — beim Einkaufen,
+  Kochen, im Haushalt?
+- Brauchen Sie Hilfsmittel ([z. B. Gehstöcke, erhöhter
+  Toilettensitz]{.ph})? [Wer organisiert sie, die Klinik oder Sie?]{.ph}
+- Falls eine Rehabilitation oder Spitex nötig wird: [Das klärt unser
+  Austrittsmanagement mit Ihnen während des Aufenthalts. Sie müssen
+  nichts vorab organisieren, aber Ihre Zusatzversicherung lohnt einen
+  Blick.]{.ph}
+
+## Packliste {#packliste}
+
+::: {.callout-note collapse="true" icon="false"}
+### Dokumente
+
+[Versichertenkarte, amtlicher Ausweis, Medikamentenliste, Allergiepass,
+Blutverdünner-Ausweis, Diabetes-Ausweis, Schrittmacher-Ausweis,
+Patientenverfügung falls vorhanden.]{.ph}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Persönliches
+
+[Bequeme Kleidung, feste rutschfeste Schuhe, Toilettenartikel,
+Brille/Hörgerät samt Etui und Ersatzbatterien, Handy und
+Ladekabel.]{.ph}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Was Sie zu Hause lassen
+
+[Schmuck, Wertsachen, grössere Geldbeträge.]{.ph}
+:::
+
+{{< include ../_feedback.qmd >}}
+
+{{< include ../_governance.qmd >}}

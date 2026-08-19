@@ -1,0 +1,228 @@
+/*-- scss:defaults --*/
+
+// Struktur-Prototyp: zurückhaltende Gestaltung, die Architektur soll sichtbar sein.
+$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+$font-size-root: 18px;
+$body-color: #1a2733;
+$link-color: #0b5fa5;
+
+/*-- scss:rules --*/
+
+:root {
+  --ink: #1a2733;
+  --ink-soft: #46586a;
+  --line: #d5dde4;
+  --bg-soft: #f4f7f9;
+  --accent: #0b5fa5;
+  --accent-dark: #08466f;
+  --warn-border: #b45309;
+  --warn-bg: #fff7ed;
+  --care-border: #b91c1c;
+  --care-bg: #fef2f2;
+  --ok: #15803d;
+  --placeholder: #7c3aed;
+}
+
+main p, main li { max-width: 38em; }
+
+h2 {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+}
+
+/* Genau ein Zusammenfassungssatz unter der H1 (NHS-Muster) */
+.lede {
+  font-size: 1.2rem;
+  color: var(--ink-soft);
+}
+
+/* ---------- Prototyp-Hinweis ---------- */
+.hinweis-prototyp {
+  font-size: 0.85rem;
+  background: #f5f3ff;
+  border: 1px dashed var(--placeholder);
+  border-radius: 6px;
+  padding: 0.6rem 1rem;
+  color: #4c1d95;
+  margin: 1rem 0;
+}
+
+/* ---------- Platzhalter-Markierung ---------- */
+.ph {
+  color: var(--placeholder);
+  font-style: italic;
+}
+.ph::before { content: "⟨"; }
+.ph::after  { content: "⟩"; }
+
+/* ---------- Phasen-Einstieg (index) ---------- */
+.phasen ol {
+  list-style: none;
+  counter-reset: phase;
+  margin: 2rem 0;
+  padding: 0;
+}
+.phasen ol > li {
+  counter-increment: phase;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
+  padding: 1rem 1.25rem 1rem 3.25rem;
+  position: relative;
+  max-width: none;
+}
+.phasen ol > li::before {
+  content: counter(phase);
+  position: absolute;
+  left: 1.25rem;
+  top: 1rem;
+  font-weight: 700;
+  color: var(--accent);
+  font-size: 1.3rem;
+}
+.phasen ol > li > p { margin: 0; max-width: none; }
+.phasen ol > li a { font-weight: 600; }
+.phasen ol > li p:not(:first-child),
+.phasen .p-frage {
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+}
+
+/* ---------- Pfad-Stepper auf Phasenseiten ---------- */
+.stepper {
+  font-size: 0.9rem;
+  margin: 1rem 0 2rem;
+  padding: 0.75rem 1rem;
+  background: var(--bg-soft);
+  border-radius: 8px;
+}
+.stepper p { margin: 0; max-width: none; }
+.stepper strong { color: var(--accent-dark); }
+
+/* ---------- Warnhinweis (max. 2 pro Seite, inhaltliche Überschrift) ---------- */
+.warnung {
+  border: 1px solid var(--warn-border);
+  border-left-width: 6px;
+  background: var(--warn-bg);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+.warnung h3 {
+  margin: 0 0 0.5rem;
+  padding: 0;
+  border: none;
+  font-size: 1.1rem;
+}
+.warnung p:last-child { margin-bottom: 0; }
+
+/* ---------- Care Card: sofort melden ---------- */
+.care {
+  border: 1px solid var(--care-border);
+  border-left-width: 6px;
+  background: var(--care-bg);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+.care h2, .care h3 {
+  margin: 0 0 0.5rem;
+  padding: 0;
+  border: none;
+  font-size: 1.15rem;
+}
+
+/* ---------- Task-Tabelle (NHS-Muster) ---------- */
+.tasks-tbl table { width: 100%; }
+.tasks-tbl th { background: var(--bg-soft); }
+.st {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  white-space: nowrap;
+  display: inline-block;
+}
+.st-offen    { background: var(--bg-soft); color: var(--ink-soft); border: 1px solid var(--line); }
+.st-gesperrt { background: #fff; color: var(--ink-soft); border: 1px dashed var(--line); }
+.st-erledigt { background: #ecfdf3; color: var(--ok); border: 1px solid #bbe5c8; }
+
+/* ---------- Risikotabelle (RCoA-Muster) ---------- */
+.risiko table { font-size: 0.95rem; }
+.risiko th { background: var(--bg-soft); }
+
+/* ---------- Vier-Fragen-Druckmodul ---------- */
+.fragen-modul {
+  border: 2px solid var(--accent);
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+}
+.fragen-modul h3 { margin-top: 0.25rem; }
+.drucken {
+  font-size: 0.9rem;
+  background: none;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  min-height: 44px;
+}
+
+/* ---------- Praxisblock, getrennt vom klinischen Pfad ---------- */
+.praxis {
+  background: var(--bg-soft);
+  border-radius: 8px;
+  padding: 1rem 1.5rem 1.5rem;
+  margin-top: 2.5rem;
+}
+.praxis h2 { border: none; margin-top: 0.5rem; padding-top: 0; }
+
+/* ---------- Rechtshinweis ---------- */
+.rechtshinweis {
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  border-top: 1px solid var(--line);
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+}
+
+/* ---------- Feedback (MUMC+-Muster) ---------- */
+.feedback {
+  margin-top: 2.5rem;
+  padding: 1rem 1.25rem;
+  background: var(--bg-soft);
+  border-radius: 8px;
+}
+.feedback p { margin-top: 0; font-weight: 600; }
+.feedback button {
+  font-size: 0.95rem;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0.5rem 1rem;
+  min-height: 44px;
+  border: 1px solid var(--ink-soft);
+  border-radius: 6px;
+  background: #fff;
+  cursor: pointer;
+}
+.feedback .fb-danke { font-weight: 400; color: var(--ok); }
+
+/* ---------- Governance-Fusszeile ---------- */
+.governance {
+  border-top: 1px solid var(--line);
+  margin-top: 2rem;
+  padding-top: 1rem;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+.governance table { font-size: 0.85rem; }
+
+/* ---------- Druck ---------- */
+@media print {
+  .navbar, .stepper, .feedback, nav.page-navigation, #quarto-sidebar, #TOC { display: none !important; }
+  body { font-size: 11pt; }
+}
