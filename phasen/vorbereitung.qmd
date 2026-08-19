@@ -72,9 +72,9 @@ Wechselwirkung mit Narkose und Blutgerinnung.]{.ph}
 ::: {.warnung}
 ### Pausieren Sie Blutverdünner nie ohne Rücksprache
 
-Ob und wann Sie Blutverdünner absetzen, legt Ihre Ärztin oder Ihr Arzt
-mit Ihnen fest. Eigenmächtiges Absetzen kann gefährlich sein —
-eigenmächtiges Weiternehmen auch. Wenn Sie unsicher sind:
+Ob und wann Sie Blutverdünner pausieren, legen Sie gemeinsam mit Ihrer
+Ärztin oder Ihrem Arzt fest — so bleiben Ihre Gerinnung und Ihre
+Operation gleichermassen geschützt. Im Zweifel genügt ein Anruf:
 [Telefonnummer]{.ph}.
 :::
 
@@ -97,25 +97,27 @@ Sicherheit ist es wichtig, dass Sie dafür nüchtern sind.
 ::: {.warnung}
 ### Warum das wichtig ist
 
-Ein leerer Magen schützt Sie während der Narkose davor, dass
-Mageninhalt in die Lunge gelangt. Wenn Sie nicht nüchtern sind, muss
-Ihre Operation unter Umständen kurzfristig verschoben werden.
+Ein leerer Magen schützt während der Narkose Ihre Atemwege. Wenn Sie
+sich an diese Zeiten halten, tragen Sie selbst dazu bei, dass Ihre
+Operation sicher und wie geplant stattfinden kann.
 :::
 
 ## Körperpflege {#koerperpflege}
 
-Duschen Sie vor dem Spitaleintritt. Verwenden Sie danach kein Make-up
-und keine Gesichts- oder Bodylotion — sie behindern die Wirkung des
-Desinfektionsmittels. Entfernen Sie Nagellack. Rasieren Sie das
-Operationsgebiet nicht selbst: Kleine Hautverletzungen erhöhen das
-Infektionsrisiko. Falls nötig, übernehmen wir das in der Klinik.
+Mit wenigen Handgriffen bereiten Sie Ihre Haut optimal auf den
+Eingriff vor: Duschen Sie vor dem Spitaleintritt und lassen Sie die
+Haut danach frei — so kann das Desinfektionsmittel voll wirken.
+Entfernen Sie Nagellack. Die Rasur des Operationsgebiets übernehmen
+wir, falls nötig, in der Klinik — unversehrte Haut ist der beste
+Schutz vor Infektionen.
 
 ## Jetzt schon an den Austritt denken {#austrittsplanung}
 
 Die Zeit nach der Operation lässt sich am besten planen, bevor Sie
 eintreten. Klären Sie vor dem Eintritt:
 
-- Wer holt Sie ab? Nach einer Narkose dürfen Sie nicht selbst fahren.
+- Wer holt Sie ab? Für den Heimweg nach einer Narkose lassen Sie sich
+  fahren.
 - Wer unterstützt Sie zu Hause in der ersten Woche — beim Einkaufen,
   Kochen, im Haushalt?
 - Brauchen Sie Hilfsmittel ([z. B. Gehstöcke, erhöhter

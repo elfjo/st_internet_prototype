@@ -72,8 +72,10 @@ medizinische Abklärungen, notwendige Vorbereitungen oder
 unvorhersehbare Ereignisse im Klinikalltag.
 
 Meist erfahren Sie erst am Eintrittstag, an welcher Stelle Sie auf dem
-Operationsplan stehen. Nehmen Sie sich etwas zum Lesen oder Hören mit —
-die Wartezeit sagt nichts darüber aus, wie wichtig Ihre Operation ist.
+Operationsplan stehen. Nehmen Sie sich etwas zum Lesen oder Hören mit.
+Während Sie warten, bereitet Ihr Team im Hintergrund alles für Sie
+vor — Ihre Operation bekommt die Zeit und die Sorgfalt, die sie
+braucht.
 
 ::: {.warnung}
 ### Wenn Sie am Eintrittstag krank sind

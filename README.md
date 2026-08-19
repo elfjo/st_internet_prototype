@@ -40,6 +40,15 @@ leer lassen.
 
 ## Redaktionskonventionen im Prototyp
 
+Sprachprinzip: positiv-suggestive medizinische Sprache. Den Zielzustand
+benennen statt Gefahrenbilder auszumalen («schützt Ihre Atemwege» statt
+«verhindert, dass Mageninhalt in die Lunge gelangt»). Symptome mit
+Verlaufsrichtung («gehen vorüber», «Kraft kehrt zurück»). Wartezeit und
+Anspannung utilisieren statt wegerklären. Negationen nur, wo sie
+sicherheitskritisch sind (Nüchternheit, Blutverdünner, Warnzeichen) —
+dort klare Instruktionssprache, keine Weichzeichnung. Keine
+Wirkversprechen über die Evidenz hinaus.
+
 - Platzhalter für klinische Angaben: `[Text]{.ph}` — rendert violett
   in ⟨Klammern⟩. Nichts davon ist geprüfte medizinische Information.
 - Warnhinweise: `::: {.warnung}` mit inhaltlicher `###`-Überschrift,
