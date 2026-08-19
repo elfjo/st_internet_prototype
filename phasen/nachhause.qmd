@@ -16,7 +16,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 **Ihr Weg:** [Die Entscheidung](entscheidung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Vor der Operation](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → **Austritt und Erholung zu Hause**
 :::
 
-[Der Austritt ist ein Übergang: was am letzten Tag passiert, was Sie
+[Der Austritt ist ein Übergang: wie der Austrittstag abläuft, was Sie
 mitnehmen und wie Ihre Erholung zu Hause weitergeht.]{.lede}
 
 ## Der Austrittstag {#austrittstag}
@@ -36,7 +36,7 @@ Haken Sie ab — und fragen Sie nach, bis alles beantwortet ist:
 |--------------------------------------------------------------|:--|
 | Welche Medikamente nehme ich — was ist neu, was fällt weg? | [Offen]{.st .st-offen} |
 | Wie versorge ich die Wunde, wann dürfen die Fäden raus? | [Offen]{.st .st-offen} |
-| Was darf ich wieder tun, was noch nicht — und wie lange? | [Offen]{.st .st-offen} |
+| Was darf ich ab wann wieder tun? | [Offen]{.st .st-offen} |
 | Bei welchen Anzeichen melde ich mich, und wo? | [Offen]{.st .st-offen} |
 | Wann und wo ist die Nachkontrolle? | [Offen]{.st .st-offen} |
 | Habe ich Austrittsbericht, Rezepte und Arbeitsunfähigkeitszeugnis? | [Offen]{.st .st-offen} |
@@ -47,12 +47,13 @@ was er enthält, wer ihn wann erhält.]{.ph}
 
 ## Die ersten Tage zu Hause {#erste-tage}
 
-Die Erholung geht zu Hause weiter, in ihrem eigenen Tempo. Erschöpfung,
-wechselhafter Schlaf und zeitweise gedrückte Stimmung gehören in den
-ersten Wochen oft dazu — und legen sich wieder. Planen Sie Pausen ein
-und steigern Sie sich schrittweise: Von Woche zu Woche kehrt Ihre
-Kraft zurück. Viele merken es zuerst an kleinen Dingen — der Weg zum
-Briefkasten wird selbstverständlich, der Schlaf tiefer. [Konkrete Alltagsangaben je nach Eingriff:
+Die Erholung geht zu Hause weiter, in ihrem eigenen Tempo. Ihr Körper
+setzt seine Energie jetzt vor allem für die Heilung ein — gönnen Sie
+sich also grosszügig Pausen und steigern Sie sich schrittweise. Manche
+Tage fühlen sich leichter an als andere; die Richtung stimmt trotzdem:
+Von Woche zu Woche kehrt Ihre Kraft zurück. Viele merken es zuerst an
+kleinen Dingen — der Weg zum Briefkasten wird selbstverständlich, der
+Schlaf tiefer. [Konkrete Alltagsangaben je nach Eingriff:
 Duschen, Treppen, Heben, Autofahren, Arbeit — verlinkt auf die
 jeweilige Behandlungsseite.]{.ph}
 
@@ -74,14 +75,16 @@ unter [Nummer]{.ph}, danach [Sprechstunde / Hausärztin]{.ph}.
 Wenn Sie zu Hause Unterstützung möchten: [Spitex, Haushaltshilfe,
 Mahlzeitendienst, Rehabilitation — was das Austrittsmanagement bereits
 organisiert hat, und an wen Sie sich nachträglich wenden.]{.ph} Hilfe
-anzunehmen beschleunigt die Erholung — Sie geben sie ab, sobald Sie
-sie nicht mehr brauchen.
+anzunehmen beschleunigt die Erholung — und Schritt für Schritt
+übernehmen Sie wieder selbst.
 
 ## Nachkontrolle {#nachkontrolle}
 
 [Wann die Nachkontrolle stattfindet, bei wem (Operateur, Sprechstunde,
 Hausarzt), wie der Termin zustande kommt.]{.ph} Notieren Sie sich bis
-dahin, was Sie beschäftigt — jede Frage hat dort Platz.
+dahin, was Sie beschäftigt — jede Frage hat dort Platz. Auch wie es
+Ihnen insgesamt geht — Energie, Schlaf, Stimmung — gehört in dieses
+Gespräch.
 
 ## Sagen Sie uns, wie es war {#rueckmeldung}
 
