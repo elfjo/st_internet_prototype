@@ -3,9 +3,8 @@ title: "Ich gehe nach Hause"
 ---
 
 ::: {.mini-nav}
-[← In der Klinik](aufenthalt.qmd)
 [⌂ Übersicht](../index.qmd)
-[ ]{.mn-spacer}
+[← In der Klinik](aufenthalt.qmd)
 :::
 
 
@@ -93,9 +92,8 @@ was die Klinik mit den Rückmeldungen macht.]{.ph}
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[← In der Klinik](aufenthalt.qmd)
 [⌂ Übersicht](../index.qmd)
-[ ]{.mn-spacer}
+[← In der Klinik](aufenthalt.qmd)
 :::
 
 {{< include ../_governance.qmd >}}

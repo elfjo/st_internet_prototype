@@ -3,8 +3,8 @@ title: "Ich entscheide mich"
 ---
 
 ::: {.mini-nav}
-[ ]{.mn-spacer}
 [⌂ Übersicht](../index.qmd)
+[ ]{.mn-spacer}
 [Zeit nutzen →](wartezeit.qmd)
 :::
 
@@ -98,8 +98,8 @@ Wenn Sie sich für die Operation entschieden haben:
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[ ]{.mn-spacer}
 [⌂ Übersicht](../index.qmd)
+[ ]{.mn-spacer}
 [Zeit nutzen →](wartezeit.qmd)
 :::
 

@@ -3,8 +3,8 @@ title: "Ich bin in der Klinik"
 ---
 
 ::: {.mini-nav}
-[← Eintrittstag](eintrittstag.qmd)
 [⌂ Übersicht](../index.qmd)
+[← Eintrittstag](eintrittstag.qmd)
 [Nach Hause →](nachhause.qmd)
 :::
 
@@ -90,8 +90,8 @@ stehen bewusst nicht zwischen den medizinischen Schritten.
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[← Eintrittstag](eintrittstag.qmd)
 [⌂ Übersicht](../index.qmd)
+[← Eintrittstag](eintrittstag.qmd)
 [Nach Hause →](nachhause.qmd)
 :::
 

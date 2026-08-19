@@ -3,8 +3,8 @@ title: "Ich nutze die Zeit bis zur Operation optimal"
 ---
 
 ::: {.mini-nav}
-[← Entscheidung](entscheidung.qmd)
 [⌂ Übersicht](../index.qmd)
+[← Entscheidung](entscheidung.qmd)
 [Vorbereitung →](vorbereitung.qmd)
 :::
 
@@ -98,8 +98,8 @@ an wen sich Betroffene wenden.]{.ph}
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[← Entscheidung](entscheidung.qmd)
 [⌂ Übersicht](../index.qmd)
+[← Entscheidung](entscheidung.qmd)
 [Vorbereitung →](vorbereitung.qmd)
 :::
 

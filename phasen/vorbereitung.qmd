@@ -3,8 +3,8 @@ title: "Ich bereite mich auf den Eintritt vor"
 ---
 
 ::: {.mini-nav}
-[← Zeit nutzen](wartezeit.qmd)
 [⌂ Übersicht](../index.qmd)
+[← Zeit nutzen](wartezeit.qmd)
 [Eintrittstag →](eintrittstag.qmd)
 :::
 
@@ -152,8 +152,8 @@ Ladekabel.]{.ph}
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[← Zeit nutzen](wartezeit.qmd)
 [⌂ Übersicht](../index.qmd)
+[← Zeit nutzen](wartezeit.qmd)
 [Eintrittstag →](eintrittstag.qmd)
 :::
 

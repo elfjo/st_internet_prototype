@@ -10,13 +10,16 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 [Dieser Wegweiser führt Sie durch alle Schritte Ihres geplanten
 Aufenthalts, von der Entscheidung bis zur Zeit danach.]{.lede}
 
+::: {.eilig-teaser}
+Ich habe wenig Zeit und möchte nur das Allerwichtigste wissen.
+
+[Zu den häufigsten Fragen →](eilig.qmd)
+:::
+
+## Ihr Weg durch den Aufenthalt
+
 Sie können den Schritten der Reihe nach folgen oder direkt dorthin
 springen, wo Sie gerade stehen.
-
-::: {.eilig-teaser}
-**Ich habe wenig Zeit und möchte nur das Allerwichtigste wissen.**
-[Hier finden Sie die Antworten auf die häufigsten Fragen →](eilig.qmd)
-:::
 
 ::: {.phasen}
 1. [Ich entscheide mich](phasen/entscheidung.qmd)

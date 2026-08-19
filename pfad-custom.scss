@@ -43,13 +43,16 @@ h2 {
 }
 .mini-nav p {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;   /* Übersicht links, Pfadnavigation rechts */
   align-items: center;
   gap: 0.5rem;
   margin: 0;
   max-width: none;
   font-size: 0.95rem;
+  flex-wrap: wrap;
 }
+/* erstes Element (Übersicht) linksbündig, der Rest bleibt rechts */
+.mini-nav p > a:first-child { margin-right: auto; }
 .mini-nav a {
   text-decoration: none;
   font-weight: 600;
@@ -60,23 +63,55 @@ h2 {
   white-space: nowrap;
 }
 .mini-nav a:hover { background: var(--bg-soft); }
-.mn-spacer { flex: 0 0 2rem; }
+.mn-spacer { display: none; }
 main > .mini-nav:last-of-type,
 .mini-nav + .governance { margin-top: 0; }
 
-/* ---------- Eilig-Teaser auf der Startseite ---------- */
+/* ---------- Eilig-Zone auf der Startseite ----------
+   Eigene Zone, nicht Kasten im Lesefluss: eigene Fläche, eigene
+   Beschriftung, grosszügiger Abstand, danach eine Trennlinie. */
 .eilig-teaser {
-  border: 2px solid var(--accent);
-  border-radius: 8px;
-  padding: 1rem 1.25rem;
-  margin: 1.5rem 0;
-  background: #fff;
+  background: #eef3f7;
+  border-radius: 10px;
+  padding: 1.5rem 1.75rem 1.75rem;
+  margin: 2.5rem 0 3rem;
+  position: relative;
 }
-.eilig-teaser p { margin: 0; }
+/* Beschriftung der Zone */
+.eilig-teaser::before {
+  content: "Schnellzugriff";
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 0.6rem;
+}
+.eilig-teaser p {
+  margin: 0;
+  max-width: none;
+}
+.eilig-teaser p:first-of-type {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+/* Verweis als Schaltfläche, klar unterscheidbar vom Fliesstextlink */
 .eilig-teaser a {
   display: inline-block;
-  margin-top: 0.35rem;
+  margin-top: 0.9rem;
+  padding: 0.65rem 1.1rem;
+  min-height: 44px;
+  background: #fff;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  color: var(--accent-dark);
   font-weight: 600;
+  text-decoration: none;
+}
+.eilig-teaser a:hover {
+  background: var(--accent);
+  color: #fff;
 }
 
 /* ---------- Prototyp-Hinweis ---------- */
