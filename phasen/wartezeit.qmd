@@ -27,17 +27,17 @@ vorbereitet in den Eingriff geht, erholt sich leichter.]{.lede}
 ## Warum sich Vorbereitung lohnt {#warum}
 
 Ihr Körper leistet bei einer Operation Beachtliches — und Sie können
-ihn dabei unterstützen, wie vor einer längeren Wanderung: mit Kraft,
+ihn sanft dabei unterstützen, wie vor einer längeren Wanderung: mit Kraft,
 Ruhe und guten Reserven. Je besser Ihr Zustand vorher, desto leichter
 fällt die Erholung danach. Vieles davon haben Sie selbst in der Hand,
-und die Wartezeit ist genau das Zeitfenster dafür.
+und die Wartezeit bis zum Eintritt ist die beste Gelegenheit dafür.
 
 ## Was Sie ab heute tun können {#tun}
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Bewegung
 
-Bleiben Sie aktiv, so gut es Ihre Beschwerden zulassen. Schon
+Bleiben Sie aktiv, so gut es Ihr Gesundheitszustand zulässt. Schon
 tägliches Gehen erhält Kraft und Ausdauer. [Konkrete, niedrigschwellige
 Vorschläge: Spazieren, Treppen, Aufstehen vom Stuhl. Ggf. Hinweis auf
 Physiotherapie vor der Operation.]{.ph}
@@ -68,7 +68,7 @@ unterstützen Sie. [Selbsttest oder Kontakt Ernährungsberatung.]{.ph}
 Anspannung vor einer Operation ist normal — sie zeigt, dass Ihnen die
 Sache wichtig ist. Es hilft, zu wissen, was kommt; dafür sind diese
 Seiten da. Wenn die Angst gross ist, insbesondere vor der Narkose oder
-vor Nadeln: Sagen Sie es uns vor dem Eintritt. Es gibt erprobte Wege,
+vor Nadeln: Sagen Sie es uns vor dem Eintritt. Es gibt gut erprobte Wege,
 die vielen Menschen bereits geholfen haben.
 [Kontakt; ggf. Entspannungsübungen, Audio-Angebote.]{.ph}
 :::
@@ -87,10 +87,10 @@ Kopf frei für die Erholung.
 ::: {.warnung}
 ### Melden Sie sich, statt abzuwarten
 
-Wenn sich Ihre Beschwerden deutlich verschlechtern, Sie neue Symptome
+Wenn sich Ihre Beschwerden in irgendeiner Form deutlich verschlechtern, Sie neue Beschwerden
 bemerken oder eine Erkältung, Fieber oder eine Zahnentzündung
 auftritt: Rufen Sie uns an unter [Telefonnummer]{.ph}. Manches muss
-vor der Operation behandelt werden — je früher wir es wissen, desto
+vor der Operation angeschaut werden — je früher wir es wissen, desto
 eher bleibt Ihr Termin haltbar.
 :::
 
