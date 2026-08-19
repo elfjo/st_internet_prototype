@@ -1,0 +1,58 @@
+---
+title: "Das Allerwichtigste in Kürze"
+toc: false
+---
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+[Alles auf einem Blatt →](merkblatt.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
+:::
+
+[Die Antworten auf die häufigsten Fragen — kurz und ohne Umwege. Alles
+Weitere finden Sie über die Links.]{.lede}
+
+## Ab wann darf ich nichts mehr essen und trinken? {#nuechtern}
+
+Essen bis **6 Stunden** vor der Eintrittszeit. Trinken (Wasser ohne
+Kohlensäure, Tee, schwarzer Kaffee) bis **2 Stunden** vorher. Danach
+gar nichts mehr, auch keine Bonbons oder Kaugummis.
+
+[Warum das wichtig ist →](phasen/vorbereitung.qmd#nuechtern)
+
+## Welche Medikamente muss ich pausieren? {#medikamente}
+
+Die meisten Medikamente nehmen Sie normal weiter. **Blutverdünner und
+Diabetesmedikamente** nur nach Absprache pausieren — nie auf eigene
+Faust. Im Zweifel anrufen: [Telefonnummer]{.ph}.
+
+[Details zu Ihren Medikamenten →](phasen/vorbereitung.qmd#medikamente)
+
+## Was nehme ich mit? {#mitnehmen}
+
+Versichertenkarte, Ausweis, Medikamentenliste, medizinische Ausweise,
+bequeme Kleidung, feste Schuhe, Toilettenartikel. Schmuck und
+Wertsachen bleiben zu Hause.
+
+[Vollständige Packliste →](phasen/vorbereitung.qmd#packliste)
+
+## Wann muss ich wo sein? {#eintrittszeit}
+
+Ihre Eintrittszeit erhalten Sie [am Vortag per SMS]{.ph}. Wo Sie sich
+melden und was am Tag selbst passiert:
+
+[Mein Eintrittstag →](phasen/eintrittstag.qmd)
+
+## Alles auf einem Blatt {#blatt}
+
+Die Kerninformationen zum Ausdrucken und an den Kühlschrank:
+
+[Zum Merkblatt →](merkblatt.qmd)
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+[Alles auf einem Blatt →](merkblatt.qmd)
+:::

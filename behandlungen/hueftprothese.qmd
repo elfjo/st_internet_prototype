@@ -2,6 +2,12 @@
 title: "Künstliches Hüftgelenk (Hüftprothese)"
 ---
 
+::: {.mini-nav}
+[⌂ Übersicht](../index.qmd)
+[Vorbereitung →](../phasen/vorbereitung.qmd)
+:::
+
+
 ::: {.hinweis-prototyp}
 Struktur-Prototyp mit dem Content-Type «Behandlung»: feste
 Pflichtabschnitte, die jede Eingriffsseite erbt (norwegisches Muster).
@@ -141,7 +147,7 @@ Platzhalterzahlen)]{.ph}
 Das Narkoserisiko ist vom Operationsrisiko zu unterscheiden. Es ist für
 gesunde Erwachsene sehr klein: [Grössenordnung nach RCoA-Vorbild, je
 100'000 dargestellt, auf eigener Seite mit eigenem Nenner]{.ph}.
-[Mehr zu Narkose und Risiko](#).
+[Link: eigene Seite «Narkose und Risiko», noch nicht angelegt]{.ph}
 
 ::: {.rechtshinweis}
 Diese Informationen ersetzen nicht das persönliche Aufklärungsgespräch.
@@ -167,11 +173,16 @@ unter [Nummer]{.ph}, danach das Sekretariat unter [Nummer]{.ph}.
 ## Praktisches rund um den Aufenthalt {#praktisches}
 
 Anreise und Parken · Zimmer und Verpflegung · Besuchszeiten · WLAN ·
-Wertsachen · Versicherungsfragen — gesammelt unter [«Gut zu
-wissen»](#). Diese Themen stehen bewusst nicht zwischen den
-medizinischen Schritten.
+Wertsachen · Versicherungsfragen — gesammelt unter [«Gut zu wissen»,
+Seite noch nicht angelegt]{.ph}. Diese Themen stehen bewusst nicht
+zwischen den medizinischen Schritten.
 :::
 
 {{< include ../_feedback.qmd >}}
+
+::: {.mini-nav}
+[⌂ Übersicht](../index.qmd)
+[Vorbereitung →](../phasen/vorbereitung.qmd)
+:::
 
 {{< include ../_governance.qmd >}}

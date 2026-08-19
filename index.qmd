@@ -13,6 +13,11 @@ Aufenthalts, von der Entscheidung bis zur Zeit danach.]{.lede}
 Sie können den Schritten der Reihe nach folgen oder direkt dorthin
 springen, wo Sie gerade stehen.
 
+::: {.eilig-teaser}
+**Ich habe wenig Zeit und möchte nur das Allerwichtigste wissen.**
+[Hier finden Sie die Antworten auf die häufigsten Fragen →](eilig.qmd)
+:::
+
 ::: {.phasen}
 1. [Ich entscheide mich](phasen/entscheidung.qmd)
 
@@ -53,15 +58,6 @@ zur Erholung:
 
 - [Künstliches Hüftgelenk (Hüftprothese)](behandlungen/hueftprothese.qmd)
 - [weitere Eingriffe nach demselben Muster]{.ph}
-
-## Wenn Sie wenig Zeit haben
-
-Die drei Dinge, die am häufigsten gefragt werden:
-
-- [Ab wann darf ich nichts mehr essen und trinken?](phasen/vorbereitung.qmd#nuechtern)
-- [Welche Medikamente muss ich pausieren?](phasen/vorbereitung.qmd#medikamente)
-- [Was nehme ich mit?](phasen/vorbereitung.qmd#packliste)
-- [Ich möchte alle wichtigen Infos auf einem Blatt zum Ausdrucken](merkblatt.qmd)
 
 {{< include _feedback.qmd >}}
 

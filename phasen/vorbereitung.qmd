@@ -2,6 +2,13 @@
 title: "Ich bereite mich auf den Eintritt vor"
 ---
 
+::: {.mini-nav}
+[← Zeit nutzen](wartezeit.qmd)
+[⌂ Übersicht](../index.qmd)
+[Eintrittstag →](eintrittstag.qmd)
+:::
+
+
 ::: {.hinweis-prototyp}
 Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
@@ -143,5 +150,11 @@ Ladekabel.]{.ph}
 :::
 
 {{< include ../_feedback.qmd >}}
+
+::: {.mini-nav}
+[← Zeit nutzen](wartezeit.qmd)
+[⌂ Übersicht](../index.qmd)
+[Eintrittstag →](eintrittstag.qmd)
+:::
 
 {{< include ../_governance.qmd >}}

@@ -3,6 +3,11 @@ title: "Das Wichtigste auf einem Blatt"
 toc: false
 ---
 
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+:::
+
+
 ::: {.hinweis-prototyp}
 Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
@@ -58,4 +63,8 @@ Brille/Hörgerät mit Etui. **Zu Hause lassen:** Schmuck, Wertsachen.
 Dieses Blatt fasst zusammen und ersetzt weder die ausführlichen
 Informationen auf [den Wegweiser-Seiten](index.qmd) noch das
 persönliche Gespräch. Stand: [Datum]{.ph}
+:::
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
 :::

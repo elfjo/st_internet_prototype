@@ -12,8 +12,10 @@ website:
     title: "Klinik · Prototyp Patientenpfad"
     collapse-below: lg
     right:
+      - text: "Das Wichtigste in Kürze"
+        href: eilig.qmd
       - text: "Kontakt & Anmeldung"
-        href: index.qmd#kontaktzone
+        href: index.html#kontaktzone
 
   page-navigation: true
   back-to-top-navigation: false
