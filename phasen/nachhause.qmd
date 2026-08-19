@@ -20,20 +20,20 @@ Eintrittstag](eintrittstag.qmd) → [Ich bin in der
 Klinik](aufenthalt.qmd) → **Ich gehe nach Hause**
 :::
 
-[Der Austritt ist kein Endpunkt, sondern ein Übergang: was am letzten
-Tag passiert, was Sie mitnehmen und wie es danach weitergeht.]{.lede}
+[Der Austritt ist ein Übergang: was am letzten Tag passiert, was Sie
+mitnehmen und wie Ihre Erholung zu Hause weitergeht.]{.lede}
 
 ## Der Austrittstag {#austrittstag}
 
 [Übliche Austrittszeit; wie der Tag abläuft; wer das
-Austrittsgespräch führt.]{.ph} Organisieren Sie Ihre Abholung — nach
-einem Spitalaufenthalt sollten Sie nicht selbst fahren.
-[Kosten des Heimtransports; wer sie trägt.]{.ph}
+Austrittsgespräch führt.]{.ph} Organisieren Sie Ihre Abholung: Für die
+Heimfahrt lassen Sie sich fahren — so kommen Sie sicher und entspannt
+an. [Kosten des Heimtransports; wer sie trägt.]{.ph}
 
 ## Das Austrittsgespräch: Ihre Checkliste {#austrittsgespraech}
 
-Diese Punkte sollten geklärt sein, bevor Sie die Klinik verlassen.
-Fragen Sie nach, wenn etwas fehlt:
+Mit diesen Punkten im Gepäck verlassen Sie die Klinik gut gerüstet.
+Haken Sie ab — und fragen Sie nach, bis alles beantwortet ist:
 
 ::: {.tasks-tbl}
 | Geklärt? | |
@@ -74,9 +74,11 @@ unter [Nummer]{.ph}, danach [Sprechstunde / Hausärztin]{.ph}.
 
 ## Unterstützung im Alltag {#unterstuetzung}
 
-Wenn es zu Hause allein nicht geht: [Spitex, Haushaltshilfe,
+Wenn Sie zu Hause Unterstützung möchten: [Spitex, Haushaltshilfe,
 Mahlzeitendienst, Rehabilitation — was das Austrittsmanagement bereits
-organisiert hat, und an wen Sie sich nachträglich wenden.]{.ph}
+organisiert hat, und an wen Sie sich nachträglich wenden.]{.ph} Hilfe
+anzunehmen beschleunigt die Erholung — Sie geben sie ab, sobald Sie
+sie nicht mehr brauchen.
 
 ## Nachkontrolle {#nachkontrolle}
 

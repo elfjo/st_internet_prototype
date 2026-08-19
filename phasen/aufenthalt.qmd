@@ -40,7 +40,8 @@ helfen.
 
 [Tagesstruktur der Station: Wecken und Messen, Frühstück, Visite,
 Therapie, Mahlzeiten, Ruhezeiten — mit ungefähren Uhrzeiten. Der Tag
-im Spital beginnt früh; wer das vorher weiss, erschrickt nicht.]{.ph}
+im Spital beginnt früh; wer das vorher weiss, startet entspannter
+hinein.]{.ph}
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Die Visite: Ihr täglicher Gesprächstermin

@@ -22,7 +22,7 @@ Hause](nachhause.qmd)
 :::
 
 [Ob eine Operation der richtige Weg ist, entscheiden Sie — gut
-informiert und ohne Zeitdruck.]{.lede}
+informiert und in Ihrem Tempo.]{.lede}
 
 ## Sie haben Zeit für diese Entscheidung {#zeit}
 
@@ -68,9 +68,8 @@ Nehmen Sie diese Fragen mit in die Sprechstunde:
 
 Drei Dinge, die das Gespräch besser machen:
 
-- **Nehmen Sie jemanden mit.** Vier Ohren hören mehr als zwei — solche
-  Gespräche sind aufregend, und dann geht schon einmal Information
-  verloren.
+- **Nehmen Sie jemanden mit.** Vier Ohren hören mehr als zwei — und zu
+  zweit lässt sich das Gehörte danach in Ruhe sortieren.
 - **Notieren Sie Ihre Fragen vorher.** Am besten am Vortag auf einem
   Zettel oder im Handy.
 - **Fragen Sie nach, bis es für Sie stimmt.** Es ist Aufgabe Ihrer

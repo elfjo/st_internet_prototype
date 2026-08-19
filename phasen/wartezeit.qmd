@@ -21,8 +21,8 @@ bin in der Klinik](aufenthalt.qmd) → [Ich gehe nach
 Hause](nachhause.qmd)
 :::
 
-[Die Wochen bis zur Operation sind keine verlorene Zeit: Wer vorbereitet
-in den Eingriff geht, erholt sich leichter.]{.lede}
+[Die Wochen bis zur Operation sind Ihr Trainingsfenster: Wer
+vorbereitet in den Eingriff geht, erholt sich leichter.]{.lede}
 
 ## Warum sich Vorbereitung lohnt {#warum}
 
@@ -45,17 +45,20 @@ Physiotherapie vor der Operation.]{.ph}
 ::: {.callout-note collapse="true" icon="false"}
 ### Rauchstopp
 
-Der wirksamste einzelne Schritt. Ein Rauchstopp [mehrere Wochen]{.ph}
-vor der Operation verbessert Wundheilung und Atmung messbar.
+Der wirksamste Schritt, den Sie selbst tun können. Ein Rauchstopp
+[mehrere Wochen]{.ph} vor der Operation verbessert Wundheilung und
+Atmung messbar — Ihr Körper beginnt schon nach Tagen, davon zu
+profitieren.
 [Unterstützungsangebote: Rauchstopplinie, Beratung, Medikamente.]{.ph}
 :::
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Ernährung und Alkohol
 
-Ausgewogen essen, genug Eiweiss, wenig Alkohol. Ungewollter
-Gewichtsverlust vor einer Operation ist ein Warnsignal — sprechen Sie
-ihn an. [Selbsttest oder Kontakt Ernährungsberatung.]{.ph}
+Ausgewogen essen, genug Eiweiss, wenig Alkohol — so geben Sie Ihrem
+Körper Baumaterial für die Heilung. Ungewollter Gewichtsverlust vor
+einer Operation verdient Aufmerksamkeit: Sprechen Sie ihn an, wir
+unterstützen Sie. [Selbsttest oder Kontakt Ernährungsberatung.]{.ph}
 :::
 
 ::: {.callout-note collapse="true" icon="false"}
@@ -74,7 +77,8 @@ die vielen Menschen bereits geholfen haben.
 
 Arbeit ([Arbeitsunfähigkeit: wer stellt das Zeugnis aus, übliche
 Dauer]{.ph}), Angehörige und Betreuungspflichten, Fahrten, Einkäufe für
-die erste Woche danach. Was jetzt geregelt ist, fehlt später nicht.
+die erste Woche danach. Was jetzt geregelt ist, gibt Ihnen später den
+Kopf frei für die Erholung.
 :::
 
 ## Wenn sich Ihr Zustand verändert {#verschlechterung}

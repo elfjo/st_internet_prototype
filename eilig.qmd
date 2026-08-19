@@ -32,8 +32,9 @@ gar nichts mehr, auch keine Bonbons oder Kaugummis.
 ## Welche Medikamente muss ich pausieren? {#medikamente}
 
 Die meisten Medikamente nehmen Sie normal weiter. **Blutverdünner und
-Diabetesmedikamente** nur nach Absprache pausieren — nie auf eigene
-Faust. Im Zweifel anrufen: [Telefonnummer]{.ph}.
+Diabetesmedikamente** pausieren Sie nur nach Absprache mit Ihrer
+Ärztin oder Ihrem Arzt. Im Zweifel genügt ein Anruf:
+[Telefonnummer]{.ph}.
 
 [Details zu Ihren Medikamenten →](phasen/vorbereitung.qmd#medikamente)
 

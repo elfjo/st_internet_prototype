@@ -111,10 +111,9 @@ Tag 1, Schmerzbehandlung, übliche Aufenthaltsdauer in Tagen.]{.ph}
 
 ### Phase 2: Zurück in den Alltag
 
-Die Entlassung ist kein Endpunkt, sondern ein Übergang. Schon während
-des Aufenthalts klären wir mit Ihnen, wie es zu Hause weitergeht — Ihre
-Nachsorge organisieren wir gemeinsam: [Link/Kontakt
-Austrittsmanagement]{.ph}.
+Die Entlassung ist ein Übergang. Schon während des Aufenthalts klären
+wir mit Ihnen, wie es zu Hause weitergeht — Ihre Nachsorge
+organisieren wir gemeinsam: [Link/Kontakt Austrittsmanagement]{.ph}.
 
 - [Gehstöcke: wie lange]{.ph}
 - [Autofahren: ab wann]{.ph}
