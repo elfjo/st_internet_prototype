@@ -134,9 +134,9 @@ main > .mini-nav:last-of-type,
 .ph::after  { content: "⟩"; }
 
 /* ---------- Phasen-Einstieg (index) ---------- */
+.phasen { counter-reset: phase; }   /* Zähler auf dem Container: läuft über eingeschobene Karten hinweg weiter */
 .phasen ol {
   list-style: none;
-  counter-reset: phase;
   margin: 2rem 0;
   padding: 0;
 }
@@ -165,6 +165,20 @@ main > .mini-nav:last-of-type,
   font-size: 0.95rem;
   color: var(--ink-soft);
 }
+
+/* ---------- Zusatzversicherungs-Karte im Pfad ----------
+   Bewusst keine Phase: ohne Nummer, eigene Anmutung, als Abzweig
+   erkennbar. Erster Satz adressiert immer alle Versicherten. */
+.zusatz-karte {
+  background: #faf7f2;
+  border: 1px solid #e4dccf;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin: 0.75rem 0 0.75rem 2.75rem;   /* eingerückt: Abzweig, kein Schritt */
+  font-size: 0.95rem;
+}
+.zusatz-karte p { margin: 0 0 0.35rem; max-width: none; }
+.zusatz-karte a { font-weight: 600; }
 
 /* ---------- Pfad-Stepper auf Phasenseiten ---------- */
 .stepper {

@@ -39,6 +39,14 @@ folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
    Trinken, Packliste — und die Planung für die Zeit nach dem
    Austritt.]{.p-frage}
 
+::: {.zusatz-karte}
+**Falls ich zusatzversichert bin** (halbprivat oder privat)
+
+Mit Zusatzversicherung kommen Wahlmöglichkeiten und Komfort hinzu — vom Wunscharzt bis zum Einzelzimmer.
+
+[Meine Zusatzleistungen im Überblick →](zusatzversichert.qmd)
+:::
+
 4. [Mein Eintrittstag](phasen/eintrittstag.qmd)
 
    [Wo melde ich mich an? Wie sind die Abläufe? Wie lange
