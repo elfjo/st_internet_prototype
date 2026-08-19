@@ -11,10 +11,10 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 Aufenthalts, von der Entscheidung zur Operation bis zur Erholung zu Hause.]{.lede}
 
 ::: {.eilig-teaser}
-Was möchten Sie wissen? Wenn Sie eine konkrete Frage haben oder gerade
-wenig Zeit: Hier finden Sie die Antworten nach Themen sortiert.
+Wenn Sie eine konkrete Frage haben oder gerade
+wenig Zeit: Hier finden Sie themenbezogene Antworten und kompakte Zusammenfassungen.
 
-[Direkt zu Ihrer Frage →](eilig.qmd)
+[Direkt zur Kompaktinformation →](eilig.qmd)
 :::
 
 ## Ihr Weg durch den Aufenthalt

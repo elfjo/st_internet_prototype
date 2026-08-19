@@ -15,6 +15,13 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 [Hier finden Sie Antworten nach Themen — und weiter unten die
 häufigsten Fragen direkt beantwortet.]{.lede}
 
+## Alles auf einem Blatt {#blatt}
+
+Das Wichtigste kurz zusammengefasst zum Ausdrucken:
+
+[Zum Merkblatt →](merkblatt.qmd)
+
+
 ## Wählen Sie Ihr Thema {#themen}
 
 ::: {.themen}
@@ -29,12 +36,6 @@ häufigsten Fragen direkt beantwortet.]{.lede}
 :::
 
 ## Die häufigsten Fragen, direkt beantwortet {#schnellantworten}
-
-## Alles auf einem Blatt {#blatt}
-
-Die Kerninformationen zum Ausdrucken und an den Kühlschrank:
-
-[Zum Merkblatt →](merkblatt.qmd)
 
 ## Ab wann darf ich nichts mehr essen und trinken? {#nuechtern}
 
