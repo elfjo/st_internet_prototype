@@ -1,5 +1,5 @@
 ---
-title: "Das Allerwichtigste in Kürze"
+title: "Was möchten Sie wissen?"
 toc: false
 ---
 
@@ -12,8 +12,23 @@ toc: false
 Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
-[Die Antworten auf die häufigsten Fragen — kurz und ohne Umwege. Alles
-Weitere finden Sie über die Links.]{.lede}
+[Hier finden Sie Antworten nach Themen — und weiter unten die
+häufigsten Fragen direkt beantwortet.]{.lede}
+
+## Wählen Sie Ihr Thema {#themen}
+
+::: {.themen}
+- [Vor der Operation](phasen/vorbereitung.qmd)
+- [Am Operationstag](phasen/eintrittstag.qmd)
+- [Während meines Aufenthalts](phasen/aufenthalt.qmd)
+- [Nach der Operation](phasen/nachhause.qmd)
+- [Meine konkrete Operation](index.qmd#welche-operation-bekommen-sie)
+- [Medikamente und Ernährung](phasen/vorbereitung.qmd#medikamente)
+- [Organisatorisches]{.ph}
+- [Ansprechpartner und Notfall](index.qmd#kontaktzone)
+:::
+
+## Die häufigsten Fragen, direkt beantwortet {#schnellantworten}
 
 ## Alles auf einem Blatt {#blatt}
 

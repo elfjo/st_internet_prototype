@@ -1,11 +1,11 @@
 ---
-title: "Ich nutze die Zeit bis zur Operation optimal"
+title: "Die Zeit bis zum Eintritt"
 ---
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
 [← Entscheidung](entscheidung.qmd)
-[Vorbereitung →](vorbereitung.qmd)
+[Vor der Operation →](vorbereitung.qmd)
 :::
 
 
@@ -14,11 +14,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 ::: {.stepper}
-**Ihr Weg:** [Ich entscheide mich](entscheidung.qmd) → **Ich nutze die
-Zeit bis zur Operation optimal** → [Ich bereite mich auf den Eintritt
-vor](vorbereitung.qmd) → [Mein Eintrittstag](eintrittstag.qmd) → [Ich
-bin in der Klinik](aufenthalt.qmd) → [Ich gehe nach
-Hause](nachhause.qmd)
+**Ihr Weg:** [Die Entscheidung](entscheidung.qmd) → **Die Zeit bis zum Eintritt** → [Vor der Operation](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
 [Die Wochen bis zur Operation sind Ihr Trainingsfenster: Wer
@@ -106,7 +102,7 @@ an wen sich Betroffene wenden.]{.ph}
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
 [← Entscheidung](entscheidung.qmd)
-[Vorbereitung →](vorbereitung.qmd)
+[Vor der Operation →](vorbereitung.qmd)
 :::
 
 {{< include ../_governance.qmd >}}

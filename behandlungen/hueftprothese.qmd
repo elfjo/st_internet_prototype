@@ -4,7 +4,7 @@ title: "Künstliches Hüftgelenk (Hüftprothese)"
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[Vorbereitung →](../phasen/vorbereitung.qmd)
+[Vor der Operation →](../phasen/vorbereitung.qmd)
 :::
 
 
@@ -70,9 +70,9 @@ Nehmen Sie diese Fragen mit in die Sprechstunde:
 
 Sobald der Operationstermin steht, beginnt Ihre Vorbereitung. Die
 allgemeinen Schritte — Medikamente, Nüchternheit, Packliste,
-Austrittsplanung — finden Sie im Wegweiser [«Ich bereite mich
-vor»](../phasen/vorbereitung.qmd). Speziell für die Hüftoperation gilt
-zusätzlich:
+Austrittsplanung — finden Sie im Wegweiser [«Vor der
+Operation»](../phasen/vorbereitung.qmd). Speziell für die Hüftoperation
+gilt zusätzlich:
 
 - [Rauchstopp: ab wann, mit Begründung Wundheilung]{.ph}
 - [Zahnarztkontrolle vor dem Eingriff: Infektquellen sanieren]{.ph}
@@ -181,7 +181,7 @@ zwischen den medizinischen Schritten.
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[Vorbereitung →](../phasen/vorbereitung.qmd)
+[Vor der Operation →](../phasen/vorbereitung.qmd)
 :::
 
 {{< include ../_governance.qmd >}}

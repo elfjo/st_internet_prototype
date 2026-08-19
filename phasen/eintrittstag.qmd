@@ -1,11 +1,11 @@
 ---
-title: "Mein Eintrittstag"
+title: "Eintritt und Operationstag"
 ---
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[← Vorbereitung](vorbereitung.qmd)
-[In der Klinik →](aufenthalt.qmd)
+[← Vor der Operation](vorbereitung.qmd)
+[Aufenthalt →](aufenthalt.qmd)
 :::
 
 
@@ -14,10 +14,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 ::: {.stepper}
-**Ihr Weg:** [Ich entscheide mich](entscheidung.qmd) → [Ich nutze die
-Zeit bis zur Operation optimal](wartezeit.qmd) → [Ich bereite mich auf
-den Eintritt vor](vorbereitung.qmd) → **Mein Eintrittstag** → [Ich bin
-in der Klinik](aufenthalt.qmd) → [Ich gehe nach Hause](nachhause.qmd)
+**Ihr Weg:** [Die Entscheidung](entscheidung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Vor der Operation](vorbereitung.qmd) → **Eintritt und Operationstag** → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
 [Wie der Tag der Aufnahme abläuft — Schritt für Schritt, von der
@@ -95,8 +92,8 @@ einer Nachricht nach der Operation zu rechnen ist.]{.ph}
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[← Vorbereitung](vorbereitung.qmd)
-[In der Klinik →](aufenthalt.qmd)
+[← Vor der Operation](vorbereitung.qmd)
+[Aufenthalt →](aufenthalt.qmd)
 :::
 
 {{< include ../_governance.qmd >}}

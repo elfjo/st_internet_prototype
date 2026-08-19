@@ -1,11 +1,11 @@
 ---
-title: "Ich bereite mich auf den Eintritt vor"
+title: "Vor der Operation"
 ---
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[← Zeit nutzen](wartezeit.qmd)
-[Eintrittstag →](eintrittstag.qmd)
+[← Zeit bis Eintritt](wartezeit.qmd)
+[Operationstag →](eintrittstag.qmd)
 :::
 
 
@@ -14,11 +14,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 ::: {.stepper}
-**Ihr Weg:** [Ich entscheide mich](entscheidung.qmd) → [Ich nutze die
-Zeit bis zur Operation optimal](wartezeit.qmd) → **Ich bereite mich auf
-den Eintritt vor** → [Mein Eintrittstag](eintrittstag.qmd) → [Ich bin
-in der Klinik](aufenthalt.qmd) → [Ich gehe nach
-Hause](nachhause.qmd)
+**Ihr Weg:** [Die Entscheidung](entscheidung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → **Vor der Operation** → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
 [Was Sie vor Ihrer Operation erledigen: Medikamente, Essen und Trinken,
@@ -158,8 +154,8 @@ Ladekabel.]{.ph}
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[← Zeit nutzen](wartezeit.qmd)
-[Eintrittstag →](eintrittstag.qmd)
+[← Zeit bis Eintritt](wartezeit.qmd)
+[Operationstag →](eintrittstag.qmd)
 :::
 
 {{< include ../_governance.qmd >}}

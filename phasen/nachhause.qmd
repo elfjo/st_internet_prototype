@@ -1,10 +1,10 @@
 ---
-title: "Ich gehe nach Hause"
+title: "Austritt und Erholung zu Hause"
 ---
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[← In der Klinik](aufenthalt.qmd)
+[← Aufenthalt](aufenthalt.qmd)
 :::
 
 
@@ -13,11 +13,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 ::: {.stepper}
-**Ihr Weg:** [Ich entscheide mich](entscheidung.qmd) → [Ich nutze die
-Zeit bis zur Operation optimal](wartezeit.qmd) → [Ich bereite mich auf
-den Eintritt vor](vorbereitung.qmd) → [Mein
-Eintrittstag](eintrittstag.qmd) → [Ich bin in der
-Klinik](aufenthalt.qmd) → **Ich gehe nach Hause**
+**Ihr Weg:** [Die Entscheidung](entscheidung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Vor der Operation](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → **Austritt und Erholung zu Hause**
 :::
 
 [Der Austritt ist ein Übergang: was am letzten Tag passiert, was Sie
@@ -97,7 +93,7 @@ was die Klinik mit den Rückmeldungen macht.]{.ph}
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[← In der Klinik](aufenthalt.qmd)
+[← Aufenthalt](aufenthalt.qmd)
 :::
 
 {{< include ../_governance.qmd >}}

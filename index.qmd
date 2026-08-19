@@ -11,9 +11,10 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 Aufenthalts, von der Entscheidung zur Operation bis zur Erholung zu Hause.]{.lede}
 
 ::: {.eilig-teaser}
-Ich habe gerade wenig Zeit und möchte nur das Allerwichtigste wissen.
+Was möchten Sie wissen? Wenn Sie eine konkrete Frage haben oder gerade
+wenig Zeit: Hier finden Sie die Antworten nach Themen sortiert.
 
-[Zu den gebündelten Informationen →](eilig.qmd)
+[Direkt zu Ihrer Frage →](eilig.qmd)
 :::
 
 ## Ihr Weg durch den Aufenthalt
@@ -23,53 +24,54 @@ Vorbereitung. Sie sind eingeladen, den Schritten der Reihe nach zu
 folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
 
 ::: {.phasen}
-1. [Ich entscheide mich](phasen/entscheidung.qmd)
+1. [Die Entscheidung](phasen/entscheidung.qmd)
 
    [Brauche ich diese Operation? Was sind meine Wahlmöglichkeiten, was sind
    die Alternativen? Welche Fragen stelle ich in der Sprechstunde?]{.p-frage}
 
-2. [Ich nutze die Zeit bis zur Operation optimal](phasen/wartezeit.qmd)
+2. [Die Zeit bis zum Eintritt](phasen/wartezeit.qmd)
 
-   [Bewegung, Ernährung, Gewohnheiten — und was tue ich, wenn sich mein Gesundheitszustand
-   verschlechtern sollte?]{.p-frage}
+   [Wie nutze ich die Wochen vor der Operation für mich? Bewegung,
+   Ernährung, Gewohnheiten — und was tue ich, wenn sich mein
+   Gesundheitszustand verschlechtern sollte?]{.p-frage}
 
-3. [Ich bereite mich gut auf den Eintritt vor](phasen/vorbereitung.qmd)
+3. [Vor der Operation](phasen/vorbereitung.qmd)
 
    [Was ist hilfreich vor der Operation zu erledigen? Medikamente, Essen und
    Trinken, Packliste — und die Planung für die Zeit nach dem
    Austritt.]{.p-frage}
 
-::: {.zusatz-karte}
-**Falls ich zusatzversichert bin** (halbprivat oder privat)
-
-Mit Zusatzversicherung kommen Wahlmöglichkeiten und Komfort hinzu — vom Wunscharzt bis zum Einzelzimmer.
-
-[Meine Zusatzleistungen im Überblick →](zusatzversichert.qmd)
-:::
-
-4. [Mein Eintrittstag](phasen/eintrittstag.qmd)
+4. [Eintritt und Operationstag](phasen/eintrittstag.qmd)
 
    [Wo melde ich mich an? Wie sind die Abläufe? Wie lange
    ist Zeit bis es losgeht?]{.p-frage}
 
-5. [Ich bin in der Klinik](phasen/aufenthalt.qmd)
+5. [Der Aufenthalt in der Klinik](phasen/aufenthalt.qmd)
 
    [Wie sieht mein Tag aus? Wer betreut mich? An wen wende ich mich bei Fragen?]{.p-frage}
 
-6. [Ich gehe nach Hause](phasen/nachhause.qmd)
+6. [Austritt und Erholung zu Hause](phasen/nachhause.qmd)
 
    [Austritt, Nachkontrolle, Unterstützung im Alltag — und bei welchen
    Anzeichen ich mich sofort melden sollte.]{.p-frage}
 :::
 
-## Ihre Operation im Detail
+## Welche Operation bekommen Sie?
 
-Zusätzlich zum allgemeinen Weg finden Sie hier zu unseren häufigsten Eingriffen
-eine eigene Seite mit allen Schritten — vom Grund für die Operation bis
-zur Erholung:
+Zu unseren häufigsten Eingriffen finden Sie eine eigene Seite mit allen
+Schritten — vom Grund für die Operation bis zur Erholung. Ihr
+persönlicher Weg beginnt am besten dort:
 
-- [Künstliches Hüftgelenk (Hüftprothese)](behandlungen/hueftprothese.qmd)
-- [weitere Eingriffe nach demselben Muster]{.ph}
+::: {.op-wahl}
+[Hüftprothese](behandlungen/hueftprothese.qmd)
+[Knieprothese]{.ph}
+[weitere Operationen]{.ph}
+:::
+
+## Gut zu wissen
+
+- [Das Wichtigste auf einem Blatt, zum Ausdrucken](merkblatt.qmd)
+- [Falls Sie zusatzversichert sind: Ihre Wahlleistungen](zusatzversichert.qmd)
 
 {{< include _feedback.qmd >}}
 

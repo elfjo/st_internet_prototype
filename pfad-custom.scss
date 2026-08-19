@@ -180,6 +180,50 @@ main > .mini-nav:last-of-type,
 .zusatz-karte p { margin: 0 0 0.35rem; max-width: none; }
 .zusatz-karte a { font-weight: 600; }
 
+/* ---------- Themenwahl (Was möchten Sie wissen?) ---------- */
+.themen ul {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 0.6rem;
+}
+.themen li { max-width: none; margin: 0; }
+.themen a, .themen .ph {
+  display: block;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.themen a:hover { background: var(--bg-soft); }
+
+/* ---------- Operationswahl auf der Startseite ---------- */
+.op-wahl p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1rem 0 1.5rem;
+  max-width: none;
+}
+.op-wahl a, .op-wahl .ph {
+  display: inline-block;
+  padding: 0.65rem 1.1rem;
+  min-height: 44px;
+  border-radius: 999px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.op-wahl a {
+  border: 1px solid var(--accent);
+  color: var(--accent-dark);
+  background: #fff;
+}
+.op-wahl a:hover { background: var(--accent); color: #fff; }
+.op-wahl .ph { border: 1px dashed var(--line); }
+
 /* ---------- Pfad-Stepper auf Phasenseiten ---------- */
 .stepper {
   font-size: 0.9rem;

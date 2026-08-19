@@ -1,11 +1,10 @@
 ---
-title: "Ich entscheide mich"
+title: "Die Entscheidung"
 ---
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[ ]{.mn-spacer}
-[Zeit nutzen →](wartezeit.qmd)
+[Zeit bis Eintritt →](wartezeit.qmd)
 :::
 
 
@@ -14,11 +13,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 ::: {.stepper}
-**Ihr Weg:** **Ich entscheide mich** → [Ich nutze die Zeit bis zur
-Operation optimal](wartezeit.qmd) → [Ich bereite mich auf den Eintritt
-vor](vorbereitung.qmd) → [Mein Eintrittstag](eintrittstag.qmd) → [Ich
-bin in der Klinik](aufenthalt.qmd) → [Ich gehe nach
-Hause](nachhause.qmd)
+**Ihr Weg:** **Die Entscheidung** → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Vor der Operation](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
 [Ob eine Operation der richtige Weg ist, entscheiden Sie — gut
@@ -97,8 +92,7 @@ Wenn Sie sich für die Operation entschieden haben:
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[ ]{.mn-spacer}
-[Zeit nutzen →](wartezeit.qmd)
+[Zeit bis Eintritt →](wartezeit.qmd)
 :::
 
 {{< include ../_governance.qmd >}}
