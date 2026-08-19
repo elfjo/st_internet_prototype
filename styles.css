@@ -1,0 +1,405 @@
+/* Pfad-Skelett — Struktur-Prototyp, kein Design-Entwurf.
+   Bewusst zurückhaltend: Die Architektur soll sichtbar sein, nicht die Gestaltung. */
+
+:root {
+  --ink: #1a2733;
+  --ink-soft: #46586a;
+  --line: #d5dde4;
+  --bg: #ffffff;
+  --bg-soft: #f4f7f9;
+  --accent: #0b5fa5;      /* Informationszone */
+  --accent-dark: #08466f;
+  --contact: #5a5148;     /* Kontaktzone, bewusst andere Sprache */
+  --warn-border: #b45309;
+  --warn-bg: #fff7ed;
+  --care-border: #b91c1c;
+  --care-bg: #fef2f2;
+  --ok: #15803d;
+  --placeholder: #7c3aed;
+  --maxw: 44rem;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 100%; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+/* ---------- Skip-Link ---------- */
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: var(--accent-dark);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  z-index: 10;
+}
+.skip-link:focus { left: 0.5rem; top: 0.5rem; }
+
+/* ---------- Kopfzeile: zwei Zonen ---------- */
+header.site {
+  border-bottom: 1px solid var(--line);
+}
+.site-inner {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0.75rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.brand {
+  font-weight: 700;
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 1rem;
+}
+.brand span { color: var(--ink-soft); font-weight: 400; }
+
+/* Kontaktzone: eigene, gedeckte Sprache. Kein CTA im Inhalt. */
+.zone-kontakt {
+  font-size: 0.9rem;
+  color: var(--contact);
+}
+.zone-kontakt a {
+  color: var(--contact);
+  text-decoration: underline;
+  padding: 0.5rem 0.25rem;   /* Zielgrösse */
+  display: inline-block;
+}
+
+/* ---------- Grundlayout ---------- */
+main {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 1.5rem 1rem 3rem;
+}
+
+h1 { font-size: 1.9rem; line-height: 1.25; margin: 0.5rem 0 0.5rem; }
+h2 { font-size: 1.4rem; margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--line); }
+h3 { font-size: 1.15rem; margin-top: 1.5rem; }
+
+p, li { max-width: 38em; }
+
+a { color: var(--accent); }
+a:focus-visible, button:focus-visible, summary:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Genau ein Zusammenfassungssatz unter der H1 (NHS-Muster) */
+.lede {
+  font-size: 1.2rem;
+  color: var(--ink-soft);
+  margin-top: 0;
+}
+
+/* ---------- Phasen-Einstieg (index) ---------- */
+ol.phasen {
+  list-style: none;
+  counter-reset: phase;
+  margin: 2rem 0;
+  padding: 0;
+}
+ol.phasen li {
+  counter-increment: phase;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
+  max-width: none;
+}
+ol.phasen a {
+  display: flex;
+  gap: 1rem;
+  align-items: baseline;
+  padding: 1rem 1.25rem;
+  text-decoration: none;
+  color: var(--ink);
+}
+ol.phasen a:hover { background: var(--bg-soft); }
+ol.phasen a::before {
+  content: counter(phase);
+  flex: 0 0 auto;
+  font-weight: 700;
+  color: var(--accent);
+  font-size: 1.3rem;
+  min-width: 1.5rem;
+}
+ol.phasen .p-titel {
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: underline;
+}
+ol.phasen .p-frage {
+  display: block;
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+  font-weight: 400;
+}
+
+/* ---------- Pfad-Stepper auf Phasenseiten ---------- */
+nav.stepper {
+  font-size: 0.9rem;
+  margin: 1rem 0 2rem;
+  padding: 0.75rem 1rem;
+  background: var(--bg-soft);
+  border-radius: 8px;
+}
+nav.stepper ol {
+  list-style: none;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.75rem;
+}
+nav.stepper li::after { content: " →"; color: var(--line); }
+nav.stepper li:last-child::after { content: ""; }
+nav.stepper [aria-current="step"] {
+  font-weight: 700;
+  color: var(--accent-dark);
+}
+nav.stepper a { padding: 0.25rem 0; display: inline-block; }
+
+/* Inhaltsverzeichnis der Seite */
+nav.toc {
+  border-left: 4px solid var(--line);
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+nav.toc ol { margin: 0.25rem 0 0; padding-left: 1.2rem; }
+nav.toc li { margin: 0.2rem 0; }
+
+/* ---------- Warnhinweis (max. 2 pro Seite, inhaltliche Überschrift) ---------- */
+.warnung {
+  border: 1px solid var(--warn-border);
+  border-left-width: 6px;
+  background: var(--warn-bg);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+.warnung h3, .warnung h2 {
+  margin: 0 0 0.5rem;
+  padding: 0;
+  border: none;
+  font-size: 1.1rem;
+}
+.warnung p:last-child { margin-bottom: 0; }
+
+/* ---------- Care Card: sofort melden ---------- */
+.care {
+  border: 1px solid var(--care-border);
+  border-left-width: 6px;
+  background: var(--care-bg);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+.care h2, .care h3 {
+  margin: 0 0 0.5rem;
+  padding: 0;
+  border: none;
+  font-size: 1.1rem;
+}
+
+/* ---------- Progressive Disclosure ---------- */
+details {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  margin: 0.75rem 0;
+  padding: 0;
+}
+details summary {
+  cursor: pointer;
+  padding: 0.75rem 1rem;
+  font-weight: 600;
+  list-style-position: inside;
+}
+details[open] summary { border-bottom: 1px solid var(--line); }
+details .d-body { padding: 0.75rem 1.25rem; }
+
+/* ---------- Task-Liste (NHS-Muster) ---------- */
+ul.tasks {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  max-width: none;
+}
+ul.tasks li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.85rem 1.25rem;
+  border-bottom: 1px solid var(--line);
+  max-width: none;
+}
+ul.tasks li:last-child { border-bottom: none; }
+.task-status {
+  flex: 0 0 auto;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.st-offen   { background: var(--bg-soft); color: var(--ink-soft); border: 1px solid var(--line); }
+.st-gesperrt{ background: #fff; color: var(--ink-soft); border: 1px dashed var(--line); }
+.st-erledigt{ background: #ecfdf3; color: var(--ok); border: 1px solid #bbe5c8; }
+
+/* ---------- Risikotabelle (RCoA-Muster) ---------- */
+table.risiko {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.95rem;
+  margin: 1rem 0;
+}
+table.risiko caption {
+  text-align: left;
+  font-weight: 600;
+  padding-bottom: 0.5rem;
+}
+table.risiko th, table.risiko td {
+  border: 1px solid var(--line);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+table.risiko th { background: var(--bg-soft); }
+
+/* ---------- Platzhalter-Markierung ---------- */
+.ph {
+  color: var(--placeholder);
+  font-style: italic;
+}
+.ph::before { content: "⟨"; }
+.ph::after  { content: "⟩"; }
+
+.hinweis-prototyp {
+  font-size: 0.85rem;
+  background: #f5f3ff;
+  border: 1px dashed var(--placeholder);
+  border-radius: 6px;
+  padding: 0.6rem 1rem;
+  color: #4c1d95;
+  margin: 1rem 0;
+}
+
+/* ---------- Praxisblock, getrennt vom klinischen Pfad ---------- */
+.praxis {
+  background: var(--bg-soft);
+  border-radius: 8px;
+  padding: 1rem 1.5rem 1.5rem;
+  margin-top: 2.5rem;
+}
+.praxis h2 { border: none; margin-top: 0.5rem; }
+
+/* ---------- Druckmodul vier Fragen ---------- */
+.fragen-modul {
+  border: 2px solid var(--accent);
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+}
+.fragen-modul h3 { margin-top: 0.25rem; }
+.drucken {
+  font-size: 0.9rem;
+  background: none;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  min-height: 44px;
+}
+
+/* ---------- Rechtshinweis ---------- */
+.rechtshinweis {
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  border-top: 1px solid var(--line);
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+}
+
+/* ---------- Feedback (MUMC+-Muster) ---------- */
+.feedback {
+  margin-top: 2.5rem;
+  padding: 1rem 1.25rem;
+  background: var(--bg-soft);
+  border-radius: 8px;
+}
+.feedback p { margin-top: 0; font-weight: 600; }
+.feedback button {
+  font-size: 0.95rem;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0.5rem 1rem;
+  min-height: 44px;
+  border: 1px solid var(--ink-soft);
+  border-radius: 6px;
+  background: #fff;
+  cursor: pointer;
+}
+.feedback .fb-danke { font-weight: 400; color: var(--ok); }
+
+/* ---------- Governance-Fusszeile ---------- */
+footer.governance {
+  border-top: 1px solid var(--line);
+  margin-top: 2rem;
+}
+.gov-inner {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 1rem;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+.gov-inner dl {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.2rem 1rem;
+  margin: 0.5rem 0;
+}
+.gov-inner dt { font-weight: 600; }
+.gov-inner dd { margin: 0; }
+
+/* ---------- Vor/Zurück am Seitenende (NHS-Muster) ---------- */
+nav.seq {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.95rem;
+}
+nav.seq a {
+  display: inline-block;
+  padding: 0.5rem 0;
+  max-width: 45%;
+}
+nav.seq .seq-label { display: block; color: var(--ink-soft); font-size: 0.8rem; }
+
+/* ---------- Druck ---------- */
+@media print {
+  header.site, nav.stepper, nav.seq, .feedback, .zone-kontakt { display: none; }
+  details { border: none; }
+  details .d-body { display: block; }
+  body { font-size: 11pt; }
+}

@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="de-CH">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ich bereite mich vor | Pfad-Skelett</title>
+<meta name="description" content="Was Sie vor Ihrer Operation erledigen: Medikamente, Essen und Trinken, Packliste und die Planung für die Zeit nach dem Austritt.">
+<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
+
+<header class="site">
+  <div class="site-inner">
+    <a class="brand" href="../index.html">Klinik <span>· Prototyp Patientenpfad</span></a>
+    <div class="zone-kontakt">
+      Kontakt &amp; Anmeldung: <a href="#kontaktzone">Patientenadministration</a>
+    </div>
+  </div>
+</header>
+
+<main id="inhalt">
+
+  <p class="hinweis-prototyp">Struktur-Prototyp. Klinische Angaben sind
+  Platzhalter, ⟨so markiert⟩, und brauchen vor jeder Verwendung eine
+  fachliche Freigabe.</p>
+
+  <nav class="stepper" aria-label="Ihr Weg">
+    <strong>Ihr Weg:</strong>
+    <ol>
+      <li><a href="#">Ich entscheide mich</a></li>
+      <li><a href="#">Ich warte auf meinen Termin</a></li>
+      <li aria-current="step">Ich bereite mich vor</li>
+      <li><a href="#">Mein Eintrittstag</a></li>
+      <li><a href="#">Ich bin in der Klinik</a></li>
+      <li><a href="#">Ich gehe nach Hause</a></li>
+    </ol>
+  </nav>
+
+  <h1>Ich bereite mich vor</h1>
+  <p class="lede">Was Sie vor Ihrer Operation erledigen: Medikamente,
+  Essen und Trinken, Packliste — und die Planung für die Zeit nach dem
+  Austritt.</p>
+
+  <nav class="toc" aria-label="Auf dieser Seite">
+    <strong>Auf dieser Seite</strong>
+    <ol>
+      <li><a href="#erledigen">Was Sie jetzt erledigen</a></li>
+      <li><a href="#medikamente">Ihre Medikamente</a></li>
+      <li><a href="#nuechtern">Essen und Trinken vor dem Eintritt</a></li>
+      <li><a href="#koerperpflege">Körperpflege</a></li>
+      <li><a href="#austrittsplanung">Jetzt schon an den Austritt denken</a></li>
+      <li><a href="#packliste">Packliste</a></li>
+    </ol>
+  </nav>
+
+  <h2 id="erledigen">Was Sie jetzt erledigen</h2>
+  <p>Diese Liste zeigt Ihnen alle Aufgaben bis zum Eintrittstag. Manche
+  sind erst später möglich — Sie sehen, welche.</p>
+
+  <ul class="tasks">
+    <li>
+      <span>Eintrittsformular ausfüllen und zurücksenden</span>
+      <span class="task-status st-offen">Offen</span>
+    </li>
+    <li>
+      <span>Medikamentenliste bereitlegen und <a href="#medikamente">prüfen,
+      welche Sie pausieren</a></span>
+      <span class="task-status st-offen">Offen</span>
+    </li>
+    <li>
+      <span>Fahrt nach Hause und Unterstützung für die erste Woche
+      organisieren</span>
+      <span class="task-status st-offen">Offen</span>
+    </li>
+    <li>
+      <span>Anruf der Anästhesieärztin am Tag vor der Operation
+      entgegennehmen</span>
+      <span class="task-status st-gesperrt">Noch nicht möglich</span>
+    </li>
+    <li>
+      <span>Eintrittszeit per SMS erhalten (am Vortag)</span>
+      <span class="task-status st-gesperrt">Noch nicht möglich</span>
+    </li>
+  </ul>
+
+  <h2 id="medikamente">Ihre Medikamente</h2>
+  <p>Die meisten Medikamente nehmen Sie normal weiter. Zwei Gruppen sind
+  die wichtige Ausnahme. Öffnen Sie den Abschnitt, der auf Sie
+  zutrifft:</p>
+
+  <details>
+    <summary>Ich nehme Blutverdünner</summary>
+    <div class="d-body">
+      <p>Blutverdünner (zum Beispiel ⟨Aspirin cardio, Marcoumar,
+      Eliquis, Xarelto⟩) müssen vor einer Operation oft pausiert
+      werden — aber nie auf eigene Faust.</p>
+      <p>⟨Wer entscheidet, wann was pausiert wird; wer den Patienten
+      wann kontaktiert; Rückfragenummer.⟩</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Ich habe Diabetes</summary>
+    <div class="d-body">
+      <p>⟨Regeln für Tabletten (v. a. SGLT2-Hemmer) und Insulin am
+      Vortag und am Operationstag; Rückfragenummer.⟩</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Ich nehme pflanzliche Mittel oder Nahrungsergänzung</summary>
+    <div class="d-body">
+      <p>⟨Regel und Vorlaufzeit, z. B. zwei Wochen vorher absetzen;
+      Begründung: Wechselwirkung mit Narkose und Blutgerinnung.⟩</p>
+    </div>
+  </details>
+
+  <div class="warnung">
+    <h3>Pausieren Sie Blutverdünner nie ohne Rücksprache</h3>
+    <p>Ob und wann Sie Blutverdünner absetzen, legt Ihre Ärztin oder
+    Ihr Arzt mit Ihnen fest. Eigenmächtiges Absetzen kann gefährlich
+    sein — eigenmächtiges Weiternehmen auch. Wenn Sie unsicher sind:
+    ⟨Telefonnummer⟩.</p>
+  </div>
+
+  <h2 id="nuechtern">Essen und Trinken vor dem Eintritt</h2>
+  <!-- Bestehender St.-Anna-Text, fast wörtlich übernommen.
+       Beleg dafür, dass der Umbau ein Zerlege-, kein Schreibprojekt ist. -->
+  <p>Am Eintrittstag findet Ihr operativer Eingriff statt. Für Ihre
+  Sicherheit ist es wichtig, dass Sie dafür nüchtern sind.</p>
+  <ul>
+    <li>Bis <strong>sechs Stunden</strong> vor Ihrer Eintrittszeit
+    können Sie etwas Leichtes essen. Danach essen Sie nichts mehr.</li>
+    <li>Bis <strong>zwei Stunden</strong> vor Ihrem Eintritt dürfen Sie
+    Wasser ohne Kohlensäure, Tee und schwarzen Kaffee (ohne Milch, ohne
+    Rahm) trinken.</li>
+    <li>In den <strong>zwei Stunden unmittelbar vor dem Eintritt</strong>
+    nehmen Sie gar nichts mehr zu sich, auch keine Bonbons oder
+    Kaugummis.</li>
+  </ul>
+
+  <div class="warnung">
+    <h3>Warum das wichtig ist</h3>
+    <p>Ein leerer Magen schützt Sie während der Narkose davor, dass
+    Mageninhalt in die Lunge gelangt. Wenn Sie nicht nüchtern sind,
+    muss Ihre Operation unter Umständen kurzfristig verschoben
+    werden.</p>
+  </div>
+
+  <h2 id="koerperpflege">Körperpflege</h2>
+  <p>Duschen Sie vor dem Spitaleintritt. Verwenden Sie danach kein
+  Make-up und keine Gesichts- oder Bodylotion — sie behindern die
+  Wirkung des Desinfektionsmittels. Entfernen Sie Nagellack. Rasieren
+  Sie das Operationsgebiet nicht selbst: Kleine Hautverletzungen
+  erhöhen das Infektionsrisiko. Falls nötig, übernehmen wir das in der
+  Klinik.</p>
+
+  <h2 id="austrittsplanung">Jetzt schon an den Austritt denken</h2>
+  <p>Die Zeit nach der Operation lässt sich am besten planen, bevor Sie
+  eintreten. Klären Sie vor dem Eintritt:</p>
+  <ul>
+    <li>Wer holt Sie ab? Nach einer Narkose dürfen Sie nicht selbst
+    fahren.</li>
+    <li>Wer unterstützt Sie zu Hause in der ersten Woche — beim
+    Einkaufen, Kochen, im Haushalt?</li>
+    <li>Brauchen Sie Hilfsmittel (⟨z. B. Gehstöcke, erhöhter
+    Toilettensitz⟩)? ⟨Wer organisiert sie, die Klinik oder Sie?⟩</li>
+    <li>Falls eine Rehabilitation oder Spitex nötig wird: ⟨Das klärt
+    unser Austrittsmanagement mit Ihnen während des Aufenthalts. Sie
+    müssen nichts vorab organisieren, aber Ihre Zusatzversicherung
+    lohnt einen Blick.⟩</li>
+  </ul>
+
+  <h2 id="packliste">Packliste</h2>
+  <details>
+    <summary>Dokumente</summary>
+    <div class="d-body">
+      <p>⟨Versichertenkarte, amtlicher Ausweis, Medikamentenliste,
+      Allergiepass, Blutverdünner-Ausweis, Diabetes-Ausweis,
+      Schrittmacher-Ausweis, Patientenverfügung falls vorhanden.⟩</p>
+    </div>
+  </details>
+  <details>
+    <summary>Persönliches</summary>
+    <div class="d-body">
+      <p>⟨Bequeme Kleidung, feste rutschfeste Schuhe, Toilettenartikel,
+      Brille/Hörgerät samt Etui und Ersatzbatterien, Handy und
+      Ladekabel.⟩</p>
+    </div>
+  </details>
+  <details>
+    <summary>Was Sie zu Hause lassen</summary>
+    <div class="d-body">
+      <p>⟨Schmuck, Wertsachen, grössere Geldbeträge.⟩</p>
+    </div>
+  </details>
+
+  <section class="feedback" aria-label="Rückmeldung zu dieser Seite">
+    <p>War diese Seite hilfreich?</p>
+    <button type="button" onclick="fb(this,'Danke für Ihre Rückmeldung.')">Ja</button>
+    <button type="button" onclick="fb(this,'Danke. Wir überarbeiten die Seite und prüfen sie mit Patientinnen und Patienten.')">Ich finde die Seite zu schwierig</button>
+    <button type="button" onclick="fb(this,'Danke. Was fehlt? Rufen Sie uns an oder schreiben Sie uns — Kontakt siehe oben.')">Mir fehlt etwas</button>
+    <span class="fb-danke" role="status"></span>
+  </section>
+
+  <nav class="seq" aria-label="Vorheriger und nächster Schritt">
+    <a href="#"><span class="seq-label">Zurück</span>Ich warte auf meinen Termin</a>
+    <a href="#"><span class="seq-label">Weiter</span>Mein Eintrittstag</a>
+  </nav>
+
+</main>
+
+<footer class="governance" id="kontaktzone">
+  <div class="gov-inner">
+    <dl>
+      <dt>Geprüft am</dt><dd><span class="ph">Datum</span></dd>
+      <dt>Nächste Prüfung</dt><dd><span class="ph">Datum + 2 Jahre</span></dd>
+      <dt>Fachliche Freigabe</dt><dd><span class="ph">Name, Funktion, Anästhesie</span></dd>
+    </dl>
+    <p>Herausgeberin dieser Seiten ist eine Klinik, die die
+    beschriebenen Behandlungen selbst anbietet. Unabhängige
+    Informationen finden Sie bei
+    <a href="https://www.gesundheitsinformation.de">gesundheitsinformation.de</a>.</p>
+  </div>
+</footer>
+
+<script>
+function fb(btn, msg){
+  var s = btn.parentElement.querySelector('.fb-danke');
+  s.textContent = msg;
+  btn.parentElement.querySelectorAll('button').forEach(function(b){ b.disabled = true; });
+}
+</script>
+</body>
+</html>
