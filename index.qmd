@@ -33,7 +33,7 @@ folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
    [Bewegung, Ernährung, Rauchstopp — und was tue ich, wenn sich mein Gesundheitszustand
    verschlechtern sollte?]{.p-frage}
 
-3. [Ich bereite mich auf den Eintritt optimal vor](phasen/vorbereitung.qmd)
+3. [Ich bereite mich gut auf den Eintritt vor](phasen/vorbereitung.qmd)
 
    [Was muss ich vor der Operation erledigen? Medikamente, Essen und
    Trinken, Packliste — und die Planung für die Zeit nach dem
