@@ -1,5 +1,5 @@
 ---
-title: "Mein geplanter Aufenthalt — Schritt für Schritt"
+title: "Beispiel elektiver stat. Eintritt — Schritt für Schritt"
 toc: false
 ---
 

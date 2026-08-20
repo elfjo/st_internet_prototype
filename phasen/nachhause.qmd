@@ -16,8 +16,8 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 **Ihr Weg:** [Die Entscheidung](entscheidung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Vor der Operation](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → **Austritt und Erholung zu Hause**
 :::
 
-[Der Austritt ist ein Übergang: wie der Austrittstag abläuft, was Sie
-mitnehmen und wie Ihre Erholung zu Hause weitergeht.]{.lede}
+[Mit dem Austritt zieht Ihre Erholung um: nach Hause. Wie der Tag
+abläuft, was Sie mitnehmen und wie es dort weitergeht.]{.lede}
 
 ## Der Austrittstag {#austrittstag}
 
@@ -28,8 +28,8 @@ an. [Kosten des Heimtransports; wer sie trägt.]{.ph}
 
 ## Das Austrittsgespräch: Ihre Checkliste {#austrittsgespraech}
 
-Mit diesen Punkten im Gepäck verlassen Sie die Klinik gut gerüstet.
-Haken Sie ab — und fragen Sie nach, bis alles beantwortet ist:
+Mit diesen Antworten im Gepäck gehen Sie sicher nach Hause. Haken Sie
+ab — und fragen Sie nach, bis alles beantwortet ist:
 
 ::: {.tasks-tbl}
 | Geklärt? | |
@@ -56,6 +56,10 @@ kleinen Dingen — der Weg zum Briefkasten wird selbstverständlich, der
 Schlaf tiefer. [Konkrete Alltagsangaben je nach Eingriff:
 Duschen, Treppen, Heben, Autofahren, Arbeit — verlinkt auf die
 jeweilige Behandlungsseite.]{.ph}
+
+Die allermeisten Verläufe gehen ruhig ihren Gang. Damit Sie sicher
+unterscheiden können, wofür Ihr Körper einfach Zeit braucht und was
+einen Anruf verdient:
 
 ::: {.care}
 ### Melden Sie sich sofort bei diesen Anzeichen

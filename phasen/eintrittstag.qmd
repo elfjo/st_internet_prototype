@@ -18,7 +18,8 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 [Wie der Tag der Aufnahme abläuft — Schritt für Schritt, von der
-Anmeldung bis in den Operationssaal.]{.lede}
+Anmeldung bis in den Operationssaal. Jeder Schritt ist vorbereitet;
+Sie dürfen sich an diesem Tag führen lassen.]{.lede}
 
 ## Ihre Eintrittszeit {#eintrittszeit}
 
@@ -40,9 +41,9 @@ Zweifel rufen Sie uns an — nicht die Nummer aus der Nachricht, sondern
 
 [Adresse, Eingang, Anfahrt; wo genau sich die Aufnahme befindet —
 idealerweise mit Foto des tatsächlichen Eingangs und des
-Anmeldetresens, damit Sie wiedererkennen statt suchen.]{.ph}
+Anmeldetresens, damit Sie wiedererkennen.]{.ph}
 
-Bei der Anmeldung brauchen wir: [Versichertenkarte, Ausweis,
+Für die Anmeldung halten Sie bereit: [Versichertenkarte, Ausweis,
 Unterlagen.]{.ph} Danach begleiten wir Sie [auf die Station / in den
 Vorbereitungsbereich]{.ph}.
 
@@ -50,29 +51,26 @@ Vorbereitungsbereich]{.ph}.
 
 So läuft der Vormittag ab:
 
-1. [Zimmerbezug oder Umkleiden, Patientenarmband — das Armband ist ein
-   Sicherheitsinstrument: Es stellt sicher, dass jede Behandlung zur
-   richtigen Person kommt.]{.ph}
-2. [Gespräch mit der Pflege: letzte Fragen, Kontrolle der
-   Nüchternheit und der Medikamente.]{.ph}
-3. [Die Anästhesistin oder der Anästhesist bespricht mit Ihnen das
-   weitere Vorgehen.]{.ph}
-4. Kurz vor der Operation bringen wir Sie in den Operationsbereich.
-   Dort werden Sie von Ihrem Bett auf den Operationstisch umgelagert —
-   das nennt sich «Einschleusen» und gehört zum normalen Ablauf. Ab
-   hier dürfen Sie alles Weitere getrost dem Team überlassen.
+1. [Zimmerbezug oder Umkleiden. Sie erhalten Ihr Patientenarmband —
+   es trägt Ihren Namen, damit jede und jeder im Behandlungsteam Sie auf den
+   ersten Blick immer deutlich zuordnen kann.]{.ph}
+2. [Gespräch mit der Pflege: Raum für Ihre offenen Fragen, dazu ein
+   gemeinsamer Blick auf Essen, Trinken und Medikamente — so ist
+   alles bereit.]{.ph}
+3. Kurz vor der Operation begleiten wir Sie in den Operationsbereich.
+   Dort nehmen Sie mit Unterstützung des Teams auf
+   der Operationsliege platz. Das ist ein eingespielter
+   Ablauf, durch den wir Sie hindurchführen. Ihre Aufgabe ist es, anzukommen und dabei mitzuhelfen, möglichst bequem zu liegen.
 
-## Warum Sie warten werden {#wartezeit}
+## Zwischen Ankunft und Operation {#wartezeit}
 
-Auch bei einem geplanten Eintritt kann es nach Ihrer Ankunft zu
-Wartezeiten kommen. Sie entstehen zum Beispiel durch zusätzliche
-medizinische Abklärungen, notwendige Vorbereitungen oder
-unvorhersehbare Ereignisse im Klinikalltag.
+Der Operationsplan eines Tages wird laufend fein abgestimmt —
+Ihre genaue Zeit erfahren Sie deshalb am Eintrittstag selbst. Zwischen
+Ankunft und Operation bleibt darum oft eine Wartezeit. Manchmal ist es nur eine halbe Stunde, manchmal sind es drei Stunden.
+Nehmen Sie sich etwas zum Lesen oder Hören mit und richten Sie sich bestmöglich ein. Wir versuchen, Ihnen das Warten möglichst erträglich zu gestalten.
 
-Meist erfahren Sie erst am Eintrittstag, an welcher Stelle Sie auf dem
-Operationsplan stehen. Nehmen Sie sich etwas zum Lesen oder Hören mit.
-Während Sie warten, bereitet Ihr Team im Hintergrund alles für Sie
-vor — Ihre Operation bekommt die Zeit und die Sorgfalt, die sie
+Diese Zeit arbeitet für Sie: Ihr Team bereitet im Hintergrund alles
+vor, und wo ein Notfall Vorrang bekommt, gilt dieselbe Regel, von der auch Sie profitieren — jede Operation erhält die Zeit und alle Sorgfalt, die sie
 braucht.
 
 ::: {.warnung}
@@ -80,7 +78,7 @@ braucht.
 
 Fieber, Husten, Erkältung oder Durchfall am Operationstag: Rufen Sie
 uns an, **bevor** Sie losfahren — [Telefonnummer]{.ph}. Gemeinsam
-entscheiden wir, ob die Operation stattfinden kann.
+entscheiden wir, was für Ihre Sicherheit der beste Weg ist.
 :::
 
 ## Ihre Angehörigen {#angehoerige}
