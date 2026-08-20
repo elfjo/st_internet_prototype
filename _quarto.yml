@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - robots.txt
+    - _headers
 
 lang: de
 
@@ -32,6 +35,9 @@ format:
     grid:
       body-width: 760px
     link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex, nofollow">
     include-after-body:
       text: |
         <script>

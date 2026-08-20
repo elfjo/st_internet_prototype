@@ -8,9 +8,9 @@ title: "Künstliches Hüftgelenk (Hüftprothese)"
 :::
 
 ::: {.hinweis-prototyp}
-Struktur-Prototyp. Inhalte aus der Motion-Broschüre (Stand 11/24)
-übernommen und umformuliert — alle klinischen Angaben vor Verwendung
-fachlich freigeben. Offene Punkte [so markiert]{.ph}.
+Struktur-Prototyp. Inhalte aus einer Klinikbroschüre übernommen und
+umformuliert — alle klinischen Angaben vor Verwendung fachlich
+freigeben. Offene Punkte [so markiert]{.ph}.
 :::
 
 [Wie die Operation abläuft, wie Sie sich vorbereiten und wie Sie
