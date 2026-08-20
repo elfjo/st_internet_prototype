@@ -15,10 +15,10 @@ statt kopiert. Zum Vergleich: [die Spondylodese-Seite](spondylodese.qmd)
 zeigt dieselben Inhalte als eine lange Seite.
 :::
 
-[Bei einer Hüftprothese erhält Ihr abgenutztes Hüftgelenk einen Ersatz,
-der Sie meist ein Leben lang begleitet — damit Sie wieder frei und
-sicher gehen, Treppen steigen und durchschlafen. Hier finden Sie Ihren
-Weg, Schritt für Schritt.]{.lede}
+[Bei einer Hüftprothese erhält Ihr Hüftgelenk einen Ersatz, der Sie
+meist ein Leben lang begleitet — damit Sie wieder frei und sicher
+gehen, Treppen steigen und durchschlafen. Hier finden Sie Ihren Weg,
+Schritt für Schritt.]{.lede}
 
 ## Ihr Weg, Schritt für Schritt
 
