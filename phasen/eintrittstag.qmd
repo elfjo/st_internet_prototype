@@ -4,7 +4,7 @@ title: "Eintritt und Operationstag"
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[← Vor der Operation](vorbereitung.qmd)
+[← Vorbereitung](vorbereitung.qmd)
 [Aufenthalt →](aufenthalt.qmd)
 :::
 
@@ -14,7 +14,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 ::: {.stepper}
-**Ihr Weg:** [Die Entscheidung](entscheidung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Vor der Operation](vorbereitung.qmd) → **Eintritt und Operationstag** → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
+**Ihr Weg:** [Die Entscheidung](entscheidung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Gut vorbereitet zum Eintritt](vorbereitung.qmd) → **Eintritt und Operationstag** → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
 [Wie der Tag der Aufnahme abläuft — Schritt für Schritt, von der
@@ -88,7 +88,7 @@ einer Nachricht nach der Operation zu rechnen ist.]{.ph}
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[← Vor der Operation](vorbereitung.qmd)
+[← Vorbereitung](vorbereitung.qmd)
 [Aufenthalt →](aufenthalt.qmd)
 :::
 
