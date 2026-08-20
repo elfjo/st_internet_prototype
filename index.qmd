@@ -62,19 +62,19 @@ Zu unseren häufigsten Eingriffen finden Sie eine eigene Seite mit allen
 Schritten — vom Grund für die Operation bis zur Erholung. Ihr
 persönlicher Weg beginnt am besten dort:
 
-::: {.op-wahl}
-[Hüftprothese](behandlungen/hueftprothese.qmd)
-[Wirbelsäule: Spondylodese](behandlungen/spondylodese.qmd)
-[Knieprothese]{.ph}
-[weitere Operationen]{.ph}
-:::
-
 ::: {.hinweis-prototyp}
 Architektur-Demo, zwei Varianten zum Vergleichen:
 **Hüftprothese** zeigt den «Eingriffskosmos» — eine Einstiegsseite mit
 sechs kurzen Schritt-Seiten, Allgemeines wird zentral gepflegt und
 verlinkt. **Spondylodese** zeigt die Langseiten-Variante — alle
 Inhalte auf einer durchgehenden Seite.
+:::
+
+::: {.op-wahl}
+[Hüftprothese](behandlungen/hueftprothese.qmd)
+[Wirbelsäule: Spondylodese](behandlungen/spondylodese.qmd)
+[Knieprothese]{.ph}
+[weitere Operationen]{.ph}
 :::
 
 ## Gut zu wissen

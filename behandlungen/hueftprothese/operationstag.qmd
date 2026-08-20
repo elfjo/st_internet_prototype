@@ -45,11 +45,26 @@ Beinen kehrt von selbst zurück. Nach **2 bis 3 Stunden** begleiten wir
 Sie auf Ihr Zimmer. Auf Wunsch informieren wir Ihre Angehörigen, wie
 die Operation verlaufen ist.
 
+## Das Wichtigste in Kürze {#kurz}
+
+Ihre Eintrittszeit erhalten Sie [am Vortag per SMS]{.ph}. Zwischen
+Ankunft und Operation bleibt oft Zeit — nehmen Sie sich etwas zum
+Lesen oder Hören mit; Ihr Team bereitet währenddessen alles für Sie
+vor.
+
+::: {.warnung}
+### Wenn Sie am Eintrittstag krank sind
+
+Fieber, Husten, Erkältung oder Durchfall: Rufen Sie uns an, **bevor**
+Sie losfahren — [Telefonnummer]{.ph}. Gemeinsam entscheiden wir, was
+für Ihre Sicherheit der beste Weg ist.
+:::
+
 ::: {.zusatz-karte}
 **Für alle Operationen gilt** — zentral gepflegt, immer aktuell:
 
-[Eintrittszeit per SMS, Anmeldung, Ablauf des Vormittags →](../../phasen/eintrittstag.qmd) ·
-[Wenn Sie am Eintrittstag krank sind →](../../phasen/eintrittstag.qmd#wartezeit)
+[Eintritt und Operationstag im Detail: Anmeldung, Armband, Ablauf des
+Vormittags →](../../phasen/eintrittstag.qmd)
 :::
 
 ::: {.mini-nav}
