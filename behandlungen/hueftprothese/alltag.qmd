@@ -18,6 +18,22 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 [Der Alltag ist Ihre beste Therapie — mit jedem Tag wird Ihre
 Gehstrecke länger.]{.lede}
 
+## Das Austrittsgespräch: Ihre Checkliste {#austrittsgespraech}
+
+Mit diesen Antworten im Gepäck gehen Sie sicher nach Hause. Haken Sie
+ab — und fragen Sie nach, bis alles beantwortet ist:
+
+::: {.tasks-tbl}
+| Geklärt? | |
+|--------------------------------------------------------------|:--|
+| Welche Medikamente nehme ich — was ist neu, was fällt weg? | [Offen]{.st .st-offen} |
+| Wie versorge ich die Wunde, wann dürfen die Fäden raus? | [Offen]{.st .st-offen} |
+| Was darf ich ab wann wieder tun? | [Offen]{.st .st-offen} |
+| Bei welchen Anzeichen melde ich mich, und wo? | [Offen]{.st .st-offen} |
+| Wann und wo ist die Nachkontrolle? | [Offen]{.st .st-offen} |
+| Habe ich Austrittsbericht, Rezepte und Arbeitsunfähigkeitszeugnis? | [Offen]{.st .st-offen} |
+:::
+
 ## Die ersten Wochen {#erste-wochen}
 
 Für die Heimfahrt lassen Sie sich fahren — so kommen Sie sicher und
@@ -89,11 +105,24 @@ unter [Nummer]{.ph}, danach die Person, die Sie operiert hat, oder
 Ihre Hausarztpraxis. Nehmen Sie Antibiotika nur nach Rücksprache.
 :::
 
+## Unterstützung im Alltag {#unterstuetzung}
+
+Wenn Sie zu Hause Unterstützung möchten: [Spitex, Haushaltshilfe,
+Mahlzeitendienst, Rehabilitation — was das Austrittsmanagement bereits
+organisiert hat, und an wen Sie sich nachträglich wenden.]{.ph} Hilfe
+anzunehmen beschleunigt die Erholung — und Schritt für Schritt
+übernehmen Sie wieder selbst.
+
+## Nachkontrolle {#nachkontrolle}
+
+[Wann die Nachkontrolle stattfindet, bei wem, wie der Termin zustande
+kommt.]{.ph} Notieren Sie sich bis dahin, was Sie beschäftigt — jede
+Frage hat dort Platz.
+
 ::: {.zusatz-karte}
 **Für alle Operationen gilt** — zentral gepflegt, immer aktuell:
 
-[Austritt und Erholung zu Hause: Austrittsgespräch, Unterstützung,
-Nachkontrolle →](../../phasen/nachhause.qmd)
+[Austritt und Erholung zu Hause im allgemeinen Wegweiser →](../../phasen/nachhause.qmd)
 :::
 
 ::: {.mini-nav}

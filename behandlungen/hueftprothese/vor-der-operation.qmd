@@ -16,8 +16,27 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 **Mein Weg:** [Entscheidung](entscheidung.qmd) → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → **Vor der Operation** → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
 :::
 
-[Drei Termine bereiten Sie vor — und ab Tag 5 übernimmt Ihre Haut
-einen Teil der Arbeit.]{.lede}
+[Drei Termine bereiten Sie vor, dazu Medikamente, Essen und Trinken,
+Packliste — und ab Tag 5 übernimmt Ihre Haut einen Teil der
+Arbeit.]{.lede}
+
+## Was Sie jetzt erledigen {#erledigen}
+
+Diese Liste zeigt Ihnen alle Aufgaben bis zum Eintrittstag — so haben
+Sie jederzeit den Überblick. Manche werden erst später möglich; Sie
+sehen hier, welche.
+
+::: {.tasks-tbl}
+| Aufgabe | Status |
+|---------------------------------------------------------------|:--|
+| Eintrittsformular ausfüllen und zurücksenden | [Offen]{.st .st-offen} |
+| Übungstermin bei der Physiotherapie und Anästhesiegespräch besuchen | [Offen]{.st .st-offen} |
+| Medikamentenliste bereitlegen und [prüfen, welche Sie pausieren](#medikamente) | [Offen]{.st .st-offen} |
+| Fahrt nach Hause und Unterstützung für die erste Woche organisieren | [Offen]{.st .st-offen} |
+| Waschbehandlung ab Tag 5 durchführen (falls verordnet) | [Noch nicht möglich]{.st .st-gesperrt} |
+| Anruf der Anästhesieärztin am Tag vor der Operation entgegennehmen | [Noch nicht möglich]{.st .st-gesperrt} |
+| Eintrittszeit per SMS erhalten (am Vortag) | [Noch nicht möglich]{.st .st-gesperrt} |
+:::
 
 ## Ihre drei Vorbereitungstermine {#termine}
 
@@ -28,27 +47,118 @@ Abklärung**. Nehmen Sie zu diesen Terminen die Person mit, die Sie
 nach der Operation unterstützen wird — sie hört mit und weiss dann,
 worauf es ankommt.
 
-## Das Wichtigste in Kürze {#kurz}
+## Ihre Medikamente {#medikamente}
 
-**Ihre Medikamente:** Die meisten nehmen Sie normal weiter.
-Blutverdünner pausieren Sie nach dem Fahrplan, den Sie gemeinsam mit
-Ihrer Ärztin oder Ihrem Arzt festlegen.
+Die meisten Medikamente nehmen Sie normal weiter. Zwei Gruppen sind die
+wichtige Ausnahme. Öffnen Sie den Abschnitt, der auf Sie zutrifft:
 
-**Essen und Trinken:** Leichtes Essen bis **6 Stunden** vor der
-Eintrittszeit; Wasser, Tee und schwarzer Kaffee bis **2 Stunden**
-vorher; danach gar nichts mehr. So schützt der leere Magen während
-der Narkose Ihre Atemwege.
+::: {.callout-note collapse="true" icon="false"}
+### Ich nehme Blutverdünner
 
-**Jetzt schon an den Austritt denken:** Wer holt Sie ab? Wer
-unterstützt Sie in der ersten Woche? Was vor dem Eintritt geregelt
-ist, gibt Ihnen nachher den Kopf frei für die Erholung.
+Blutverdünner (zum Beispiel [Aspirin cardio, Marcoumar, Eliquis,
+Xarelto]{.ph}) werden vor einer Operation oft pausiert. Den genauen
+Fahrplan dafür legen Sie gemeinsam mit Ihrer Ärztin oder Ihrem Arzt
+fest.
 
-## Hautvorbereitung ab Tag 5 {#haut}
+[Wer entscheidet, wann was pausiert wird; wer den Patienten wann
+kontaktiert; Rückfragenummer.]{.ph}
+:::
 
-Fünf Tage vor der Operation beginnen Sie mit einer speziellen
-Waschbehandlung (Dekolonisation). Sie reduziert die Keime auf der Haut
-und schützt so Ihr neues Gelenk vor Infektionen. Die Anleitung dazu
+::: {.callout-note collapse="true" icon="false"}
+### Ich habe Diabetes
+
+[Regeln für Tabletten (v. a. SGLT2-Hemmer) und Insulin am Vortag und am
+Operationstag; Rückfragenummer.]{.ph}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Ich nehme pflanzliche Mittel oder Nahrungsergänzung
+
+[Regel und Vorlaufzeit, z. B. zwei Wochen vorher absetzen; Begründung:
+Wechselwirkung mit Narkose und Blutgerinnung.]{.ph}
+:::
+
+::: {.warnung}
+### Pausieren Sie Blutverdünner nie ohne Rücksprache
+
+Ob und wann Sie Blutverdünner pausieren, legen Sie gemeinsam mit Ihrer
+Ärztin oder Ihrem Arzt fest — so bleiben Ihre Gerinnung und Ihre
+Operation gleichermassen geschützt. Im Zweifel genügt ein Anruf:
+[Telefonnummer]{.ph}.
+:::
+
+## Essen und Trinken vor dem Eintritt {#nuechtern}
+
+Am Eintrittstag findet Ihre Operation statt. Für Ihre Sicherheit ist
+es wichtig, dass Sie dafür nüchtern sind.
+
+- Bis **sechs Stunden** vor Ihrer Eintrittszeit können Sie etwas
+  Leichtes essen. Danach essen Sie nichts mehr.
+- Bis **zwei Stunden** vor Ihrem Eintritt dürfen Sie Wasser ohne
+  Kohlensäure, Tee und schwarzen Kaffee (ohne Milch, ohne Rahm)
+  trinken.
+- In den **zwei Stunden unmittelbar vor dem Eintritt** nehmen Sie gar
+  nichts mehr zu sich, auch keine Bonbons oder Kaugummis.
+
+Warum das wichtig ist: Ein leerer Magen schützt während der Narkose
+Ihre Atemwege. Wenn Sie sich an diese Zeiten halten, tragen Sie selbst
+dazu bei, dass Ihre Operation sicher und wie geplant stattfinden kann.
+
+## Körperpflege und Hautvorbereitung {#haut}
+
+Mit wenigen Handgriffen bereiten Sie Ihre Haut optimal auf den
+Eingriff vor: Duschen Sie vor dem Spitaleintritt und lassen Sie die
+Haut danach frei — so kann das Desinfektionsmittel voll wirken.
+Entfernen Sie Nagellack. Die Rasur des Operationsgebiets übernehmen
+wir, falls nötig, in der Klinik — unversehrte Haut ist der beste
+Schutz vor Infektionen.
+
+Zusätzlich beginnen Sie **fünf Tage vor der Operation** mit einer
+speziellen Waschbehandlung (Dekolonisation). Sie reduziert die Keime
+auf der Haut und schützt so Ihr neues Gelenk. Die Anleitung dazu
 erhalten Sie rechtzeitig von Ihrem Behandlungsteam.
+
+## Jetzt schon an den Austritt denken {#austrittsplanung}
+
+Die Zeit nach der Operation lässt sich am besten planen, bevor Sie
+eintreten — so kommen Sie in ein vorbereitetes Zuhause zurück. Klären
+Sie vor dem Eintritt:
+
+- Wer holt Sie ab? Für den Heimweg nach einer Narkose lassen Sie sich
+  fahren.
+- Wer unterstützt Sie zu Hause in der ersten Woche — beim Einkaufen,
+  Kochen, im Haushalt?
+- Brauchen Sie Hilfsmittel ([z. B. Gehstöcke, erhöhter
+  Toilettensitz]{.ph})? [Wer organisiert sie, die Klinik oder Sie?]{.ph}
+- Falls eine Rehabilitation oder Spitex nötig wird: [Das klärt unser
+  Austrittsmanagement mit Ihnen während des Aufenthalts.]{.ph}
+
+## Packliste {#packliste}
+
+::: {.callout-note collapse="true" icon="false"}
+### Dokumente
+
+[Versichertenkarte, amtlicher Ausweis, Medikamentenliste, Allergiepass,
+Blutverdünner-Ausweis, Diabetes-Ausweis, Schrittmacher-Ausweis,
+Patientenverfügung falls vorhanden.]{.ph}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Persönliches
+
+Bequeme weite Kleidung (z. B. Trainingsanzug, kurze Hosen für die
+Physiotherapie), feste rutschfeste Schuhe, die leicht an- und
+auszuziehen sind, Toilettenartikel, Brille/Hörgerät samt Etui und
+Ersatzbatterien, Handy und Ladekabel — und Ihre Gehstöcke, falls Sie
+schon welche haben.
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Was Sie zu Hause lassen
+
+[Schmuck, Wertsachen, grössere Geldbeträge. Piercings bereits zu Hause
+entfernen.]{.ph}
+:::
 
 ::: {.warnung}
 ### In der Woche vor der Operation: Melden zahlt sich aus
@@ -64,10 +174,7 @@ besonders im Ausland, gehört ins Gespräch.
 ::: {.zusatz-karte}
 **Für alle Operationen gilt** — zentral gepflegt, immer aktuell:
 
-[Medikamente und Blutverdünner im Detail →](../../phasen/vorbereitung.qmd#medikamente) ·
-[Essen und Trinken →](../../phasen/vorbereitung.qmd#nuechtern) ·
-[Packliste →](../../phasen/vorbereitung.qmd#packliste) ·
-[Austrittsplanung →](../../phasen/vorbereitung.qmd#austrittsplanung)
+[Vor der Operation im allgemeinen Wegweiser →](../../phasen/vorbereitung.qmd)
 :::
 
 ::: {.mini-nav}
