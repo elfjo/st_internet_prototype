@@ -5,7 +5,7 @@
 | Nächste Prüfung | [Datum + 2 Jahre]{.ph} |
 | Fachliche Freigabe | [Name, Funktion]{.ph} |
 
-Herausgeberin dieser Seiten ist eine Klinik, die die beschriebenen
-Behandlungen selbst anbietet. Unabhängige Informationen finden Sie bei
-[gesundheitsinformation.de](https://www.gesundheitsinformation.de).
+Diese Seiten sind ein Prototyp. Alle Inhalte sind fiktive,
+fachlich nicht geprüfte Beispieltexte und dienen ausschliesslich der
+Veranschaulichung von Struktur und Sprache.
 :::
