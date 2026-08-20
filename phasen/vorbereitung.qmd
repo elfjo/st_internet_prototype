@@ -29,12 +29,29 @@ sehen hier, welche.
 ::: {.tasks-tbl}
 | Aufgabe | Status |
 |---------------------------------------------------------------|:--|
+| [Digitalen Gesundheitsfragebogen ausfüllen](#fragebogen) — den Zugang haben Sie mit der Anmeldung erhalten | [Offen]{.st .st-offen} |
 | Eintrittsformular ausfüllen und zurücksenden | [Offen]{.st .st-offen} |
 | Medikamentenliste bereitlegen und [prüfen, welche Sie pausieren](#medikamente) | [Offen]{.st .st-offen} |
 | Fahrt nach Hause und Unterstützung für die erste Woche organisieren | [Offen]{.st .st-offen} |
 | Anruf der Anästhesieärztin am Tag vor der Operation entgegennehmen | [Noch nicht möglich]{.st .st-gesperrt} |
 | Eintrittszeit per SMS erhalten (am Vortag) | [Noch nicht möglich]{.st .st-gesperrt} |
 :::
+
+## Der digitale Gesundheitsfragebogen: Ihr erster Schritt {#fragebogen}
+
+Mit der Anmeldung zur Operation hat Ihre Operateurin oder Ihr Operateur
+den digitalen Gesundheitsfragebogen für Sie ausgelöst — Sie haben ihn
+bereits [per E-Mail oder SMS]{.ph} erhalten. Füllen Sie ihn früh und
+in Ruhe aus: Ihre Angaben sind die Grundlage, auf der das
+Anästhesieteam Ihre Anästhesie plant. Je vollständiger der Fragebogen,
+desto gezielter das Gespräch. [Zugang, technische Hilfe.]{.ph}
+
+Auf dieser Grundlage entscheidet das Anästhesieteam, wie es
+weitergeht: Bei den meisten genügt das **Telefongespräch am Tag vor
+der Operation**. Wenn Ihre Gesundheit besondere Aufmerksamkeit
+verdient, laden wir Sie vorab persönlich in die
+**Anästhesiesprechstunde** ein — Zeit, die Ihrer Sicherheit gehört.
+[Mehr zu Ihrer Anästhesie →](../anaesthesie.qmd)
 
 ## Ihre Medikamente {#medikamente}
 
@@ -152,5 +169,7 @@ Ladekabel.]{.ph}
 [← Zeit bis Eintritt](wartezeit.qmd)
 [Operationstag →](eintrittstag.qmd)
 :::
+
+{{< include ../_kontakt.qmd >}}
 
 {{< include ../_governance.qmd >}}

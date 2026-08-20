@@ -80,12 +80,13 @@ Inhalte auf einer durchgehenden Seite.
 ## Gut zu wissen
 
 - [Das Wichtigste auf einem Blatt, zum Ausdrucken](merkblatt.qmd)
+- [Ihre Anästhesie: Fragebogen, Gespräch, Verfahren](anaesthesie.qmd)
 - [Falls Sie zusatzversichert sind: Ihre Wahlleistungen](zusatzversichert.qmd)
 
 {{< include _feedback.qmd >}}
 
-## Die richtigen Ansprechpartner für Ihre Anliegen finden {#kontaktzone}
-
-[Link zur Ansprechpartnerseite.]{.ph}
+::: {#kontaktzone}
+{{< include _kontakt.qmd >}}
+:::
 
 {{< include _governance.qmd >}}

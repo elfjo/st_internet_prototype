@@ -95,4 +95,6 @@ stehen bewusst nicht zwischen den medizinischen Schritten.
 [Austritt →](nachhause.qmd)
 :::
 
+{{< include ../_kontakt.qmd >}}
+
 {{< include ../_governance.qmd >}}

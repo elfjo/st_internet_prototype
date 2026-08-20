@@ -1,0 +1,93 @@
+---
+title: "Ihre Anästhesie: gut begleitet durch die Operation"
+---
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp, Inhalte teils Platzhalter. Allgemeine
+Anästhesie-Seite — eingriffsspezifische Ergänzungen liegen im
+jeweiligen Eingriffskosmos (Fragmentprinzip).
+:::
+
+[Das Anästhesieteam begleitet Sie durch die gesamte Operation: Es
+nimmt Ihnen Schmerz und Wahrnehmung des Eingriffs ab und wacht
+durchgehend über Kreislauf, Atmung und Ihr Wohlbefinden.]{.lede}
+
+## Ihr Weg zur passenden Anästhesie {#weg}
+
+**1. Der digitale Gesundheitsfragebogen.** Mit der Anmeldung zur
+Operation hat Ihre Operateurin oder Ihr Operateur den Fragebogen für
+Sie ausgelöst — Sie haben ihn bereits [per E-Mail oder SMS]{.ph}
+erhalten. Füllen Sie ihn früh und vollständig aus: Ihre Angaben sind
+die Grundlage, auf der das Anästhesieteam Ihre Anästhesie plant.
+[Zugang, technische Hilfe.]{.ph}
+
+**2. Sprechstunde oder Telefongespräch.** Auf dieser Grundlage
+entscheidet das Anästhesieteam, wie es weitergeht: Bei den meisten
+genügt das **Telefongespräch am Tag vor der Operation**. Wenn Ihre
+Gesundheit besondere Aufmerksamkeit verdient — etwa bei Herz- oder
+Lungenerkrankungen —, laden wir Sie vorab persönlich in die
+**Anästhesiesprechstunde** ein: Zeit, die Ihrer Sicherheit gehört.
+[Wie das Aufgebot erfolgt, Ort, Dauer.]{.ph}
+
+**3. Das Gespräch.** Ob am Telefon oder in der Sprechstunde: Hier
+legen Sie gemeinsam das Verfahren fest, und hier haben alle Ihre
+Fragen Platz — auch die, die Ihnen klein vorkommen.
+
+## Die Verfahren im Überblick {#verfahren}
+
+::: {.callout-note collapse="true" icon="false"}
+### Vollnarkose (Allgemeinanästhesie)
+
+Sie schlafen tief und ruhig durch den ganzen Eingriff; Ihr Körper
+nimmt davon nichts wahr. [Ablauf, Medikamente, Aufwachen — Lorem
+ipsum als Platzhalter für den fachlich freigegebenen Text.]{.ph}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Spinalanästhesie und Regionalanästhesie
+
+Ein Körperbereich ruht tief und schmerzfrei, Ihr Kopf bleibt klar —
+auf Wunsch dösen oder schlafen Sie zusätzlich. [Ablauf, Dauer,
+Rückkehr des Gefühls — Platzhalter.]{.ph}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Lokalanästhesie
+
+[Für kleinere Eingriffe: örtliche Betäubung; auf Wunsch eigene Musik
+über Kopfhörer — Platzhalter.]{.ph}
+:::
+
+## Sicherheit, die mitläuft {#sicherheit}
+
+Während des gesamten Eingriffs ist Ihr Anästhesieteam bei Ihnen und
+überwacht kontinuierlich [Kreislauf, Atmung, Narkosetiefe —
+Platzhalter für den freigegebenen Text]{.ph}. Das Narkoserisiko ist
+für gesunde Erwachsene sehr klein: [Darstellung nach RCoA-Vorbild, je
+100'000, mit eigener Risikoseite.]{.ph}
+
+## Vor der Operation ruhig werden {#mental}
+
+Anspannung vor einer Anästhesie ist normal. Es hilft, zu wissen, was
+kommt — dafür ist diese Seite da. Wenn die Angst gross ist,
+insbesondere vor der Narkose oder vor Nadeln: Sagen Sie es uns im
+Gespräch. Es gibt erprobte Wege, die vielen Menschen bereits geholfen
+haben. [Angebote: Vorgespräch, Entspannungsübungen, Begleitung.]{.ph}
+
+::: {.rechtshinweis}
+Diese Informationen ersetzen nicht das persönliche Aufklärungsgespräch
+mit dem Anästhesieteam. Dort besprechen wir Ihre individuellen Fragen
+und Risiken.
+:::
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+:::
+
+{{< include _kontakt.qmd >}}
+
+{{< include _governance.qmd >}}

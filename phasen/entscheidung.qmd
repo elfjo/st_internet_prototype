@@ -98,4 +98,6 @@ Wir danken Ihnen für Ihr Vertrauen. Wir werden alles daran setzen, dass Ihre Op
 [Zeit bis Eintritt →](wartezeit.qmd)
 :::
 
+{{< include ../_kontakt.qmd >}}
+
 {{< include ../_governance.qmd >}}

@@ -29,6 +29,7 @@ sehen hier, welche.
 ::: {.tasks-tbl}
 | Aufgabe | Status |
 |---------------------------------------------------------------|:--|
+| [Digitalen Gesundheitsfragebogen ausfüllen](#fragebogen) — den Zugang haben Sie mit der Anmeldung erhalten | [Offen]{.st .st-offen} |
 | Eintrittsformular ausfüllen und zurücksenden | [Offen]{.st .st-offen} |
 | Übungstermin bei der Physiotherapie und Anästhesiegespräch besuchen | [Offen]{.st .st-offen} |
 | Medikamentenliste bereitlegen und [prüfen, welche Sie pausieren](#medikamente) | [Offen]{.st .st-offen} |
@@ -38,14 +39,28 @@ sehen hier, welche.
 | Eintrittszeit per SMS erhalten (am Vortag) | [Noch nicht möglich]{.st .st-gesperrt} |
 :::
 
-## Ihre drei Vorbereitungstermine {#termine}
+## Der digitale Gesundheitsfragebogen: Ihr erster Schritt {#fragebogen}
 
-Sobald der Operationstermin steht, bereiten drei Termine Sie vor: der
+Mit der Anmeldung zur Operation hat Ihre Orthopädin oder Ihr Orthopäde
+den digitalen Gesundheitsfragebogen für Sie ausgelöst — Sie haben ihn
+bereits [per E-Mail oder SMS]{.ph} erhalten. Füllen Sie ihn früh und
+in Ruhe aus: Ihre Angaben sind die Grundlage, auf der das
+Anästhesieteam Ihre Anästhesie plant. Auf dieser Grundlage entscheidet
+das Team auch, wie es weitergeht: Bei den meisten genügt das
+**Telefongespräch am Tag vor der Operation**; wenn Ihre Gesundheit
+besondere Aufmerksamkeit verdient, laden wir Sie vorab persönlich in
+die **Anästhesiesprechstunde** ein — Zeit, die Ihrer Sicherheit
+gehört. [Mehr zu Ihrer Anästhesie →](anaesthesie.qmd)
+
+## Ihre Vorbereitungstermine {#termine}
+
+Sobald der Operationstermin steht, bereiten diese Termine Sie vor: der
 **Übungstermin bei der Physiotherapie** (Physiotherapie-Instruktion),
-das **Anästhesiegespräch** und, falls nötig, eine **internistische
-Abklärung**. Nehmen Sie zu diesen Terminen die Person mit, die Sie
-nach der Operation unterstützen wird — sie hört mit und weiss dann,
-worauf es ankommt.
+das **Anästhesiegespräch** — als Telefongespräch oder in der
+Sprechstunde — und, falls nötig, eine **internistische Abklärung**.
+Nehmen Sie zu diesen Terminen die Person mit, die Sie nach der
+Operation unterstützen wird — sie hört mit und weiss dann, worauf es
+ankommt.
 
 ## Ihre Medikamente {#medikamente}
 
@@ -182,5 +197,7 @@ besonders im Ausland, gehört ins Gespräch.
 [← Zeit bis Eintritt](zeit-bis-eintritt.qmd)
 [Operationstag →](operationstag.qmd)
 :::
+
+{{< include ../../_kontakt.qmd >}}
 
 {{< include ../../_governance.qmd >}}

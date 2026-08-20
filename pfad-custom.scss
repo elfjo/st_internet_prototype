@@ -333,6 +333,22 @@ main > .mini-nav:last-of-type,
 }
 .praxis h2 { border: none; margin-top: 0.5rem; padding-top: 0; }
 
+/* ---------- Kontakt-Hilfe (Consistent Help, auf jeder Seite) ---------- */
+.kontakt-hilfe {
+  background: var(--bg-soft);
+  border-left: 6px solid var(--accent);
+  border-radius: 6px;
+  padding: 1rem 1.5rem;
+  margin: 2.5rem 0 1rem;
+}
+.kontakt-hilfe h2 {
+  border: none;
+  padding-top: 0;
+  margin-top: 0.25rem;
+  font-size: 1.15rem;
+}
+.kontakt-hilfe li { margin: 0.3rem 0; }
+
 /* ---------- Rechtshinweis ---------- */
 .rechtshinweis {
   font-size: 0.9rem;

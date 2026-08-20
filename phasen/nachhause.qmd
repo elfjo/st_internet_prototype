@@ -103,4 +103,6 @@ was die Klinik mit den Rückmeldungen macht.]{.ph}
 [← Aufenthalt](aufenthalt.qmd)
 :::
 
+{{< include ../_kontakt.qmd >}}
+
 {{< include ../_governance.qmd >}}

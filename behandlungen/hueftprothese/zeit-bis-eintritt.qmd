@@ -85,4 +85,6 @@ Vorbereitung, Alltag organisieren →](../../phasen/wartezeit.qmd)
 [Vor der Operation →](vor-der-operation.qmd)
 :::
 
+{{< include ../../_kontakt.qmd >}}
+
 {{< include ../../_governance.qmd >}}

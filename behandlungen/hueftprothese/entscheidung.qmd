@@ -102,4 +102,6 @@ Einwilligung bis zum Eingriff jederzeit zurückziehen.
 [Zeit bis Eintritt →](zeit-bis-eintritt.qmd)
 :::
 
+{{< include ../../_kontakt.qmd >}}
+
 {{< include ../../_governance.qmd >}}

@@ -104,4 +104,6 @@ an wen sich Betroffene wenden.]{.ph}
 [Vor der Operation →](vorbereitung.qmd)
 :::
 
+{{< include ../_kontakt.qmd >}}
+
 {{< include ../_governance.qmd >}}

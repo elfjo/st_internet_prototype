@@ -78,4 +78,6 @@ Ziele, auf die Sie in diesen drei Tagen hintrainieren.
 [Alltag →](alltag.qmd)
 :::
 
+{{< include ../../_kontakt.qmd >}}
+
 {{< include ../../_governance.qmd >}}

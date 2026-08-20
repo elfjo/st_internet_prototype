@@ -61,11 +61,14 @@ Schritt für Schritt.]{.lede}
 
 ## Gut zu wissen
 
+- [Ihre Anästhesie bei der Hüftoperation](hueftprothese/anaesthesie.qmd)
 - [Praktisches rund um den Aufenthalt: Anreise, Zimmer, Besuch, WLAN —
   «Gut zu wissen», Seite noch nicht angelegt]{.ph}
 - [Der allgemeine Wegweiser durch den Aufenthalt](../index.qmd) — falls
   Sie etwas ausserhalb Ihres Eingriffs suchen
 
 {{< include ../_feedback.qmd >}}
+
+{{< include ../_kontakt.qmd >}}
 
 {{< include ../_governance.qmd >}}

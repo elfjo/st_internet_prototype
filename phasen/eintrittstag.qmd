@@ -92,4 +92,6 @@ einer Nachricht nach der Operation zu rechnen ist.]{.ph}
 [Aufenthalt →](aufenthalt.qmd)
 :::
 
+{{< include ../_kontakt.qmd >}}
+
 {{< include ../_governance.qmd >}}

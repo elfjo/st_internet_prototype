@@ -130,4 +130,6 @@ Frage hat dort Platz.
 [← In der Klinik](in-der-klinik.qmd)
 :::
 
+{{< include ../../_kontakt.qmd >}}
+
 {{< include ../../_governance.qmd >}}

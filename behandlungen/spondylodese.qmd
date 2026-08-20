@@ -334,4 +334,6 @@ Checklisten und Übungsvideos, falls verfügbar, hier verlinken.]{.ph}
 [Vor der Operation →](../phasen/vorbereitung.qmd)
 :::
 
+{{< include ../_kontakt.qmd >}}
+
 {{< include ../_governance.qmd >}}

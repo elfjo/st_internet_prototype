@@ -91,7 +91,7 @@ währenddessen dösen, [Ihre eigene Musik über Kopfhörer hören]{.ph}
 oder mit einem Schlafmittel ganz schlafen — das entscheiden Sie mit.
 Falls die Spinalanästhesie im Einzelfall ungeeignet ist, übernimmt
 eine Vollnarkose. Die Operation dauert in der Regel [60 bis
-90 Minuten]{.ph}.
+90 Minuten]{.ph}. [Mehr zu Ihrer Anästhesie →](anaesthesie.qmd)
 
 ## Im Operationsbereich und danach {#ablauf}
 
@@ -129,5 +129,7 @@ zu rechnen ist.]{.ph}
 [← Vor der Operation](vor-der-operation.qmd)
 [In der Klinik →](in-der-klinik.qmd)
 :::
+
+{{< include ../../_kontakt.qmd >}}
 
 {{< include ../../_governance.qmd >}}

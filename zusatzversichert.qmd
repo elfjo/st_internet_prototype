@@ -71,4 +71,6 @@ davon gilt: Ihre Behandlung ist dieselbe.
 [Mein Eintrittstag →](phasen/eintrittstag.qmd)
 :::
 
+{{< include _kontakt.qmd >}}
+
 {{< include _governance.qmd >}}
