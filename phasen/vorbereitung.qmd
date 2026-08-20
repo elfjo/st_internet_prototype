@@ -1,5 +1,5 @@
 ---
-title: "Vor der Operation"
+title: "Vor der Operation unbedingt beachten"
 ---
 
 ::: {.mini-nav}
@@ -78,46 +78,41 @@ Operation gleichermassen geschützt. Im Zweifel genügt ein Anruf:
 
 ## Essen und Trinken vor dem Eintritt {#nuechtern}
 
-<!-- Bestehender St.-Anna-Text, fast wörtlich übernommen.
-     Beleg dafür, dass der Umbau ein Zerlege-, kein Schreibprojekt ist. -->
-
 Am Eintrittstag findet Ihr operativer Eingriff statt. Für Ihre
 Sicherheit ist es wichtig, dass Sie dafür nüchtern sind.
 
-- Bis **sechs Stunden** vor Ihrer Eintrittszeit können Sie etwas
-  Leichtes essen. Danach essen Sie nichts mehr.
+- Bis **sechs Stunden** vor Ihrer Eintrittszeit dürfen Sie etwas
+  Leichtes essen. Danach essen Sie bitte nichts mehr.
 - Bis **zwei Stunden** vor Ihrem Eintritt dürfen Sie Wasser ohne
-  Kohlensäure, Tee und schwarzen Kaffee (ohne Milch, ohne Rahm)
+  Kohlensäure, Tee und schwarzen Kaffee (ohne Milch, ohne Rahm, Zucker ist OK)
   trinken.
-- In den **zwei Stunden unmittelbar vor dem Eintritt** nehmen Sie gar
+- In den **zwei Stunden unmittelbar vor dem Eintritt** nehmen Sie bitte gar
   nichts mehr zu sich, auch keine Bonbons oder Kaugummis.
 
 ::: {.warnung}
-### Warum das wichtig ist
+### Warum das wichtig für Sie ist
 
 Ein leerer Magen schützt während der Narkose Ihre Atemwege. Wenn Sie
 sich an diese Zeiten halten, tragen Sie selbst dazu bei, dass Ihre
-Operation sicher und wie geplant stattfinden kann.
+Operation sicher und wie geplant stattfinden kann. Sollten Sie die Zeiten nicht eingehalten haben, sagen Sie uns bitte umgehend Bescheid.
 :::
 
 ## Körperpflege {#koerperpflege}
 
 Mit wenigen Handgriffen bereiten Sie Ihre Haut optimal auf den
 Eingriff vor: Duschen Sie vor dem Spitaleintritt und lassen Sie die
-Haut danach frei — so kann das Desinfektionsmittel voll wirken.
-Entfernen Sie Nagellack. Die Rasur des Operationsgebiets übernehmen
-wir, falls nötig, in der Klinik — unversehrte Haut ist der beste
-Schutz vor Infektionen.
+Haut danach frei von Kosmetika und Pflegeprodukten — so kann das Desinfektionsmittel optimal wirken.
+Entfernen Sie Nagellack und Schmuck. Falls eine Rasur des Operationsgebiets nötig ist, übernehmen
+wir das. Falls nötig, in der Klinik. Unversehrte, saubere Haut ist der beste Schutz vor Infektionen.
 
 ## Jetzt schon an den Austritt denken {#austrittsplanung}
 
 Die Zeit nach der Operation lässt sich am besten planen, bevor Sie
-eintreten — so kommen Sie in ein vorbereitetes Zuhause zurück. Klären
+eintreten. So kommen Sie in ein vorbereitetes Zuhause zurück. Klären
 Sie vor dem Eintritt:
 
-- Wer holt Sie ab? Für den Heimweg nach einer Narkose lassen Sie sich
-  fahren.
-- Wer unterstützt Sie zu Hause in der ersten Woche — beim Einkaufen,
+- Wer holt Sie ab?
+- Wer unterstützt Sie ggf. zu Hause in der ersten Woche — beim Einkaufen,
   Kochen, im Haushalt?
 - Brauchen Sie Hilfsmittel ([z. B. Gehstöcke, erhöhter
   Toilettensitz]{.ph})? [Wer organisiert sie, die Klinik oder Sie?]{.ph}

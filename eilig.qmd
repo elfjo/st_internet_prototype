@@ -17,22 +17,15 @@ häufigsten Fragen direkt beantwortet.]{.lede}
 
 ## Alles auf einem Blatt {#blatt}
 
-Das Wichtigste kurz zusammengefasst zum Ausdrucken:
+Das Wichtigste kurz zusammengefasst zum **Ausdrucken**:
+
+[Zum Merkblatt →](merkblatt.qmd)
+
+Oder zum **Anzeigen auf dem Handy**:
 
 [Zum Merkblatt →](merkblatt.qmd)
 
 
-## Wählen Sie Ihr Thema {#themen}
-
-::: {.themen}
-- [Vor der Operation](phasen/vorbereitung.qmd)
-- [Am Operationstag](phasen/eintrittstag.qmd)
-- [Während meines Aufenthalts](phasen/aufenthalt.qmd)
-- [Nach der Operation](phasen/nachhause.qmd)
-- [Meine konkrete Operation](index.qmd#welche-operation-bekommen-sie)
-- [Medikamente und Ernährung](phasen/vorbereitung.qmd#medikamente)
-- [Organisatorisches]{.ph}
-- [Ansprechpartner und Notfall](index.qmd#kontaktzone)
 :::
 
 ## Die häufigsten Fragen, direkt beantwortet {#schnellantworten}
@@ -68,6 +61,24 @@ Ihre Eintrittszeit erhalten Sie [am Vortag per SMS]{.ph}. Wo Sie sich
 melden und was am Tag selbst passiert:
 
 [Mein Eintrittstag →](phasen/eintrittstag.qmd)
+
+## Ich möchte Kontakt zu Ihnen aufnehmen. Wer ist zuständig? {#eintrittszeit}
+
+- Kontakt1.....
+- Kontakt2......
+- Kontakt3......
+
+## Wählen Sie Ihr Thema {#themen}
+
+::: {.themen}
+- [Vor der Operation](phasen/vorbereitung.qmd)
+- [Am Operationstag](phasen/eintrittstag.qmd)
+- [Während meines Aufenthalts](phasen/aufenthalt.qmd)
+- [Nach der Operation](phasen/nachhause.qmd)
+- [Meine konkrete Operation](index.qmd#welche-operation-bekommen-sie)
+- [Medikamente und Ernährung](phasen/vorbereitung.qmd#medikamente)
+- [Organisatorisches]{.ph}
+- [Ansprechpartner und Notfall](index.qmd#kontaktzone)
 
 
 ::: {.mini-nav}

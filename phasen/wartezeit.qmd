@@ -26,7 +26,7 @@ Ihr Körper leistet bei einer Operation Beachtliches — und Sie können
 ihn sanft dabei unterstützen, wie vor einer längeren Wanderung: mit Kraft,
 Ruhe und guten Reserven. Je besser Ihr Zustand vorher, desto leichter
 fällt die Erholung danach. Vieles davon haben Sie selbst in der Hand,
-und die Wartezeit bis zum Eintritt ist die beste Gelegenheit dafür.
+und die Überbrückungszeit bis zum Eintritt ist Ihre beste Gelegenheit dafür.
 
 ## Was Sie ab heute tun können {#tun}
 
@@ -40,13 +40,13 @@ Physiotherapie vor der Operation.]{.ph}
 :::
 
 ::: {.callout-note collapse="true" icon="false"}
-### Rauchstopp
+### Falls Sie rauchen: Rauchstopp
 
-Der wirksamste Schritt, den Sie selbst tun können. Ein Rauchstopp
+Ein wirklich wirksamer Schritt, den Sie selbst tun können. Ein Rauchstopp
 [mehrere Wochen]{.ph} vor der Operation verbessert Wundheilung und
 Atmung messbar — Ihr Körper beginnt schon nach Tagen, davon zu
 profitieren.
-[Unterstützungsangebote: Rauchstopplinie, Beratung, Medikamente.]{.ph}
+[Unterstützungsangebote: Rauchstopplink, Beratung, Medikamente.]{.ph}
 :::
 
 ::: {.callout-note collapse="true" icon="false"}
@@ -61,20 +61,19 @@ unterstützen Sie. [Selbsttest oder Kontakt Ernährungsberatung.]{.ph}
 ::: {.callout-note collapse="true" icon="false"}
 ### Seelische Vorbereitung
 
-Anspannung vor einer Operation ist normal — sie zeigt, dass Ihnen die
-Sache wichtig ist. Es hilft, zu wissen, was kommt; dafür sind diese
-Seiten da. Wenn die Angst gross ist, insbesondere vor der Narkose oder
-vor Nadeln: Sagen Sie es uns vor dem Eintritt. Es gibt gut erprobte Wege,
+Anspannung vor einer Operation ist ganz normal — sie zeigt, dass Ihnen die
+Sache wichtig ist. Es hilft, zu wissen, wie alles abläuft. Dafür sind diese
+Seiten da. Wenn die Angst einmal grösser ist: Sagen Sie uns vor dem Eintritt, was Sie gerade besorgt. Es gibt gut erprobte Wege,
 die vielen Menschen bereits geholfen haben.
 [Kontakt; ggf. Entspannungsübungen, Audio-Angebote.]{.ph}
 :::
 
 ::: {.callout-note collapse="true" icon="false"}
-### Alltag organisieren
+### Den Alltag organisieren
 
 Arbeit ([Arbeitsunfähigkeit: wer stellt das Zeugnis aus, übliche
 Dauer]{.ph}), Angehörige und Betreuungspflichten, Fahrten, Einkäufe für
-die erste Woche danach. Was jetzt geregelt ist, gibt Ihnen später den
+die erste Woche danach. Was schon jetzt geregelt ist, gibt Ihnen später den
 Kopf frei für die Erholung.
 :::
 

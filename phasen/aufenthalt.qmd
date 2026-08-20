@@ -29,10 +29,9 @@ Wohlbefinden im Blick behalten. Meist nach [ein bis zwei Stunden]{.ph} bringen w
 auf Ihre Station. [Wann Angehörige benachrichtigt
 werden.]{.ph}
 
-Ihr Körper braucht nach einer Narkose etwas Zeit, um wieder auf
+Ihr Körper braucht nach einer Operation etwas Zeit, um wieder auf
 Temperatur und in Schwung zu kommen. Falls Ihnen dabei kühl ist oder
-sich der Magen meldet: Sagen Sie es dem Team — dafür gibt es rasche
-Hilfe, und beides vergeht.
+sich der Magen meldet: Sagen Sie es dem Team — dafür gibt es gut bewährte Arzneien.
 
 ## So sieht Ihr Tag aus {#tagesablauf}
 
@@ -43,8 +42,8 @@ im Spital beginnt eher früh; wer das vorher weiss, startet entspannter in den M
 ::: {.callout-note collapse="true" icon="false"}
 ### Die Visite: Ihr täglicher Gesprächstermin
 
-Einmal täglich bespricht das Ärzteteam mit Ihnen den Stand und die
-nächsten Schritte. Die Visite ist meist kompakt — nutzen Sie sie gut:
+Mindestens einmal täglich bespricht das Ärzteteam mit Ihnen den Stand und die
+nächsten Schritte. Die Visiten sind meist kompakt — nutzen Sie sie optimal für sich:
 Notieren Sie Ihre Fragen vorher auf einem Blatt. Jede Frage hat hier
 Platz — auch, wie es Ihnen insgesamt geht, mit Schlaf, Stimmung und
 allem, was Sie beschäftigt.
@@ -65,7 +64,7 @@ wissen, wen Sie vor sich haben:
 
 ## Ihre Schmerztherapie: fein eingestellt {#schmerzen}
 
-Schmerzen nach einer Operation lassen sich heute gut behandeln — und
+Schmerzen nach einer Operation lassen sich heutzutage gut behandeln — und
 gut behandelte Schmerzen helfen Ihnen, früher aufzustehen, besser zu
 schlafen und schneller zu Kräften zu kommen. Wir fragen Sie
 regelmässig nach Ihren Schmerzen [auf einer Skala von 0 bis 10]{.ph}.
@@ -75,7 +74,7 @@ besser wirkt die Behandlung.
 ## Schon jetzt: der Blick nach Hause {#austrittsplanung}
 
 Bereits während des Aufenthalts klären wir mit Ihnen, wie es zu Hause
-gut weitergeht — Unterstützung im Alltag, Hilfsmittel, falls nötig
+mit der Erholung weitergeht — Unterstützung im Alltag, Hilfsmittel, falls nötig
 Rehabilitation oder Spitex. [Wer vom Austrittsmanagement auf Sie
 zukommt und wann.]{.ph} Was Sie dabei erwartet, steht unter [«Ich gehe
 nach Hause»](nachhause.qmd).

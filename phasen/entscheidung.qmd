@@ -22,8 +22,8 @@ informiert und in Ihrem Tempo.]{.lede}
 ## Sie haben Zeit für diese Entscheidung {#zeit}
 
 Eine geplante Operation ist selten dringend. Meist bleibt genug Zeit,
-um die Möglichkeiten abzuwägen, Ihre Fragen in Ruhe zu stellen und die Entscheidung
-sorgsam zu treffen. Sie dürfen die Entscheidung mit nach Hause nehmen
+um Ihre Möglichkeiten abzuwägen, Ihre Fragen in Ruhe zu stellen und die Entscheidung
+sorgsam zu treffen. Sie dürfen die Entscheidung auch noch einmal mit nach Hause nehmen
 und reifen lassen.
 
 Auch nach einer Zusage gilt: Wenn Ihnen in Nachinein zusätzliche Fragen kommen, sprechen Sie uns einfach an. Auch dürfen Ihre Einwilligung bis zum Eingriff jederzeit zurückziehen. Sie bleiben am Steuer Ihrer eigenen Gesundheit.
@@ -31,7 +31,7 @@ Auch nach einer Zusage gilt: Wenn Ihnen in Nachinein zusätzliche Fragen kommen,
 ## Ihre Möglichkeiten kennen {#moeglichkeiten}
 
 Für viele Beschwerden gibt es mehr als einen Weg. Zu einer guten
-Entscheidung gehört, dass Sie kennen und übersicht haben:
+Entscheidung gehört, dass Sie kennen und Übersicht haben:
 
 - die vorgeschlagene Operation
 - andere Behandlungen ohne Operation
@@ -54,6 +54,7 @@ Nehmen Sie diese Fragen mit in die Sprechstunde:
 2. Welche Risiken hat sie für mich?
 3. Welche Alternativen gibt es?
 4. Was passiert, wenn ich nichts tue oder noch warte?
+5. Wie oft wird diese Operation an dieser Klinik durchgeführt?
 
 ```{=html}
 <button class="drucken" type="button" onclick="window.print()">Diese Fragen drucken</button>
@@ -63,7 +64,7 @@ Nehmen Sie diese Fragen mit in die Sprechstunde:
 Drei Dinge, die das Gespräch erfahrungsgemäss erleichtern können:
 
 - **Nehmen Sie jemanden mit.** Vier Ohren hören mehr als zwei — und zu
-  zweit lässt sich das Gehörte danach in Ruhe sortieren.
+  zweit lässt sich das Gehörte bei Bedarf danach in Ruhe sortieren.
 - **Notieren Sie Ihre Fragen vorher.** Am besten am Vortag auf einem
   Zettel oder im Handy.
 - **Fragen Sie nach, bis es für Sie stimmt.** Es ist Aufgabe Ihrer
@@ -73,13 +74,15 @@ Drei Dinge, die das Gespräch erfahrungsgemäss erleichtern können:
 ## Eine zweite Meinung einholen {#zweitmeinung}
 
 Sie dürfen vor einer Operation eine zweite ärztliche Meinung einholen.
-Das ist üblich und ein Zeichen einer sorgfältigen Entscheidung.
+Das ist in der Schweiz üblich und ein Zeichen einer sorgfältigen Entscheidung.
 [Hinweis zur Kostenübernahme durch Grund- oder Zusatzversicherung;
 ggf. Zweitmeinungsangebote der Versicherer.]{.ph}
 
-## Wie es nach der Entscheidung weitergeht {#weiter}
+## Wie es nach Ihrer Entscheidung weitergeht {#weiter}
 
-Wenn Sie sich für die Operation entschieden haben:
+Wenn Sie sich für die Operation bei uns entschieden haben:
+
+Wir danken Ihnen für Ihr Vertrauen. Wir werden alles daran setzen, dass Ihre Operation und Ihr Aufenthalt bei uns einen gelungenen Beitrag zu Ihrer Gesundheit werden.
 
 1. [Terminvereinbarung: wer meldet sich bei wem, in welchem
    Zeitraum.]{.ph}

@@ -18,8 +18,8 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 [Wie der Tag der Aufnahme abläuft — Schritt für Schritt, von der
-Anmeldung bis in den Operationssaal. Jeder Schritt ist vorbereitet;
-Sie dürfen sich an diesem Tag führen lassen.]{.lede}
+Anmeldung bis zur Begrüssung im Operationsbereich. Jeder Schritt ist vorbereitet;
+Sie dürfen sich an diesem Tag von uns leiten lassen.]{.lede}
 
 ## Ihre Eintrittszeit {#eintrittszeit}
 
@@ -30,7 +30,7 @@ keine Nachricht ankommt: [Telefonnummer, Erreichbarkeit.]{.ph}
 ::: {.callout-note collapse="true" icon="false"}
 ### Ist diese SMS echt?
 
-Die Nachricht kommt vom Absender [Absenderkennung]{.ph} und enthält
+Heutzutage ist Wachsamkeit keine Nebensache: Unsere Nachricht Nachricht kommt vom Absender [Absenderkennung]{.ph} und enthält
 [nur Ihre Eintrittszeit, keine Links, keine Zahlungsaufforderung]{.ph}.
 Wir fragen per SMS nie nach Passwörtern, Karten- oder Bankdaten. Im
 Zweifel rufen Sie uns an — nicht die Nummer aus der Nachricht, sondern
@@ -64,19 +64,17 @@ So läuft der Vormittag ab:
 
 ## Zwischen Ankunft und Operation {#wartezeit}
 
-Der Operationsplan eines Tages wird laufend fein abgestimmt —
+Der Operationsplan eines Tages wird laufend abgestimmt —
 Ihre genaue Zeit erfahren Sie deshalb am Eintrittstag selbst. Zwischen
-Ankunft und Operation bleibt darum oft eine Wartezeit. Manchmal ist es nur eine halbe Stunde, manchmal sind es drei Stunden.
-Nehmen Sie sich etwas zum Lesen oder Hören mit und richten Sie sich bestmöglich ein. Wir versuchen, Ihnen das Warten möglichst erträglich zu gestalten.
+Ihrer Ankunft in der Klinik und der Operation bleibt darum oft eine Wartezeit. Manchmal ist es nur eine halbe Stunde, es könne aber auch schon einmal drei Stunden werden. Nehmen Sie sich etwas zum Lesen oder Hören mit und richten Sie sich bestmöglich ein. Wir versuchen, Ihnen das Warten möglichst erträglich zu gestalten.
 
 Diese Zeit arbeitet für Sie: Ihr Team bereitet im Hintergrund alles
-vor, und wo ein Notfall Vorrang bekommt, gilt dieselbe Regel, von der auch Sie profitieren — jede Operation erhält die Zeit und alle Sorgfalt, die sie
-braucht.
+vor, und wo ein Notfall Vorrang bekommt, gilt für uns immer dieselbe Regel, von der auch Sie profitieren: Jede Patientin, jeder Patient und jede Operation erhält die Zeit, den Vorrang und alle Sorgfalt, die es braucht.
 
 ::: {.warnung}
-### Wenn Sie am Eintrittstag krank sind
+### Falls Sie am Eintrittstag krank sind
 
-Fieber, Husten, Erkältung oder Durchfall am Operationstag: Rufen Sie
+Fieber, Husten, Erkältung oder Durchfall am Operationstag? Rufen Sie
 uns an, **bevor** Sie losfahren — [Telefonnummer]{.ph}. Gemeinsam
 entscheiden wir, was für Ihre Sicherheit der beste Weg ist.
 :::
