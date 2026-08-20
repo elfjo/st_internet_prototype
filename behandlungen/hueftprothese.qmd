@@ -25,36 +25,38 @@ Schritt für Schritt.]{.lede}
 ::: {.phasen}
 1. [Die Entscheidung](hueftprothese/entscheidung.qmd)
 
-   [Was die Operation bringt, welche Alternativen es gibt, Risiken in
-   Zahlen — und die vier Fragen für Ihre Sprechstunde.]{.p-frage}
+   [Ist die Operation der richtige Weg für mich? Welche Alternativen
+   habe ich, was sagen die Zahlen zu den Risiken — und welche vier
+   Fragen nehme ich mit in die Sprechstunde?]{.p-frage}
 
 2. [Die Zeit bis zum Eintritt](hueftprothese/zeit-bis-eintritt.qmd)
 
-   [Ihr Trainingsfenster: Kraft aufbauen, Rauchstopp ab 6 Wochen
-   vorher, die Wohnung herrichten.]{.p-frage}
+   [Wie nutze ich die Wochen vor der Operation für mich? Kraft
+   aufbauen, gut essen, ab 6 Wochen vorher rauchfrei — und die Wohnung
+   so herrichten, dass sie mitspielt.]{.p-frage}
 
 3. [Vor der Operation](hueftprothese/vor-der-operation.qmd)
 
-   [Drei Termine bereiten Sie vor. Ab Tag 5: die spezielle
-   Waschbehandlung. Dazu alles Allgemeine: Medikamente, Essen und
-   Trinken, Packliste.]{.p-frage}
+   [Was erledige ich vor dem Eintritt? Drei Termine bereiten mich vor;
+   dazu Medikamente, Essen und Trinken, Packliste — und ab Tag 5 die
+   Waschbehandlung.]{.p-frage}
 
 4. [Eintritt und Operationstag](hueftprothese/operationstag.qmd)
 
-   [Meist Spinalanästhesie — ob Sie dösen, Musik hören oder schlafen,
-   entscheiden Sie mit. Die Operation dauert rund 60 bis 90
-   Minuten.]{.p-frage}
+   [Wie läuft mein Eintrittstag ab? Meist Spinalanästhesie — ob ich
+   döse, Musik höre oder schlafe, entscheide ich mit.]{.p-frage}
 
 5. [In der Klinik: Tag für Tag](hueftprothese/in-der-klinik.qmd)
 
-   [Erste Schritte am Operationstag, Treppen an Tag 2, nach Hause in
-   der Regel an Tag 3 — sobald Sie es können.]{.p-frage}
+   [Wie komme ich Tag für Tag auf die Beine? Erste Schritte am
+   Operationstag, Treppen an Tag 2 — nach Hause gehe ich, sobald ich
+   es kann, meist an Tag 3.]{.p-frage}
 
 6. [Zurück in den Alltag](hueftprothese/alltag.qmd)
 
-   [Der Alltag ist Ihre beste Therapie: Auto ab Woche 6, Velo ab
-   Woche 10, Wandern nach 3 Monaten — und woran Sie erkennen, dass
-   alles seinen Gang geht.]{.p-frage}
+   [Wann kann ich wieder was? Auto ab Woche 6, Velo ab Woche 10,
+   Wandern nach 3 Monaten — und woran ich erkenne, dass alles seinen
+   Gang geht.]{.p-frage}
 :::
 
 ## Gut zu wissen
