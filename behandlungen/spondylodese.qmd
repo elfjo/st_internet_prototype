@@ -8,9 +8,12 @@ title: "Stabilisierung der Lendenwirbelsäule (Spondylodese)"
 :::
 
 ::: {.hinweis-prototyp}
-Struktur-Prototyp. Inhalte aus einer Klinikbroschüre übernommen und
-umformuliert — alle klinischen Angaben und Kontakte vor Verwendung
-fachlich freigeben. Offene Punkte [so markiert]{.ph}.
+Struktur-Prototyp, Architektur-Demo «Langseite»: alle Inhalte auf
+einer durchgehenden Seite. Das Gegenstück ist [die Hüftprothese als
+«Eingriffskosmos»](hueftprothese.qmd) mit kurzen Schritt-Seiten.
+Inhalte aus einer Klinikbroschüre übernommen und umformuliert — alle
+klinischen Angaben und Kontakte vor Verwendung fachlich freigeben.
+Offene Punkte [so markiert]{.ph}.
 :::
 
 [Wie die Operation Ihrem Rücken Stabilität zurückgibt, wie Sie sich

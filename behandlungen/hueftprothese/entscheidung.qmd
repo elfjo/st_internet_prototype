@@ -1,0 +1,101 @@
+---
+title: "Hüftprothese: Die Entscheidung"
+---
+
+::: {.mini-nav}
+[⌂ Meine Hüftoperation](../hueftprothese.qmd)
+[Zeit bis Eintritt →](zeit-bis-eintritt.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
+:::
+
+::: {.stepper}
+**Mein Weg:** **Die Entscheidung** → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → [Vor der Operation](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
+:::
+
+[Ob die Hüftprothese Ihr Weg ist, entscheiden Sie — gut informiert und
+in Ihrem Tempo.]{.lede}
+
+## Was die Operation für Sie tut {#was}
+
+Ihr Hüftgelenk ist ein Kugelgelenk: Der Hüftkopf dreht sich in der
+Gelenkpfanne, eine Knorpelschicht lässt beides geschmeidig gleiten.
+Bei einer Arthrose ist diese Gleitschicht abgenutzt. Die Operation
+gibt dem Gelenk beides zurück: glatte Flächen und freies Spiel — Kopf
+und Pfanne erhalten einen Ersatz aus Metall, Keramik und Kunststoff.
+Das neue Gelenk ist auf Dauer gebaut: Die meisten Menschen begleitet
+es ein Leben lang.
+
+Vielleicht kennen Sie es: Schmerzen beim Gehen oder Aufstehen,
+manchmal auch nachts, und eine Hüfte, die steifer geworden ist. Wenn
+Beschwerden Ihren Alltag bestimmen, ist es Zeit, über den Gelenkersatz
+zu sprechen.
+
+::: {.callout-note collapse="true" icon="false"}
+### Mehr erfahren: das Implantat
+
+Die künstliche Pfanne ist eine Schale mit einer Gleitfläche aus
+Kunststoff; ihre Aussenseite kann fest in den eigenen Knochen
+einwachsen. Die neue Gelenkkugel aus Keramik oder Metall sitzt auf
+einem Schaft, der im Oberschenkelknochen verankert wird. Welche
+Variante zu Ihnen passt, plant Ihre Orthopädin oder Ihr Orthopäde
+anhand Ihrer Röntgenbilder und bespricht sie mit Ihnen.
+:::
+
+## Welche Alternativen es gibt {#alternativen}
+
+Eine Hüftprothese ist selten dringend. Meist bleibt Zeit, die
+Möglichkeiten abzuwägen: Bewegungstherapie und gezielter Muskelaufbau,
+Schmerzmittel und Infiltrationen, oder Abwarten mit regelmässiger
+Kontrolle — auch das ist eine aktive Entscheidung. Was für Sie passt,
+hängt von Ihren Beschwerden, Ihren Zielen und Ihrem Alltag ab.
+
+::: {.fragen-modul}
+### Vier Fragen für Ihr Gespräch
+
+1. Welchen Nutzen habe ich von der Operation?
+2. Welche Risiken hat sie für mich?
+3. Welche Alternativen gibt es?
+4. Was passiert, wenn ich nichts tue oder noch warte?
+
+```{=html}
+<button class="drucken" type="button" onclick="window.print()">Diese Fragen drucken</button>
+```
+:::
+
+## Risiken in Zahlen {#risiken}
+
+Die Zahlen sind Durchschnittswerte aus Studien. Ihr persönliches Risiko
+kann höher oder tiefer liegen — das besprechen Sie im
+Aufklärungsgespräch.
+
+::: {.risiko}
+Nach der Hüftoperation — von je 100 Operierten [(Zahlen aus Registern
+und Literatur ergänzen, z. B. SIRIS)]{.ph}
+
+| Was passieren kann | Wie lange es meist dauert | hatten es | hatten es nicht |
+|--------------------------------|------------------|:----:|:----:|
+| Schmerzen, die Medikamente brauchen | [Tage bis Wochen]{.ph} | […]{.ph} | […]{.ph} |
+| Beinlängen-Unterschied, der spürbar bleibt | [dauerhaft]{.ph} | […]{.ph} | […]{.ph} |
+| Ausrenken des neuen Gelenks (Luxation) | [behandelbar]{.ph} | […]{.ph} | […]{.ph} |
+| Infektion, die eine weitere Behandlung braucht | [Wochen]{.ph} | […]{.ph} | […]{.ph} |
+:::
+
+Das Narkoserisiko ist vom Operationsrisiko zu unterscheiden. Es ist für
+gesunde Erwachsene sehr klein: [Grössenordnung nach RCoA-Vorbild]{.ph}.
+
+::: {.rechtshinweis}
+Diese Informationen ersetzen nicht das persönliche Aufklärungsgespräch.
+Dort besprechen wir Ihre individuellen Risiken. Sie dürfen dieses
+Gespräch auch vertagen, wenn Sie mehr Bedenkzeit brauchen — und Ihre
+Einwilligung bis zum Eingriff jederzeit zurückziehen.
+:::
+
+::: {.mini-nav}
+[⌂ Meine Hüftoperation](../hueftprothese.qmd)
+[Zeit bis Eintritt →](zeit-bis-eintritt.qmd)
+:::
+
+{{< include ../../_governance.qmd >}}

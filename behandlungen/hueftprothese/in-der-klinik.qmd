@@ -1,0 +1,57 @@
+---
+title: "Hüftprothese: In der Klinik, Tag für Tag"
+---
+
+::: {.mini-nav}
+[⌂ Meine Hüftoperation](../hueftprothese.qmd)
+[← Operationstag](operationstag.qmd)
+[Alltag →](alltag.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
+:::
+
+::: {.stepper}
+**Mein Weg:** [Entscheidung](entscheidung.qmd) → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → [Vor der Operation](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → **In der Klinik** → [Alltag](alltag.qmd)
+:::
+
+[Ihre Erholung beginnt am Operationstag — jeder frühe Schritt bringt
+die Heilung in Gang, und mit jedem Tag übernehmen Sie mehr
+selbst.]{.lede}
+
+## Ihr Programm, Tag für Tag {#programm}
+
+- **Operationstag:** die ersten Schritte an Stöcken, mit Begleitung.
+  Das operierte Bein darf teilbelastet werden.
+- **Tag 1:** Gehtraining, Körperpflege mit Unterstützung, normales
+  Essen und Trinken.
+- **Tag 2:** Treppensteigen, An- und Ausziehen üben, Röntgenkontrolle
+  — Sie übernehmen zunehmend selbst.
+- **Tag 3:** in der Regel Austritt nach Hause.
+
+Damit das gelingt, halten wir Ihre Schmerzen konsequent niedrig. Ihr
+Empfinden ist individuell und von aussen unsichtbar — sagen Sie uns
+früh, was Sie spüren: Je genauer wir Bescheid wissen, desto feiner
+stellen wir die Behandlung auf Sie ein.
+
+## Nach Hause gehen Sie, sobald Sie es können {#ziele}
+
+Wörtlich: Sie gehen sicher und selbstständig, steigen Treppen, wenn
+Sie zu Hause welche haben, pflegen sich selbst, kommen allein ins Bett
+und aus dem Bett, und die Wunde ist ruhig und trocken. Das sind die
+Ziele, auf die Sie in diesen drei Tagen hintrainieren.
+
+::: {.zusatz-karte}
+**Für alle Operationen gilt** — zentral gepflegt, immer aktuell:
+
+[Der Aufenthalt: Tagesablauf, Visite, wer Sie betreut →](../../phasen/aufenthalt.qmd)
+:::
+
+::: {.mini-nav}
+[⌂ Meine Hüftoperation](../hueftprothese.qmd)
+[← Operationstag](operationstag.qmd)
+[Alltag →](alltag.qmd)
+:::
+
+{{< include ../../_governance.qmd >}}

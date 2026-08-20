@@ -39,7 +39,7 @@ Entscheidung gehört, dass Sie kennen und Übersicht haben:
   Entscheidung
 
 Zu den häufigsten Eingriffen finden Sie [eigene Seiten mit Nutzen,
-Risiken und Alternativen](../index.qmd#ihre-operation-im-detail).
+Risiken und Alternativen](../index.qmd#welche-operation-bekommen-sie).
 Unabhängige, werbefreie Informationen bietet
 [gesundheitsinformation.de](https://www.gesundheitsinformation.de).
 

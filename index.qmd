@@ -69,6 +69,14 @@ persönlicher Weg beginnt am besten dort:
 [weitere Operationen]{.ph}
 :::
 
+::: {.hinweis-prototyp}
+Architektur-Demo, zwei Varianten zum Vergleichen:
+**Hüftprothese** zeigt den «Eingriffskosmos» — eine Einstiegsseite mit
+sechs kurzen Schritt-Seiten, Allgemeines wird zentral gepflegt und
+verlinkt. **Spondylodese** zeigt die Langseiten-Variante — alle
+Inhalte auf einer durchgehenden Seite.
+:::
+
 ## Gut zu wissen
 
 - [Das Wichtigste auf einem Blatt, zum Ausdrucken](merkblatt.qmd)

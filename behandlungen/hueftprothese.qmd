@@ -1,316 +1,69 @@
 ---
-title: "Künstliches Hüftgelenk (Hüftprothese)"
+title: "Mein Weg zur neuen Hüfte"
+toc: false
 ---
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[Vor der Operation →](../phasen/vorbereitung.qmd)
 :::
 
 ::: {.hinweis-prototyp}
-Struktur-Prototyp. Inhalte aus einer Klinikbroschüre übernommen und
-umformuliert — alle klinischen Angaben vor Verwendung fachlich
-freigeben. Offene Punkte [so markiert]{.ph}.
+Architektur-Demo «Eingriffskosmos»: Diese Seite ist der Einstieg, jeder
+Schritt hat eine eigene, kurze Seite. Allgemeine Inhalte (Nüchternheit,
+Medikamente, Packliste) bleiben zentral gepflegt und werden verlinkt
+statt kopiert. Zum Vergleich: [die Spondylodese-Seite](spondylodese.qmd)
+zeigt dieselben Inhalte als eine lange Seite.
 :::
 
-[Wie die Operation abläuft, wie Sie sich vorbereiten und wie Sie
-Schritt für Schritt in Ihren Alltag zurückkehren.]{.lede}
+[Bei einer Hüftprothese erhält Ihr abgenutztes Hüftgelenk einen Ersatz,
+der Sie meist ein Leben lang begleitet — damit Sie wieder frei und
+sicher gehen, Treppen steigen und durchschlafen. Hier finden Sie Ihren
+Weg, Schritt für Schritt.]{.lede}
 
-## Was ist eine Hüftprothese? {#was}
+## Ihr Weg, Schritt für Schritt
 
-Ihr Hüftgelenk ist ein Kugelgelenk: Der Hüftkopf dreht sich in der
-Gelenkpfanne, eine Knorpelschicht lässt beides geschmeidig gleiten.
-Bei einer Arthrose ist diese Gleitschicht abgenutzt. Die Operation
-gibt dem Gelenk beides zurück: glatte Flächen und freies Spiel — Kopf
-und Pfanne erhalten einen Ersatz aus Metall, Keramik und Kunststoff.
+::: {.phasen}
+1. [Die Entscheidung](hueftprothese/entscheidung.qmd)
 
-Das neue Gelenk ist auf Dauer gebaut: Die meisten Menschen begleitet
-es ein Leben lang. Ziel ist, dass Sie sich wieder frei und sicher
-bewegen — gehen, Treppen steigen, durchschlafen.
+   [Was die Operation bringt, welche Alternativen es gibt, Risiken in
+   Zahlen — und die vier Fragen für Ihre Sprechstunde.]{.p-frage}
 
-::: {.callout-note collapse="true" icon="false"}
-### Mehr erfahren: das Implantat
+2. [Die Zeit bis zum Eintritt](hueftprothese/zeit-bis-eintritt.qmd)
 
-Die künstliche Pfanne ist eine Schale mit einer Gleitfläche aus
-Kunststoff; ihre Aussenseite kann fest in den eigenen Knochen
-einwachsen. Die neue Gelenkkugel aus Keramik oder Metall sitzt auf
-einem Schaft, der im Oberschenkelknochen verankert wird — je nach
-Knochenqualität einwachsend oder einzementiert. Welche Variante zu
-Ihnen passt, plant Ihre Orthopädin oder Ihr Orthopäde anhand Ihrer
-Röntgenbilder und bespricht sie mit Ihnen.
+   [Ihr Trainingsfenster: Kraft aufbauen, Rauchstopp ab 6 Wochen
+   vorher, die Wohnung herrichten.]{.p-frage}
+
+3. [Vor der Operation](hueftprothese/vor-der-operation.qmd)
+
+   [Drei Termine bereiten Sie vor. Ab Tag 5: die spezielle
+   Waschbehandlung. Dazu alles Allgemeine: Medikamente, Essen und
+   Trinken, Packliste.]{.p-frage}
+
+4. [Eintritt und Operationstag](hueftprothese/operationstag.qmd)
+
+   [Meist Spinalanästhesie — ob Sie dösen, Musik hören oder schlafen,
+   entscheiden Sie mit. Die Operation dauert rund 60 bis 90
+   Minuten.]{.p-frage}
+
+5. [In der Klinik: Tag für Tag](hueftprothese/in-der-klinik.qmd)
+
+   [Erste Schritte am Operationstag, Treppen an Tag 2, nach Hause in
+   der Regel an Tag 3 — sobald Sie es können.]{.p-frage}
+
+6. [Zurück in den Alltag](hueftprothese/alltag.qmd)
+
+   [Der Alltag ist Ihre beste Therapie: Auto ab Woche 6, Velo ab
+   Woche 10, Wandern nach 3 Monaten — und woran Sie erkennen, dass
+   alles seinen Gang geht.]{.p-frage}
 :::
 
-## Wann sie infrage kommt {#warum}
+## Gut zu wissen
 
-Vielleicht kennen Sie es: Schmerzen beim Gehen oder Aufstehen,
-manchmal auch nachts, und eine Hüfte, die steifer geworden ist. Die
-Diagnose entsteht aus der körperlichen Untersuchung und einem
-Röntgenbild.
-
-Der Zeitpunkt für die Operation richtet sich nach Ihnen: Wenn
-Schmerzen oder Einschränkung Ihren Alltag bestimmen, ist es Zeit,
-über den Gelenkersatz zu sprechen.
-
-## Welche Alternativen es gibt {#alternativen}
-
-Eine Hüftprothese ist selten dringend. Meist bleibt Zeit, die
-Möglichkeiten abzuwägen:
-
-- Bewegungstherapie und gezielter Muskelaufbau
-- Schmerzmittel und Infiltrationen
-- Abwarten mit regelmässiger Kontrolle — auch das ist eine aktive
-  Entscheidung
-
-Was für Sie passt, hängt von Ihren Beschwerden, Ihren Zielen und Ihrem
-Alltag ab. Das klären Sie im Gespräch mit Ihrer Ärztin oder Ihrem Arzt.
-
-::: {.fragen-modul}
-### Vier Fragen für Ihr Gespräch
-
-Nehmen Sie diese Fragen mit in die Sprechstunde:
-
-1. Welchen Nutzen habe ich von der Operation?
-2. Welche Risiken hat sie für mich?
-3. Welche Alternativen gibt es?
-4. Was passiert, wenn ich nichts tue oder noch warte?
-
-```{=html}
-<button class="drucken" type="button" onclick="window.print()">Diese Fragen drucken</button>
-```
-:::
-
-## Vorher: Ihre Vorbereitung {#vorher}
-
-Sobald der Operationstermin steht, kommen drei Termine auf Sie zu: der
-**Übungstermin bei der Physiotherapie** (Physiotherapie-Instruktion),
-das **Anästhesiegespräch** und, falls nötig, eine **internistische
-Abklärung**. Nehmen Sie zu diesen
-Terminen die Person mit, die Sie nach der Operation unterstützen wird
-— sie hört mit und weiss dann, worauf es ankommt.
-
-Die allgemeinen Schritte — Medikamente, Essen und Trinken, Packliste,
-Austrittsplanung — finden Sie im Wegweiser [«Vor der
-Operation»](../phasen/vorbereitung.qmd). Speziell für die Hüftoperation
-können Sie zusätzlich einiges für sich tun:
-
-::: {.callout-note collapse="true" icon="false"}
-### Trainieren Sie schon jetzt
-
-Das [Übungsprogramm](#uebungen), das Sie nach der Operation begleitet,
-dürfen Sie schon vorher beginnen. Bleiben Sie so aktiv, wie Ihre Hüfte
-es zulässt — jede Kraft, die Sie jetzt aufbauen, trägt Sie nachher.
-Halten Sie Ihr Gewicht stabil und essen Sie, wie Sie es gewohnt sind.
-:::
-
-::: {.callout-note collapse="true" icon="false"}
-### Rauchstopp: der wirksamste Schritt
-
-Ein Rauchstopp **6 Wochen** vor der Operation verbessert Wundheilung
-und Atmung messbar — Ihr Körper beginnt schon nach Tagen, davon zu
-profitieren. [Unterstützungsangebote.]{.ph}
-:::
-
-::: {.callout-note collapse="true" icon="false"}
-### Richten Sie Ihre Wohnung her
-
-So kommen Sie in ein Zuhause zurück, das mitspielt: Alltagsdinge auf
-Tischhöhe stellen, lose Teppiche und Kabel wegräumen, einen hohen,
-stabilen Stuhl mit Armlehnen bereitstellen, ein tiefes Bett mit einer
-zweiten Matratze erhöhen. Wer auf mehreren Etagen wohnt, richtet sich
-für die ersten Tage auf einer ein. Ein langer Schuhlöffel und eine
-Sockenanziehhilfe leisten gute Dienste.
-:::
-
-::: {.callout-note collapse="true" icon="false"}
-### Hautvorbereitung ab Tag 5
-
-Fünf Tage vor der Operation beginnen Sie mit einer speziellen
-Waschbehandlung (Dekolonisation). Sie reduziert die Keime auf der Haut
-und schützt so Ihr neues Gelenk vor Infektionen. Die Anleitung dazu
-erhalten Sie rechtzeitig von Ihrem Behandlungsteam.
-:::
-
-::: {.warnung}
-### In der Woche vor der Operation: Melden zahlt sich aus
-
-Husten, Halsschmerzen, Fieber, Brennen beim Wasserlassen oder eine
-offene Wunde — wenn davon etwas auftritt, rufen Sie das Sekretariat
-Ihrer Orthopädin oder Ihres Orthopäden an. Gemeinsam wird entschieden,
-wie es weitergeht; nehmen Sie Medikamente wie Antibiotika nur nach
-Rücksprache. Auch ein Spitalaufenthalt in den letzten 6 Monaten,
-besonders im Ausland, gehört ins Gespräch — so schützen wir Sie und
-andere.
-:::
-
-## Die Operation {#ablauf}
-
-Üblich ist eine **Spinalanästhesie**: Ihre Beine ruhen für einige
-Stunden tief und schmerzfrei, Ihr Kopf bleibt klar. Ob Sie
-währenddessen dösen, [Ihre eigene Musik über Kopfhörer hören]{.ph}
-oder mit einem Schlafmittel ganz schlafen — das entscheiden Sie mit.
-Falls die Spinalanästhesie im Einzelfall ungeeignet ist, übernimmt
-eine Vollnarkose. Die Operation dauert in der Regel [60 bis
-90 Minuten]{.ph}.
-
-::: {.callout-note collapse="true" icon="false"}
-### Mehr erfahren: so läuft es im Operationsbereich ab
-
-Im Vorbereitungsraum legt das Anästhesieteam eine Infusion und
-schliesst die Überwachung an, dann beginnt die mit Ihnen besprochene
-Anästhesie. Das Team lagert Sie bequem, begleitet Sie in den Saal und
-bereitet die Haut sorgfältig vor — dann beginnt die Operation. Dass
-Sie unterwegs mehrmals nach Name und geplantem Eingriff gefragt
-werden, ist Teil unseres Sicherheitskonzepts: Jede Kontrolle arbeitet
-für Sie.
-
-Danach wachen Sie im Aufwachraum auf, gut betreut. Eine
-Spinalanästhesie klingt über **2 bis 4 Stunden** ab; das Gefühl in den
-Beinen kehrt von selbst zurück. Nach **2 bis 3 Stunden** begleiten
-wir Sie auf Ihr Zimmer. Auf Wunsch informieren wir Ihre Angehörigen, wie
-die Operation verlaufen ist.
-:::
-
-## Nachher: Ihre Erholung {#nachher}
-
-### Phase 1: Tag für Tag in der Klinik
-
-Ihre Erholung beginnt am Operationstag — jeder frühe Schritt bringt
-die Heilung in Gang, und mit jedem Tag übernehmen Sie mehr selbst:
-
-- **Operationstag:** die ersten Schritte an Stöcken, mit Begleitung.
-  Das operierte Bein darf teilbelastet werden.
-- **Tag 1:** Gehtraining, Körperpflege mit Unterstützung, normales
-  Essen und Trinken.
-- **Tag 2:** Treppensteigen, An- und Ausziehen üben, Röntgenkontrolle
-  — Sie übernehmen zunehmend selbst.
-- **Tag 3:** in der Regel Austritt nach Hause.
-
-Damit das gelingt, halten wir Ihre Schmerzen konsequent niedrig. Ihr
-Empfinden ist individuell und von aussen unsichtbar — sagen Sie uns
-früh, was Sie spüren: Je genauer wir Bescheid wissen, desto feiner
-stellen wir die Behandlung auf Sie ein.
-
-**Nach Hause gehen Sie, sobald Sie es können** — wörtlich: Sie gehen
-sicher und selbstständig, steigen Treppen, wenn Sie zu Hause welche
-haben, pflegen sich selbst, kommen allein ins Bett und aus dem Bett,
-und die Wunde ist ruhig und trocken. Das sind die Ziele, auf die Sie
-in diesen drei Tagen hintrainieren.
-
-### Phase 2: Zurück in den Alltag
-
-Die Entlassung ist ein Übergang. Schon während des Aufenthalts klären
-wir mit Ihnen, wie es zu Hause weitergeht — Ihre Nachsorge
-organisieren wir gemeinsam: [Link/Kontakt Austrittsmanagement]{.ph}.
-
-**Der Alltag ist Ihre beste Therapie.** Ihre Gehstrecke wird laufend
-länger, die Muskulatur baut sich mit jedem Tag auf. Die Gehstöcke
-geben Ihrem neuen Gelenk in den ersten Wochen Halt, bis es fest
-eingewachsen ist — so bewegen Sie sich sicher. In den ersten Wochen
-schlafen Sie am besten auf dem Rücken oder auf der gesunden Seite mit
-einem Kissen zwischen den Beinen; ab Woche 4 geht auch die operierte
-Seite wieder.
-
-Den Verband wechseln Sie nach **5 bis 7 Tagen** selbst — die Pflege
-zeigt Ihnen vor dem Austritt, wie. Der Bluterguss um die Operationsstelle
-wird bunt und wandert der Schwerkraft folgend Richtung Knie und Fuss:
-Das sieht eindrücklich aus, gehört zur normalen Heilung und bildet
-sich über einige Wochen zurück.
-
-So bauen Sie Ihre Aktivitäten wieder auf [(Richtwerte, individuell mit
-Ihrer Orthopädin abstimmen)]{.ph}:
-
-| Ab wann | Was wieder geht |
-|---------------|------------------------------------------------|
-| Woche 6 | Autofahren; leichte Arbeit |
-| Woche 7 | Fitnesstraining, Hometrainer |
-| Woche 10 | Velofahren |
-| 2 Monate | mittelschwere Arbeit |
-| 3 Monate | Wandern, leichtes Lauftraining, Golf, Langlauf; schwere Arbeit |
-| 4 Monate | Mountainbike |
-| 6 Monate | anspruchsvolle Wanderungen, Ski, Tennis, Ballsport |
-| 1 Jahr | volle Kraft, Beweglichkeit und Ausdauer |
-
-Auf Reisen brauchen Sie nichts Besonderes zu beachten — am Flughafen
-melden die Metalldetektoren Ihr Implantat, ein kurzer Hinweis ans
-Personal genügt. Beim Zahnarzt läuft die normale Behandlung wie
-gewohnt; nur vor grossen Eingriffen oder bei einem eitrigen Zahn
-sprechen Sie die Zahnarztpraxis auf einen vorbeugenden
-Antibiotikaschutz an.
-
-Ihr Körper setzt seine Energie in den ersten Wochen vor allem für die
-Heilung ein. Gönnen Sie sich Pausen; von Woche zu Woche kehrt Ihre
-Kraft zurück. Und wie es Ihnen insgesamt geht — Energie, Schlaf,
-Stimmung — gehört in die Nachkontrolle.
-
-::: {.callout-note collapse="true" icon="false"}
-### Ihr Übungsprogramm {#uebungen}
-
-[Gesässmuskulatur aktivieren, Hüftbeugung in Rückenlage,
-Hüftstreckung im Stehen — je 10 bis 20 Wiederholungen, 3-mal täglich.
-Gehen im 3-Punkte-Gang, Treppe hinauf mit dem gesunden Bein zuerst,
-hinunter mit Stöcken und operiertem Bein zuerst. Als bebilderte
-Anleitung oder kurzes Video umsetzen, nicht als Fliesstext.]{.ph}
-:::
-
-## Risiken in Zahlen {#risiken}
-
-Die Zahlen sind Durchschnittswerte aus Studien. Ihr persönliches Risiko
-kann höher oder tiefer liegen — das besprechen Sie im
-Aufklärungsgespräch.
-
-::: {.risiko}
-Nach der Hüftoperation — von je 100 Operierten [(Zahlen aus Registern
-und Literatur ergänzen, z. B. SIRIS)]{.ph}
-
-| Was passieren kann | Wie lange es meist dauert | hatten es | hatten es nicht |
-|--------------------------------|------------------|:----:|:----:|
-| Schmerzen, die Medikamente brauchen | [Tage bis Wochen]{.ph} | […]{.ph} | […]{.ph} |
-| Beinlängen-Unterschied, der spürbar bleibt | [dauerhaft]{.ph} | […]{.ph} | […]{.ph} |
-| Ausrenken des neuen Gelenks (Luxation) | [behandelbar]{.ph} | […]{.ph} | […]{.ph} |
-| Infektion, die eine weitere Behandlung braucht | [Wochen]{.ph} | […]{.ph} | […]{.ph} |
-:::
-
-Das Narkoserisiko ist vom Operationsrisiko zu unterscheiden. Es ist für
-gesunde Erwachsene sehr klein: [Grössenordnung nach RCoA-Vorbild, je
-100'000 dargestellt, auf eigener Seite mit eigenem Nenner]{.ph}.
-[Link: eigene Seite «Narkose und Risiko», noch nicht angelegt]{.ph}
-
-::: {.rechtshinweis}
-Diese Informationen ersetzen nicht das persönliche Aufklärungsgespräch.
-Dort besprechen wir Ihre individuellen Risiken. Sie dürfen dieses
-Gespräch auch vertagen, wenn Sie mehr Bedenkzeit brauchen — und Ihre
-Einwilligung bis zum Eingriff jederzeit zurückziehen.
-:::
-
-::: {.care}
-## Melden Sie sich sofort bei diesen Anzeichen {#warnzeichen}
-
-- Fieber über [38.5 °C]{.ph}
-- Zunehmende Rötung, Schwellung oder Nässen der Wunde
-- Plötzlich stark zunehmende Schmerzen
-- Schwellung oder Schmerz in der Wade
-- Atemnot oder Brustschmerz — in diesem Fall direkt **144** anrufen
-
-In den ersten [7 Tagen]{.ph} nach Austritt erreichen Sie die Station
-unter [Nummer]{.ph}, danach die Person, die Sie operiert hat, oder
-Ihre Hausarztpraxis. Nehmen Sie Antibiotika nur nach Rücksprache —
-die Abklärung gehört in die Hand der Spezialisten.
-:::
-
-::: {.praxis}
-## Praktisches rund um den Aufenthalt {#praktisches}
-
-Anreise und Parken · Zimmer und Verpflegung · Besuchszeiten · WLAN ·
-Wertsachen · Versicherungsfragen — gesammelt unter [«Gut zu wissen»,
-Seite noch nicht angelegt]{.ph}. Diese Themen stehen bewusst nicht
-zwischen den medizinischen Schritten.
-:::
+- [Praktisches rund um den Aufenthalt: Anreise, Zimmer, Besuch, WLAN —
+  «Gut zu wissen», Seite noch nicht angelegt]{.ph}
+- [Der allgemeine Wegweiser durch den Aufenthalt](../index.qmd) — falls
+  Sie etwas ausserhalb Ihres Eingriffs suchen
 
 {{< include ../_feedback.qmd >}}
-
-::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
-[Vor der Operation →](../phasen/vorbereitung.qmd)
-:::
 
 {{< include ../_governance.qmd >}}

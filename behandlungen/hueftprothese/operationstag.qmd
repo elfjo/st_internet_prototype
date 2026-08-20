@@ -1,0 +1,61 @@
+---
+title: "Hüftprothese: Eintritt und Operationstag"
+---
+
+::: {.mini-nav}
+[⌂ Meine Hüftoperation](../hueftprothese.qmd)
+[← Vor der Operation](vor-der-operation.qmd)
+[In der Klinik →](in-der-klinik.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
+:::
+
+::: {.stepper}
+**Mein Weg:** [Entscheidung](entscheidung.qmd) → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → [Vor der Operation](vor-der-operation.qmd) → **Operationstag** → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
+:::
+
+[Jeder Schritt dieses Tages ist vorbereitet — Sie dürfen sich führen
+lassen.]{.lede}
+
+## Ihre Anästhesie: Sie entscheiden mit {#anaesthesie}
+
+Üblich ist eine **Spinalanästhesie**: Ihre Beine ruhen für einige
+Stunden tief und schmerzfrei, Ihr Kopf bleibt klar. Ob Sie
+währenddessen dösen, [Ihre eigene Musik über Kopfhörer hören]{.ph}
+oder mit einem Schlafmittel ganz schlafen — das entscheiden Sie mit.
+Falls die Spinalanästhesie im Einzelfall ungeeignet ist, übernimmt
+eine Vollnarkose. Die Operation dauert in der Regel [60 bis
+90 Minuten]{.ph}.
+
+## So läuft es im Operationsbereich ab {#ablauf}
+
+Im Vorbereitungsraum legt das Anästhesieteam eine Infusion und
+schliesst die Überwachung an, dann beginnt die mit Ihnen besprochene
+Anästhesie. Das Team lagert Sie bequem, begleitet Sie in den Saal und
+bereitet die Haut sorgfältig vor — dann beginnt die Operation. Dass
+Sie unterwegs mehrmals nach Name und geplantem Eingriff gefragt
+werden, ist Teil unseres Sicherheitskonzepts: Jede Kontrolle arbeitet
+für Sie.
+
+Danach wachen Sie im Aufwachraum auf, gut betreut. Eine
+Spinalanästhesie klingt über **2 bis 4 Stunden** ab; das Gefühl in den
+Beinen kehrt von selbst zurück. Nach **2 bis 3 Stunden** begleiten wir
+Sie auf Ihr Zimmer. Auf Wunsch informieren wir Ihre Angehörigen, wie
+die Operation verlaufen ist.
+
+::: {.zusatz-karte}
+**Für alle Operationen gilt** — zentral gepflegt, immer aktuell:
+
+[Eintrittszeit per SMS, Anmeldung, Ablauf des Vormittags →](../../phasen/eintrittstag.qmd) ·
+[Wenn Sie am Eintrittstag krank sind →](../../phasen/eintrittstag.qmd#wartezeit)
+:::
+
+::: {.mini-nav}
+[⌂ Meine Hüftoperation](../hueftprothese.qmd)
+[← Vor der Operation](vor-der-operation.qmd)
+[In der Klinik →](in-der-klinik.qmd)
+:::
+
+{{< include ../../_governance.qmd >}}

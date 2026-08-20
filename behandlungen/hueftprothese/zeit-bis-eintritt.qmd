@@ -1,0 +1,57 @@
+---
+title: "Hüftprothese: Die Zeit bis zum Eintritt"
+---
+
+::: {.mini-nav}
+[⌂ Meine Hüftoperation](../hueftprothese.qmd)
+[← Entscheidung](entscheidung.qmd)
+[Vor der Operation →](vor-der-operation.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
+:::
+
+::: {.stepper}
+**Mein Weg:** [Entscheidung](entscheidung.qmd) → **Zeit bis Eintritt** → [Vor der Operation](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
+:::
+
+[Die Wochen bis zur Operation sind Ihr Trainingsfenster: Jede Kraft,
+die Sie jetzt aufbauen, trägt Sie nachher.]{.lede}
+
+## Trainieren Sie schon jetzt {#training}
+
+Das Übungsprogramm, das Sie nach der Operation begleitet, dürfen Sie
+schon vorher beginnen. Bleiben Sie so aktiv, wie Ihre Hüfte es
+zulässt — schon tägliches Gehen erhält Kraft und Ausdauer. Halten Sie
+Ihr Gewicht stabil und essen Sie, wie Sie es gewohnt sind.
+
+## Rauchstopp: der wirksamste Schritt {#rauchstopp}
+
+Ein Rauchstopp **6 Wochen** vor der Operation verbessert Wundheilung
+und Atmung messbar — Ihr Körper beginnt schon nach Tagen, davon zu
+profitieren. [Unterstützungsangebote.]{.ph}
+
+## Richten Sie Ihre Wohnung her {#wohnung}
+
+So kommen Sie in ein Zuhause zurück, das mitspielt: Alltagsdinge auf
+Tischhöhe stellen, lose Teppiche und Kabel wegräumen, einen hohen,
+stabilen Stuhl mit Armlehnen bereitstellen, ein tiefes Bett mit einer
+zweiten Matratze erhöhen. Wer auf mehreren Etagen wohnt, richtet sich
+für die ersten Tage auf einer ein. Ein langer Schuhlöffel und eine
+Sockenanziehhilfe leisten gute Dienste.
+
+::: {.zusatz-karte}
+**Für alle Operationen gilt** — zentral gepflegt, immer aktuell:
+
+[Die Zeit bis zum Eintritt: Bewegung, Ernährung, seelische
+Vorbereitung, Alltag organisieren →](../../phasen/wartezeit.qmd)
+:::
+
+::: {.mini-nav}
+[⌂ Meine Hüftoperation](../hueftprothese.qmd)
+[← Entscheidung](entscheidung.qmd)
+[Vor der Operation →](vor-der-operation.qmd)
+:::
+
+{{< include ../../_governance.qmd >}}
