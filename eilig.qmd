@@ -25,9 +25,6 @@ Oder zum **Anzeigen auf dem Handy**:
 
 [Zum Merkblatt →](merkblatt.qmd)
 
-
-:::
-
 ## Die häufigsten Fragen, direkt beantwortet {#schnellantworten}
 
 ## Ab wann darf ich nichts mehr essen und trinken? {#nuechtern}
@@ -62,7 +59,7 @@ melden und was am Tag selbst passiert:
 
 [Mein Eintrittstag →](phasen/eintrittstag.qmd)
 
-## Ich möchte Kontakt zu Ihnen aufnehmen. Wer ist zuständig? {#eintrittszeit}
+## Ich möchte Kontakt zu Ihnen aufnehmen. Wer ist zuständig? {#kontakt}
 
 - Kontakt1.....
 - Kontakt2......
@@ -79,7 +76,7 @@ melden und was am Tag selbst passiert:
 - [Medikamente und Ernährung](phasen/vorbereitung.qmd#medikamente)
 - [Organisatorisches]{.ph}
 - [Ansprechpartner und Notfall](index.qmd#kontaktzone)
-
+:::
 
 ::: {.mini-nav}
 [⌂ Übersicht](index.qmd)
