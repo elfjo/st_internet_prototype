@@ -43,7 +43,7 @@ zusammengefasst.
    aufbauen, gut essen, ab 6 Wochen vorher rauchfrei — und die Wohnung
    so herrichten, dass sie mitspielt.]{.p-frage}
 
-3. [Gut vorbereitet zum Eintritt](hueftprothese/vor-der-operation.qmd)
+3. [Gut vorbereitet zum Eintritt kommen](hueftprothese/vor-der-operation.qmd)
 
    [Was erledige ich vor dem Eintritt? Drei Termine bereiten mich vor;
    dazu Medikamente, Essen und Trinken, Packliste — und ab Tag 5 die
