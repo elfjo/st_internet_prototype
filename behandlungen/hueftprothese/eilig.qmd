@@ -1,0 +1,95 @@
+---
+title: "Hüftoperation: Kurzinformationen, Fragen und Antworten"
+toc: false
+---
+
+::: {.mini-nav}
+[⌂ Meine Hüftoperation](../hueftprothese.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
+:::
+
+[Die wichtigsten Antworten zu Ihrer Hüftoperation, kompakt auf einer
+Seite — jede Antwort führt Sie bei Bedarf zur ausführlichen
+Fassung.]{.lede}
+
+## Ab wann darf ich nichts mehr essen und trinken? {#nuechtern}
+
+Essen bis **6 Stunden** vor der Eintrittszeit. Trinken (Wasser ohne
+Kohlensäure, Tee, schwarzer Kaffee) bis **2 Stunden** vorher. Danach
+gar nichts mehr, auch keine Bonbons oder Kaugummis.
+
+[Warum das wichtig ist →](vor-der-operation.qmd#nuechtern)
+
+## Welche Medikamente muss ich pausieren? {#medikamente}
+
+Die meisten Medikamente nehmen Sie normal weiter. **Blutverdünner und
+Diabetesmedikamente** pausieren Sie nur nach Absprache mit Ihrer
+Ärztin oder Ihrem Arzt. Im Zweifel genügt ein Anruf:
+[Telefonnummer]{.ph}.
+
+[Details zu Ihren Medikamenten →](vor-der-operation.qmd#medikamente)
+
+## Was muss ich vor dem Eintritt erledigt haben? {#erledigen}
+
+Den digitalen Gesundheitsfragebogen ausfüllen, das Eintrittsformular
+zurücksenden, Ihre Vorbereitungstermine besuchen — und ab **Tag 5 vor
+der Operation** die Waschbehandlung durchführen, falls verordnet.
+
+[Alle Aufgaben im Überblick →](vor-der-operation.qmd#erledigen)
+
+## Was nehme ich mit? {#mitnehmen}
+
+Versichertenkarte, Ausweis, Medikamentenliste, medizinische Ausweise,
+bequeme weite Kleidung, feste Schuhe, Toilettenartikel — und Ihre
+Gehstöcke, falls Sie schon welche haben. Schmuck und Wertsachen
+bleiben zu Hause.
+
+[Vollständige Packliste →](vor-der-operation.qmd#packliste)
+
+## Wann muss ich wo sein? {#eintrittszeit}
+
+Ihre Eintrittszeit erhalten Sie [am Vortag per SMS]{.ph}. Wo Sie sich
+melden und was am Tag selbst passiert:
+
+[Mein Operationstag →](operationstag.qmd)
+
+## Wie lange bleibe ich in der Klinik? {#dauer}
+
+In der Regel **3 Tage**: Die ersten Schritte machen Sie schon am
+Operationstag, ab Tag 2 üben Sie Treppensteigen, an Tag 3 gehen die
+meisten nach Hause.
+
+[Mein Aufenthalt, Tag für Tag →](in-der-klinik.qmd#programm)
+
+## Ab wann kann ich wieder was? {#aufbau}
+
+Autofahren ab **Woche 6**, Velofahren ab **Woche 10**, Wandern ab
+**3 Monaten** — die vollständige Aufbautabelle mit allen Aktivitäten:
+
+[So bauen Sie Ihre Aktivitäten wieder auf →](alltag.qmd#aufbau)
+
+::: {#kontakt}
+{{< include ../../_kontakt.qmd >}}
+:::
+
+## Wählen Sie Ihr Thema {#themen}
+
+::: {.themen}
+- [Ist die Operation der richtige Weg?](entscheidung.qmd)
+- [Die Wochen vor dem Eintritt](zeit-bis-eintritt.qmd)
+- [Vorbereitung und Packliste](vor-der-operation.qmd)
+- [Am Operationstag](operationstag.qmd)
+- [Während meines Aufenthalts](in-der-klinik.qmd)
+- [Zu Hause: Erholung und Aufbau](alltag.qmd)
+- [Narkose und Anästhesie](anaesthesie.qmd)
+- [Warnzeichen nach dem Austritt](alltag.qmd#warnzeichen)
+:::
+
+::: {.mini-nav}
+[⌂ Meine Hüftoperation](../hueftprothese.qmd)
+:::
+
+{{< include ../../_governance.qmd >}}

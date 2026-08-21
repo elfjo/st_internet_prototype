@@ -20,6 +20,14 @@ meist ein Leben lang begleitet — damit Sie wieder frei und sicher
 gehen, Treppen steigen und durchschlafen. Hier finden Sie Ihren Weg,
 Schritt für Schritt.]{.lede}
 
+::: {.eilig-teaser}
+Wenn Sie eine konkrete Frage haben oder gerade wenig Zeit: Hier
+finden Sie die wichtigsten Antworten zu Ihrer Hüftoperation kompakt
+zusammengefasst.
+
+[Direkt zur Kompaktinformation →](hueftprothese/eilig.qmd)
+:::
+
 ## Ihr Weg, Schritt für Schritt
 
 ::: {.phasen}
