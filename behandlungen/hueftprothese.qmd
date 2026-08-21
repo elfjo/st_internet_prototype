@@ -31,7 +31,7 @@ zusammengefasst.
 ## Ihr Pfad, Schritt für Schritt
 
 ::: {.phasen}
-1. [Die Entscheidung](hueftprothese/entscheidung.qmd)
+1. [Die Entscheidung zur Operation](hueftprothese/entscheidung.qmd)
 
    [Ist die Operation der richtige Weg für mich? Welche Alternativen
    habe ich, was sagen die Zahlen zu den Risiken — und welche vier

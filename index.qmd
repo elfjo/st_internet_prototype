@@ -24,7 +24,7 @@ Vorbereitung. Sie sind eingeladen, den Schritten der Reihe nach zu
 folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
 
 ::: {.phasen}
-1. [Die Entscheidung](phasen/entscheidung.qmd)
+1. [Die Entscheidung zur Operation](phasen/entscheidung.qmd)
 
    [Brauche ich diese Operation? Was sind meine Wahlmöglichkeiten, was sind
    die Alternativen? Welche Fragen stelle ich in der Sprechstunde?]{.p-frage}
