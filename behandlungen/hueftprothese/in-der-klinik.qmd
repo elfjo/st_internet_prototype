@@ -1,5 +1,5 @@
 ---
-title: "Hüftprothese: In der Klinik, Tag für Tag"
+title: "Hüftprothese: Die Tage in der Klinik"
 ---
 
 ::: {.mini-nav}
@@ -20,7 +20,7 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 die Heilung in Gang, und mit jedem Tag übernehmen Sie mehr
 selbst.]{.lede}
 
-## Ihr Programm, Tag für Tag {#programm}
+## So kommen Sie auf die Beine {#programm}
 
 - **Operationstag:** die ersten Schritte an Stöcken, mit Begleitung.
   Das operierte Bein darf teilbelastet werden.

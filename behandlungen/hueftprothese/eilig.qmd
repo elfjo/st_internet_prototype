@@ -62,7 +62,7 @@ In der Regel **3 Tage**: Die ersten Schritte machen Sie schon am
 Operationstag, ab Tag 2 üben Sie Treppensteigen, an Tag 3 gehen die
 meisten nach Hause.
 
-[Mein Aufenthalt, Tag für Tag →](in-der-klinik.qmd#programm)
+[Meine Tage in der Klinik →](in-der-klinik.qmd#programm)
 
 ## Ab wann kann ich wieder was? {#aufbau}
 

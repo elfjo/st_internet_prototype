@@ -54,9 +54,9 @@ zusammengefasst.
    [Wie läuft mein Eintrittstag ab? Meist Spinalanästhesie — ob ich
    döse, Musik höre oder schlafe, entscheide ich mit.]{.p-frage}
 
-5. [In der Klinik: Tag für Tag](hueftprothese/in-der-klinik.qmd)
+5. [Die Tage in der Klinik](hueftprothese/in-der-klinik.qmd)
 
-   [Wie komme ich Tag für Tag auf die Beine? Erste Schritte am
+   [Wie komme ich auf die Beine? Erste Schritte am
    Operationstag, Treppen an Tag 2 — nach Hause gehe ich, sobald ich
    es kann, meist an Tag 3.]{.p-frage}
 
