@@ -1,5 +1,5 @@
 ---
-title: "Mein Weg zur neuen Hüfte"
+title: "Mein Pfad zur neuen Hüfte"
 toc: false
 ---
 
@@ -17,7 +17,7 @@ zeigt dieselben Inhalte als eine lange Seite.
 
 [Bei einer Hüftprothese erhält Ihr Hüftgelenk einen Ersatz, der Sie
 meist ein Leben lang begleitet — damit Sie wieder frei und sicher
-gehen, Treppen steigen und durchschlafen. Hier finden Sie Ihren Weg,
+gehen, Treppen steigen und durchschlafen. Hier begleitet Sie dieser Pfad,
 Schritt für Schritt.]{.lede}
 
 ::: {.eilig-teaser}
@@ -28,7 +28,7 @@ zusammengefasst.
 [Direkt zur Kompaktinformation →](hueftprothese/eilig.qmd)
 :::
 
-## Ihr Weg, Schritt für Schritt
+## Ihr Pfad, Schritt für Schritt
 
 ::: {.phasen}
 1. [Die Entscheidung](hueftprothese/entscheidung.qmd)

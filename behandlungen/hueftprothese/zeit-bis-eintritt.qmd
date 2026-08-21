@@ -13,7 +13,7 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 :::
 
 ::: {.stepper}
-**Mein Weg:** [Entscheidung](entscheidung.qmd) → **Zeit bis Eintritt** → [Gut vorbereitet zum Eintritt](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
+**Mein Pfad:** [Entscheidung](entscheidung.qmd) → **Zeit bis Eintritt** → [Gut vorbereitet zum Eintritt](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
 :::
 
 [Die Wochen bis zur Operation sind Ihr Trainingsfenster: Ihr Körper
