@@ -11,10 +11,9 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 Aufenthalts, von der Entscheidung zur Operation bis zur Erholung zu Hause.]{.lede}
 
 ::: {.eilig-teaser}
-Wenn Sie eine konkrete Frage haben oder gerade
-wenig Zeit: Hier finden Sie themenbezogene Antworten und kompakte Zusammenfassungen.
+Wenn Sie gerade wenig Zeit haben, nur das Wichtigste wissen möchten::
 
-[Direkt zur Kompaktinformation →](eilig.qmd)
+[Hier geht´s direkt zur Kurzinformation →](eilig.qmd)
 :::
 
 ## Ihr Pfad durch den Aufenthalt
@@ -35,13 +34,13 @@ folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
    Ernährung, Gewohnheiten — und was tue ich, wenn sich mein
    Gesundheitszustand verschlechtern sollte?]{.p-frage}
 
-3. [Gut vorbereitet zum Eintritt kommen](phasen/vorbereitung.qmd)
+3. [Gut vorbereitet zum Eintritt ankommen](phasen/vorbereitung.qmd)
 
    [Was ist hilfreich vor der Operation zu erledigen? Medikamente, Essen und
    Trinken, Packliste — und die Planung für die Zeit nach dem
    Austritt.]{.p-frage}
 
-4. [Eintritt und Operationstag](phasen/eintrittstag.qmd)
+4. [Der Eintritt und der Operationstag](phasen/eintrittstag.qmd)
 
    [Wo melde ich mich an? Wie sind die Abläufe? Wie lange
    dauert es bis es losgeht?]{.p-frage}

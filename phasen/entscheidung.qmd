@@ -1,5 +1,5 @@
 ---
-title: "Die Entscheidung"
+title: "Gut informiert entscheiden"
 ---
 
 ::: {.mini-nav}
@@ -16,7 +16,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 **Ihr Pfad:** **Die Entscheidung** → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Gut vorbereitet zum Eintritt](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
-[Ob eine Operation der richtige Weg ist, entscheiden Sie — gut
+[Ob eine Operation der richtige Weg ist, entscheiden Sie selbst — gut
 informiert und in Ihrem Tempo.]{.lede}
 
 ## Sie haben Zeit für diese Entscheidung {#zeit}
@@ -31,7 +31,7 @@ Auch nach einer Zusage gilt: Wenn Ihnen in Nachinein zusätzliche Fragen kommen,
 ## Ihre Möglichkeiten kennen {#moeglichkeiten}
 
 Für viele Beschwerden gibt es mehr als einen Weg. Zu einer guten
-Entscheidung gehört, dass Sie kennen und Übersicht haben:
+Entscheidung gehört, dass Sie kennen und Übersicht haben über:
 
 - die vorgeschlagene Operation
 - andere Behandlungen ohne Operation
@@ -54,7 +54,7 @@ Nehmen Sie diese Fragen mit in die Sprechstunde:
 2. Welche Risiken hat sie für mich?
 3. Welche Alternativen gibt es?
 4. Was passiert, wenn ich nichts tue oder noch warte?
-5. Wie oft wird diese Operation an dieser Klinik durchgeführt?
+5. Wie oft wird meine Operation an dieser Klinik durchgeführt?
 
 ```{=html}
 <button class="drucken" type="button" onclick="window.print()">Diese Fragen drucken</button>

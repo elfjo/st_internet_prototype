@@ -53,7 +53,7 @@ profitieren.
 ### Ernährung und Alkohol
 
 Ausgewogen essen, genug Eiweiss, wenig Alkohol — so geben Sie Ihrem
-Körper Baumaterial für die Heilung. Ungewollter Gewichtsverlust vor
+Körper gutes Baumaterial für die Heilung. Ungewollter Gewichtsverlust vor
 einer Operation verdient Aufmerksamkeit: Sprechen Sie ihn an, wir
 unterstützen Sie. [Selbsttest oder Kontakt Ernährungsberatung.]{.ph}
 :::
@@ -61,9 +61,9 @@ unterstützen Sie. [Selbsttest oder Kontakt Ernährungsberatung.]{.ph}
 ::: {.callout-note collapse="true" icon="false"}
 ### Seelische Vorbereitung
 
-Anspannung vor einer Operation ist ganz normal — sie zeigt, dass Ihnen die
+Etwas Anspannung vor einer Operation ist ganz normal — sie zeigt, dass Ihnen die
 Sache wichtig ist. Es hilft, zu wissen, wie alles abläuft. Dafür sind diese
-Seiten da. Wenn die Angst einmal grösser ist: Sagen Sie uns vor dem Eintritt, was Sie gerade besorgt. Es gibt gut erprobte Wege,
+Seiten da. Wenn Sie gerade sehr von sorgenvollen Gedanken eingenommensind: Sprechen Sie mit uns über das, was Sie gerade beschäftigt. Es gibt gut erprobte Wege,
 die vielen Menschen bereits geholfen haben.
 [Kontakt; ggf. Entspannungsübungen, Audio-Angebote.]{.ph}
 :::
@@ -72,7 +72,7 @@ die vielen Menschen bereits geholfen haben.
 ### Den Alltag organisieren
 
 Arbeit ([Arbeitsunfähigkeit: wer stellt das Zeugnis aus, übliche
-Dauer]{.ph}), Angehörige und Betreuungspflichten, Fahrten, Einkäufe für
+Dauer]{.ph}), Angehörige und Betreuungsaufgaben, Fahrten, Einkäufe für
 die erste Woche danach. Was schon jetzt geregelt ist, gibt Ihnen später den
 Kopf frei für die Erholung.
 :::
@@ -82,16 +82,16 @@ Kopf frei für die Erholung.
 ::: {.warnung}
 ### Melden Sie sich, statt abzuwarten
 
-Wenn sich Ihre Beschwerden in irgendeiner Form deutlich verschlechtern, Sie neue Beschwerden
+Wenn Ihre Beschwerden in irgendeiner Form deutlich zunehmen sollten, Sie neue Beschwerden
 bemerken oder eine Erkältung, Fieber oder eine Zahnentzündung
 auftritt: Rufen Sie uns an unter [Telefonnummer]{.ph}. Manches muss
 vor der Operation angeschaut werden — je früher wir es wissen, desto
-eher bleibt Ihr Termin haltbar.
+b.esser können wir alles für Sie abstimmen.
 :::
 
 ## Wenn sich der Termin verschiebt {#verschiebung}
 
-Auch bei guter Planung kann sich ein Operationstermin verschieben, zum
+Auch bei optimaler Planung kann sich ein Operationstermin verschieben, zum
 Beispiel durch Notfälle. Das ist selten, aber möglich. [Wie die Klinik
 in diesem Fall informiert, wie schnell ein Ersatztermin zustande kommt,
 an wen sich Betroffene wenden.]{.ph}
