@@ -8,11 +8,11 @@ project:
 lang: de
 
 website:
-  title: "Klinik · Prototyp Patientenpfad"
+  title: "Web Prototypen"
   search: false
 
   navbar:
-    title: "Klinik · Prototyp Patientenpfad"
+    title: "Web Prototypen"
     collapse-below: lg
     right:
       - text: "Das Wichtigste in Kürze"

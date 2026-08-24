@@ -90,7 +90,7 @@ Regionalanästhesie:
 | ASS therapeutisch | beibehalten, Pause nur auf Anordnung des Operateurs |
 | Clopidogrel / Prasugrel / Ticagrelor | 7 / 7 / 5 Tage |
 
-## Patient Blood Management {#pbm}
+## Anämie und Patient Blood Management {#pbm}
 
 Die unbehandelte Anämie gilt als Kontraindikation für elektive
 Eingriffe mit relevantem Blutverlust.
