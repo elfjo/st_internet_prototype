@@ -34,14 +34,12 @@ folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
 
 2. [Gesundheitsfragebogen, Abklärungen und Anästhesiegespräch](phasen/abklaerung.qmd)
 
-   [Welche Abklärungen brauche ich vor der Operation? Der digitale
-   Fragebogen ist mein erster Schritt, und daraus ergibt sich, wie mein
-   Anästhesiegespräch stattfindet.]{.p-frage}
+   [Welche Abklärungen brauche ich vor der Operation? Wann findet das Anästhesiegespräch statt?.]{.p-frage}
 
 3. [Die Zeit bis zum Eintritt optimal nutzen](phasen/wartezeit.qmd)
 
    [Bewegung, Ernährung, Gewohnheiten. Und was tue ich, wenn sich mein
-   Gesundheitszustand ändert?]{.p-frage}
+   Gesundheitszustand zwischenzeitlich ändert?]{.p-frage}
 
 4. [Gut vorbereitet zum Eintritt ankommen](phasen/vorbereitung.qmd)
 
@@ -61,7 +59,7 @@ folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
 7. [Austritt und Erholung zu Hause](phasen/nachhause.qmd)
 
    [Austritt, Nachkontrolle, Unterstützung im Alltag. Und bei welchen
-   Anzeichen ich mich sofort melden sollte.]{.p-frage}
+   Anzeichen ich mich umgehend melden sollte.]{.p-frage}
 :::
 
 ## Welche Operation bekommen Sie?
