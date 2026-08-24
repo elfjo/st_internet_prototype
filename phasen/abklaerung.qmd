@@ -3,7 +3,7 @@ title: "Fragebogen, Abklärungen und Anästhesiegespräch"
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [← Entscheidung](entscheidung.qmd)
 [Zeit bis Eintritt →](wartezeit.qmd)
 :::
@@ -62,7 +62,7 @@ Wünsche gehören dazu. [Mehr zu Ihrer Anästhesie →](../anaesthesie.qmd)
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [← Entscheidung](entscheidung.qmd)
 [Zeit bis Eintritt →](wartezeit.qmd)
 :::

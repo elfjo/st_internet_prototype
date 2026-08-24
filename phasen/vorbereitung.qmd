@@ -3,7 +3,7 @@ title: "Gut vorbereitet zum Eintritt ankommen"
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [← Zeit bis Eintritt](wartezeit.qmd)
 [Operationstag →](eintrittstag.qmd)
 :::
@@ -151,7 +151,7 @@ Ladekabel.]{.ph}
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [← Zeit bis Eintritt](wartezeit.qmd)
 [Operationstag →](eintrittstag.qmd)
 :::

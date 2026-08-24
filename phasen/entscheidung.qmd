@@ -3,7 +3,7 @@ title: "Gut informiert entscheiden"
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [Abklärungen →](abklaerung.qmd)
 :::
 
@@ -39,7 +39,7 @@ Entscheidung gehört, dass Sie kennen und Übersicht haben über:
   Entscheidung
 
 Zu den häufigsten Eingriffen finden Sie [eigene Seiten mit Nutzen,
-Risiken und Alternativen](../index.qmd#welche-operation-bekommen-sie).
+Risiken und Alternativen](../stationaer.qmd#welche-operation-bekommen-sie).
 Unabhängige, werbefreie Informationen bietet
 [gesundheitsinformation.de](https://www.gesundheitsinformation.de).
 
@@ -94,7 +94,7 @@ Wir danken Ihnen für Ihr Vertrauen. Wir werden alles daran setzen, dass Ihre Op
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [Abklärungen →](abklaerung.qmd)
 :::
 

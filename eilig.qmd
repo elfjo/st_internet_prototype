@@ -4,7 +4,7 @@ toc: false
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](index.qmd)
+[⌂ Übersicht](stationaer.qmd)
 [Alles auf einem Blatt →](merkblatt.qmd)
 :::
 
@@ -78,14 +78,14 @@ melden und was am Tag selbst passiert:
 - [Am Operationstag](phasen/eintrittstag.qmd)
 - [Während meines Aufenthalts](phasen/aufenthalt.qmd)
 - [Nach der Operation](phasen/nachhause.qmd)
-- [Meine konkrete Operation](index.qmd#welche-operation-bekommen-sie)
+- [Meine konkrete Operation](stationaer.qmd#welche-operation-bekommen-sie)
 - [Medikamente und Ernährung](phasen/vorbereitung.qmd#medikamente)
 - [Narkose und Anästhesie](anaesthesie.qmd)
 - [Organisatorisches]{.ph}
-- [Ansprechpartner und Notfall](index.qmd#kontaktzone)
+- [Ansprechpartner und Notfall](stationaer.qmd#kontaktzone)
 :::
 
 ::: {.mini-nav}
-[⌂ Übersicht](index.qmd)
+[⌂ Übersicht](stationaer.qmd)
 [Alles auf einem Blatt →](merkblatt.qmd)
 :::

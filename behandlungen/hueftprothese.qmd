@@ -4,7 +4,7 @@ toc: false
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 :::
 
 ::: {.hinweis-prototyp}
@@ -77,7 +77,7 @@ zusammengefasst.
 - [Ihre Anästhesie bei der Hüftoperation](hueftprothese/anaesthesie.qmd)
 - [Praktisches rund um den Aufenthalt: Anreise, Zimmer, Besuch, WLAN —
   «Gut zu wissen», Seite noch nicht angelegt]{.ph}
-- [Der allgemeine Wegweiser durch den Aufenthalt](../index.qmd) — falls
+- [Der allgemeine Wegweiser durch den Aufenthalt](../stationaer.qmd) — falls
   Sie etwas ausserhalb Ihres Eingriffs suchen
 
 {{< include ../_feedback.qmd >}}

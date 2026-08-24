@@ -3,7 +3,7 @@ title: "Der Aufenthalt in der Klinik"
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [← Operationstag](eintrittstag.qmd)
 [Austritt →](nachhause.qmd)
 :::
@@ -90,7 +90,7 @@ stehen bewusst nicht zwischen den medizinischen Schritten.
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [← Operationstag](eintrittstag.qmd)
 [Austritt →](nachhause.qmd)
 :::

@@ -8,7 +8,7 @@ title: "Falls ich zusatzversichert bin"
      Seite wird in den Pfad verlinkt, nie mit Angeboten hinein. -->
 
 ::: {.mini-nav}
-[⌂ Übersicht](index.qmd)
+[⌂ Übersicht](stationaer.qmd)
 :::
 
 ::: {.hinweis-prototyp}
@@ -67,7 +67,7 @@ Taxordnung. Nüchtern formulieren, ohne Druck.]{.ph} Und unabhängig
 davon gilt: Ihre Behandlung ist dieselbe.
 
 ::: {.mini-nav}
-[⌂ Übersicht](index.qmd)
+[⌂ Übersicht](stationaer.qmd)
 [Mein Eintrittstag →](phasen/eintrittstag.qmd)
 :::
 

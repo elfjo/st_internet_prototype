@@ -4,7 +4,7 @@ toc: false
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](index.qmd)
+[⌂ Übersicht](stationaer.qmd)
 :::
 
 
@@ -61,10 +61,10 @@ Brille/Hörgerät mit Etui. **Zu Hause lassen:** Schmuck, Wertsachen.
 
 ::: {.rechtshinweis}
 Dieses Blatt fasst zusammen und ersetzt weder die ausführlichen
-Informationen auf [den Wegweiser-Seiten](index.qmd) noch das
+Informationen auf [den Wegweiser-Seiten](stationaer.qmd) noch das
 persönliche Gespräch. Stand: [Datum]{.ph}
 :::
 
 ::: {.mini-nav}
-[⌂ Übersicht](index.qmd)
+[⌂ Übersicht](stationaer.qmd)
 :::

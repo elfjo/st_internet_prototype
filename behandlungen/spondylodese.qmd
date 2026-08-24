@@ -3,7 +3,7 @@ title: "Stabilisierung der Lendenwirbelsäule (Spondylodese)"
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [Vor der Operation →](../phasen/vorbereitung.qmd)
 :::
 
@@ -330,7 +330,7 @@ Checklisten und Übungsvideos, falls verfügbar, hier verlinken.]{.ph}
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [Vor der Operation →](../phasen/vorbereitung.qmd)
 :::
 

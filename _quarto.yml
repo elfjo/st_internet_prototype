@@ -18,7 +18,7 @@ website:
       - text: "Das Wichtigste in Kürze"
         href: eilig.qmd
       - text: "Kontakt & Anmeldung"
-        href: index.html#kontaktzone
+        href: stationaer.html#kontaktzone
 
   page-navigation: true
   back-to-top-navigation: false

@@ -3,7 +3,7 @@ title: "Ihre Anästhesie: gut begleitet durch die Operation"
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](index.qmd)
+[⌂ Übersicht](stationaer.qmd)
 :::
 
 ::: {.hinweis-prototyp}
@@ -85,7 +85,7 @@ und Risiken.
 :::
 
 ::: {.mini-nav}
-[⌂ Übersicht](index.qmd)
+[⌂ Übersicht](stationaer.qmd)
 :::
 
 {{< include _kontakt.qmd >}}

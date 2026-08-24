@@ -3,7 +3,7 @@ title: "Eintritt und Operationstag"
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [← Vorbereitung](vorbereitung.qmd)
 [Aufenthalt →](aufenthalt.qmd)
 :::
@@ -87,7 +87,7 @@ einer Nachricht nach der Operation zu rechnen ist.]{.ph}
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [← Vorbereitung](vorbereitung.qmd)
 [Aufenthalt →](aufenthalt.qmd)
 :::

@@ -3,7 +3,7 @@ title: "Austritt und Erholung zu Hause"
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [← Aufenthalt](aufenthalt.qmd)
 :::
 
@@ -99,7 +99,7 @@ was die Klinik mit den Rückmeldungen macht.]{.ph}
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [← Aufenthalt](aufenthalt.qmd)
 :::
 

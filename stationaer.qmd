@@ -1,0 +1,101 @@
+---
+title: "Operation mit stationärem Aufenthalt — Schritt für Schritt"
+toc: false
+---
+
+::: {.mini-nav}
+[⌂ Prototyp-Übersicht](index.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
+:::
+
+[Dieser Wegweiser führt Sie durch alle Schritte Ihres geplanten
+Aufenthalts, von der Entscheidung zur Operation bis zur Erholung zu Hause.]{.lede}
+
+::: {.eilig-teaser}
+Wenn Sie gerade wenig Zeit haben und nur das Wichtigste wissen möchten::
+
+[Hier geht´s direkt zur Kurzinformation →](eilig.qmd)
+:::
+
+## Ihr Pfad durch den Aufenthalt
+
+Dass Sie sich hier umsehen, ist bereits der erste Schritt einer guten
+Vorbereitung. Sie sind eingeladen, den Schritten der Reihe nach zu
+folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
+
+::: {.phasen}
+1. [Die Entscheidung zur Operation](phasen/entscheidung.qmd)
+
+   [Brauche ich diese Operation? Was sind meine Wahlmöglichkeiten, was sind
+   die Alternativen? Welche Fragen stelle ich in der Sprechstunde?]{.p-frage}
+
+2. [Fragebogen, Abklärungen und Anästhesiegespräch](phasen/abklaerung.qmd)
+
+   [Welche Abklärungen brauche ich vor der Operation? Der digitale
+   Fragebogen ist mein erster Schritt — und daraus ergibt sich, wie mein
+   Anästhesiegespräch stattfindet.]{.p-frage}
+
+3. [Die Zeit bis zum Eintritt](phasen/wartezeit.qmd)
+
+   [Wie nutze ich die Wochen vor der Operation optimal für mich? Bewegung,
+   Ernährung, Gewohnheiten — und was tue ich, wenn sich mein
+   Gesundheitszustand verschlechtern sollte?]{.p-frage}
+
+4. [Gut vorbereitet zum Eintritt ankommen](phasen/vorbereitung.qmd)
+
+   [Was ist hilfreich vor der Operation zu erledigen? Medikamente, Essen und
+   Trinken, Packliste — und die Planung für die Zeit nach dem
+   Austritt.]{.p-frage}
+
+5. [Der Eintritt und der Operationstag](phasen/eintrittstag.qmd)
+
+   [Wo melde ich mich an? Wie sind die Abläufe? Wie lange
+   dauert es bis es losgeht?]{.p-frage}
+
+6. [Der Aufenthalt in der Klinik](phasen/aufenthalt.qmd)
+
+   [Wie sieht mein Tag aus? Wer betreut mich? An wen wende ich mich bei Fragen?]{.p-frage}
+
+7. [Austritt und Erholung zu Hause](phasen/nachhause.qmd)
+
+   [Austritt, Nachkontrolle, Unterstützung im Alltag — und bei welchen
+   Anzeichen ich mich sofort melden sollte.]{.p-frage}
+:::
+
+## Welche Operation bekommen Sie?
+
+Zu unseren häufigsten Eingriffen finden Sie eine eigene Seite mit allen
+Schritten — vom Grund für die Operation bis zur Erholung. Ihr
+persönlicher Weg beginnt am besten dort:
+
+::: {.hinweis-prototyp}
+Architektur-Demo, zwei Varianten zum Vergleichen:
+**Hüftprothese** zeigt den «Eingriffskosmos» — eine Einstiegsseite mit
+sechs kurzen Schritt-Seiten, Allgemeines wird zentral gepflegt und
+verlinkt. **Spondylodese** zeigt die Langseiten-Variante — alle
+Inhalte auf einer durchgehenden Seite.
+:::
+
+::: {.op-wahl}
+[Hüftprothese](behandlungen/hueftprothese.qmd)
+[Wirbelsäule: Spondylodese](behandlungen/spondylodese.qmd)
+[Knieprothese]{.ph}
+[weitere Operationen]{.ph}
+:::
+
+## Gut zu wissen
+
+- [Das Wichtigste auf einem Blatt, zum Ausdrucken](merkblatt.qmd)
+- [Ihre Anästhesie: Fragebogen, Gespräch, Verfahren](anaesthesie.qmd)
+- [Falls Sie zusatzversichert sind: Ihre Wahlleistungen](zusatzversichert.qmd)
+
+{{< include _feedback.qmd >}}
+
+::: {#kontaktzone}
+{{< include _kontakt.qmd >}}
+:::
+
+{{< include _governance.qmd >}}

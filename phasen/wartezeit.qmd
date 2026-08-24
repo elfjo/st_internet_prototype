@@ -3,7 +3,7 @@ title: "Die Zeit bis zum Eintritt"
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [← Abklärungen](abklaerung.qmd)
 [Vorbereitung →](vorbereitung.qmd)
 :::
@@ -99,7 +99,7 @@ an wen sich Betroffene wenden.]{.ph}
 {{< include ../_feedback.qmd >}}
 
 ::: {.mini-nav}
-[⌂ Übersicht](../index.qmd)
+[⌂ Übersicht](../stationaer.qmd)
 [← Abklärungen](abklaerung.qmd)
 [Vorbereitung →](vorbereitung.qmd)
 :::
