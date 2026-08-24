@@ -166,7 +166,7 @@ schon welche haben.
 entfernen.]{.ph}
 :::
 
-::: {.warnung}
+::: {.melden}
 ### In der Woche vor der Operation: Melden zahlt sich aus
 
 Husten, Halsschmerzen, Fieber, Brennen beim Wasserlassen oder eine

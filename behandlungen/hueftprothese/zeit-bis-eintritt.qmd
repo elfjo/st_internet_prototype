@@ -64,7 +64,7 @@ gutes Gespräch — darf in diesen Wochen bewusst Platz bekommen. Wenn die Angst
 vor Nadeln: Sagen Sie es uns vor dem Eintritt. Es gibt erprobte Wege,
 die vielen Menschen bereits geholfen haben. [Kontakt.]{.ph}
 
-::: {.warnung}
+::: {.melden}
 ### Wenn sich Ihre Hüfte oder Ihr Befinden verändert
 
 Deutlich stärkere Beschwerden, neue Symptome, eine Erkältung, Fieber

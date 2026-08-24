@@ -24,12 +24,21 @@ stattfindet.]{.lede}
 ## Der digitale Gesundheitsfragebogen: Ihr erster Schritt {#fragebogen}
 
 Mit der Anmeldung zur Operation hat Ihre Operateurin oder Ihr Operateur
-den digitalen Gesundheitsfragebogen für Sie freigeschaltet — Sie haben ihn
-vermutlich bereits [per E-Mail oder SMS]{.ph} erhalten. Am besten
-füllen Sie ihn früh und in Ruhe aus: Ihre Angaben sind die Grundlage,
-auf der das Anästhesieteam Ihre Narkose plant. Je vollständiger der
-Fragebogen, desto gezielter das Gespräch. [Zugang, technische
-Hilfe.]{.ph}
+den digitalen Gesundheitsfragebogen für Sie freigeschaltet — Sie haben
+ihn vermutlich bereits per E-Mail erhalten. Der Link darin ist
+**5 Tage gültig**; am besten füllen Sie den Fragebogen gleich heute
+oder morgen aus. Das dauert etwa **15 Minuten** — mit Ihrem aktuellen
+Medikamentenplan zur Hand geht es am leichtesten. Zum Schutz Ihrer
+Daten erhalten Sie beim Öffnen einen Code per SMS auf Ihr
+Mobiltelefon.
+
+Ihre Angaben sind die Grundlage, auf der das Anästhesieteam Ihre
+Narkose plant. Je vollständiger der Fragebogen, desto gezielter das
+Gespräch.
+
+Sie können den Fragebogen allein ausfüllen oder gemeinsam mit einer
+Person aus Ihrem Umfeld. Und wenn es digital nicht klappt: Ein Anruf
+genügt, wir füllen ihn zusammen mit Ihnen aus — [Telefonnummer]{.ph}.
 
 ## Welche Abklärungen dazukommen können {#abklaerungen}
 
@@ -41,11 +50,15 @@ stattfinden.]{.ph}
 
 ## Ihr Anästhesiegespräch {#gespraech}
 
-Manchmal genügt ein **Telefongespräch am Tag vor der Operation** mit
-der Narkoseärztin oder dem Narkosearzt. Wenn Ihr Gesundheitszustand
-besondere Aufmerksamkeit verdient, laden wir Sie vorab persönlich in
-die **Anästhesiesprechstunde** ein. In diesem Fall erhalten Sie im
-Vorfeld des Eingriffs ein gesondertes Aufgebot.
+Manchmal genügt ein **Telefongespräch am Tag vor der Operation**:
+Ihre Anästhesieärztin oder Ihr Anästhesiearzt ruft Sie in der Regel
+**zwischen 13 und 17 Uhr** an. Findet Ihre Operation an einem Montag
+statt, kommt der Anruf am Freitag- oder Sonntagnachmittag.
+
+Wenn Ihr Gesundheitszustand oder der geplante Eingriff besondere
+Aufmerksamkeit verdient, laden wir Sie vorab persönlich in die
+**Anästhesiesprechstunde** ein. Die Einladung dazu erhalten Sie in den
+Tagen nach dem Fragebogen telefonisch. [Ort der Sprechstunde.]{.ph}
 
 Im Gespräch legen Sie gemeinsam das Verfahren fest — Ihre Fragen und
 Wünsche gehören dazu. [Mehr zu Ihrer Anästhesie →](../anaesthesie.qmd)

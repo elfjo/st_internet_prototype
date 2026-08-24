@@ -71,7 +71,7 @@ Ihrer Ankunft in der Klinik und der Operation bleibt darum oft eine Wartezeit. M
 Diese Zeit arbeitet für Sie: Ihr Team bereitet im Hintergrund alles
 vor, und wo ein Notfall Vorrang bekommt, gilt für uns immer dieselbe Regel, von der auch Sie profitieren: Jede Patientin, jeder Patient und jede Operation erhält die Zeit, den Vorrang und alle Sorgfalt, die es braucht.
 
-::: {.warnung}
+::: {.melden}
 ### Falls Sie am Eintrittstag krank sind
 
 Fieber, Husten, Erkältung oder Durchfall am Operationstag? Rufen Sie

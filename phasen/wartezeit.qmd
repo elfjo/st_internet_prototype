@@ -79,7 +79,7 @@ Kopf frei für die Erholung.
 
 ## Wenn sich Ihr Zustand verändert {#verschlechterung}
 
-::: {.warnung}
+::: {.melden}
 ### Melden Sie sich, statt abzuwarten
 
 Wenn Ihre Beschwerden in irgendeiner Form deutlich zunehmen sollten, Sie neue Beschwerden

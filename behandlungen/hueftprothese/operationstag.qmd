@@ -36,7 +36,7 @@ Zweifel rufen Sie uns an — nicht die Nummer aus der Nachricht, sondern
 [offizielle Nummer]{.ph}.
 :::
 
-::: {.warnung}
+::: {.melden}
 ### Wenn Sie am Eintrittstag krank sind
 
 Fieber, Husten, Erkältung oder Durchfall: Rufen Sie uns an, **bevor**

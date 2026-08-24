@@ -15,6 +15,8 @@ $link-color: #0b5fa5;
   --bg-soft: #f4f7f9;
   --accent: #0b5fa5;
   --accent-dark: #08466f;
+  --melden-border: #0b5fa5;
+  --melden-bg: #eef5fb;
   --warn-border: #b45309;
   --warn-bg: #fff7ed;
   --care-border: #b91c1c;
@@ -252,7 +254,25 @@ main > .mini-nav:last-of-type,
 }
 .warnung p:last-child { margin-bottom: 0; }
 
-/* ---------- Ampel: gruen = normal, warnung = melden, care = sofort ---------- */
+
+/* ---------- melden: wichtig, aber kein Gefahrenhinweis ---------- */
+.melden {
+  border: 1px solid var(--line);
+  border-left: 6px solid var(--melden-border);
+  background: var(--melden-bg);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+.melden h3 {
+  margin: 0 0 0.5rem;
+  padding: 0;
+  border: none;
+  font-size: 1.1rem;
+}
+.melden p:last-child { margin-bottom: 0; }
+
+/* ---------- Ampel: gruen = normal, warnung/melden = melden, care = sofort ---------- */
 .ampel-gruen {
   border: 1px solid #15803d;
   border-left-width: 6px;
