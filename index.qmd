@@ -15,11 +15,13 @@ Sprache.
 
 - [Operation mit stationärem Aufenthalt →](stationaer.qmd)
 
-### Zwei Architektur-Varianten zu spezifischen EIngriffen im Vergleich
+### Zwei Architektur-Varianten zu spezifischen Eingriffen im Vergleich
 
 - Eigener "Eingriffskosmos": [Hüftprothese: der «Eingriffskosmos» →](behandlungen/hueftprothese.qmd)
 - Langformseite: [Wirbelsäule Spondylodese: die Langseiten-Variante →](behandlungen/spondylodese.qmd)
 
 ## Für Zuweisende
+
+- [Präoperative Abklärungen für Zuweisende →](zuweiser.qmd)
 
 {{< include _governance.qmd >}}
