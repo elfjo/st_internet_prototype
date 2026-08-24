@@ -26,4 +26,3 @@ Sprache.
 
 - [Für Ärzteschaft und Zuweisende: Prozess und präoperative Abklärungen →](zuweiser.qmd)
 
-{{< include _governance.qmd >}}

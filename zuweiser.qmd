@@ -13,7 +13,9 @@ Verwendung fachlich freigeben.
 
 [Die Klinik verschickt den digitalen Gesundheitsfragebogen, die
 Anästhesie beurteilt das Risiko, das präoperative Pflegeteam (POPS)
-minimiert es gezielt. Hier finden Sie, was Ihre Praxis dazu
+unterstützt bei KomplexpatientInnen.
+
+Hier finden Sie, was Ihre Praxis dazu
 beiträgt.]{.lede}
 
 ## So läuft die präoperative Abklärung {#prozess}
@@ -25,7 +27,7 @@ ausfüllen kann, wird von der Klinik telefonisch unterstützt.
 
 Anhand der Angaben triagiert die Anästhesie: meist genügt das
 Telefongespräch am Vortag, Risikopatientinnen und -patienten werden
-aktiv in die Anästhesiesprechstunde eingeladen. [Der Prozess ist neu
+aktiv im Vorfeld in die Anästhesiesprechstunde eingeladen. [Der Prozess ist neu
 gestaltet; Details dazu haben Sie über die Fachkanäle
 erhalten.]{.ph}
 
@@ -68,20 +70,18 @@ Massgebend sind Risikoklasse, Belastbarkeit ([MET > 4]{.ph}) und
 klinische Risikofaktoren [(KHK, Herzinsuffizienz, Stroke/TIA,
 Niereninsuffizienz GFR < 60, insulinpflichtiger Diabetes)]{.ph}.
 
-- **Hausarztbericht:** die Basis jeder Abklärung.
+- **Hausarztbericht:** die Basis jeder Abklärung. Mit Diagnose- und Medikamnetenliste
 - **EKG und Standard-Labor** [(Hb, Thrombozyten, Quick, Na, K,
-  Kreatinin, Glukose, CRP)]{.ph}: bei Klasse B und C sowie bei
+  Kreatinin)]{.ph}: bei Klasse B und C sowie bei
   Risikofaktoren oder eingeschränkter Belastbarkeit.
-- **Thorax-Röntgen:** nur bei Verdacht auf akute oder unbekannte
-  pulmonale Pathologie.
-- **Erweiterte Diagnostik** (Ergometrie, Echo, Lufu, HbA1c,
+- **Thorax-Röntgen:** nur bei Verdacht auf akute oder unbekannte pulmonale Pathologie.
+- **Diabetes:** HbA1c 
+- **Erweiterte Diagnostik** (Ergometrie, Echo, Lufu,
   Gerinnung): nach Organbefund; [vollständige Befund-Matrix]{.ph}.
 
-## Gerinnungshemmende Medikamente {#gerinnung}
+## Umgang mit gerinnungshemmenden Medikamenten {#gerinnung}
 
-Präoperative Pausen [(Details und Bridging fachlich
-freizugeben)]{.ph}; sie sind oft auch Voraussetzung für eine
-Regionalanästhesie:
+Präoperative Pausen.
 
 | Substanz | Präoperative Pause |
 |--------------------------------------|----------------------|
@@ -92,6 +92,8 @@ Regionalanästhesie:
 | ASS 100 mg prophylaktisch | 5 Tage |
 | ASS therapeutisch | beibehalten, Pause nur auf Anordnung des Operateurs |
 | Clopidogrel / Prasugrel / Ticagrelor | 7 / 7 / 5 Tage |
+
+usw...
 
 ## Anämie und Patient Blood Management {#pbm}
 
@@ -105,7 +107,7 @@ Eingriffe mit relevantem Blutverlust.
 - **Labor:** Hb, MCV, Ferritin/TSAT, CRP, Kreatinin; bei erhöhtem MCV
   zusätzlich Retikulozyten, Vitamin B12, Folsäure.
 - **Zeitfaktor:** Behandlungsbeginn idealerweise vier Wochen
-  präoperativ, denn jeder Therapietag vor dem Eingriff nützt.
+  präoperativ. Jeder Therapietag vor dem Eingriff hilft.
 - **Algorithmus:** regional abgestimmt, [Abbildung oder
   Download]{.ph}.
 
@@ -113,11 +115,13 @@ Eingriffe mit relevantem Blutverlust.
 
 Die Klinik lädt Risikopatientinnen und -patienten anhand des
 Fragebogens aktiv ein. Unabhängig davon können Sie anmelden bei
-Patientenwunsch (etwa ausgeprägter Angst), Status nach
-Narkosezwischenfall oder schweren Begleiterkrankungen
-[(Indikationsliste)]{.ph}. Anmeldung:
-[Anästhesiesekretariat, E-Mail]{.ph}. Hausärztliche Abklärung und
-Befunde bleiben auch bei einer Sprechstunden-Anmeldung wertvoll.
+
+- Patientenwunsch (etwa ausgeprägter Angst)
+- Status nach Anästhesieproblemen
+- schweren Begleiterkrankungen / Risikoabwägungen
+
+Anmeldung:
+[Anästhesiesekretariat, E-Mail]{.ph}.
 
 ## Kontakt {#kontakt}
 

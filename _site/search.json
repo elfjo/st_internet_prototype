@@ -522,7 +522,7 @@
     "href": "index.html#für-zuweisende",
     "title": "Prototyp Patientenpfad: Übersicht der Beispielseiten",
     "section": "Für Zuweisende",
-    "text": "Für Zuweisende\n\nAnästhesie\n\nFür Ärzteschaft und Zuweisende: Prozess und präoperative Abklärungen →\n\n\n\n\n\nGeprüft am\nDatum\n\n\nNächste Prüfung\nDatum + 2 Jahre\n\n\nFachliche Freigabe\nName, Funktion\n\n\n\nDiese Seiten sind ein Prototyp. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte und dienen ausschliesslich der Veranschaulichung von Struktur und Sprache."
+    "text": "Für Zuweisende\n\nAnästhesie\n\nFür Ärzteschaft und Zuweisende: Prozess und präoperative Abklärungen →"
   },
   {
     "objectID": "eilig.html",
@@ -711,14 +711,14 @@
     "href": "zuweiser.html",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "",
-    "text": "⌂ Prototyp-Übersicht\nDie Klinik verschickt den digitalen Gesundheitsfragebogen, die Anästhesie beurteilt das Risiko, das präoperative Pflegeteam (POPS) minimiert es gezielt. Hier finden Sie, was Ihre Praxis dazu beiträgt."
+    "text": "⌂ Prototyp-Übersicht\n[Die Klinik verschickt den digitalen Gesundheitsfragebogen, die Anästhesie beurteilt das Risiko, das präoperative Pflegeteam (POPS) unterstützt bei KomplexpatientInnen.\nHier finden Sie, was Ihre Praxis dazu beiträgt.]{.lede}"
   },
   {
     "objectID": "zuweiser.html#prozess",
     "href": "zuweiser.html#prozess",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "So läuft die präoperative Abklärung",
-    "text": "So läuft die präoperative Abklärung\nMit Ihrer Operationsanmeldung über Docbox erhalten Ihre Patientinnen und Patienten automatisch den Link zum digitalen Gesundheitsfragebogen per E-Mail und SMS. Wer ihn nicht selbst ausfüllen kann, wird von der Klinik telefonisch unterstützt.\nAnhand der Angaben triagiert die Anästhesie: meist genügt das Telefongespräch am Vortag, Risikopatientinnen und -patienten werden aktiv in die Anästhesiesprechstunde eingeladen. Der Prozess ist neu gestaltet; Details dazu haben Sie über die Fachkanäle erhalten."
+    "text": "So läuft die präoperative Abklärung\nMit Ihrer Operationsanmeldung über Docbox erhalten Ihre Patientinnen und Patienten automatisch den Link zum digitalen Gesundheitsfragebogen per E-Mail und SMS. Wer ihn nicht selbst ausfüllen kann, wird von der Klinik telefonisch unterstützt.\nAnhand der Angaben triagiert die Anästhesie: meist genügt das Telefongespräch am Vortag, Risikopatientinnen und -patienten werden aktiv im Vorfeld in die Anästhesiesprechstunde eingeladen. Der Prozess ist neu gestaltet; Details dazu haben Sie über die Fachkanäle erhalten."
   },
   {
     "objectID": "zuweiser.html#praxis",
@@ -739,28 +739,28 @@
     "href": "zuweiser.html#befunde",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "Welche Befunde braucht es?",
-    "text": "Welche Befunde braucht es?\nMassgebend sind Risikoklasse, Belastbarkeit (MET &gt; 4) und klinische Risikofaktoren (KHK, Herzinsuffizienz, Stroke/TIA, Niereninsuffizienz GFR &lt; 60, insulinpflichtiger Diabetes).\n\nHausarztbericht: die Basis jeder Abklärung.\nEKG und Standard-Labor (Hb, Thrombozyten, Quick, Na, K, Kreatinin, Glukose, CRP): bei Klasse B und C sowie bei Risikofaktoren oder eingeschränkter Belastbarkeit.\nThorax-Röntgen: nur bei Verdacht auf akute oder unbekannte pulmonale Pathologie.\nErweiterte Diagnostik (Ergometrie, Echo, Lufu, HbA1c, Gerinnung): nach Organbefund; vollständige Befund-Matrix."
+    "text": "Welche Befunde braucht es?\nMassgebend sind Risikoklasse, Belastbarkeit (MET &gt; 4) und klinische Risikofaktoren (KHK, Herzinsuffizienz, Stroke/TIA, Niereninsuffizienz GFR &lt; 60, insulinpflichtiger Diabetes).\n\nHausarztbericht: die Basis jeder Abklärung. Mit Diagnose- und Medikamnetenliste\nEKG und Standard-Labor (Hb, Thrombozyten, Quick, Na, K, Kreatinin): bei Klasse B und C sowie bei Risikofaktoren oder eingeschränkter Belastbarkeit.\nThorax-Röntgen: nur bei Verdacht auf akute oder unbekannte pulmonale Pathologie.\nDiabetes: HbA1c\nErweiterte Diagnostik (Ergometrie, Echo, Lufu, Gerinnung): nach Organbefund; vollständige Befund-Matrix."
   },
   {
     "objectID": "zuweiser.html#gerinnung",
     "href": "zuweiser.html#gerinnung",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
-    "section": "Gerinnungshemmende Medikamente",
-    "text": "Gerinnungshemmende Medikamente\nPräoperative Pausen (Details und Bridging fachlich freizugeben); sie sind oft auch Voraussetzung für eine Regionalanästhesie:\n\n\n\n\n\n\n\nSubstanz\nPräoperative Pause\n\n\n\n\nLMWH prophylaktisch / therapeutisch\n12 h / über 24 h\n\n\nVitamin-K-Antagonisten\n8 Tage, Bridging gemäss Empfehlung\n\n\nDOAC (Rivaroxaban, Apixaban, Edoxaban)\n≥ 48 h, kein Bridging\n\n\nDabigatran bei Niereninsuffizienz\n72 bis über 120 h je nach Clearance\n\n\nASS 100 mg prophylaktisch\n5 Tage\n\n\nASS therapeutisch\nbeibehalten, Pause nur auf Anordnung des Operateurs\n\n\nClopidogrel / Prasugrel / Ticagrelor\n7 / 7 / 5 Tage"
+    "section": "Umgang mit gerinnungshemmenden Medikamenten",
+    "text": "Umgang mit gerinnungshemmenden Medikamenten\nPräoperative Pausen.\n\n\n\n\n\n\n\nSubstanz\nPräoperative Pause\n\n\n\n\nLMWH prophylaktisch / therapeutisch\n12 h / über 24 h\n\n\nVitamin-K-Antagonisten\n8 Tage, Bridging gemäss Empfehlung\n\n\nDOAC (Rivaroxaban, Apixaban, Edoxaban)\n≥ 48 h, kein Bridging\n\n\nDabigatran bei Niereninsuffizienz\n72 bis über 120 h je nach Clearance\n\n\nASS 100 mg prophylaktisch\n5 Tage\n\n\nASS therapeutisch\nbeibehalten, Pause nur auf Anordnung des Operateurs\n\n\nClopidogrel / Prasugrel / Ticagrelor\n7 / 7 / 5 Tage\n\n\n\nusw…"
   },
   {
     "objectID": "zuweiser.html#pbm",
     "href": "zuweiser.html#pbm",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "Anämie und Patient Blood Management",
-    "text": "Anämie und Patient Blood Management\nDie unbehandelte Anämie gilt als Kontraindikation für elektive Eingriffe mit relevantem Blutverlust.\n\nZiel: präoperativer Hb 130 g/l bei Frauen und Männern.\nWann abklären: potenzieller Blutverlust über 300 ml, insbesondere Endoprothetik, Wirbelsäulen-, Gefäss-, grosse Viszeral-, Urologie- und Gynäkologie-Eingriffe.\nLabor: Hb, MCV, Ferritin/TSAT, CRP, Kreatinin; bei erhöhtem MCV zusätzlich Retikulozyten, Vitamin B12, Folsäure.\nZeitfaktor: Behandlungsbeginn idealerweise vier Wochen präoperativ, denn jeder Therapietag vor dem Eingriff nützt.\nAlgorithmus: regional abgestimmt, Abbildung oder Download."
+    "text": "Anämie und Patient Blood Management\nDie unbehandelte Anämie gilt als Kontraindikation für elektive Eingriffe mit relevantem Blutverlust.\n\nZiel: präoperativer Hb 130 g/l bei Frauen und Männern.\nWann abklären: potenzieller Blutverlust über 300 ml, insbesondere Endoprothetik, Wirbelsäulen-, Gefäss-, grosse Viszeral-, Urologie- und Gynäkologie-Eingriffe.\nLabor: Hb, MCV, Ferritin/TSAT, CRP, Kreatinin; bei erhöhtem MCV zusätzlich Retikulozyten, Vitamin B12, Folsäure.\nZeitfaktor: Behandlungsbeginn idealerweise vier Wochen präoperativ. Jeder Therapietag vor dem Eingriff hilft.\nAlgorithmus: regional abgestimmt, Abbildung oder Download."
   },
   {
     "objectID": "zuweiser.html#sprechstunde",
     "href": "zuweiser.html#sprechstunde",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "Anästhesiesprechstunde",
-    "text": "Anästhesiesprechstunde\nDie Klinik lädt Risikopatientinnen und -patienten anhand des Fragebogens aktiv ein. Unabhängig davon können Sie anmelden bei Patientenwunsch (etwa ausgeprägter Angst), Status nach Narkosezwischenfall oder schweren Begleiterkrankungen (Indikationsliste). Anmeldung: Anästhesiesekretariat, E-Mail. Hausärztliche Abklärung und Befunde bleiben auch bei einer Sprechstunden-Anmeldung wertvoll."
+    "text": "Anästhesiesprechstunde\nDie Klinik lädt Risikopatientinnen und -patienten anhand des Fragebogens aktiv ein. Unabhängig davon können Sie anmelden bei\n\nPatientenwunsch (etwa ausgeprägter Angst)\nStatus nach Anästhesieproblemen\nschweren Begleiterkrankungen / Risikoabwägungen\n\nAnmeldung: Anästhesiesekretariat, E-Mail."
   },
   {
     "objectID": "zuweiser.html#kontakt",
