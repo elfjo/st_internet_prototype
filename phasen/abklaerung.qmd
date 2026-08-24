@@ -17,47 +17,47 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 [Aus Ihren Angaben im digitalen Fragebogen ergibt sich, welche
-Abklärungen sinnvoll sind und wie Ihr Anästhesiegespräch
+Abklärungen vor dem Eingriff sinnvoll sind und wie Ihr Anästhesiegespräch
 stattfindet.]{.lede}
 
 ## Der digitale Gesundheitsfragebogen: Ihr erster Schritt {#fragebogen}
 
+Wenn Sie den Fragebogen schon ausgefüllt haben, ist Ihr erster
+Schritt erledigt — Sie können direkt [zum
+Anästhesiegespräch](#gespraech) weiterlesen.
+
 Mit der Anmeldung zur Operation hat Ihre Operateurin oder Ihr
 Operateur den digitalen Gesundheitsfragebogen für Sie freigeschaltet —
 die E-Mail mit dem Link liegt vermutlich schon in Ihrem Postfach. Ihre
-Angaben sind die Grundlage, auf der das Anästhesieteam Ihre Narkose
-plant.
+Angaben sind eine wichtige Grundlage, auf der das Anästhesieteam das für Sie passende Vorgehen plant.
 
 - Der Link ist **5 Tage gültig** — am besten füllen Sie den
   Fragebogen heute oder morgen aus.
 - Dauer etwa **15 Minuten**; mit dem aktuellen Medikamentenplan zur
   Hand geht es am leichtesten.
 - Zum Schutz Ihrer Daten erhalten Sie beim Öffnen einen Code per SMS.
-- Allein, mit jemandem aus Ihrem Umfeld — oder telefonisch mit uns
-  zusammen: [Telefonnummer]{.ph}.
-
-## Welche Abklärungen dazukommen können {#abklaerungen}
-
-Anhand des Fragebogens und der bei Ihnen geplanten Operation sehen
-wir, welche Abklärungen vorab sinnvoll sind. Bei den meisten braucht
-es nichts Zusätzliches. [Beispiele: internistische Abklärung,
-Blutentnahme, EKG — wer das Aufgebot verschickt, wo die Termine
-stattfinden.]{.ph}
+- Wenn Sie beim Ausfüllen Unterstützung möchten: Ein Anruf genügt —
+  [Telefonnummer]{.ph}.
 
 ## Ihr Anästhesiegespräch {#gespraech}
 
-Manchmal genügt ein **Telefongespräch am Tag vor der Operation**:
-Ihre Anästhesieärztin oder Ihr Anästhesiearzt ruft Sie in der Regel
-**zwischen 13 und 17 Uhr** an. Findet Ihre Operation an einem Montag
-statt, kommt der Anruf am Freitag- oder Sonntagnachmittag.
+Ihr Gespräch findet auf einem von zwei Wegen statt — beide führen zum
+selben Ziel: einer Narkose, die zu Ihnen passt.
 
-Wenn Ihr Gesundheitszustand oder der geplante Eingriff besondere
-Aufmerksamkeit verdient, laden wir Sie vorab persönlich in die
-**Anästhesiesprechstunde** ein. Die Einladung dazu erhalten Sie in den
-Tagen nach dem Fragebogen telefonisch. [Ort der Sprechstunde.]{.ph}
+**Einladung in die Anästhesiesprechstunde:** Wenn Ihre Gesundheit
+oder der geplante Eingriff besondere Aufmerksamkeit verdient, laden
+wir Sie vorab persönlich ein — Zeit, die Ihrer Sicherheit gehört. Die
+Einladung erhalten Sie in den Tagen nach dem Fragebogen in einer
+separaten E-Mail. [Ort der Sprechstunde.]{.ph}
 
-Im Gespräch legen Sie gemeinsam das Verfahren fest — Ihre Fragen und
-Wünsche gehören dazu. [Mehr zu Ihrer Anästhesie →](../anaesthesie.qmd)
+**Telefongespräch am Tag vor der Operation:** Bei den meisten genügt
+das Telefonat: Ihre Anästhesieärztin oder Ihr Anästhesiearzt ruft Sie
+in der Regel **zwischen 13 und 17 Uhr** an — vor einer
+Montagsoperation am Freitag- oder Sonntagnachmittag.
+
+In beiden Gesprächen legen Sie gemeinsam die für Sie passende Narkose
+fest — Ihre Fragen und Wünsche gehören dazu.
+[Mehr zu Ihrer Anästhesie →](../anaesthesie.qmd)
 
 {{< include ../_feedback.qmd >}}
 
