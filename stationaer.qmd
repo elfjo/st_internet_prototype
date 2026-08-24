@@ -15,7 +15,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 Aufenthalts, von der Entscheidung zur Operation bis zur Erholung zu Hause.]{.lede}
 
 ::: {.eilig-teaser}
-Wenn Sie gerade wenig Zeit haben und nur das Wichtigste wissen möchten::
+Wenn Sie gerade wenig Zeit haben und nur das Wichtigste wissen möchten:
 
 [Hier geht´s direkt zur Kurzinformation →](eilig.qmd)
 :::
