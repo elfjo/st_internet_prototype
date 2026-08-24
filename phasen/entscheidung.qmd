@@ -40,8 +40,6 @@ Entscheidung gehört, dass Sie kennen und Übersicht haben über:
 
 Zu den häufigsten Eingriffen finden Sie [eigene Seiten mit Nutzen,
 Risiken und Alternativen](../stationaer.qmd#welche-operation-bekommen-sie).
-Unabhängige, werbefreie Informationen bietet
-[gesundheitsinformation.de](https://www.gesundheitsinformation.de).
 
 ## Das Gespräch vorbereiten {#gespraech}
 
