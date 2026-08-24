@@ -22,6 +22,9 @@ Sprache.
 
 ## Für Zuweisende
 
-- [Präoperative Abklärungen für Zuweisende →](zuweiser.qmd)
+### Anästhesie
+
+- [Für Ärzteschaft und Zuweisende: der präoperative Prozess →](an-zuweisende.qmd)
+- [Präoperative Abklärungen: die konsolidierte Broschüre →](zuweiser.qmd)
 
 {{< include _governance.qmd >}}

@@ -1,0 +1,69 @@
+---
+title: "Anästhesie: Für Ärzteschaft und Zuweisende"
+---
+
+::: {.mini-nav}
+[⌂ Prototyp-Übersicht](index.qmd)
+[Präoperative Abklärungen →](zuweiser.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp, Überarbeitung der bestehenden Zuweiser-Seite der
+Anästhesie. Klinische Inhalte vor Verwendung fachlich freigeben.
+:::
+
+[An allen Standorten gilt ein einheitlicher präoperativer Prozess.
+Hier finden Sie das Wichtigste dazu, die Unterlagen und Ihre
+Ansprechstellen.]{.lede}
+
+## Der digitale Gesundheitsfragebogen {#fragebogen}
+
+Mit der Operationsanmeldung über die Zuweiserplattform erhalten Ihre
+Patientinnen und Patienten den Link zum digitalen
+Gesundheitsfragebogen automatisch per E-Mail und SMS. Wer den
+Fragebogen nicht selbst ausfüllen kann, wird von der Klinik
+telefonisch unterstützt.
+
+Anhand der Angaben beurteilt die Anästhesie das perioperative Risiko:
+Bei den meisten Patientinnen und Patienten genügt das Telefongespräch
+am Vortag, bei erhöhtem Risiko lädt die Klinik aktiv in die
+Anästhesiesprechstunde ein. Informieren Sie Ihre Patientin oder Ihren
+Patienten deshalb vor der Anmeldung über den geplanten Eingriff.
+
+## Die hausärztliche Abklärung {#hausarzt}
+
+Bitte veranlassen Sie eine präoperative Abklärung bei der Hausärztin
+oder beim Hausarzt, wenn die Patientin oder der Patient **über
+70 Jahre** alt ist oder ein Eingriff der **Risikoklasse B oder C**
+geplant ist. Die Befunde tragen Sie in das Beurteilungsformular ein
+und senden es mit allfälligen Beilagen an
+[zentrale Dokumentenablage, E-Mail]{.ph}; Befunde bitte nicht älter
+als zwei Monate.
+
+- [Formular «Präoperative Beurteilung durch den Hausarzt» (PDF und
+  Word) — Dummy-Link]{.ph}
+
+## Alle Details auf einer Seite {#details}
+
+Risikoklassen mit Beispieleingriffen, erforderliche Befunde, Umgang
+mit gerinnungshemmenden Medikamenten, Patient Blood Management und
+die Indikationen für die Anästhesiesprechstunde finden Sie
+zusammengefasst hier:
+
+[Präoperative Abklärungen: Informationen für Zuweisende →](zuweiser.qmd)
+
+## Kontakt {#kontakt}
+
+- Fragen zur Anästhesie, zum Anästhesiegespräch oder zum
+  Gesundheitsfragebogen: [Anästhesiesekretariat, Telefon,
+  E-Mail]{.ph}
+- Fragen zum Operationstermin oder zum Eintritt:
+  [Patientenadministration, Telefon]{.ph}
+- Anmeldungen für die Anästhesiesprechstunde: [E-Mail]{.ph}
+
+::: {.mini-nav}
+[⌂ Prototyp-Übersicht](index.qmd)
+[Präoperative Abklärungen →](zuweiser.qmd)
+:::
+
+{{< include _governance.qmd >}}
