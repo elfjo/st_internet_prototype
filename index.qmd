@@ -5,55 +5,21 @@ toc: false
 
 ::: {.hinweis-prototyp}
 Interne Übersicht für das Projektteam. Alle Inhalte sind fiktive,
-fachlich nicht geprüfte Beispieltexte — sie zeigen Struktur und
-Sprache, nicht den medizinischen Stand.
+fachlich nicht geprüfte Beispieltexte. Sie zeigen Strukturskizzen und
+Sprache.
 :::
 
-[Dieser Prototyp zeigt, wie ein pfadbasierter Patientenauftritt
-aufgebaut sein kann: eine generische Patientenreise als Rückgrat,
-eingriffspezifische Seiten in zwei Architektur-Varianten, dazu zentral
-gepflegte Bausteine.]{.lede}
+## Für PatientInnen
 
-## Die generische Patientenreise
+### Die generische Patientenreise
 
-[Operation mit stationärem Aufenthalt →](stationaer.qmd)
+- [Operation mit stationärem Aufenthalt →](stationaer.qmd)
 
-Der Wegweiser in sieben Schritten, von der Entscheidung bis zur
-Erholung zu Hause. Er ist der Einstieg für alle Eingriffe ohne eigene
-Seite — und der Fallback, auf den die Eingriffsseiten verweisen.
-Dazu gehören die [Kompaktinformation](eilig.qmd) für Eilige, das
-[Merkblatt](merkblatt.qmd) zum Ausdrucken und die
-[Anästhesie-Seite](anaesthesie.qmd) als zentral gepflegte Tiefenseite.
+### Zwei Architektur-Varianten zu spezifischen EIngriffen im Vergleich
 
-## Zwei Architektur-Varianten im Vergleich
+- Eigener "Eingriffskosmos": [Hüftprothese: der «Eingriffskosmos» →](behandlungen/hueftprothese.qmd)
+- Langformseite: [Wirbelsäule Spondylodese: die Langseiten-Variante →](behandlungen/spondylodese.qmd)
 
-[Hüftprothese: der «Eingriffskosmos» →](behandlungen/hueftprothese.qmd)
-
-Eine Einstiegsseite mit sieben kurzen Schritt-Seiten, eigener
-Kompaktinformation und Anästhesieseite. Patientinnen und Patienten
-kommen per Direktlink aus dem Aufgebot hierher; der Kosmos funktioniert
-autark. Sicherheitsrelevantes steht auf der Seite, Allgemeines bleibt
-zentral gepflegt und wird verlinkt statt kopiert.
-
-[Wirbelsäule Spondylodese: die Langseiten-Variante →](behandlungen/spondylodese.qmd)
-
-Dieselbe Inhaltslogik als eine durchgehende Seite — zum direkten
-Vergleich der Wahrnehmungsergonomie beider Varianten.
-
-## Geteilte Bausteine
-
-Kontaktabschnitt, Governance-Footer und Feedback-Modul sind Fragmente:
-einmal editiert, auf allen Seiten aktuell. Auf der Zielplattform
-entspricht das den Content Fragments. Platzhalter für noch offene
-Angaben erscheinen [violett in spitzen Klammern]{.ph}.
-
-## Weitere Beispielseiten
-
-[Hier entstehen die nächsten Beispiele — etwa ambulante Eingriffe,
-weitere Operationen oder ein Notfall-Einstieg.]{.ph}
-
-- [Falls Sie zusatzversichert sind: Wahlleistungen](zusatzversichert.qmd)
-- [Knieprothese]{.ph}
-- [Ambulanter Eingriff]{.ph}
+## Für Zuweisende
 
 {{< include _governance.qmd >}}

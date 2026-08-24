@@ -1,0 +1,148 @@
+---
+title: "Präoperative Abklärungen — Informationen für Zuweisende"
+---
+
+::: {.mini-nav}
+[⌂ Prototyp-Übersicht](index.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp für den Zuweiser-Bereich. Klinische Inhalte aus der
+bestehenden Broschüre übernommen und auf den neuen Prozess
+konsolidiert — vor Verwendung fachlich freizugeben.
+:::
+
+[Der präoperative Prozess ist neu organisiert: Der
+Gesundheitsfragebogen kommt digital von der Klinik, die Anästhesie
+beurteilt Risiken früh, ein spezialisiertes Pflegeteam senkt sie
+gezielt. Diese Seite fasst zusammen, was für Ihre Praxis wichtig
+bleibt.]{.lede}
+
+## Der neue Prozess in Kürze {#prozess}
+
+Nach Eingang Ihrer Operationsanmeldung über die
+Zuweiserplattform erhalten Ihre Patientinnen und Patienten
+automatisch den Link zum digitalen Gesundheitsfragebogen per E-Mail
+und SMS. Wer den Fragebogen nicht selbst ausfüllen kann, wird von der
+Klinik telefonisch unterstützt. Anhand der Angaben erfolgt die
+präoperative Risikobeurteilung durch die Anästhesie: Bei den meisten
+genügt das Telefongespräch am Vortag; Risikopatientinnen und
+-patienten werden aktiv in die Anästhesiesprechstunde eingeladen.
+Ergänzend nimmt das spezialisierte präoperative Pflegeteam (POPS)
+die gezielte Risikominimierung auf, etwa beim Anämiemanagement.
+
+## Was sich für Ihre Praxis ändert {#praxis}
+
+- **Der Gesundheitsfragebogen entfällt in der Praxis.** Versand,
+  Eingang und Triage übernimmt die Klinik.
+- **Informieren Sie Ihre Patientin oder Ihren Patienten vor der
+  Anmeldung über den geplanten Eingriff** — der Fragebogen wird mit
+  der Anmeldung automatisch ausgelöst.
+- **Hausärztliche Abklärung nach zwei einfachen Kriterien** statt
+  Fragebogen-Triage: Alter **über 70 Jahre** oder Eingriff der
+  **Risikoklasse B oder C** (Tabelle unten).
+- **Befunde nicht älter als zwei Monate** einsenden an
+  [zentrale Dokumentenablage]{.ph}.
+- **Zeitfenster:** Abklärungen idealerweise **vier Wochen vor dem
+  Operationstermin** — das lässt Zeit für weitere Abklärungen und die
+  Behandlung einer Anämie.
+- **Sprechstundenwünsche** von Operateur oder Patientin nehmen wir
+  wie bisher entgegen: [Anästhesiesekretariat]{.ph}.
+
+Grundsätzlich gilt: je gesünder die Patientin oder der Patient und je
+kleiner die Operation, desto weniger Vorabklärungen sind
+erforderlich.
+
+## Risikoklassen der Eingriffe {#risikoklassen}
+
+Beispieleingriffe zum operativen Risiko [(modifiziert nach ESC/ESA
+Guidelines und DGAI; Risiko für kardiovaskulären Tod oder
+Myokardinfarkt innert 30 Tagen)]{.ph}:
+
+| Klasse A — niedrig (<1 %) | Klasse B — mittel (1–5 %) | Klasse C — hoch (>5 %) |
+|------------------------|------------------------|------------------------|
+| Oberflächliche und plastisch-rekonstruktive Eingriffe, Mammachirurgie | Grössere viszerale Eingriffe (Darmresektion, Cholezystektomie, Splenektomie) | Duodeno-Pankreatektomie, Leber- und Gallengangschirurgie, Darmperforation |
+| Kleinere orthopädische Eingriffe (KAS, Hand, Fuss) | Grosse Orthopädie: Endoprothetik grosser Gelenke, Rückenchirurgie | Aorten- und grosse arterielle Gefässeingriffe |
+| Kleine urologische und gynäkologische Eingriffe | Grosse Urologie und Gynäkologie (Prostatektomie, Hysterektomie abdominal) | Totale Zystektomie |
+| Augenchirurgie, Zahnextraktionen | Kopf-Hals-Eingriffe, kleine intrathorakale Eingriffe | Grosse intrathorakale Eingriffe (Pneumonektomie) |
+
+## Welche Befunde braucht es? {#befunde}
+
+Massgebend sind Risikoklasse, Belastbarkeit ([MET > 4: zwei
+Stockwerke Treppensteigen, normale Hausarbeit]{.ph}) und klinische
+Risikofaktoren [(KHK, Herzinsuffizienz, Stroke/TIA,
+Niereninsuffizienz GFR < 60, insulinpflichtiger Diabetes)]{.ph}.
+
+- **Hausarztbericht:** bei allen Abklärungen die Basis.
+- **EKG:** bei Klasse B und C sowie bei Risikofaktoren oder
+  eingeschränkter Belastbarkeit.
+- **Standard-Labor** [(Hb, Thrombozyten, Quick, Na, K, Kreatinin,
+  Glukose, CRP)]{.ph}: bei Klasse B und C sowie bei Risikofaktoren.
+- **Thorax-Röntgen:** nur bei Verdacht auf akute oder unbekannte
+  pulmonale Pathologie.
+- **Erweiterte Diagnostik** (Ergometrie, Echo, Lufu, HbA1c,
+  Gerinnung): nach Organbefund und Risikokonstellation —
+  [vollständige Befund-Matrix als Download oder Tabelle]{.ph}.
+
+## Gerinnungshemmende Medikamente {#gerinnung}
+
+Präoperative Pausen [(Details und Bridging-Empfehlung fachlich
+freizugeben)]{.ph}; neben dem Blutungsrisiko sind sie oft
+Voraussetzung für eine Regionalanästhesie:
+
+| Substanz | Präoperative Pause |
+|--------------------------------------|----------------------|
+| LMWH prophylaktisch / therapeutisch | 12 h / über 24 h |
+| Vitamin-K-Antagonisten | 8 Tage, Bridging gemäss Empfehlung |
+| DOAC (Rivaroxaban, Apixaban, Edoxaban) | ≥ 48 h, kein Bridging |
+| Dabigatran bei Niereninsuffizienz | 72 bis über 120 h je nach Clearance |
+| ASS 100 mg prophylaktisch | 5 Tage |
+| ASS therapeutisch | beibehalten, Pause nur auf Anordnung des Operateurs |
+| Clopidogrel / Prasugrel / Ticagrelor | 7 / 7 / 5 Tage |
+
+## Patient Blood Management {#pbm}
+
+Die unbehandelte präoperative Anämie ist ein unabhängiger Prädiktor
+für erhöhte Morbidität und Mortalität und gilt heute als
+Kontraindikation für elektive Eingriffe mit relevantem Blutverlust.
+
+- **Ziel:** präoperativer Hb **130 g/l** bei Frauen und Männern.
+- **Wann abklären:** elektive Eingriffe mit potenziellem Blutverlust
+  über [300 ml]{.ph}, insbesondere Endoprothetik, Wirbelsäulen-,
+  Gefäss-, grosse Viszeral-, Urologie- und Gynäkologie-Eingriffe.
+- **Labor:** Hb, MCV, Ferritin/TSAT, CRP, Kreatinin; bei erhöhtem MCV
+  zusätzlich Retikulozyten, Vitamin B12, Folsäure.
+- **Zeitfaktor:** Behandlungsbeginn idealerweise vier Wochen
+  präoperativ — und auch kurzfristig gilt: jeder Therapietag vor dem
+  Eingriff nützt.
+- **Algorithmus:** regional abgestimmt, [Abbildung oder
+  Download]{.ph}.
+
+## Anästhesiesprechstunde {#sprechstunde}
+
+Die Klinik lädt Risikopatientinnen und -patienten anhand des
+Fragebogens aktiv ein. Unabhängig davon können Sie anmelden bei:
+
+- Patientenwunsch, beispielsweise ausgeprägter Angst
+- Status nach Narkosezwischenfall
+- schweren Begleiterkrankungen [(instabile AP, schwere
+  Herzinsuffizienz oder Klappenerkrankung, NYHA III/IV, schwere
+  Pneumopathie, Nieren- oder Leberinsuffizienz, Gerinnungsstörung,
+  neuromuskuläre Erkrankungen)]{.ph}
+
+Anmeldung: [Anästhesiesekretariat, E-Mail]{.ph}. Die hausärztliche
+Abklärung und die Zustellung der Befunde bleiben auch bei einer
+Sprechstunden-Anmeldung wertvoll.
+
+## Fragen und Rückmeldungen {#kontakt}
+
+Der Prozess wird gemeinsam mit Ihnen weiterentwickelt. Melden Sie
+Unregelmässigkeiten oder ungünstige Abläufe direkt an
+[Kontakt Klinik für Anästhesie]{.ph} — Ihre Rückmeldungen fliessen in
+den weiteren Ausbau ein.
+
+::: {.mini-nav}
+[⌂ Prototyp-Übersicht](index.qmd)
+:::
+
+{{< include _governance.qmd >}}
