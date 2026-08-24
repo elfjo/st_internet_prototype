@@ -17,8 +17,8 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 **Ihr Pfad:** [Die Entscheidung](entscheidung.qmd) → [Fragebogen und Abklärungen](abklaerung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Gut vorbereitet zum Eintritt](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → **Der Aufenthalt in der Klinik** → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
-[Wie Ihre Tage in der Klinik ablaufen, wer Sie betreut und wie Sie
-ansprechen, was Ihnen wichtig ist.]{.lede}
+[Wie Ihre Tage in der Klinik gestaltet sind, wer Sie betreut und wie
+Sie ansprechen, was Ihnen wichtig ist.]{.lede}
 
 ## Direkt nach der Operation {#aufwachraum}
 
