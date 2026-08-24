@@ -38,11 +38,10 @@ folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
    Fragebogen ist mein erster Schritt — und daraus ergibt sich, wie mein
    Anästhesiegespräch stattfindet.]{.p-frage}
 
-3. [Die Zeit bis zum Eintritt](phasen/wartezeit.qmd)
+3. [Die Zeit bis zum Eintritt optimal nutzen](phasen/wartezeit.qmd)
 
-   [Wie nutze ich die Wochen vor der Operation optimal für mich? Bewegung,
-   Ernährung, Gewohnheiten — und was tue ich, wenn sich mein
-   Gesundheitszustand verschlechtern sollte?]{.p-frage}
+   [Bewegung, Ernährung, Gewohnheiten — und was tue ich, wenn sich mein
+   Gesundheitszustand ändert?]{.p-frage}
 
 4. [Gut vorbereitet zum Eintritt ankommen](phasen/vorbereitung.qmd)
 
