@@ -18,8 +18,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 [Wie der Tag der Aufnahme abläuft: Schritt für Schritt, von der
-Anmeldung bis zur Begrüssung im Operationsbereich. Jeder Schritt ist vorbereitet;
-Sie dürfen sich an diesem Tag von uns leiten lassen.]{.lede}
+Anmeldung bis zur Begrüssung im Operationsbereich.]{.lede}
 
 ## Ihre Eintrittszeit {#eintrittszeit}
 
