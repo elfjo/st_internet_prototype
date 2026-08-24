@@ -4,7 +4,7 @@ title: "Gut informiert entscheiden"
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[Zeit bis Eintritt →](wartezeit.qmd)
+[Abklärungen →](abklaerung.qmd)
 :::
 
 
@@ -13,7 +13,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 ::: {.stepper}
-**Ihr Pfad:** **Die Entscheidung** → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Gut vorbereitet zum Eintritt](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
+**Ihr Pfad:** **Die Entscheidung** → [Fragebogen und Abklärungen](abklaerung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Gut vorbereitet zum Eintritt](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
 [Ob eine Operation der richtige Weg ist, entscheiden Sie selbst — gut
@@ -95,7 +95,7 @@ Wir danken Ihnen für Ihr Vertrauen. Wir werden alles daran setzen, dass Ihre Op
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[Zeit bis Eintritt →](wartezeit.qmd)
+[Abklärungen →](abklaerung.qmd)
 :::
 
 {{< include ../_kontakt.qmd >}}

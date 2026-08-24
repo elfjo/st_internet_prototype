@@ -4,7 +4,7 @@ title: "Die Zeit bis zum Eintritt"
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[← Entscheidung](entscheidung.qmd)
+[← Abklärungen](abklaerung.qmd)
 [Vorbereitung →](vorbereitung.qmd)
 :::
 
@@ -14,7 +14,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 ::: {.stepper}
-**Ihr Pfad:** [Die Entscheidung](entscheidung.qmd) → **Die Zeit bis zum Eintritt** → [Gut vorbereitet zum Eintritt](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
+**Ihr Pfad:** [Die Entscheidung](entscheidung.qmd) → [Fragebogen und Abklärungen](abklaerung.qmd) → **Die Zeit bis zum Eintritt** → [Gut vorbereitet zum Eintritt](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
 [Die Wochen bis zur Operation sind Ihr Trainingsfenster: Wer
@@ -100,7 +100,7 @@ an wen sich Betroffene wenden.]{.ph}
 
 ::: {.mini-nav}
 [⌂ Übersicht](../index.qmd)
-[← Entscheidung](entscheidung.qmd)
+[← Abklärungen](abklaerung.qmd)
 [Vorbereitung →](vorbereitung.qmd)
 :::
 

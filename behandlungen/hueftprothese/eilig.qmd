@@ -79,6 +79,7 @@ Autofahren ab **Woche 6**, Velofahren ab **Woche 10**, Wandern ab
 
 ::: {.themen}
 - [Ist die Operation der richtige Weg?](entscheidung.qmd)
+- [Fragebogen und Abklärungen](abklaerung.qmd)
 - [Die Wochen vor dem Eintritt](zeit-bis-eintritt.qmd)
 - [Vorbereitung und Packliste](vor-der-operation.qmd)
 - [Am Operationstag](operationstag.qmd)

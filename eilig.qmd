@@ -17,21 +17,18 @@ häufigsten Fragen direkt beantwortet.]{.lede}
 
 ## Alles auf einem Blatt {#blatt}
 
-Das Wichtigste kurz zusammengefasst zum **Ausdrucken**:
+Das Wichtigste (diese Seite hier) als Merkblatt zum **Ausdrucken**:
 
 [Zum Merkblatt →](merkblatt.qmd)
 
-Oder zum **Anzeigen auf dem Handy**:
-
-[Zum Merkblatt →](merkblatt.qmd)
 
 ## Die häufigsten Fragen, direkt beantwortet {#schnellantworten}
 
 ## Ab wann darf ich nichts mehr essen und trinken? {#nuechtern}
 
-Essen bis **6 Stunden** vor der Eintrittszeit. Trinken (Wasser ohne
-Kohlensäure, Tee, schwarzer Kaffee) bis **2 Stunden** vorher. Danach
-gar nichts mehr, auch keine Bonbons oder Kaugummis.
+- Essen bis **6 Stunden** vor der Eintrittszeit
+- Trinken (Wasser ohne Kohlensäure, Tee, schwarzer Kaffee) bis **2 Stunden** vorher
+- Danach nichts mehr, auch keine Bonbons oder Kaugummis.
 
 [Warum das wichtig ist →](phasen/vorbereitung.qmd#nuechtern)
 
@@ -46,9 +43,16 @@ Diabetesmedikamente** pausieren Sie nur nach Absprache mit Ihrer
 
 ## Was nehme ich mit? {#mitnehmen}
 
-Versichertenkarte, Ausweis, Medikamentenliste, medizinische Ausweise,
-bequeme Kleidung, feste Schuhe, Toilettenartikel. Schmuck und
-Wertsachen bleiben zu Hause.
+- Versichertenkarte
+- Ausweis
+- Medikamentenliste
+- Ihre Medikamente in Originalverpackung
+- medizinische Ausweise (z.B. Allergieausweis)
+- bequeme Kleidung
+- feste Schuhe
+- Toilettenartikel
+
+- Schmuck und Wertsachen bleiben zu Hause.
 
 [Vollständige Packliste →](phasen/vorbereitung.qmd#packliste)
 
@@ -62,6 +66,10 @@ melden und was am Tag selbst passiert:
 ::: {#kontakt}
 {{< include _kontakt.qmd >}}
 :::
+
+## Kontakt zu uns aufnehmen
+- Fragen zur **Anästhesie**: Anästhesiesekretariat ... 041...
+- Fragen zum **Eintritt** ... 041 ....
 
 ## Wählen Sie Ihr Thema {#themen}
 

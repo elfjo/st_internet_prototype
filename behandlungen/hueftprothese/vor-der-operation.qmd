@@ -13,54 +13,44 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 :::
 
 ::: {.stepper}
-**Mein Pfad:** [Entscheidung](entscheidung.qmd) → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → **Gut vorbereitet zum Eintritt** → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
+**Mein Pfad:** [Entscheidung](entscheidung.qmd) → [Abklärungen](abklaerung.qmd) → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → **Gut vorbereitet zum Eintritt** → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
 :::
 
-[Drei Termine bereiten Sie vor, dazu Medikamente, Essen und Trinken,
-Packliste — und ab Tag 5 übernimmt Ihre Haut einen Teil der
-Arbeit.]{.lede}
+[Medikamente, Essen und Trinken, Packliste — und ab Tag 5 übernimmt
+Ihre Haut einen Teil der Arbeit.]{.lede}
 
 ## Was Sie jetzt erledigen {#erledigen}
 
-Diese Liste zeigt Ihnen alle Aufgaben bis zum Eintrittstag — so haben
-Sie jederzeit den Überblick. Manche werden erst später möglich; Sie
-sehen hier, welche.
+Diese Liste zeigt, was bis zum Eintrittstag ansteht — die Zeitspalte
+sagt Ihnen, was jetzt dran ist, ganz gleich, wann Sie hier einsteigen.
+Die letzten beiden Punkte kommen von selbst auf Sie zu.
 
 ::: {.tasks-tbl}
-| Aufgabe | Status |
+| Aufgabe | Wann |
 |---------------------------------------------------------------|:--|
-| [Digitalen Gesundheitsfragebogen ausfüllen](#fragebogen) — den Zugang haben Sie mit der Anmeldung erhalten | [Offen]{.st .st-offen} |
-| Eintrittsformular ausfüllen und zurücksenden | [Offen]{.st .st-offen} |
-| Übungstermin bei der Physiotherapie und Anästhesiegespräch besuchen | [Offen]{.st .st-offen} |
-| Medikamentenliste bereitlegen und [prüfen, welche Sie pausieren](#medikamente) | [Offen]{.st .st-offen} |
-| Fahrt nach Hause und Unterstützung für die erste Woche organisieren | [Offen]{.st .st-offen} |
-| Waschbehandlung ab Tag 5 durchführen (falls verordnet) | [Noch nicht möglich]{.st .st-gesperrt} |
-| Anruf der Anästhesieärztin am Tag vor der Operation entgegennehmen | [Noch nicht möglich]{.st .st-gesperrt} |
-| Eintrittszeit per SMS erhalten (am Vortag) | [Noch nicht möglich]{.st .st-gesperrt} |
+| [Digitalen Gesundheitsfragebogen ausfüllen](abklaerung.qmd#fragebogen) — den Zugang haben Sie mit der Anmeldung erhalten | gleich nach der Anmeldung |
+| Eintrittsformular ausfüllen und zurücksenden | gleich nach der Anmeldung |
+| [Anästhesiegespräch führen, allfällige Abklärungen besuchen](abklaerung.qmd) | sobald die Termine stehen |
+| [Übungstermin bei der Physiotherapie besuchen](#termine) | sobald der Termin steht |
+| Medikamentenliste bereitlegen und [prüfen, welche Sie pausieren](#medikamente) | in den Wochen davor |
+| Fahrt nach Hause und Unterstützung für die erste Woche organisieren | in den Wochen davor |
+| Waschbehandlung durchführen (falls verordnet) | ab Tag 5 vor der Operation |
+| Anruf der Anästhesieärztin oder des Anästhesiearztes entgegennehmen | am Tag vor der Operation |
+| Eintrittszeit per SMS erhalten | am Tag vor der Operation |
 :::
 
-## Der digitale Gesundheitsfragebogen: Ihr erster Schritt {#fragebogen}
+## Ihr Übungstermin bei der Physiotherapie {#termine}
 
-Mit der Anmeldung zur Operation hat Ihre Orthopädin oder Ihr Orthopäde
-den digitalen Gesundheitsfragebogen für Sie ausgelöst — Sie haben ihn
-bereits [per E-Mail oder SMS]{.ph} erhalten. Füllen Sie ihn früh und
-in Ruhe aus: Ihre Angaben sind die Grundlage, auf der das
-Anästhesieteam Ihre Anästhesie plant. Auf dieser Grundlage entscheidet
-das Team auch, wie es weitergeht: Bei den meisten genügt das
-**Telefongespräch am Tag vor der Operation**; wenn Ihre Gesundheit
-besondere Aufmerksamkeit verdient, laden wir Sie vorab persönlich in
-die **Anästhesiesprechstunde** ein — Zeit, die Ihrer Sicherheit
-gehört. [Mehr zu Ihrer Anästhesie →](anaesthesie.qmd)
-
-## Ihre Vorbereitungstermine {#termine}
-
-Sobald der Operationstermin steht, bereiten diese Termine Sie vor: der
-**Übungstermin bei der Physiotherapie** (Physiotherapie-Instruktion),
-das **Anästhesiegespräch** — als Telefongespräch oder in der
-Sprechstunde — und, falls nötig, eine **internistische Abklärung**.
-Nehmen Sie zu diesen Terminen die Person mit, die Sie nach der
+Sobald der Operationstermin steht, erhalten Sie den **Übungstermin bei
+der Physiotherapie** (Physiotherapie-Instruktion): Sie lernen Ihre
+Übungen und den Umgang mit den Gehstöcken kennen — beides dürfen Sie
+zu Hause schon anwenden. Nehmen Sie die Person mit, die Sie nach der
 Operation unterstützen wird — sie hört mit und weiss dann, worauf es
 ankommt.
+
+Alles zum Gesundheitsfragebogen, zu Abklärungen und zum
+Anästhesiegespräch finden Sie im zweiten Schritt Ihres Pfads:
+[Fragebogen und Abklärungen →](abklaerung.qmd)
 
 ## Ihre Medikamente {#medikamente}
 

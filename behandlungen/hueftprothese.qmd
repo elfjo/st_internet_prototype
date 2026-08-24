@@ -37,30 +37,35 @@ zusammengefasst.
    habe ich, was sagen die Zahlen zu den Risiken — und welche vier
    Fragen nehme ich mit in die Sprechstunde?]{.p-frage}
 
-2. [Die Zeit bis zum Eintritt](hueftprothese/zeit-bis-eintritt.qmd)
+2. [Fragebogen und Abklärungen](hueftprothese/abklaerung.qmd)
+
+   [Was klären wir vor der Operation? Der Fragebogen liegt schon bei
+   mir — meist genügt danach ein Telefongespräch am Tag vor der
+   Operation.]{.p-frage}
+
+3. [Die Zeit bis zum Eintritt](hueftprothese/zeit-bis-eintritt.qmd)
 
    [Wie nutze ich die Wochen vor der Operation für mich? Kraft
    aufbauen, gut essen, ab 6 Wochen vorher rauchfrei — und die Wohnung
    so herrichten, dass sie mitspielt.]{.p-frage}
 
-3. [Gut vorbereitet zum Eintritt kommen](hueftprothese/vor-der-operation.qmd)
+4. [Gut vorbereitet zum Eintritt kommen](hueftprothese/vor-der-operation.qmd)
 
-   [Was erledige ich vor dem Eintritt? Drei Termine bereiten mich vor;
-   dazu Medikamente, Essen und Trinken, Packliste — und ab Tag 5 die
-   Waschbehandlung.]{.p-frage}
+   [Was erledige ich vor dem Eintritt? Medikamente, Essen und
+   Trinken, Packliste — und ab Tag 5 die Waschbehandlung.]{.p-frage}
 
-4. [Eintritt und Operationstag](hueftprothese/operationstag.qmd)
+5. [Eintritt und Operationstag](hueftprothese/operationstag.qmd)
 
    [Wie läuft mein Eintrittstag ab? Meist Spinalanästhesie — ob ich
    döse, Musik höre oder schlafe, entscheide ich mit.]{.p-frage}
 
-5. [Die Tage in der Klinik](hueftprothese/in-der-klinik.qmd)
+6. [Die Tage in der Klinik](hueftprothese/in-der-klinik.qmd)
 
    [Wie komme ich auf die Beine? Erste Schritte am
    Operationstag, Treppen an Tag 2 — nach Hause gehe ich, sobald ich
    es kann, meist an Tag 3.]{.p-frage}
 
-6. [Zurück in den Alltag](hueftprothese/alltag.qmd)
+7. [Zurück in den Alltag](hueftprothese/alltag.qmd)
 
    [Wann kann ich wieder was? Auto ab Woche 6, Velo ab Woche 10,
    Wandern nach 3 Monaten — und woran ich erkenne, dass alles seinen

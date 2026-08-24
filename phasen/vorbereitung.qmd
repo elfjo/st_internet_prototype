@@ -1,5 +1,5 @@
 ---
-title: "Vor der Operation unbedingt beachten"
+title: "Gut vorbereitet zum Eintritt ankommen"
 ---
 
 ::: {.mini-nav}
@@ -14,7 +14,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 ::: {.stepper}
-**Ihr Pfad:** [Die Entscheidung](entscheidung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → **Gut vorbereitet zum Eintritt** → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
+**Ihr Pfad:** [Die Entscheidung](entscheidung.qmd) → [Fragebogen und Abklärungen](abklaerung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → **Gut vorbereitet zum Eintritt** → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
 [Was Sie vor Ihrer Operation erledigen: Medikamente, Essen und Trinken,
@@ -22,39 +22,25 @@ Packliste — und die Planung für die Zeit nach dem Austritt.]{.lede}
 
 ## Was Sie jetzt erledigen {#erledigen}
 
-Diese Liste zeigt Ihnen was bis zum Eintrittstag zu erledigen ist — so haben
-Sie jederzeit den Überblick. Manche AUfgaben werden erst später möglich; Sie
-sehen hier, welche.
+Diese Liste zeigt, was bis zum Eintrittstag ansteht — die Zeitspalte
+sagt Ihnen, was jetzt dran ist, ganz gleich, wann Sie hier einsteigen.
+Die letzten beiden Punkte kommen von selbst auf Sie zu.
 
 ::: {.tasks-tbl}
-| Aufgabe | Status |
+| Aufgabe | Wann |
 |---------------------------------------------------------------|:--|
-| [Digitalen Gesundheitsfragebogen ausfüllen](#fragebogen) — den Zugang haben Sie mit der Anmeldung erhalten | [Offen]{.st .st-offen} |
-| Eintrittsformular ausfüllen und zurücksenden | [Offen]{.st .st-offen} |
-| Medikamentenliste bereitlegen und [prüfen, welche Sie pausieren](#medikamente) | [Offen]{.st .st-offen} |
-| Fahrt nach Hause und Unterstützung für die erste Woche organisieren | [Offen]{.st .st-offen} |
-| Anruf der Anästhesieärztin am Tag vor der Operation entgegennehmen | [Noch nicht möglich]{.st .st-gesperrt} |
-| Eintrittszeit per SMS erhalten (am Vortag) | [Noch nicht möglich]{.st .st-gesperrt} |
+| [Digitalen Gesundheitsfragebogen ausfüllen](abklaerung.qmd#fragebogen) — den Zugang haben Sie mit der Anmeldung erhalten | gleich nach der Anmeldung |
+| Eintrittsformular ausfüllen und zurücksenden | gleich nach der Anmeldung |
+| Medikamentenliste bereitlegen und [prüfen, welche Sie pausieren](#medikamente) | in den Wochen davor |
+| Fahrt nach Hause und Unterstützung für die erste Woche organisieren | in den Wochen davor |
+| Anruf der Anästhesieärztin oder des Anästhesiearztes entgegennehmen | am Tag vor der Operation |
+| Eintrittszeit per SMS erhalten | am Tag vor der Operation |
 :::
-
-## Der digitale Gesundheitsfragebogen: Ihr erster Schritt {#fragebogen}
-
-Mit der Anmeldung zur Operation hat Ihre Operateurin oder Ihr Operateur
-den digitalen Gesundheitsfragebogen für Sie freigeschaltet — Sie haben ihn
-vermutlich bereits [per E-Mail oder SMS]{.ph} erhalten. Füllen Sie ihn früh und
-in Ruhe aus: Ihre Angaben sind die Grundlage, auf der das
-Anästhesieteam Ihre Narkose plant. Je vollständiger der Fragebogen,
-desto gezielter das Gespräch. [Zugang, technische Hilfe.]{.ph}
-
-Anhand des Fragebogens und der bei Ihnen geplanten Operation sehen wir, welche Abklärungen und Gespräche vorab sinnvoll sind:
-Manchmal genügt ein **Telefongespräch am Tag vor der Operation** mit der Narkoseärztin oder dem Nakosearzt. Wenn Ihr Gesundheitszustand besondere Aufmerksamkeit
-verdient, laden wir Sie vorab persönlich in die **Anästhesiesprechstunde** ein. In diesem Fall erhalten Sie im Vorfeld des EIngriffs ein gesondertes Aufgebot.
-[Mehr zu Ihrer Anästhesie →](../anaesthesie.qmd)
 
 ## Ihre Medikamente {#medikamente}
 
 Die meisten Medikamente nehmen Sie normal weiter. Zwei Gruppen sind die
-wichtige Ausnahme. Öffnen Sie den Abschnitt, der auf Sie zutrifft:
+wichtige Ausnahme — es zählt der Abschnitt, der auf Sie zutrifft:
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Ich nehme Blutverdünner
@@ -115,16 +101,18 @@ Operation sicher und wie geplant stattfinden kann. Sollten Sie die Zeiten nicht 
 ## Körperpflege {#koerperpflege}
 
 Mit wenigen Handgriffen bereiten Sie Ihre Haut optimal auf den
-Eingriff vor: Duschen Sie vor dem Spitaleintritt und lassen Sie die
-Haut danach frei von Kosmetika und Pflegeprodukten — so kann das Desinfektionsmittel optimal wirken.
-Entfernen Sie Nagellack und Schmuck. Falls eine Rasur des Operationsgebiets nötig ist, übernehmen
-wir das. Falls nötig, in der Klinik. Unversehrte, saubere Haut ist der beste Schutz vor Infektionen.
+Eingriff vor: vor dem Spitaleintritt duschen und die Haut danach frei
+von Kosmetika und Pflegeprodukten lassen — so kann das
+Desinfektionsmittel optimal wirken. Nagellack und Schmuck bleiben am
+besten schon zu Hause. Falls eine Rasur des Operationsgebiets nötig
+ist, übernehmen wir das in der Klinik: Unversehrte, saubere Haut ist
+der beste Schutz vor Infektionen.
 
 ## Jetzt schon an den Austritt denken {#austrittsplanung}
 
 Die Zeit nach der Operation lässt sich am besten planen, bevor Sie
-eintreten. So kommen Sie in ein vorbereitetes Zuhause zurück. Klären
-Sie vor dem Eintritt:
+eintreten. So kommen Sie in ein vorbereitetes Zuhause zurück.
+Hilfreich zu klären, bevor Sie eintreten:
 
 - Wer holt Sie ab?
 - Wer unterstützt Sie ggf. zu Hause in der ersten Woche — beim Einkaufen,

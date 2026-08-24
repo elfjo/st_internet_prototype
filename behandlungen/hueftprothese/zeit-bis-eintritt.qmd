@@ -4,7 +4,7 @@ title: "Hüftprothese: Die Zeit bis zum Eintritt"
 
 ::: {.mini-nav}
 [⌂ Meine Hüftoperation](../hueftprothese.qmd)
-[← Entscheidung](entscheidung.qmd)
+[← Abklärungen](abklaerung.qmd)
 [Vorbereitung →](vor-der-operation.qmd)
 :::
 
@@ -13,7 +13,7 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 :::
 
 ::: {.stepper}
-**Mein Pfad:** [Entscheidung](entscheidung.qmd) → **Zeit bis Eintritt** → [Gut vorbereitet zum Eintritt](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
+**Mein Pfad:** [Entscheidung](entscheidung.qmd) → [Abklärungen](abklaerung.qmd) → **Zeit bis Eintritt** → [Gut vorbereitet zum Eintritt](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
 :::
 
 [Die Wochen bis zur Operation sind Ihr Trainingsfenster: Ihr Körper
@@ -82,7 +82,7 @@ Vorbereitung, Alltag organisieren →](../../phasen/wartezeit.qmd)
 
 ::: {.mini-nav}
 [⌂ Meine Hüftoperation](../hueftprothese.qmd)
-[← Entscheidung](entscheidung.qmd)
+[← Abklärungen](abklaerung.qmd)
 [Vorbereitung →](vor-der-operation.qmd)
 :::
 
