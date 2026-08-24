@@ -32,7 +32,7 @@ folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
    [Brauche ich diese Operation? Was sind meine Wahlmöglichkeiten, was sind
    die Alternativen? Welche Fragen stelle ich in der Sprechstunde?]{.p-frage}
 
-2. [Fragebogen, Abklärungen und Anästhesiegespräch](phasen/abklaerung.qmd)
+2. [Gesundheitsfragebogen, Abklärungen und Anästhesiegespräch](phasen/abklaerung.qmd)
 
    [Welche Abklärungen brauche ich vor der Operation? Der digitale
    Fragebogen ist mein erster Schritt, und daraus ergibt sich, wie mein
