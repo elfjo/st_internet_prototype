@@ -16,29 +16,25 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 **Ihr Pfad:** [Die Entscheidung](entscheidung.qmd) → **Fragebogen und Abklärungen** → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Gut vorbereitet zum Eintritt](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
-[Dieser Schritt ist schon unterwegs zu Ihnen: Der digitale Fragebogen
-liegt bereits bei Ihnen — aus Ihren Angaben ergibt sich, welche
+[Aus Ihren Angaben im digitalen Fragebogen ergibt sich, welche
 Abklärungen sinnvoll sind und wie Ihr Anästhesiegespräch
 stattfindet.]{.lede}
 
 ## Der digitale Gesundheitsfragebogen: Ihr erster Schritt {#fragebogen}
 
-Mit der Anmeldung zur Operation hat Ihre Operateurin oder Ihr Operateur
-den digitalen Gesundheitsfragebogen für Sie freigeschaltet — Sie haben
-ihn vermutlich bereits per E-Mail erhalten. Der Link darin ist
-**5 Tage gültig**; am besten füllen Sie den Fragebogen gleich heute
-oder morgen aus. Das dauert etwa **15 Minuten** — mit Ihrem aktuellen
-Medikamentenplan zur Hand geht es am leichtesten. Zum Schutz Ihrer
-Daten erhalten Sie beim Öffnen einen Code per SMS auf Ihr
-Mobiltelefon.
+Mit der Anmeldung zur Operation hat Ihre Operateurin oder Ihr
+Operateur den digitalen Gesundheitsfragebogen für Sie freigeschaltet —
+die E-Mail mit dem Link liegt vermutlich schon in Ihrem Postfach. Ihre
+Angaben sind die Grundlage, auf der das Anästhesieteam Ihre Narkose
+plant.
 
-Ihre Angaben sind die Grundlage, auf der das Anästhesieteam Ihre
-Narkose plant. Je vollständiger der Fragebogen, desto gezielter das
-Gespräch.
-
-Sie können den Fragebogen allein ausfüllen oder gemeinsam mit einer
-Person aus Ihrem Umfeld. Und wenn es digital nicht klappt: Ein Anruf
-genügt, wir füllen ihn zusammen mit Ihnen aus — [Telefonnummer]{.ph}.
+- Der Link ist **5 Tage gültig** — am besten füllen Sie den
+  Fragebogen heute oder morgen aus.
+- Dauer etwa **15 Minuten**; mit dem aktuellen Medikamentenplan zur
+  Hand geht es am leichtesten.
+- Zum Schutz Ihrer Daten erhalten Sie beim Öffnen einen Code per SMS.
+- Allein, mit jemandem aus Ihrem Umfeld — oder telefonisch mit uns
+  zusammen: [Telefonnummer]{.ph}.
 
 ## Welche Abklärungen dazukommen können {#abklaerungen}
 

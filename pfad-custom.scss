@@ -16,7 +16,7 @@ $link-color: #0b5fa5;
   --accent: #0b5fa5;
   --accent-dark: #08466f;
   --melden-border: #0b5fa5;
-  --melden-bg: #eef5fb;
+  --melden-bg: #e6f0f8;
   --warn-border: #b45309;
   --warn-bg: #fff7ed;
   --care-border: #b91c1c;
@@ -257,7 +257,7 @@ main > .mini-nav:last-of-type,
 
 /* ---------- melden: wichtig, aber kein Gefahrenhinweis ---------- */
 .melden {
-  border: 1px solid var(--line);
+  border: 1px solid var(--melden-border);
   border-left: 6px solid var(--melden-border);
   background: var(--melden-bg);
   border-radius: 6px;
@@ -269,6 +269,7 @@ main > .mini-nav:last-of-type,
   padding: 0;
   border: none;
   font-size: 1.1rem;
+  color: var(--accent-dark);
 }
 .melden p:last-child { margin-bottom: 0; }
 

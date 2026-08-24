@@ -16,25 +16,23 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 **Mein Pfad:** [Entscheidung](entscheidung.qmd) → **Abklärungen** → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → [Gut vorbereitet zum Eintritt](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
 :::
 
-[Dieser Schritt ist schon unterwegs zu Ihnen: Der digitale Fragebogen
-liegt bereits bei Ihnen — aus Ihren Angaben ergibt sich, was vor Ihrer
+[Aus Ihren Angaben im digitalen Fragebogen ergibt sich, was vor Ihrer
 Hüftoperation noch abzuklären ist.]{.lede}
 
 ## Der digitale Gesundheitsfragebogen: Ihr erster Schritt {#fragebogen}
 
 Mit der Anmeldung zur Operation hat Ihre Orthopädin oder Ihr Orthopäde
-den digitalen Gesundheitsfragebogen für Sie ausgelöst — Sie haben ihn
-bereits per E-Mail erhalten. Der Link darin ist **5 Tage gültig**; am
-besten füllen Sie den Fragebogen gleich heute oder morgen aus. Das
-dauert etwa **15 Minuten** — mit Ihrem aktuellen Medikamentenplan zur
-Hand geht es am leichtesten. Zum Schutz Ihrer Daten erhalten Sie beim
-Öffnen einen Code per SMS auf Ihr Mobiltelefon.
+den digitalen Gesundheitsfragebogen für Sie ausgelöst — die E-Mail mit
+dem Link liegt schon in Ihrem Postfach. Ihre Angaben sind die
+Grundlage, auf der das Anästhesieteam Ihre Anästhesie plant.
 
-Ihre Angaben sind die Grundlage, auf der das Anästhesieteam Ihre
-Anästhesie plant. Sie können den Fragebogen allein ausfüllen oder
-gemeinsam mit einer Person aus Ihrem Umfeld — und wenn es digital
-nicht klappt, genügt ein Anruf: Wir füllen ihn zusammen mit Ihnen aus.
-[Telefonnummer]{.ph}
+- Der Link ist **5 Tage gültig** — am besten füllen Sie den
+  Fragebogen heute oder morgen aus.
+- Dauer etwa **15 Minuten**; mit dem aktuellen Medikamentenplan zur
+  Hand geht es am leichtesten.
+- Zum Schutz Ihrer Daten erhalten Sie beim Öffnen einen Code per SMS.
+- Allein, mit jemandem aus Ihrem Umfeld — oder telefonisch mit uns
+  zusammen: [Telefonnummer]{.ph}.
 
 ## Welche Abklärungen dazukommen können {#abklaerungen}
 
