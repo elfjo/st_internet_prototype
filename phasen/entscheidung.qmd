@@ -16,7 +16,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 **Ihr Pfad:** **Die Entscheidung** → [Fragebogen und Abklärungen](abklaerung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Gut vorbereitet zum Eintritt](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
-[Ob eine Operation der richtige Weg ist, entscheiden Sie selbst — gut
+[Ob eine Operation der richtige Weg ist, entscheiden Sie selbst, gut
 informiert und in Ihrem Tempo.]{.lede}
 
 ## Sie haben Zeit für diese Entscheidung {#zeit}
@@ -35,7 +35,7 @@ Entscheidung gehört, dass Sie kennen und Übersicht haben über:
 
 - die vorgeschlagene Operation
 - andere Behandlungen ohne Operation
-- Abwarten mit regelmässiger Kontrolle — auch das ist eine aktive
+- Abwarten mit regelmässiger Kontrolle. Auch das ist eine aktive
   Entscheidung
 
 Zu den häufigsten Eingriffen finden Sie [eigene Seiten mit Nutzen,
@@ -63,12 +63,12 @@ Nehmen Sie diese Fragen mit in die Sprechstunde:
 
 Drei Dinge, die das Gespräch erfahrungsgemäss erleichtern können:
 
-- **Nehmen Sie jemanden mit.** Vier Ohren hören mehr als zwei — und zu
+- **Nehmen Sie jemanden mit.** Vier Ohren hören mehr als zwei, und zu
   zweit lässt sich das Gehörte bei Bedarf danach in Ruhe sortieren.
 - **Notieren Sie Ihre Fragen vorher.** Am besten am Vortag auf einem
   Zettel oder im Handy.
 - **Fragen Sie nach, bis es für Sie stimmt.** Es ist Aufgabe Ihrer
-  Ärztin oder Ihres Arztes, verständlich zu erklären — Sie dürfen so
+  Ärztin oder Ihres Arztes, verständlich zu erklären. Sie dürfen so
   lange nachfragen, bis Sie sich sicher fühlen.
 
 ## Eine zweite Meinung einholen {#zweitmeinung}
@@ -88,7 +88,7 @@ Wir danken Ihnen für Ihr Vertrauen. Wir werden alles daran setzen, dass Ihre Op
    Zeitraum.]{.ph}
 2. [Gespräch vor der Aufnahme: Untersuchungen, Anästhesiegespräch, und
    ausdrücklich die Gelegenheit, alle offenen Fragen zu stellen.]{.ph}
-3. Danach beginnt die Wartezeit — [und die lässt sich
+3. Danach beginnt die Wartezeit, [und die lässt sich
    nutzen](wartezeit.qmd).
 
 {{< include ../_feedback.qmd >}}

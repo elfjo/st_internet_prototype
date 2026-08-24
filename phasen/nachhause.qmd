@@ -23,18 +23,18 @@ abläuft, was Sie mitnehmen und wie es dort weitergeht.]{.lede}
 
 [Übliche Austrittszeit; wie der Tag abläuft; wer das
 Austrittsgespräch führt.]{.ph} Organisieren Sie Ihre Abholung: Für die
-Heimfahrt lassen Sie sich fahren — so kommen Sie sicher und entspannt
+Heimfahrt lassen Sie sich fahren, damit Sie sicher und entspannt
 an. [Kosten des Heimtransports; wer sie trägt.]{.ph}
 
 ## Das Austrittsgespräch: Ihre Checkliste {#austrittsgespraech}
 
 Mit diesen Antworten im Gepäck gehen Sie sicher nach Hause. Haken Sie
-ab — und fragen Sie nach, bis alles beantwortet ist:
+ab, und fragen Sie nach, bis alles beantwortet ist:
 
 ::: {.tasks-tbl}
 | Geklärt? | |
 |--------------------------------------------------------------|:--|
-| Welche Medikamente nehme ich — was ist neu, was fällt weg? | [Offen]{.st .st-offen} |
+| Welche Medikamente nehme ich, was ist neu, was fällt weg? | [Offen]{.st .st-offen} |
 | Wie versorge ich die Wunde, wann dürfen die Fäden raus? | [Offen]{.st .st-offen} |
 | Was darf ich ab wann wieder tun? | [Offen]{.st .st-offen} |
 | Bei welchen Anzeichen melde ich mich, und wo? | [Offen]{.st .st-offen} |
@@ -48,13 +48,13 @@ was er enthält, wer ihn wann erhält.]{.ph}
 ## Die ersten Tage zu Hause {#erste-tage}
 
 Die Erholung geht zu Hause weiter, in ihrem eigenen Tempo. Ihr Körper
-setzt seine Energie jetzt vor allem für die Heilung ein — gönnen Sie
+setzt seine Energie jetzt vor allem für die Heilung ein. Gönnen Sie
 sich also grosszügig Pausen und steigern Sie sich schrittweise. Manche
 Tage fühlen sich leichter an als andere; die Richtung stimmt trotzdem:
 Von Woche zu Woche kehrt Ihre Kraft zurück. Viele merken es zuerst an
-kleinen Dingen — der Weg zum Briefkasten wird selbstverständlich, der
+kleinen Dingen: Der Weg zum Briefkasten wird selbstverständlich, der
 Schlaf tiefer. [Konkrete Alltagsangaben je nach Eingriff:
-Duschen, Treppen, Heben, Autofahren, Arbeit — verlinkt auf die
+Duschen, Treppen, Heben, Autofahren, Arbeit, verlinkt auf die
 jeweilige Behandlungsseite.]{.ph}
 
 Die allermeisten Verläufe gehen ruhig ihren Gang. Damit Sie sicher
@@ -68,7 +68,7 @@ einen Anruf verdient:
 - Zunehmende Rötung, Schwellung oder Nässen der Wunde
 - Plötzlich stark zunehmende Schmerzen
 - Schwellung oder Schmerz in der Wade
-- Atemnot oder Brustschmerz — in diesem Fall direkt **144** anrufen
+- Atemnot oder Brustschmerz: in diesem Fall direkt **144** anrufen
 
 In den ersten [7 Tagen]{.ph} nach Austritt erreichen Sie die Station
 unter [Nummer]{.ph}, danach [Sprechstunde / Hausärztin]{.ph}.
@@ -77,23 +77,23 @@ unter [Nummer]{.ph}, danach [Sprechstunde / Hausärztin]{.ph}.
 ## Unterstützung im Alltag {#unterstuetzung}
 
 Wenn Sie zu Hause Unterstützung möchten: [Spitex, Haushaltshilfe,
-Mahlzeitendienst, Rehabilitation — was das Austrittsmanagement bereits
+Mahlzeitendienst, Rehabilitation: was das Austrittsmanagement bereits
 organisiert hat, und an wen Sie sich nachträglich wenden.]{.ph} Hilfe
-anzunehmen beschleunigt die Erholung — und Schritt für Schritt
+anzunehmen beschleunigt die Erholung, und Schritt für Schritt
 übernehmen Sie wieder selbst.
 
 ## Nachkontrolle {#nachkontrolle}
 
 [Wann die Nachkontrolle stattfindet, bei wem (Operateur, Sprechstunde,
 Hausarzt), wie der Termin zustande kommt.]{.ph} Notieren Sie sich bis
-dahin, was Sie beschäftigt — jede Frage hat dort Platz. Auch wie es
-Ihnen insgesamt geht — Energie, Schlaf, Stimmung — gehört in dieses
+dahin, was Sie beschäftigt, denn jede Frage hat dort Platz. Auch wie es
+Ihnen insgesamt geht, mit Energie, Schlaf und Stimmung, gehört in dieses
 Gespräch.
 
 ## Sagen Sie uns, wie es war {#rueckmeldung}
 
 Ihre Erfahrung hilft den Patientinnen und Patienten nach Ihnen. [Wie
-die Rückmeldung funktioniert: Befragung, Kontakt, Ombudsstelle — und
+die Rückmeldung funktioniert: Befragung, Kontakt, Ombudsstelle, und
 was die Klinik mit den Rückmeldungen macht.]{.ph}
 
 {{< include ../_feedback.qmd >}}

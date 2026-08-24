@@ -16,7 +16,7 @@ zeigt dieselben Inhalte als eine lange Seite.
 :::
 
 [Bei einer Hüftprothese erhält Ihr Hüftgelenk einen Ersatz, der Sie
-meist ein Leben lang begleitet — damit Sie wieder frei und sicher
+meist ein Leben lang begleitet, damit Sie wieder frei und sicher
 gehen, Treppen steigen und durchschlafen. Hier begleitet Sie dieser Pfad,
 Schritt für Schritt.]{.lede}
 
@@ -34,50 +34,50 @@ zusammengefasst.
 1. [Die Entscheidung zur Operation](hueftprothese/entscheidung.qmd)
 
    [Ist die Operation der richtige Weg für mich? Welche Alternativen
-   habe ich, was sagen die Zahlen zu den Risiken — und welche vier
+   habe ich, was sagen die Zahlen zu den Risiken? Und welche vier
    Fragen nehme ich mit in die Sprechstunde?]{.p-frage}
 
 2. [Fragebogen und Abklärungen](hueftprothese/abklaerung.qmd)
 
    [Was klären wir vor der Operation? Der Fragebogen liegt schon bei
-   mir — meist genügt danach ein Telefongespräch am Tag vor der
+   mir, und meist genügt danach ein Telefongespräch am Tag vor der
    Operation.]{.p-frage}
 
 3. [Die Zeit bis zum Eintritt](hueftprothese/zeit-bis-eintritt.qmd)
 
    [Wie nutze ich die Wochen vor der Operation für mich? Kraft
-   aufbauen, gut essen, ab 6 Wochen vorher rauchfrei — und die Wohnung
+   aufbauen, gut essen, ab 6 Wochen vorher rauchfrei. Und die Wohnung
    so herrichten, dass sie mitspielt.]{.p-frage}
 
 4. [Gut vorbereitet zum Eintritt kommen](hueftprothese/vor-der-operation.qmd)
 
    [Was erledige ich vor dem Eintritt? Medikamente, Essen und
-   Trinken, Packliste — und ab Tag 5 die Waschbehandlung.]{.p-frage}
+   Trinken, Packliste, dazu ab Tag 5 die Waschbehandlung.]{.p-frage}
 
 5. [Eintritt und Operationstag](hueftprothese/operationstag.qmd)
 
-   [Wie läuft mein Eintrittstag ab? Meist Spinalanästhesie — ob ich
+   [Wie läuft mein Eintrittstag ab? Meist Spinalanästhesie, und ob ich
    döse, Musik höre oder schlafe, entscheide ich mit.]{.p-frage}
 
 6. [Die Tage in der Klinik](hueftprothese/in-der-klinik.qmd)
 
    [Wie komme ich auf die Beine? Erste Schritte am
-   Operationstag, Treppen an Tag 2 — nach Hause gehe ich, sobald ich
+   Operationstag, Treppen an Tag 2. Nach Hause gehe ich, sobald ich
    es kann, meist an Tag 3.]{.p-frage}
 
 7. [Zurück in den Alltag](hueftprothese/alltag.qmd)
 
    [Wann kann ich wieder was? Auto ab Woche 6, Velo ab Woche 10,
-   Wandern nach 3 Monaten — und woran ich erkenne, dass alles seinen
+   Wandern nach 3 Monaten. Und woran ich erkenne, dass alles seinen
    Gang geht.]{.p-frage}
 :::
 
 ## Gut zu wissen
 
 - [Ihre Anästhesie bei der Hüftoperation](hueftprothese/anaesthesie.qmd)
-- [Praktisches rund um den Aufenthalt: Anreise, Zimmer, Besuch, WLAN —
+- [Praktisches rund um den Aufenthalt: Anreise, Zimmer, Besuch, WLAN;
   «Gut zu wissen», Seite noch nicht angelegt]{.ph}
-- [Der allgemeine Wegweiser durch den Aufenthalt](../stationaer.qmd) — falls
+- [Der allgemeine Wegweiser durch den Aufenthalt](../stationaer.qmd), falls
   Sie etwas ausserhalb Ihres Eingriffs suchen
 
 {{< include ../_feedback.qmd >}}

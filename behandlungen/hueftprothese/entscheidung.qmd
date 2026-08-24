@@ -15,7 +15,7 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 **Mein Pfad:** **Die Entscheidung** → [Abklärungen](abklaerung.qmd) → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → [Gut vorbereitet zum Eintritt](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
 :::
 
-[Ob die Hüftprothese Ihr Weg ist, entscheiden Sie — gut informiert und
+[Ob die Hüftprothese Ihr Weg ist, entscheiden Sie, gut informiert und
 in Ihrem Tempo.]{.lede}
 
 ## Was die Operation für Sie tut {#was}
@@ -23,7 +23,7 @@ in Ihrem Tempo.]{.lede}
 Ihr Hüftgelenk ist ein Kugelgelenk: Der Hüftkopf dreht sich in der
 Gelenkpfanne, eine Knorpelschicht lässt beides geschmeidig gleiten.
 Bei einer Arthrose ist diese Gleitschicht abgenutzt. Die Operation
-gibt dem Gelenk beides zurück: glatte Flächen und freies Spiel — Kopf
+gibt dem Gelenk beides zurück: glatte Flächen und freies Spiel. Kopf
 und Pfanne erhalten einen Ersatz aus Metall, Keramik und Kunststoff.
 Das neue Gelenk ist auf Dauer gebaut: Die meisten Menschen begleitet
 es ein Leben lang.
@@ -32,7 +32,7 @@ Vielleicht kennen Sie es: Schmerzen beim Gehen oder Aufstehen,
 manchmal auch nachts, und eine Hüfte, die steifer geworden ist. Wenn
 Beschwerden Ihren Alltag bestimmen, ist es Zeit, über den Gelenkersatz
 zu sprechen. Sie kennen Ihre Hüfte am besten: Notieren Sie vor der
-Sprechstunde, welche Aktivitäten Sie zurückgewinnen möchten — das gibt
+Sprechstunde, welche Aktivitäten Sie zurückgewinnen möchten. Das gibt
 dem Gespräch Ihre Richtung.
 
 ::: {.callout-note collapse="true" icon="false"}
@@ -51,12 +51,12 @@ anhand Ihrer Röntgenbilder und bespricht sie mit Ihnen.
 Eine Hüftprothese ist selten dringend. Meist bleibt Zeit, die
 Möglichkeiten abzuwägen: Bewegungstherapie und gezielter Muskelaufbau,
 Schmerzmittel und Infiltrationen, oder Abwarten mit regelmässiger
-Kontrolle — auch das ist eine aktive Entscheidung. Was für Sie passt,
+Kontrolle. Auch das ist eine aktive Entscheidung. Was für Sie passt,
 hängt von Ihren Beschwerden, Ihren Zielen und Ihrem Alltag ab. Sie
-dürfen die Entscheidung mit nach Hause nehmen und reifen lassen — und
-eine zweite ärztliche Meinung einholen: Das ist üblich und ein
+dürfen die Entscheidung mit nach Hause nehmen und reifen lassen, und Sie dürfen
+eine zweite ärztliche Meinung einholen. Das ist üblich und ein
 Zeichen einer sorgfältigen Entscheidung. Nehmen Sie zur Sprechstunde
-jemanden mit — vier Ohren hören mehr als zwei.
+jemanden mit, denn vier Ohren hören mehr als zwei.
 
 ::: {.fragen-modul}
 ### Vier Fragen für Ihr Gespräch
@@ -74,11 +74,11 @@ jemanden mit — vier Ohren hören mehr als zwei.
 ## Risiken in Zahlen {#risiken}
 
 Die Zahlen sind Durchschnittswerte aus Studien. Ihr persönliches Risiko
-kann höher oder tiefer liegen — das besprechen Sie im
+kann höher oder tiefer liegen. Das besprechen Sie im
 Aufklärungsgespräch.
 
 ::: {.risiko}
-Nach der Hüftoperation — von je 100 Operierten [(Zahlen aus Registern
+Nach der Hüftoperation, von je 100 Operierten [(Zahlen aus Registern
 und Literatur ergänzen, z. B. SIRIS)]{.ph}
 
 | Was passieren kann | Wie lange es meist dauert | hatten es | hatten es nicht |
@@ -95,7 +95,7 @@ gesunde Erwachsene sehr klein: [Grössenordnung nach RCoA-Vorbild]{.ph}.
 ::: {.rechtshinweis}
 Diese Informationen ersetzen nicht das persönliche Aufklärungsgespräch.
 Dort besprechen wir Ihre individuellen Risiken. Sie dürfen dieses
-Gespräch auch vertagen, wenn Sie mehr Bedenkzeit brauchen — und Ihre
+Gespräch auch vertagen, wenn Sie mehr Bedenkzeit brauchen, und Ihre
 Einwilligung bis zum Eingriff jederzeit zurückziehen.
 :::
 

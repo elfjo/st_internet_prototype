@@ -22,7 +22,7 @@ vorbereitet in den Eingriff geht, erholt sich leichter.]{.lede}
 
 ## Warum sich Vorbereitung lohnt {#warum}
 
-Ihr Körper leistet bei einer Operation Beachtliches — und Sie können
+Ihr Körper leistet bei einer Operation Beachtliches, und Sie können
 ihn sanft dabei unterstützen, wie vor einer längeren Wanderung: mit Kraft,
 Ruhe und guten Reserven. Je besser Ihr Zustand vorher, desto leichter
 fällt die Erholung danach. Vieles davon haben Sie selbst in der Hand,
@@ -44,7 +44,7 @@ Physiotherapie vor der Operation.]{.ph}
 
 Ein wirklich wirksamer Schritt, den Sie selbst tun können. Ein Rauchstopp
 [mehrere Wochen]{.ph} vor der Operation verbessert Wundheilung und
-Atmung messbar — Ihr Körper beginnt schon nach Tagen, davon zu
+Atmung messbar. Ihr Körper beginnt schon nach Tagen, davon zu
 profitieren.
 [Unterstützungsangebote: Rauchstopplink, Beratung, Medikamente.]{.ph}
 :::
@@ -52,7 +52,7 @@ profitieren.
 ::: {.callout-note collapse="true" icon="false"}
 ### Ernährung und Alkohol
 
-Ausgewogen essen, genug Eiweiss, wenig Alkohol — so geben Sie Ihrem
+Ausgewogen essen, genug Eiweiss, wenig Alkohol: So geben Sie Ihrem
 Körper gutes Baumaterial für die Heilung. Ungewollter Gewichtsverlust vor
 einer Operation verdient Aufmerksamkeit: Sprechen Sie ihn an, wir
 unterstützen Sie. [Selbsttest oder Kontakt Ernährungsberatung.]{.ph}
@@ -61,7 +61,7 @@ unterstützen Sie. [Selbsttest oder Kontakt Ernährungsberatung.]{.ph}
 ::: {.callout-note collapse="true" icon="false"}
 ### Seelische Vorbereitung
 
-Etwas Anspannung vor einer Operation ist ganz normal — sie zeigt, dass Ihnen die
+Etwas Anspannung vor einer Operation ist ganz normal. Sie zeigt, dass Ihnen die
 Sache wichtig ist. Es hilft, zu wissen, wie alles abläuft. Dafür sind diese
 Seiten da. Wenn Sie gerade sehr von sorgenvollen Gedanken eingenommensind: Sprechen Sie mit uns über das, was Sie gerade beschäftigt. Es gibt gut erprobte Wege,
 die vielen Menschen bereits geholfen haben.
@@ -85,7 +85,7 @@ Kopf frei für die Erholung.
 Wenn Ihre Beschwerden in irgendeiner Form deutlich zunehmen sollten, Sie neue Beschwerden
 bemerken oder eine Erkältung, Fieber oder eine Zahnentzündung
 auftritt: Rufen Sie uns an unter [Telefonnummer]{.ph}. Manches muss
-vor der Operation angeschaut werden — je früher wir es wissen, desto
+vor der Operation angeschaut werden, und je früher wir es wissen, desto
 b.esser können wir alles für Sie abstimmen.
 :::
 

@@ -22,22 +22,22 @@ Hüftoperation noch abzuklären ist.]{.lede}
 ## Der digitale Gesundheitsfragebogen: Ihr erster Schritt {#fragebogen}
 
 Mit der Anmeldung zur Operation hat Ihre Orthopädin oder Ihr Orthopäde
-den digitalen Gesundheitsfragebogen für Sie ausgelöst — die E-Mail mit
+den digitalen Gesundheitsfragebogen für Sie ausgelöst. Die E-Mail mit
 dem Link liegt schon in Ihrem Postfach. Ihre Angaben sind die
 Grundlage, auf der das Anästhesieteam Ihre Anästhesie plant.
 
-- Der Link ist **5 Tage gültig** — am besten füllen Sie den
+- Der Link ist **5 Tage gültig**. Am besten füllen Sie den
   Fragebogen heute oder morgen aus.
 - Dauer etwa **15 Minuten**; mit dem aktuellen Medikamentenplan zur
   Hand geht es am leichtesten.
 - Zum Schutz Ihrer Daten erhalten Sie beim Öffnen einen Code per SMS.
-- Allein, mit jemandem aus Ihrem Umfeld — oder telefonisch mit uns
+- Allein, mit jemandem aus Ihrem Umfeld oder telefonisch mit uns
   zusammen: [Telefonnummer]{.ph}.
 
 ## Welche Abklärungen dazukommen können {#abklaerungen}
 
 Anhand des Fragebogens und Ihrer geplanten Hüftoperation sehen wir,
-welche Abklärungen vorab sinnvoll sind — etwa eine **internistische
+welche Abklärungen vorab sinnvoll sind, etwa eine **internistische
 Abklärung**. Bei den meisten braucht es nichts Zusätzliches.
 [Wer das Aufgebot verschickt, wo die Termine stattfinden.]{.ph}
 
@@ -51,16 +51,16 @@ Sonntagnachmittag.
 
 Wenn Ihre Gesundheit oder der Eingriff besondere Aufmerksamkeit
 verdient, laden wir Sie vorab persönlich in die
-**Anästhesiesprechstunde** ein — Zeit, die Ihrer Sicherheit gehört.
+**Anästhesiesprechstunde** ein: Zeit, die Ihrer Sicherheit gehört.
 Die Einladung dazu erhalten Sie in den Tagen nach dem Fragebogen
 telefonisch.
 
-Für die Hüftoperation ist die Spinalanästhesie das übliche Verfahren —
-wie wach Sie dabei sein möchten, entscheiden Sie mit.
+Für die Hüftoperation ist die Spinalanästhesie das übliche Verfahren,
+und wie wach Sie dabei sein möchten, entscheiden Sie mit.
 [Mehr zu Ihrer Anästhesie →](anaesthesie.qmd)
 
 ::: {.zusatz-karte}
-**Für alle Operationen gilt** — zentral gepflegt, immer aktuell:
+**Für alle Operationen gilt** (zentral gepflegt, immer aktuell):
 
 [Fragebogen, Abklärungen und Anästhesiegespräch im allgemeinen
 Wegweiser →](../../phasen/abklaerung.qmd)

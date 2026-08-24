@@ -9,31 +9,31 @@ title: "Hüftprothese: Ihre Anästhesie"
 
 ::: {.hinweis-prototyp}
 Struktur-Prototyp, Fragmentprinzip: Diese Seite trägt nur das
-Hüftspezifische — alles Allgemeine zur Anästhesie kommt aus der
+Hüftspezifische; alles Allgemeine zur Anästhesie kommt aus der
 zentral gepflegten [Anästhesie-Seite](../../anaesthesie.qmd).
 :::
 
-[Für die Hüftoperation ist die Spinalanästhesie das übliche Verfahren
-— und wie wach Sie dabei sein möchten, entscheiden Sie mit.]{.lede}
+[Für die Hüftoperation ist die Spinalanästhesie das übliche Verfahren,
+und wie wach Sie dabei sein möchten, entscheiden Sie mit.]{.lede}
 
 ## So läuft es bei der Hüftoperation {#huefte}
 
 Üblich ist eine **Spinalanästhesie**: Ihre Beine ruhen für einige
 Stunden tief und schmerzfrei, Ihr Kopf bleibt klar. Ob Sie
 währenddessen dösen, [Ihre eigene Musik über Kopfhörer hören]{.ph}
-oder mit einem Schlafmittel ganz schlafen — das entscheiden Sie mit.
+oder mit einem Schlafmittel ganz schlafen: Das entscheiden Sie mit.
 Wenn Sie Musik möchten: Stellen Sie sich zu Hause in Ruhe Ihre eigene
-Auswahl zusammen — vertraute Stücke begleiten am angenehmsten. Falls
+Auswahl zusammen, denn vertraute Stücke begleiten am angenehmsten. Falls
 die Spinalanästhesie im Einzelfall ungeeignet ist, übernimmt eine
 Vollnarkose.
 
 Nach der Operation klingt die Spinalanästhesie über **2 bis
 4 Stunden** ab; das Gefühl in den Beinen kehrt von selbst zurück.
-[Hüftspezifische Ergänzungen: Schmerzkatheter, lokale Infiltration —
+[Hüftspezifische Ergänzungen: Schmerzkatheter, lokale Infiltration;
 fachlich zu ergänzen.]{.ph}
 
 ::: {.zusatz-karte}
-**Für alle Operationen gilt** — zentral gepflegt, immer aktuell:
+**Für alle Operationen gilt** (zentral gepflegt, immer aktuell):
 
 [Ihre Anästhesie im Überblick: Gesundheitsfragebogen, Sprechstunde
 oder Telefongespräch, Verfahren, Sicherheit, ruhig werden vor der

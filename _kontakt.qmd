@@ -1,7 +1,7 @@
 ::: {.kontakt-hilfe}
-## Ich habe eine Frage — an wen wende ich mich? {.unnumbered}
+## Ich habe eine Frage: An wen wende ich mich? {.unnumbered}
 
-Kurzer Draht statt langer Suche. Jede Frage ist willkommen — lieber
+Kurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber
 einmal mehr angerufen:
 
 - **Termin, Eintritt, Unterlagen:** [Patientenadministration,
@@ -9,6 +9,6 @@ einmal mehr angerufen:
 - **Medizinische Fragen zu Ihrer Operation:** [Sekretariat Ihrer
   Operateurin oder Ihres Operateurs, Telefonnummer]{.ph}
 - **Fragen zur Narkose:** [Anästhesiesprechstunde, Telefonnummer]{.ph}
-- **Dringend, rund um die Uhr:** [Klinik-Nummer]{.ph} — bei Atemnot
+- **Dringend, rund um die Uhr:** [Klinik-Nummer]{.ph}. Bei Atemnot
   oder Brustschmerz direkt **144**
 :::

@@ -1,5 +1,5 @@
 ---
-title: "Prototyp Patientenpfad — Übersicht der Beispielseiten"
+title: "Prototyp Patientenpfad: Übersicht der Beispielseiten"
 toc: false
 ---
 

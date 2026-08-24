@@ -1,5 +1,5 @@
 ---
-title: "Präoperative Abklärungen — Informationen für Zuweisende"
+title: "Präoperative Abklärungen: Informationen für Zuweisende"
 ---
 
 ::: {.mini-nav}
@@ -25,7 +25,7 @@ ausfüllen kann, wird von der Klinik telefonisch unterstützt. Anhand
 der Angaben triagiert die Anästhesie: meist genügt das
 Telefongespräch am Vortag, Risikopatientinnen und -patienten werden
 aktiv in die Anästhesiesprechstunde eingeladen. [Der Prozess ist neu
-eingeführt — Details dazu haben Sie über die Fachkanäle
+eingeführt; Details dazu haben Sie über die Fachkanäle
 erhalten.]{.ph}
 
 ## Ihr Beitrag {#praxis}
@@ -38,8 +38,8 @@ erhalten.]{.ph}
 - **Befunde nicht älter als zwei Monate** an
   [zentrale Dokumentenablage]{.ph}.
 - **Zeitfenster:** idealerweise **vier Wochen vor dem
-  Operationstermin** — genug Zeit für Zusatzabklärungen und die
-  Behandlung einer Anämie.
+  Operationstermin**, damit Zeit für Zusatzabklärungen und die
+  Behandlung einer Anämie bleibt.
 - **Sprechstundenwünsche** von Operateur oder Patientin an das
   [Anästhesiesekretariat]{.ph}.
 
@@ -72,7 +72,7 @@ Niereninsuffizienz GFR < 60, insulinpflichtiger Diabetes)]{.ph}.
 - **Thorax-Röntgen:** nur bei Verdacht auf akute oder unbekannte
   pulmonale Pathologie.
 - **Erweiterte Diagnostik** (Ergometrie, Echo, Lufu, HbA1c,
-  Gerinnung): nach Organbefund — [vollständige Befund-Matrix]{.ph}.
+  Gerinnung): nach Organbefund; [vollständige Befund-Matrix]{.ph}.
 
 ## Gerinnungshemmende Medikamente {#gerinnung}
 
@@ -102,7 +102,7 @@ Eingriffe mit relevantem Blutverlust.
 - **Labor:** Hb, MCV, Ferritin/TSAT, CRP, Kreatinin; bei erhöhtem MCV
   zusätzlich Retikulozyten, Vitamin B12, Folsäure.
 - **Zeitfaktor:** Behandlungsbeginn idealerweise vier Wochen
-  präoperativ — jeder Therapietag vor dem Eingriff nützt.
+  präoperativ, denn jeder Therapietag vor dem Eingriff nützt.
 - **Algorithmus:** regional abgestimmt, [Abbildung oder
   Download]{.ph}.
 

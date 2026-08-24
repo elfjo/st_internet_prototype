@@ -16,7 +16,7 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 **Mein Pfad:** [Entscheidung](entscheidung.qmd) → [Abklärungen](abklaerung.qmd) → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → [Gut vorbereitet zum Eintritt](vor-der-operation.qmd) → **Operationstag** → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
 :::
 
-[Jeder Schritt dieses Tages ist vorbereitet — Sie dürfen sich führen
+[Jeder Schritt dieses Tages ist vorbereitet, und Sie dürfen sich führen
 lassen.]{.lede}
 
 ## Ihre Eintrittszeit {#eintrittszeit}
@@ -32,7 +32,7 @@ Heutzutage ist Wachsamkeit keine Nebensache: Unsere Nachricht kommt
 vom Absender [Absenderkennung]{.ph} und enthält [nur Ihre
 Eintrittszeit, keine Links, keine Zahlungsaufforderung]{.ph}. Wir
 fragen per SMS nie nach Passwörtern, Karten- oder Bankdaten. Im
-Zweifel rufen Sie uns an — nicht die Nummer aus der Nachricht, sondern
+Zweifel rufen Sie uns an, aber nicht die Nummer aus der Nachricht, sondern
 [offizielle Nummer]{.ph}.
 :::
 
@@ -40,13 +40,13 @@ Zweifel rufen Sie uns an — nicht die Nummer aus der Nachricht, sondern
 ### Wenn Sie am Eintrittstag krank sind
 
 Fieber, Husten, Erkältung oder Durchfall: Rufen Sie uns an, **bevor**
-Sie losfahren — [Telefonnummer]{.ph}. Gemeinsam entscheiden wir, was
+Sie losfahren: [Telefonnummer]{.ph}. Gemeinsam entscheiden wir, was
 für Ihre Sicherheit der beste Weg ist.
 :::
 
 ## Ankommen und anmelden {#anmeldung}
 
-[Adresse, Eingang, Anfahrt; wo genau sich die Aufnahme befindet —
+[Adresse, Eingang, Anfahrt; wo genau sich die Aufnahme befindet;
 idealerweise mit Foto des tatsächlichen Eingangs und des
 Anmeldetresens, damit Sie wiedererkennen.]{.ph}
 
@@ -56,12 +56,12 @@ Vorbereitungsbereich]{.ph}.
 
 ## So läuft der Vormittag ab {#vormittag}
 
-1. [Zimmerbezug oder Umkleiden. Sie erhalten Ihr Patientenarmband —
-   es trägt Ihren Namen, damit jede und jeder im Behandlungsteam Sie
+1. [Zimmerbezug oder Umkleiden. Sie erhalten Ihr Patientenarmband:
+   Es trägt Ihren Namen, damit jede und jeder im Behandlungsteam Sie
    auf den ersten Blick immer deutlich zuordnen kann.]{.ph}
 2. [Gespräch mit der Pflege: Raum für Ihre offenen Fragen, dazu ein
-   gemeinsamer Blick auf Essen, Trinken und Medikamente — so ist
-   alles bereit.]{.ph}
+   gemeinsamer Blick auf Essen, Trinken und Medikamente, damit
+   alles bereit ist.]{.ph}
 3. Kurz vor der Operation begleiten wir Sie in den Operationsbereich.
    Dort nehmen Sie mit Unterstützung des Teams auf der Operationsliege
    Platz. Das ist ein eingespielter Ablauf, durch den wir Sie
@@ -70,12 +70,12 @@ Vorbereitungsbereich]{.ph}.
 
 ## Zwischen Ankunft und Operation {#wartezeit}
 
-Der Operationsplan eines Tages wird laufend abgestimmt — Ihre genaue
+Der Operationsplan eines Tages wird laufend abgestimmt. Ihre genaue
 Zeit erfahren Sie deshalb am Eintrittstag selbst. Zwischen Ihrer
 Ankunft in der Klinik und der Operation bleibt darum oft eine
 Wartezeit: manchmal eine halbe Stunde, manchmal auch drei. Nehmen Sie
 sich etwas zum Lesen oder Hören mit und richten Sie sich bestmöglich
-ein — wir gestalten Ihnen das Warten so angenehm wie möglich.
+ein; wir gestalten Ihnen das Warten so angenehm wie möglich.
 
 Diese Zeit arbeitet für Sie: Ihr Team bereitet im Hintergrund alles
 vor, und wo ein Notfall Vorrang bekommt, gilt für uns immer dieselbe
@@ -88,7 +88,7 @@ braucht.
 Üblich ist eine **Spinalanästhesie**: Ihre Beine ruhen für einige
 Stunden tief und schmerzfrei, Ihr Kopf bleibt klar. Ob Sie
 währenddessen dösen, [Ihre eigene Musik über Kopfhörer hören]{.ph}
-oder mit einem Schlafmittel ganz schlafen — das entscheiden Sie mit.
+oder mit einem Schlafmittel ganz schlafen: Das entscheiden Sie mit.
 Falls die Spinalanästhesie im Einzelfall ungeeignet ist, übernimmt
 eine Vollnarkose. Die Operation dauert in der Regel [60 bis
 90 Minuten]{.ph}. [Mehr zu Ihrer Anästhesie →](anaesthesie.qmd)
@@ -98,17 +98,17 @@ eine Vollnarkose. Die Operation dauert in der Regel [60 bis
 Im Vorbereitungsraum legt das Anästhesieteam eine Infusion und
 schliesst die Überwachung an, dann beginnt die mit Ihnen besprochene
 Anästhesie. Das Team lagert Sie bequem, begleitet Sie in den Saal und
-bereitet die Haut sorgfältig vor — dann beginnt die Operation. Dass
+bereitet die Haut sorgfältig vor. Dann beginnt die Operation. Dass
 Sie unterwegs mehrmals nach Name und geplantem Eingriff gefragt
 werden, ist Teil unseres Sicherheitskonzepts: Jede Kontrolle arbeitet
 für Sie.
 
 Danach wachen Sie im Aufwachraum auf, in Ruhe und gut betreut. Sie
-dürfen dort einfach dösen — Ihr Körper nutzt diese Stunden zum
+dürfen dort einfach dösen, denn Ihr Körper nutzt diese Stunden zum
 Ankommen, während wir Kreislauf, Atmung und Ihr Wohlbefinden im Blick
 behalten. Die Spinalanästhesie klingt über **2 bis 4 Stunden** ab; das
 Gefühl in den Beinen kehrt von selbst zurück. Falls Ihnen kühl ist
-oder sich der Magen meldet: Sagen Sie es dem Team — dafür gibt es
+oder sich der Magen meldet: Sagen Sie es dem Team, denn dafür gibt es
 rasche Hilfe, und beides vergeht. Nach **2 bis 3 Stunden** begleiten
 wir Sie auf Ihr Zimmer.
 
@@ -119,7 +119,7 @@ verlaufen ist. [Wo Angehörige warten können, wann mit einer Nachricht
 zu rechnen ist.]{.ph}
 
 ::: {.zusatz-karte}
-**Für alle Operationen gilt** — zentral gepflegt, immer aktuell:
+**Für alle Operationen gilt** (zentral gepflegt, immer aktuell):
 
 [Eintritt und Operationstag im allgemeinen Wegweiser →](../../phasen/eintrittstag.qmd)
 :::

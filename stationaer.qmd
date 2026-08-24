@@ -1,5 +1,5 @@
 ---
-title: "Operation mit stationärem Aufenthalt — Schritt für Schritt"
+title: "Operation mit stationärem Aufenthalt: Schritt für Schritt"
 toc: false
 ---
 
@@ -35,18 +35,18 @@ folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
 2. [Fragebogen, Abklärungen und Anästhesiegespräch](phasen/abklaerung.qmd)
 
    [Welche Abklärungen brauche ich vor der Operation? Der digitale
-   Fragebogen ist mein erster Schritt — und daraus ergibt sich, wie mein
+   Fragebogen ist mein erster Schritt, und daraus ergibt sich, wie mein
    Anästhesiegespräch stattfindet.]{.p-frage}
 
 3. [Die Zeit bis zum Eintritt optimal nutzen](phasen/wartezeit.qmd)
 
-   [Bewegung, Ernährung, Gewohnheiten — und was tue ich, wenn sich mein
+   [Bewegung, Ernährung, Gewohnheiten. Und was tue ich, wenn sich mein
    Gesundheitszustand ändert?]{.p-frage}
 
 4. [Gut vorbereitet zum Eintritt ankommen](phasen/vorbereitung.qmd)
 
    [Was ist hilfreich vor der Operation zu erledigen? Medikamente, Essen und
-   Trinken, Packliste — und die Planung für die Zeit nach dem
+   Trinken, Packliste, dazu die Planung für die Zeit nach dem
    Austritt.]{.p-frage}
 
 5. [Der Eintritt und der Operationstag](phasen/eintrittstag.qmd)
@@ -60,22 +60,22 @@ folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
 
 7. [Austritt und Erholung zu Hause](phasen/nachhause.qmd)
 
-   [Austritt, Nachkontrolle, Unterstützung im Alltag — und bei welchen
+   [Austritt, Nachkontrolle, Unterstützung im Alltag. Und bei welchen
    Anzeichen ich mich sofort melden sollte.]{.p-frage}
 :::
 
 ## Welche Operation bekommen Sie?
 
 Zu unseren häufigsten Eingriffen finden Sie eine eigene Seite mit allen
-Schritten — vom Grund für die Operation bis zur Erholung. Ihr
+Schritten, vom Grund für die Operation bis zur Erholung. Ihr
 persönlicher Weg beginnt am besten dort:
 
 ::: {.hinweis-prototyp}
 Architektur-Demo, zwei Varianten zum Vergleichen:
-**Hüftprothese** zeigt den «Eingriffskosmos» — eine Einstiegsseite mit
+**Hüftprothese** zeigt den «Eingriffskosmos»: eine Einstiegsseite mit
 sechs kurzen Schritt-Seiten, Allgemeines wird zentral gepflegt und
-verlinkt. **Spondylodese** zeigt die Langseiten-Variante — alle
-Inhalte auf einer durchgehenden Seite.
+verlinkt. **Spondylodese** zeigt die Langseiten-Variante, bei der alle
+Inhalte auf einer durchgehenden Seite stehen.
 :::
 
 ::: {.op-wahl}

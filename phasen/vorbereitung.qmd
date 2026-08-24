@@ -18,18 +18,18 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
 [Was Sie vor Ihrer Operation erledigen: Medikamente, Essen und Trinken,
-Packliste — und die Planung für die Zeit nach dem Austritt.]{.lede}
+Packliste, dazu die Planung für die Zeit nach dem Austritt.]{.lede}
 
 ## Was Sie jetzt erledigen {#erledigen}
 
-Diese Liste zeigt, was bis zum Eintrittstag ansteht — die Zeitspalte
+Diese Liste zeigt, was bis zum Eintrittstag ansteht. Die Zeitspalte
 sagt Ihnen, was jetzt dran ist, ganz gleich, wann Sie hier einsteigen.
 Die letzten beiden Punkte kommen von selbst auf Sie zu.
 
 ::: {.tasks-tbl}
 | Aufgabe | Wann |
 |---------------------------------------------------------------|:--|
-| [Digitalen Gesundheitsfragebogen ausfüllen](abklaerung.qmd#fragebogen) — den Zugang haben Sie mit der Anmeldung erhalten | gleich nach der Anmeldung |
+| [Digitalen Gesundheitsfragebogen ausfüllen](abklaerung.qmd#fragebogen); den Zugang haben Sie mit der Anmeldung erhalten | gleich nach der Anmeldung |
 | Eintrittsformular ausfüllen und zurücksenden | gleich nach der Anmeldung |
 | Medikamentenliste bereitlegen und [prüfen, welche Sie pausieren](#medikamente) | in den Wochen davor |
 | Fahrt nach Hause und Unterstützung für die erste Woche organisieren | in den Wochen davor |
@@ -40,7 +40,7 @@ Die letzten beiden Punkte kommen von selbst auf Sie zu.
 ## Ihre Medikamente {#medikamente}
 
 Die meisten Medikamente nehmen Sie normal weiter. Zwei Gruppen sind die
-wichtige Ausnahme — es zählt der Abschnitt, der auf Sie zutrifft:
+wichtige Ausnahme; es zählt der Abschnitt, der auf Sie zutrifft:
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Ich nehme Blutverdünner
@@ -72,7 +72,7 @@ Wechselwirkung mit Narkose und Blutgerinnung.]{.ph}
 ### Pausieren Sie Blutverdünner nie ohne Rücksprache
 
 Ob und wann Sie Blutverdünner pausieren, legen Sie gemeinsam mit Ihrer
-Ärztin oder Ihrem Arzt fest — so bleiben Ihre Gerinnung und Ihre
+Ärztin oder Ihrem Arzt fest, denn so bleiben Ihre Gerinnung und Ihre
 Operation gleichermassen geschützt. Im Zweifel genügt ein Anruf:
 [Telefonnummer]{.ph}.
 :::
@@ -102,8 +102,8 @@ Operation sicher und wie geplant stattfinden kann. Sollten Sie die Zeiten nicht 
 
 Mit wenigen Handgriffen bereiten Sie Ihre Haut optimal auf den
 Eingriff vor: vor dem Spitaleintritt duschen und die Haut danach frei
-von Kosmetika und Pflegeprodukten lassen — so kann das
-Desinfektionsmittel optimal wirken. Nagellack und Schmuck bleiben am
+von Kosmetika und Pflegeprodukten lassen, damit das
+Desinfektionsmittel optimal wirken kann. Nagellack und Schmuck bleiben am
 besten schon zu Hause. Falls eine Rasur des Operationsgebiets nötig
 ist, übernehmen wir das in der Klinik: Unversehrte, saubere Haut ist
 der beste Schutz vor Infektionen.
@@ -115,7 +115,7 @@ eintreten. So kommen Sie in ein vorbereitetes Zuhause zurück.
 Hilfreich zu klären, bevor Sie eintreten:
 
 - Wer holt Sie ab?
-- Wer unterstützt Sie ggf. zu Hause in der ersten Woche — beim Einkaufen,
+- Wer unterstützt Sie ggf. zu Hause in der ersten Woche, etwa beim Einkaufen,
   Kochen, im Haushalt?
 - Brauchen Sie Hilfsmittel ([z. B. Gehstöcke, erhöhter
   Toilettensitz]{.ph})? [Wer organisiert sie, die Klinik oder Sie?]{.ph}

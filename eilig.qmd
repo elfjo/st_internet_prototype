@@ -12,7 +12,7 @@ toc: false
 Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
-[Hier finden Sie Antworten nach Themen — und weiter unten die
+[Hier finden Sie Antworten nach Themen und weiter unten die
 häufigsten Fragen direkt beantwortet.]{.lede}
 
 ## Alles auf einem Blatt {#blatt}

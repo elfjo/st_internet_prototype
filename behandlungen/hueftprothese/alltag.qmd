@@ -15,18 +15,18 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 **Mein Pfad:** [Entscheidung](entscheidung.qmd) → [Abklärungen](abklaerung.qmd) → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → [Gut vorbereitet zum Eintritt](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → **Alltag**
 :::
 
-[Der Alltag ist Ihre beste Therapie — mit jedem Tag wird Ihre
+[Der Alltag ist Ihre beste Therapie: Mit jedem Tag wird Ihre
 Gehstrecke länger.]{.lede}
 
 ## Das Austrittsgespräch: Ihre Checkliste {#austrittsgespraech}
 
 Mit diesen Antworten im Gepäck gehen Sie sicher nach Hause. Haken Sie
-ab — und fragen Sie nach, bis alles beantwortet ist:
+ab, und fragen Sie nach, bis alles beantwortet ist:
 
 ::: {.tasks-tbl}
 | Geklärt? | |
 |--------------------------------------------------------------|:--|
-| Welche Medikamente nehme ich — was ist neu, was fällt weg? | [Offen]{.st .st-offen} |
+| Welche Medikamente nehme ich, was ist neu, was fällt weg? | [Offen]{.st .st-offen} |
 | Wie versorge ich die Wunde, wann dürfen die Fäden raus? | [Offen]{.st .st-offen} |
 | Was darf ich ab wann wieder tun? | [Offen]{.st .st-offen} |
 | Bei welchen Anzeichen melde ich mich, und wo? | [Offen]{.st .st-offen} |
@@ -36,15 +36,15 @@ ab — und fragen Sie nach, bis alles beantwortet ist:
 
 ## Die ersten Wochen {#erste-wochen}
 
-Für die Heimfahrt lassen Sie sich fahren — so kommen Sie sicher und
-entspannt an. Zu Hause wird Ihre Gehstrecke laufend länger, die
+Für die Heimfahrt lassen Sie sich fahren, damit Sie sicher und
+entspannt ankommen. Zu Hause wird Ihre Gehstrecke laufend länger, die
 Muskulatur baut sich mit jedem Tag auf. Die Gehstöcke geben Ihrem neuen Gelenk in den ersten
-Wochen Halt, bis es fest eingewachsen ist — so bewegen Sie sich
+Wochen Halt, bis es fest eingewachsen ist. So bewegen Sie sich
 sicher. In den ersten Wochen schlafen Sie am besten auf dem Rücken
 oder auf der gesunden Seite mit einem Kissen zwischen den Beinen; ab
 Woche 4 geht auch die operierte Seite wieder.
 
-Den Verband wechseln Sie nach **5 bis 7 Tagen** selbst — die Pflege
+Den Verband wechseln Sie nach **5 bis 7 Tagen** selbst; die Pflege
 zeigt Ihnen vor dem Austritt, wie. Der Bluterguss um die
 Operationsstelle wird bunt und wandert der Schwerkraft folgend
 Richtung Knie und Fuss: Das sieht eindrücklich aus, gehört zur
@@ -68,7 +68,7 @@ normalen Heilung und bildet sich über einige Wochen zurück.
 Vielleicht wissen Sie schon, worauf Sie sich am meisten freuen. Dieses
 Ziel darf Sie durch die Übungswochen begleiten.
 
-Auf Reisen brauchen Sie nichts Besonderes zu beachten — am Flughafen
+Auf Reisen brauchen Sie nichts Besonderes zu beachten. Am Flughafen
 melden die Metalldetektoren Ihr Implantat, ein kurzer Hinweis ans
 Personal genügt. Beim Zahnarzt läuft die normale Behandlung wie
 gewohnt; nur vor grossen Eingriffen oder bei einem eitrigen Zahn
@@ -77,16 +77,16 @@ Antibiotikaschutz an.
 
 Ihr Körper setzt seine Energie in den ersten Wochen vor allem für die
 Heilung ein. Gönnen Sie sich Pausen; von Woche zu Woche kehrt Ihre
-Kraft zurück. Viele merken den Fortschritt zuerst an kleinen Dingen —
-die Strecke ohne Stöcke wird länger, das Treppensteigen
+Kraft zurück. Viele merken den Fortschritt zuerst an kleinen Dingen:
+Die Strecke ohne Stöcke wird länger, das Treppensteigen
 selbstverständlicher, der Schlaf tiefer. Und wie es Ihnen insgesamt
-geht — Energie, Schlaf, Stimmung — gehört in die Nachkontrolle.
+geht, mit Energie, Schlaf und Stimmung, gehört in die Nachkontrolle.
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Ihr Übungsprogramm {#uebungen}
 
 [Gesässmuskulatur aktivieren, Hüftbeugung in Rückenlage,
-Hüftstreckung im Stehen — je 10 bis 20 Wiederholungen, 3-mal täglich.
+Hüftstreckung im Stehen; je 10 bis 20 Wiederholungen, 3-mal täglich.
 Als bebilderte Anleitung oder kurzes Video umsetzen.]{.ph}
 :::
 
@@ -101,7 +101,7 @@ einen Anruf verdient:
 - Zunehmende Rötung, Schwellung oder Nässen der Wunde
 - Plötzlich stark zunehmende Schmerzen
 - Schwellung oder Schmerz in der Wade
-- Atemnot oder Brustschmerz — in diesem Fall direkt **144** anrufen
+- Atemnot oder Brustschmerz: in diesem Fall direkt **144** anrufen
 
 In den ersten [7 Tagen]{.ph} nach Austritt erreichen Sie die Station
 unter [Nummer]{.ph}, danach die Person, die Sie operiert hat, oder
@@ -111,19 +111,19 @@ Ihre Hausarztpraxis. Nehmen Sie Antibiotika nur nach Rücksprache.
 ## Unterstützung im Alltag {#unterstuetzung}
 
 Wenn Sie zu Hause Unterstützung möchten: [Spitex, Haushaltshilfe,
-Mahlzeitendienst, Rehabilitation — was das Austrittsmanagement bereits
+Mahlzeitendienst, Rehabilitation: was das Austrittsmanagement bereits
 organisiert hat, und an wen Sie sich nachträglich wenden.]{.ph} Hilfe
-anzunehmen beschleunigt die Erholung — und Schritt für Schritt
+anzunehmen beschleunigt die Erholung, und Schritt für Schritt
 übernehmen Sie wieder selbst.
 
 ## Nachkontrolle {#nachkontrolle}
 
 [Wann die Nachkontrolle stattfindet, bei wem, wie der Termin zustande
-kommt.]{.ph} Notieren Sie sich bis dahin, was Sie beschäftigt — jede
+kommt.]{.ph} Notieren Sie sich bis dahin, was Sie beschäftigt, denn jede
 Frage hat dort Platz.
 
 ::: {.zusatz-karte}
-**Für alle Operationen gilt** — zentral gepflegt, immer aktuell:
+**Für alle Operationen gilt** (zentral gepflegt, immer aktuell):
 
 [Austritt und Erholung zu Hause im allgemeinen Wegweiser →](../../phasen/nachhause.qmd)
 :::

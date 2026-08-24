@@ -17,13 +17,13 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 **Ihr Pfad:** [Die Entscheidung](entscheidung.qmd) → [Fragebogen und Abklärungen](abklaerung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Gut vorbereitet zum Eintritt](vorbereitung.qmd) → [Eintritt und Operationstag](eintrittstag.qmd) → **Der Aufenthalt in der Klinik** → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
-[Wie Ihre Tage in der Klinik ablaufen, wer Sie betreut — und wie Sie
+[Wie Ihre Tage in der Klinik ablaufen, wer Sie betreut und wie Sie
 ansprechen, was Ihnen wichtig ist.]{.lede}
 
 ## Direkt nach der Operation {#aufwachraum}
 
 Nach dem Eingriff wachen Sie im Aufwachraum auf, in Ruhe und gut
-betreut. Sie dürfen dort einfach dösen — Ihr Körper nutzt diese
+betreut. Sie dürfen dort einfach dösen, denn Ihr Körper nutzt diese
 Stunden zum Ankommen, während wir Kreislauf, Atmung und Ihr
 Wohlbefinden im Blick behalten. Meist nach [ein bis zwei Stunden]{.ph} bringen wir Sie
 auf Ihre Station. [Wann Angehörige benachrichtigt
@@ -31,21 +31,21 @@ werden.]{.ph}
 
 Ihr Körper braucht nach einer Operation etwas Zeit, um wieder auf
 Temperatur und in Schwung zu kommen. Falls Ihnen dabei kühl ist oder
-sich der Magen meldet: Sagen Sie es dem Team — dafür gibt es gut bewährte Arzneien.
+sich der Magen meldet: Sagen Sie es dem Team, dafür gibt es gut bewährte Arzneien.
 
 ## So sieht Ihr Tag aus {#tagesablauf}
 
 [Tagesstruktur der Station: Wecken und Messen, Frühstück, Visite,
-Therapie, Mahlzeiten, Ruhezeiten — mit ungefähren Uhrzeiten. Der Tag
+Therapie, Mahlzeiten, Ruhezeiten mit ungefähren Uhrzeiten. Der Tag
 im Spital beginnt eher früh; wer das vorher weiss, startet entspannter in den Morgen.]{.ph}
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Die Visite: Ihr täglicher Gesprächstermin
 
 Mindestens einmal täglich bespricht das Ärzteteam mit Ihnen den Stand und die
-nächsten Schritte. Die Visiten sind meist kompakt — nutzen Sie sie optimal für sich:
+nächsten Schritte. Die Visiten sind meist kompakt. Nutzen Sie sie optimal für sich:
 Notieren Sie Ihre Fragen vorher auf einem Blatt. Jede Frage hat hier
-Platz — auch, wie es Ihnen insgesamt geht, mit Schlaf, Stimmung und
+Platz, auch, wie es Ihnen insgesamt geht, mit Schlaf, Stimmung und
 allem, was Sie beschäftigt.
 :::
 
@@ -55,16 +55,16 @@ An Ihrer Behandlung sind mehrere Berufsgruppen beteiligt. Damit Sie
 wissen, wen Sie vor sich haben:
 
 - [Pflegefachpersonen: Ihre erste Anlaufstelle, rund um die Uhr]{.ph}
-- [Ärztinnen und Ärzte: Operateur, Anästhesie, Stationsarzt — wer
+- [Ärztinnen und Ärzte: Operateur, Anästhesie, Stationsarzt: wer
   wofür zuständig ist]{.ph}
 - [Physiotherapie, Ernährungsberatung, Austrittsmanagement,
   Seelsorge]{.ph}
 
 [Wie Sie erkennen, wer wer ist.]{.ph}
 
-## Ihre Schmerztherapie: fein eingestellt {#schmerzen}
+## Ihre Schmerztherapie: individuell auf Sie abgestimmt {#schmerzen}
 
-Schmerzen nach einer Operation lassen sich heutzutage gut behandeln — und
+Schmerzen nach einer Operation lassen sich heutzutage gut behandeln, und
 gut behandelte Schmerzen helfen Ihnen, früher aufzustehen, besser zu
 schlafen und schneller zu Kräften zu kommen. Wir fragen Sie
 regelmässig nach Ihren Schmerzen [auf einer Skala von 0 bis 10]{.ph}.
@@ -74,7 +74,7 @@ besser wirkt die Behandlung.
 ## Schon jetzt: der Blick nach Hause {#austrittsplanung}
 
 Bereits während des Aufenthalts klären wir mit Ihnen, wie es zu Hause
-mit der Erholung weitergeht — Unterstützung im Alltag, Hilfsmittel, falls nötig
+mit der Erholung weitergeht: Unterstützung im Alltag, Hilfsmittel, falls nötig
 Rehabilitation oder Spitex. [Wer vom Austrittsmanagement auf Sie
 zukommt und wann.]{.ph} Was Sie dabei erwartet, steht unter [«Ich gehe
 nach Hause»](nachhause.qmd).
@@ -83,7 +83,7 @@ nach Hause»](nachhause.qmd).
 ## Praktisches auf der Station {#praktisches}
 
 Besuchszeiten · Mahlzeiten und Menüwahl · WLAN · Telefon · Wertsachen ·
-Ruhezeiten — gesammelt unter [«Gut zu wissen»]{.ph}. Diese Themen
+Ruhezeiten, gesammelt unter [«Gut zu wissen»]{.ph}. Diese Themen
 stehen bewusst nicht zwischen den medizinischen Schritten.
 :::
 

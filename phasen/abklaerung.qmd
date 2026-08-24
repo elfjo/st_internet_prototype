@@ -23,7 +23,7 @@ stattfindet.]{.lede}
 ## Den digitalen Gesundheitsfragebogen beantworten: Ihr erster Schritt {#fragebogen}
 
 Wenn Sie den Fragebogen schon ausgefüllt haben, ist Ihr erster
-Schritt erledigt — Sie können direkt [zum
+Schritt erledigt, und Sie können direkt [zum
 Anästhesiegespräch](#gespraech) weiterlesen.
 
 Mit der Anmeldung zur Operation hat Ihre Operateurin oder Ihr
@@ -31,18 +31,18 @@ Operateur den digitalen Gesundheitsfragebogen für Sie freigeschaltet.
 Die E-Mail mit dem Link liegt vermutlich schon in Ihrem Postfach. Ihre
 Angaben sind eine wichtige Grundlage, auf der das Anästhesieteam das für Sie passende Vorgehen plant.
 
-- Der Link ist **5 Tage gültig** — am besten füllen Sie den
+- Der Link ist **5 Tage gültig**. Am besten füllen Sie den
   Fragebogen heute oder morgen aus.
 - Dauer etwa **15 Minuten**; mit dem aktuellen Medikamentenplan zur
   Hand geht es am leichtesten.
 - Zum Schutz Ihrer Daten erhalten Sie beim Öffnen einen Code per SMS.
-- Wenn Sie beim Ausfüllen Unterstützung möchten: Ein Anruf genügt —
+- Wenn Sie beim Ausfüllen Unterstützung möchten, genügt ein Anruf:
   [Telefonnummer]{.ph}.
 
 ## Ihr Anästhesiegespräch {#gespraech}
 
 Ihr Gespräch findet auf einem von zwei Wegen statt. Beide führen zum
-selben Ziel: einer Narkose, die zu optimal Ihnen passt.
+selben Ziel: einer Narkose, die optimal zu Ihnen passt.
 
 **Einladung in die Anästhesiesprechstunde:** Wenn Ihr Gesundheitszustand
 oder der geplante Eingriff besondere Aufmerksamkeit verdient, laden
@@ -56,7 +56,7 @@ in der Regel **zwischen 13 und 17 Uhr** an, vor einer
 Montagsoperation am Freitag- oder Sonntagnachmittag.
 
 In beiden Gesprächen legen Sie gemeinsam die für Sie passende Narkose
-fest — Ihre Fragen und Wünsche gehören dazu.
+fest, und Ihre Fragen und Wünsche gehören dazu.
 [Mehr zu Ihrer Anästhesie →](../anaesthesie.qmd)
 
 {{< include ../_feedback.qmd >}}

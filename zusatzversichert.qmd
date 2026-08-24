@@ -15,7 +15,7 @@ title: "Falls ich zusatzversichert bin"
 Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
-[Die Medizin ist bei uns für alle dieselbe — dieselbe Sorgfalt,
+[Die Medizin ist bei uns für alle dieselbe: dieselbe Sorgfalt,
 dieselbe Sicherheit, derselbe Weg durch den Aufenthalt. Ihre
 Zusatzversicherung erweitert Wahl und Komfort.]{.lede}
 
@@ -33,7 +33,7 @@ werden sollte.]{.ph}
 ### Ihr Zimmer
 
 [Halbprivat: Zweibettzimmer. Privat: Einzelzimmer. Ausstattung,
-Aussicht, Ruhe — konkret und ehrlich beschreiben, mit Foto realer
+Aussicht, Ruhe; konkret und ehrlich beschreiben, mit Foto realer
 Zimmer statt Symbolbild.]{.ph}
 :::
 
@@ -41,7 +41,7 @@ Zimmer statt Symbolbild.]{.ph}
 ### Komfort und Service
 
 [Menüwahl und Hotellerie, erweiterte Besuchsregelung, persönliche
-Ansprechperson, weitere Serviceleistungen — nur auflisten, was
+Ansprechperson, weitere Serviceleistungen; nur auflisten, was
 verlässlich eingelöst wird.]{.ph}
 :::
 
@@ -49,13 +49,13 @@ verlässlich eingelöst wird.]{.ph}
 ### Flexibilität
 
 [Was planbar wählbar ist: Terminfenster, Eintrittszeiten,
-Verlängerungsoptionen — ehrlich abgrenzen von dem, was der
+Verlängerungsoptionen; ehrlich abgrenzen von dem, was der
 Operationsplan für alle gleich regelt.]{.ph}
 :::
 
 ## Was Sie dafür tun müssen {#ablauf}
 
-Wenig. Geben Sie Ihre Versicherungsklasse bei der Anmeldung an — die
+Wenig. Geben Sie Ihre Versicherungsklasse bei der Anmeldung an, denn die
 Kostengutsprache klären wir für Sie mit Ihrer Versicherung.
 [Ansprechperson, Telefonnummer.]{.ph}
 

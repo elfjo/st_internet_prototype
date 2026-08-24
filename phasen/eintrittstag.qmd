@@ -17,7 +17,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 **Ihr Pfad:** [Die Entscheidung](entscheidung.qmd) → [Fragebogen und Abklärungen](abklaerung.qmd) → [Die Zeit bis zum Eintritt](wartezeit.qmd) → [Gut vorbereitet zum Eintritt](vorbereitung.qmd) → **Eintritt und Operationstag** → [Der Aufenthalt in der Klinik](aufenthalt.qmd) → [Austritt und Erholung zu Hause](nachhause.qmd)
 :::
 
-[Wie der Tag der Aufnahme abläuft — Schritt für Schritt, von der
+[Wie der Tag der Aufnahme abläuft: Schritt für Schritt, von der
 Anmeldung bis zur Begrüssung im Operationsbereich. Jeder Schritt ist vorbereitet;
 Sie dürfen sich an diesem Tag von uns leiten lassen.]{.lede}
 
@@ -33,13 +33,13 @@ keine Nachricht ankommt: [Telefonnummer, Erreichbarkeit.]{.ph}
 Heutzutage ist Wachsamkeit keine Nebensache: Unsere Nachricht Nachricht kommt vom Absender [Absenderkennung]{.ph} und enthält
 [nur Ihre Eintrittszeit, keine Links, keine Zahlungsaufforderung]{.ph}.
 Wir fragen per SMS nie nach Passwörtern, Karten- oder Bankdaten. Im
-Zweifel rufen Sie uns an — nicht die Nummer aus der Nachricht, sondern
+Zweifel rufen Sie uns an, aber nicht die Nummer aus der Nachricht, sondern
 [offizielle Nummer]{.ph}.
 :::
 
 ## Ankommen und anmelden {#anmeldung}
 
-[Adresse, Eingang, Anfahrt; wo genau sich die Aufnahme befindet —
+[Adresse, Eingang, Anfahrt; wo genau sich die Aufnahme befindet;
 idealerweise mit Foto des tatsächlichen Eingangs und des
 Anmeldetresens, damit Sie wiedererkennen.]{.ph}
 
@@ -51,12 +51,12 @@ Vorbereitungsbereich]{.ph}.
 
 So läuft der Vormittag ab:
 
-1. [Zimmerbezug oder Umkleiden. Sie erhalten Ihr Patientenarmband —
+1. [Zimmerbezug oder Umkleiden. Sie erhalten Ihr Patientenarmband:
    es trägt Ihren Namen, damit jede und jeder im Behandlungsteam Sie auf den
    ersten Blick immer deutlich zuordnen kann.]{.ph}
 2. [Gespräch mit der Pflege: Raum für Ihre offenen Fragen, dazu ein
-   gemeinsamer Blick auf Essen, Trinken und Medikamente — so ist
-   alles bereit.]{.ph}
+   gemeinsamer Blick auf Essen, Trinken und Medikamente, damit
+   alles bereit ist.]{.ph}
 3. Kurz vor der Operation begleiten wir Sie in den Operationsbereich.
    Dort nehmen Sie mit Unterstützung des Teams auf
    der Operationsliege platz. Das ist ein eingespielter
@@ -64,7 +64,7 @@ So läuft der Vormittag ab:
 
 ## Zwischen Ankunft und Operation {#wartezeit}
 
-Der Operationsplan eines Tages wird laufend abgestimmt —
+Der Operationsplan eines Tages wird laufend abgestimmt.
 Ihre genaue Zeit erfahren Sie deshalb am Eintrittstag selbst. Zwischen
 Ihrer Ankunft in der Klinik und der Operation bleibt darum oft eine Wartezeit. Manchmal ist es nur eine halbe Stunde, es könne aber auch schon einmal drei Stunden werden. Nehmen Sie sich etwas zum Lesen oder Hören mit und richten Sie sich bestmöglich ein. Wir versuchen, Ihnen das Warten möglichst erträglich zu gestalten.
 
@@ -75,7 +75,7 @@ vor, und wo ein Notfall Vorrang bekommt, gilt für uns immer dieselbe Regel, von
 ### Falls Sie am Eintrittstag krank sind
 
 Fieber, Husten, Erkältung oder Durchfall am Operationstag? Rufen Sie
-uns an, **bevor** Sie losfahren — [Telefonnummer]{.ph}. Gemeinsam
+uns an, **bevor** Sie losfahren: [Telefonnummer]{.ph}. Gemeinsam
 entscheiden wir, was für Ihre Sicherheit der beste Weg ist.
 :::
 

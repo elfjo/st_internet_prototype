@@ -16,7 +16,7 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 **Mein Pfad:** [Entscheidung](entscheidung.qmd) → [Abklärungen](abklaerung.qmd) → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → [Gut vorbereitet zum Eintritt](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → **In der Klinik** → [Alltag](alltag.qmd)
 :::
 
-[Ihre Erholung beginnt am Operationstag — jeder frühe Schritt bringt
+[Ihre Erholung beginnt am Operationstag: Jeder frühe Schritt bringt
 die Heilung in Gang, und mit jedem Tag übernehmen Sie mehr
 selbst.]{.lede}
 
@@ -26,21 +26,21 @@ selbst.]{.lede}
   Das operierte Bein darf teilbelastet werden.
 - **Tag 1:** Gehtraining, Körperpflege mit Unterstützung, normales
   Essen und Trinken.
-- **Tag 2:** Treppensteigen, An- und Ausziehen üben, Röntgenkontrolle
-  — Sie übernehmen zunehmend selbst.
+- **Tag 2:** Treppensteigen, An- und Ausziehen üben, Röntgenkontrolle;
+  Sie übernehmen zunehmend selbst.
 - **Tag 3:** in der Regel gehen Sie nach Hause.
 
 Zwischen den Therapieterminen gehört der Tag Ihnen: Jeder zusätzliche
-Gang — zum Fenster, über den Flur — zählt als Training, und Sie
+Gang, zum Fenster oder über den Flur, zählt als Training, und Sie
 bestimmen das Tempo.
 
 ## Ihre Schmerztherapie: fein eingestellt {#schmerzen}
 
-Schmerzen nach einer Operation lassen sich heute gut behandeln — und
+Schmerzen nach einer Operation lassen sich heute gut behandeln, und
 gut behandelte Schmerzen helfen Ihnen, früher aufzustehen, besser zu
 schlafen und schneller zu Kräften zu kommen. Wir fragen Sie
 regelmässig nach Ihren Schmerzen [auf einer Skala von 0 bis 10]{.ph}.
-Ihr Empfinden ist individuell und von aussen unsichtbar — sagen Sie
+Ihr Empfinden ist individuell und von aussen unsichtbar. Sagen Sie
 uns früh, was Sie spüren: Je genauer wir Bescheid wissen, desto feiner
 stellen wir die Behandlung auf Sie ein.
 
@@ -50,7 +50,7 @@ An Ihrer Behandlung sind mehrere Berufsgruppen beteiligt. Damit Sie
 wissen, wen Sie vor sich haben:
 
 - [Pflegefachpersonen: Ihre erste Anlaufstelle, rund um die Uhr]{.ph}
-- [Ärztinnen und Ärzte: Operateur, Anästhesie, Stationsarzt — wer
+- [Ärztinnen und Ärzte: Operateur, Anästhesie, Stationsarzt: wer
   wofür zuständig ist]{.ph}
 - [Physiotherapie, Ernährungsberatung, Austrittsmanagement,
   Seelsorge]{.ph}
@@ -58,7 +58,7 @@ wissen, wen Sie vor sich haben:
 ## Die Visite: Ihr täglicher Gesprächstermin {#visite}
 
 Einmal täglich bespricht das Ärzteteam mit Ihnen den Stand und die
-nächsten Schritte. Notieren Sie Ihre Fragen am Vortag — jede Frage hat
+nächsten Schritte. Notieren Sie Ihre Fragen am Vortag, denn jede Frage hat
 hier Platz, auch, wie es Ihnen insgesamt geht. Und bereits während des
 Aufenthalts klärt das Austrittsmanagement mit Ihnen, wie es zu Hause
 gut weitergeht: Abholung, Unterstützung, falls nötig Hilfsmittel.
@@ -71,7 +71,7 @@ und aus dem Bett, und die Wunde ist ruhig und trocken. Das sind die
 Ziele, auf die Sie in diesen drei Tagen hintrainieren.
 
 ::: {.zusatz-karte}
-**Für alle Operationen gilt** — zentral gepflegt, immer aktuell:
+**Für alle Operationen gilt** (zentral gepflegt, immer aktuell):
 
 [Der Aufenthalt: Tagesablauf, Visite, wer Sie betreut →](../../phasen/aufenthalt.qmd)
 :::

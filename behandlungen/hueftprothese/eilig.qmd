@@ -12,7 +12,7 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 :::
 
 [Die wichtigsten Antworten zu Ihrer Hüftoperation, kompakt auf einer
-Seite — jede Antwort führt Sie bei Bedarf zur ausführlichen
+Seite. Jede Antwort führt Sie bei Bedarf zur ausführlichen
 Fassung.]{.lede}
 
 ## Ab wann darf ich nichts mehr essen und trinken? {#nuechtern}
@@ -35,7 +35,7 @@ Diabetesmedikamente** pausieren Sie nur nach Absprache mit Ihrer
 ## Was muss ich vor dem Eintritt erledigt haben? {#erledigen}
 
 Den digitalen Gesundheitsfragebogen ausfüllen, das Eintrittsformular
-zurücksenden, Ihre Vorbereitungstermine besuchen — und ab **Tag 5 vor
+zurücksenden, Ihre Vorbereitungstermine besuchen, dazu ab **Tag 5 vor
 der Operation** die Waschbehandlung durchführen, falls verordnet.
 
 [Alle Aufgaben im Überblick →](vor-der-operation.qmd#erledigen)
@@ -43,7 +43,7 @@ der Operation** die Waschbehandlung durchführen, falls verordnet.
 ## Was nehme ich mit? {#mitnehmen}
 
 Versichertenkarte, Ausweis, Medikamentenliste, medizinische Ausweise,
-bequeme weite Kleidung, feste Schuhe, Toilettenartikel — und Ihre
+bequeme weite Kleidung, feste Schuhe, Toilettenartikel und Ihre
 Gehstöcke, falls Sie schon welche haben. Schmuck und Wertsachen
 bleiben zu Hause.
 
@@ -67,7 +67,7 @@ meisten nach Hause.
 ## Ab wann kann ich wieder was? {#aufbau}
 
 Autofahren ab **Woche 6**, Velofahren ab **Woche 10**, Wandern ab
-**3 Monaten** — die vollständige Aufbautabelle mit allen Aktivitäten:
+**3 Monaten**. Die vollständige Aufbautabelle mit allen Aktivitäten:
 
 [So bauen Sie Ihre Aktivitäten wieder auf →](alltag.qmd#aufbau)
 

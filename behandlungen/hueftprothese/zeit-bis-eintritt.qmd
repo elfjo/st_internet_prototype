@@ -17,15 +17,15 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 :::
 
 [Die Wochen bis zur Operation sind Ihr Trainingsfenster: Ihr Körper
-leistet bei der Operation Beachtliches — und Sie können ihn
+leistet bei der Operation Beachtliches, und Sie können ihn
 unterstützen, mit Kraft, Ruhe und guten Reserven.]{.lede}
 
 ## Trainieren Sie schon jetzt {#training}
 
 Das Übungsprogramm, das Sie nach der Operation begleitet, dürfen Sie
 schon vorher beginnen: Gesässmuskulatur aktivieren, Hüftbeugung,
-Hüftstreckung — dazu erhalten Sie am [Übungstermin bei der
-Physiotherapie](vor-der-operation.qmd#termine) eine Anleitung. Bleiben
+Hüftstreckung. Die Anleitung dazu erhalten Sie am [Übungstermin bei der
+Physiotherapie](vor-der-operation.qmd#termine). Bleiben
 Sie darüber hinaus so aktiv, wie Ihre Hüfte es zulässt: Schon
 tägliches Gehen erhält Kraft und Ausdauer, Schwimmen und Velofahren
 entlasten das Gelenk. Jede Kraft, die Ihre Muskulatur jetzt aufbaut,
@@ -33,7 +33,7 @@ trägt Sie nachher.
 
 ## Essen für die Heilung {#ernaehrung}
 
-Ausgewogen essen, genug Eiweiss, wenig Alkohol — so geben Sie Ihrem
+Ausgewogen essen, genug Eiweiss, wenig Alkohol: So geben Sie Ihrem
 Körper Baumaterial für Wundheilung und Muskelaufbau. Halten Sie Ihr
 Gewicht in diesen Wochen stabil und essen Sie, wie Sie es gewohnt
 sind; Diäten haben jetzt Pause. Ungewollter Gewichtsverlust verdient
@@ -43,7 +43,7 @@ Aufmerksamkeit: Sprechen Sie ihn an, wir unterstützen Sie.
 ## Rauchstopp: der wirksamste Schritt {#rauchstopp}
 
 Ein Rauchstopp **6 Wochen** vor der Operation verbessert Wundheilung
-und Atmung messbar — Ihr Körper beginnt schon nach Tagen, davon zu
+und Atmung messbar. Ihr Körper beginnt schon nach Tagen, davon zu
 profitieren. [Unterstützungsangebote.]{.ph}
 
 ## Richten Sie Ihre Wohnung her {#wohnung}
@@ -57,10 +57,10 @@ Sockenanziehhilfe leisten gute Dienste.
 
 ## Auch der Kopf bereitet sich vor {#psyche}
 
-Anspannung vor einer Operation ist normal — sie zeigt, dass Ihnen die
+Anspannung vor einer Operation ist normal. Sie zeigt, dass Ihnen die
 Sache wichtig ist. Es hilft, zu wissen, was kommt; dafür sind diese
-Seiten da. Und was Ihnen sonst Ruhe gibt — Spaziergänge, Musik, ein
-gutes Gespräch — darf in diesen Wochen bewusst Platz bekommen. Wenn die Angst gross ist, insbesondere vor der Narkose oder
+Seiten da. Und was Ihnen sonst Ruhe gibt, wie Spaziergänge, Musik oder ein
+gutes Gespräch, darf in diesen Wochen bewusst Platz bekommen. Wenn die Angst gross ist, insbesondere vor der Narkose oder
 vor Nadeln: Sagen Sie es uns vor dem Eintritt. Es gibt erprobte Wege,
 die vielen Menschen bereits geholfen haben. [Kontakt.]{.ph}
 
@@ -68,13 +68,13 @@ die vielen Menschen bereits geholfen haben. [Kontakt.]{.ph}
 ### Wenn sich Ihre Hüfte oder Ihr Befinden verändert
 
 Deutlich stärkere Beschwerden, neue Symptome, eine Erkältung, Fieber
-oder eine Zahnentzündung vor der Operation: Rufen Sie uns an —
+oder eine Zahnentzündung vor der Operation: Rufen Sie uns an:
 [Telefonnummer]{.ph}. Je früher wir es wissen, desto eher bleibt Ihr
 Termin haltbar.
 :::
 
 ::: {.zusatz-karte}
-**Für alle Operationen gilt** — zentral gepflegt, immer aktuell:
+**Für alle Operationen gilt** (zentral gepflegt, immer aktuell):
 
 [Die Zeit bis zum Eintritt: Bewegung, Ernährung, seelische
 Vorbereitung, Alltag organisieren →](../../phasen/wartezeit.qmd)
