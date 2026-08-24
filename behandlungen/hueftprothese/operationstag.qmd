@@ -16,7 +16,9 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 **Mein Pfad:** [Entscheidung](entscheidung.qmd) → [Abklärungen](abklaerung.qmd) → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → [Gut vorbereitet zum Eintritt](vor-der-operation.qmd) → **Operationstag** → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
 :::
 
-[Jeder Schritt dieses Tages ist vorbereitet, und Sie dürfen sich führen
+[Wie der Tag der Aufnahme abläuft: Schritt für Schritt, von der
+Anmeldung bis zur Begrüssung im Operationsbereich. Jeder Schritt ist
+vorbereitet; Sie dürfen sich an diesem Tag von uns leiten
 lassen.]{.lede}
 
 ## Ihre Eintrittszeit {#eintrittszeit}
@@ -54,7 +56,9 @@ Für die Anmeldung halten Sie bereit: [Versichertenkarte, Ausweis,
 Unterlagen.]{.ph} Danach begleiten wir Sie [auf die Station / in den
 Vorbereitungsbereich]{.ph}.
 
-## So läuft der Vormittag ab {#vormittag}
+## Vor der Operation {#vormittag}
+
+So läuft der Vormittag ab:
 
 1. [Zimmerbezug oder Umkleiden. Sie erhalten Ihr Patientenarmband:
    Es trägt Ihren Namen, damit jede und jeder im Behandlungsteam Sie
@@ -73,9 +77,10 @@ Vorbereitungsbereich]{.ph}.
 Der Operationsplan eines Tages wird laufend abgestimmt. Ihre genaue
 Zeit erfahren Sie deshalb am Eintrittstag selbst. Zwischen Ihrer
 Ankunft in der Klinik und der Operation bleibt darum oft eine
-Wartezeit: manchmal eine halbe Stunde, manchmal auch drei. Nehmen Sie
-sich etwas zum Lesen oder Hören mit und richten Sie sich bestmöglich
-ein; wir gestalten Ihnen das Warten so angenehm wie möglich.
+Wartezeit. Manchmal ist es nur eine halbe Stunde, es kann aber auch
+schon einmal drei Stunden werden. Nehmen Sie sich etwas zum Lesen
+oder Hören mit und richten Sie sich bestmöglich ein. Wir versuchen,
+Ihnen das Warten möglichst erträglich zu gestalten.
 
 Diese Zeit arbeitet für Sie: Ihr Team bereitet im Hintergrund alles
 vor, und wo ein Notfall Vorrang bekommt, gilt für uns immer dieselbe
@@ -106,10 +111,11 @@ für Sie.
 Danach wachen Sie im Aufwachraum auf, in Ruhe und gut betreut. Sie
 dürfen dort einfach dösen, denn Ihr Körper nutzt diese Stunden zum
 Ankommen, während wir Kreislauf, Atmung und Ihr Wohlbefinden im Blick
-behalten. Die Spinalanästhesie klingt über **2 bis 4 Stunden** ab; das
-Gefühl in den Beinen kehrt von selbst zurück. Falls Ihnen kühl ist
-oder sich der Magen meldet: Sagen Sie es dem Team, denn dafür gibt es
-rasche Hilfe, und beides vergeht. Nach **2 bis 3 Stunden** begleiten
+behalten. Ihr Körper braucht nach einer Operation etwas Zeit, um
+wieder auf Temperatur und in Schwung zu kommen. Die Spinalanästhesie klingt über **2 bis 4 Stunden** ab; das
+Gefühl in den Beinen kehrt von selbst zurück. Falls Ihnen dabei kühl ist
+oder sich der Magen meldet: Sagen Sie es dem Team, dafür gibt es gut
+bewährte Arzneien. Nach **2 bis 3 Stunden** begleiten
 wir Sie auf Ihr Zimmer.
 
 ## Ihre Angehörigen {#angehoerige}

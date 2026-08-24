@@ -59,12 +59,13 @@ Zeichen einer sorgfältigen Entscheidung. Nehmen Sie zur Sprechstunde
 jemanden mit, denn vier Ohren hören mehr als zwei.
 
 ::: {.fragen-modul}
-### Vier Fragen für Ihr Gespräch
+### Fünf Fragen für Ihr Gespräch
 
 1. Welchen Nutzen habe ich von der Operation?
 2. Welche Risiken hat sie für mich?
 3. Welche Alternativen gibt es?
 4. Was passiert, wenn ich nichts tue oder noch warte?
+5. Wie oft wird meine Operation an dieser Klinik durchgeführt?
 
 ```{=html}
 <button class="drucken" type="button" onclick="window.print()">Diese Fragen drucken</button>
@@ -96,7 +97,9 @@ gesunde Erwachsene sehr klein: [Grössenordnung nach RCoA-Vorbild]{.ph}.
 Diese Informationen ersetzen nicht das persönliche Aufklärungsgespräch.
 Dort besprechen wir Ihre individuellen Risiken. Sie dürfen dieses
 Gespräch auch vertagen, wenn Sie mehr Bedenkzeit brauchen, und Ihre
-Einwilligung bis zum Eingriff jederzeit zurückziehen.
+Einwilligung bis zum Eingriff jederzeit zurückziehen. Wenn Ihnen im
+Nachhinein zusätzliche Fragen kommen, sprechen Sie uns einfach an:
+Sie bleiben am Steuer Ihrer eigenen Gesundheit.
 :::
 
 ::: {.mini-nav}

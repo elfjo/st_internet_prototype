@@ -16,47 +16,52 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 **Mein Pfad:** [Entscheidung](entscheidung.qmd) → **Abklärungen** → [Zeit bis Eintritt](zeit-bis-eintritt.qmd) → [Gut vorbereitet zum Eintritt](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
 :::
 
-[Aus Ihren Angaben im digitalen Fragebogen ergibt sich, was vor Ihrer
-Hüftoperation noch abzuklären ist.]{.lede}
+[Aus Ihren Angaben im digitalen Fragebogen ergibt sich, welche
+Abklärungen vor Ihrer Hüftoperation sinnvoll sind und wie Ihr
+Anästhesiegespräch stattfindet.]{.lede}
 
-## Der digitale Gesundheitsfragebogen: Ihr erster Schritt {#fragebogen}
+## Den digitalen Gesundheitsfragebogen beantworten: Ihr erster Schritt {#fragebogen}
+
+Wenn Sie den Fragebogen schon ausgefüllt haben, ist Ihr erster
+Schritt erledigt, und Sie können direkt [zum
+Anästhesiegespräch](#gespraech) weiterlesen.
 
 Mit der Anmeldung zur Operation hat Ihre Orthopädin oder Ihr Orthopäde
 den digitalen Gesundheitsfragebogen für Sie ausgelöst. Die E-Mail mit
-dem Link liegt schon in Ihrem Postfach. Ihre Angaben sind die
-Grundlage, auf der das Anästhesieteam Ihre Anästhesie plant.
+dem Link liegt schon in Ihrem Postfach. Ihre Angaben sind eine
+wichtige Grundlage, auf der das Anästhesieteam das für Sie passende
+Vorgehen plant.
 
 - Der Link ist **5 Tage gültig**. Am besten füllen Sie den
   Fragebogen heute oder morgen aus.
 - Dauer etwa **15 Minuten**; mit dem aktuellen Medikamentenplan zur
   Hand geht es am leichtesten.
 - Zum Schutz Ihrer Daten erhalten Sie beim Öffnen einen Code per SMS.
-- Allein, mit jemandem aus Ihrem Umfeld oder telefonisch mit uns
-  zusammen: [Telefonnummer]{.ph}.
-
-## Welche Abklärungen dazukommen können {#abklaerungen}
-
-Anhand des Fragebogens und Ihrer geplanten Hüftoperation sehen wir,
-welche Abklärungen vorab sinnvoll sind, etwa eine **internistische
-Abklärung**. Bei den meisten braucht es nichts Zusätzliches.
-[Wer das Aufgebot verschickt, wo die Termine stattfinden.]{.ph}
+- Wenn Sie beim Ausfüllen Unterstützung möchten, genügt ein Anruf:
+  [Telefonnummer]{.ph}.
 
 ## Ihr Anästhesiegespräch {#gespraech}
 
-Bei den meisten genügt das **Telefongespräch am Tag vor der
-Operation**: Ihre Anästhesieärztin oder Ihr Anästhesiearzt ruft Sie in
-der Regel **zwischen 13 und 17 Uhr** an. Findet Ihre Operation an
-einem Montag statt, kommt der Anruf am Freitag- oder
-Sonntagnachmittag.
+Ihr Gespräch findet auf einem von zwei Wegen statt. Beide führen zum
+selben Ziel: einer Narkose, die optimal zu Ihnen passt.
 
-Wenn Ihre Gesundheit oder der Eingriff besondere Aufmerksamkeit
-verdient, laden wir Sie vorab persönlich in die
-**Anästhesiesprechstunde** ein: Zeit, die Ihrer Sicherheit gehört.
-Die Einladung dazu erhalten Sie in den Tagen nach dem Fragebogen
-telefonisch.
+**Einladung in die Anästhesiesprechstunde:** Wenn Ihr
+Gesundheitszustand oder der geplante Eingriff besondere
+Aufmerksamkeit verdient, laden wir Sie vorab persönlich ein: Zeit,
+die Ihrer Sicherheit gehört. Die Einladung erhalten Sie in den Tagen
+nach dem Fragebogen in einer separaten E-Mail.
+[Ort der Sprechstunde.]{.ph}
 
-Für die Hüftoperation ist die Spinalanästhesie das übliche Verfahren,
-und wie wach Sie dabei sein möchten, entscheiden Sie mit.
+**Telefongespräch am Tag vor der Operation:** Bei vielen Patientinnen
+und Patienten genügt das Telefonat kurz vor dem Eingriff: Ihre
+Anästhesieärztin oder Ihr Anästhesiearzt ruft Sie in der Regel
+**zwischen 13 und 17 Uhr** an, vor einer Montagsoperation am Freitag-
+oder Sonntagnachmittag.
+
+In beiden Gesprächen legen Sie gemeinsam die für Sie passende Narkose
+fest, und Ihre Fragen und Wünsche gehören dazu. Für die Hüftoperation
+ist die Spinalanästhesie das übliche Verfahren, und wie wach Sie
+dabei sein möchten, entscheiden Sie mit.
 [Mehr zu Ihrer Anästhesie →](anaesthesie.qmd)
 
 ::: {.zusatz-karte}

@@ -16,9 +16,13 @@ Struktur-Prototyp. Klinische Angaben vor Verwendung fachlich freigeben.
 **Mein Pfad:** [Entscheidung](entscheidung.qmd) → [Abklärungen](abklaerung.qmd) → **Zeit bis Eintritt** → [Gut vorbereitet zum Eintritt](vor-der-operation.qmd) → [Operationstag](operationstag.qmd) → [In der Klinik](in-der-klinik.qmd) → [Alltag](alltag.qmd)
 :::
 
-[Die Wochen bis zur Operation sind Ihr Trainingsfenster: Ihr Körper
-leistet bei der Operation Beachtliches, und Sie können ihn
-unterstützen, mit Kraft, Ruhe und guten Reserven.]{.lede}
+[Die Wochen bis zur Operation sind Ihr Trainingsfenster: Wer
+vorbereitet in den Eingriff geht, erholt sich leichter.]{.lede}
+
+Ihr Körper leistet bei einer Operation Beachtliches, und Sie können
+ihn sanft dabei unterstützen, wie vor einer längeren Wanderung: mit
+Kraft, Ruhe und guten Reserven. Vieles davon haben Sie selbst in der
+Hand, und die Zeit bis zum Eintritt ist Ihre beste Gelegenheit dafür.
 
 ## Trainieren Sie schon jetzt {#training}
 
@@ -57,20 +61,24 @@ Sockenanziehhilfe leisten gute Dienste.
 
 ## Auch der Kopf bereitet sich vor {#psyche}
 
-Anspannung vor einer Operation ist normal. Sie zeigt, dass Ihnen die
-Sache wichtig ist. Es hilft, zu wissen, was kommt; dafür sind diese
-Seiten da. Und was Ihnen sonst Ruhe gibt, wie Spaziergänge, Musik oder ein
-gutes Gespräch, darf in diesen Wochen bewusst Platz bekommen. Wenn die Angst gross ist, insbesondere vor der Narkose oder
-vor Nadeln: Sagen Sie es uns vor dem Eintritt. Es gibt erprobte Wege,
-die vielen Menschen bereits geholfen haben. [Kontakt.]{.ph}
+Etwas Anspannung vor einer Operation ist ganz normal. Sie zeigt, dass
+Ihnen die Sache wichtig ist. Es hilft, zu wissen, wie alles abläuft;
+dafür sind diese Seiten da. Und was Ihnen sonst Ruhe gibt, wie
+Spaziergänge, Musik oder ein gutes Gespräch, darf in diesen Wochen
+bewusst Platz bekommen. Wenn Sie gerade sehr von sorgenvollen
+Gedanken eingenommen sind, insbesondere vor der Narkose oder vor
+Nadeln: Sprechen Sie mit uns über das, was Sie beschäftigt. Es gibt
+gut erprobte Wege, die vielen Menschen bereits geholfen haben.
+[Kontakt.]{.ph}
 
 ::: {.melden}
-### Wenn sich Ihre Hüfte oder Ihr Befinden verändert
+### Melden Sie sich, statt abzuwarten
 
-Deutlich stärkere Beschwerden, neue Symptome, eine Erkältung, Fieber
-oder eine Zahnentzündung vor der Operation: Rufen Sie uns an:
-[Telefonnummer]{.ph}. Je früher wir es wissen, desto eher bleibt Ihr
-Termin haltbar.
+Wenn Ihre Hüftbeschwerden deutlich zunehmen, Sie neue Beschwerden
+bemerken oder eine Erkältung, Fieber oder eine Zahnentzündung
+auftritt: Rufen Sie uns an unter [Telefonnummer]{.ph}. Manches muss
+vor der Operation angeschaut werden, und je früher wir es wissen,
+desto besser können wir alles für Sie abstimmen.
 :::
 
 ::: {.zusatz-karte}

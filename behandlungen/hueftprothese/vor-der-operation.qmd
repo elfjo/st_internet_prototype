@@ -55,7 +55,7 @@ Anästhesiegespräch finden Sie im zweiten Schritt Ihres Pfads:
 ## Ihre Medikamente {#medikamente}
 
 Die meisten Medikamente nehmen Sie normal weiter. Zwei Gruppen sind die
-wichtige Ausnahme. Öffnen Sie den Abschnitt, der auf Sie zutrifft:
+wichtige Ausnahme; es zählt der Abschnitt, der auf Sie zutrifft:
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Ich nehme Blutverdünner
@@ -97,26 +97,31 @@ Operation gleichermassen geschützt. Im Zweifel genügt ein Anruf:
 Am Eintrittstag findet Ihre Operation statt. Für Ihre Sicherheit ist
 es wichtig, dass Sie dafür nüchtern sind.
 
-- Bis **sechs Stunden** vor Ihrer Eintrittszeit können Sie etwas
-  Leichtes essen. Danach essen Sie nichts mehr.
+- Bis **sechs Stunden** vor Ihrer Eintrittszeit dürfen Sie etwas
+  Leichtes essen. Danach essen Sie bitte nichts mehr.
 - Bis **zwei Stunden** vor Ihrem Eintritt dürfen Sie Wasser ohne
-  Kohlensäure, Tee und schwarzen Kaffee (ohne Milch, ohne Rahm)
+  Kohlensäure, Tee und schwarzen Kaffee (ohne Milch, ohne Rahm, Zucker ist OK)
   trinken.
-- In den **zwei Stunden unmittelbar vor dem Eintritt** nehmen Sie gar
+- In den **zwei Stunden unmittelbar vor dem Eintritt** nehmen Sie bitte gar
   nichts mehr zu sich, auch keine Bonbons oder Kaugummis.
 
-Warum das wichtig ist: Ein leerer Magen schützt während der Narkose
-Ihre Atemwege. Wenn Sie sich an diese Zeiten halten, tragen Sie selbst
-dazu bei, dass Ihre Operation sicher und wie geplant stattfinden kann.
+::: {.warnung}
+### Warum das wichtig für Sie ist
+
+Ein leerer Magen schützt während der Narkose Ihre Atemwege. Wenn Sie
+sich an diese Zeiten halten, tragen Sie selbst dazu bei, dass Ihre
+Operation sicher und wie geplant stattfinden kann. Sollten Sie die Zeiten nicht eingehalten haben, sagen Sie uns bitte umgehend Bescheid.
+:::
 
 ## Körperpflege und Hautvorbereitung {#haut}
 
 Mit wenigen Handgriffen bereiten Sie Ihre Haut optimal auf den
-Eingriff vor: Duschen Sie vor dem Spitaleintritt und lassen Sie die
-Haut danach frei, damit das Desinfektionsmittel voll wirken kann.
-Entfernen Sie Nagellack. Die Rasur des Operationsgebiets übernehmen
-wir, falls nötig, in der Klinik: Unversehrte Haut ist der beste
-Schutz vor Infektionen.
+Eingriff vor: vor dem Spitaleintritt duschen und die Haut danach frei
+von Kosmetika und Pflegeprodukten lassen, damit das
+Desinfektionsmittel optimal wirken kann. Nagellack und Schmuck bleiben am
+besten schon zu Hause. Falls eine Rasur des Operationsgebiets nötig
+ist, übernehmen wir das in der Klinik: Unversehrte, saubere Haut ist
+der beste Schutz vor Infektionen.
 
 Zusätzlich beginnen Sie **fünf Tage vor der Operation** mit einer
 speziellen Waschbehandlung (Dekolonisation). Sie reduziert die Keime
@@ -127,8 +132,8 @@ erhalten Sie rechtzeitig von Ihrem Behandlungsteam.
 ## Jetzt schon an den Austritt denken {#austrittsplanung}
 
 Die Zeit nach der Operation lässt sich am besten planen, bevor Sie
-eintreten. So kommen Sie in ein vorbereitetes Zuhause zurück. Klären
-Sie vor dem Eintritt:
+eintreten. So kommen Sie in ein vorbereitetes Zuhause zurück.
+Hilfreich zu klären, bevor Sie eintreten:
 
 - Wer holt Sie ab? Für den Heimweg nach einer Narkose lassen Sie sich
   fahren.
