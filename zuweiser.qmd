@@ -24,7 +24,7 @@ Mit Ihrer **Operationsanmeldung über Docbox** erhalten
 Ihre Patientinnen und Patienten automatisch den Link zum **digitalen Gesundheitsfragebogen** per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst
 ausfüllen kann, wird vom Anästhesiesekretariat unterstützt. Wenn Ihre Praxis automatisch die Kopien der Fragebögen Ihrer PatientInnen erhalten soll, geben Sie uns gerne bescheid.
 
-Anhand der Angaben im Fragebogen **triagiert** die Anästhesie:
+Anhand der Angaben im Fragebogen und des EIngriffs **triagiert** das ANästhesiesekretariat in Sprechstundenpfade:
 
 - oft genügt das **Telefongespräch am Vortag** durch die narkoseführende Anästhesistin oder den narkoseführenden Anästhesisten
 - **Risikopatientinnen** und -patienten hingegen werden aktiv im Vorfeld von uns in die **Anästhesiesprechstunde** aufgeboten
