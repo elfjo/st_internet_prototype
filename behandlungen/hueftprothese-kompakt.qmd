@@ -8,11 +8,10 @@ title: "Meine Hüftoperation im Überblick"
 :::
 
 ::: {.hinweis-prototyp}
-Architektur-Variante nach norwegischem Muster (eine Seite, drei
-Phasen, Tiefe in Aufklappern), angesiedelt zwischen der
-[Kompaktinformation](hueftprothese/eilig.qmd) und der
-[Langform](spondylodese.qmd). Klinische Angaben vor Verwendung
-fachlich freigeben.
+Architektur-Variante nach norwegischem Muster: eine Seite, drei
+Phasen, Tiefe in Aufklappern; ausführlicher als die
+[Kompaktinformation](hueftprothese/eilig.qmd). Klinische Angaben vor
+Verwendung fachlich freigeben.
 :::
 
 [Bei einer Hüftprothese erhält Ihr Hüftgelenk einen Ersatz, der Sie

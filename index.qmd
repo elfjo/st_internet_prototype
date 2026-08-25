@@ -17,12 +17,11 @@ Erste Experimente mit verschiedenen Längen
 - [Operation mit stationärem Aufenthalt (ausführlich) →](stationaer.qmd)
 - [Generischer Patientenpfad kurz: vor, während, nach →](stationaer-kurz.qmd)
 
-### Drei Architektur-Varianten zu spezifischen Eingriffen im Vergleich
+### Architektur-Varianten zu spezifischen Eingriffen im Vergleich
 Hier habe ich einmal mit verschiedenen Längen experimentiert
 
 - Kompakte Einzelseite nach norwegischem Muster: [Hüftprothese: alles auf einer Seite →](behandlungen/hueftprothese-kompakt.qmd)
 - Eigener "Eingriffskosmos": [Hüftprothese: der «Eingriffskosmos» →](behandlungen/hueftprothese.qmd)
-- Langformseite: [Wirbelsäule Spondylodese: die Langseiten-Variante →](behandlungen/spondylodese.qmd)
 
 ## Für Zuweisende
 

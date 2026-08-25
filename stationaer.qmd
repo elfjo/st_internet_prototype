@@ -69,16 +69,13 @@ Schritten, vom Grund für die Operation bis zur Erholung. Ihr
 persönlicher Weg beginnt am besten dort:
 
 ::: {.hinweis-prototyp}
-Architektur-Demo, zwei Varianten zum Vergleichen:
-**Hüftprothese** zeigt den «Eingriffskosmos»: eine Einstiegsseite mit
-sechs kurzen Schritt-Seiten, Allgemeines wird zentral gepflegt und
-verlinkt. **Spondylodese** zeigt die Langseiten-Variante, bei der alle
-Inhalte auf einer durchgehenden Seite stehen.
+Architektur-Demo «Eingriffskosmos»: Die Hüftprothese zeigt eine
+Einstiegsseite mit kurzen Schritt-Seiten; Allgemeines wird zentral
+gepflegt und verlinkt.
 :::
 
 ::: {.op-wahl}
 [Hüftprothese](behandlungen/hueftprothese.qmd)
-[Wirbelsäule: Spondylodese](behandlungen/spondylodese.qmd)
 [Knieprothese]{.ph}
 [weitere Operationen]{.ph}
 :::
@@ -87,7 +84,6 @@ Inhalte auf einer durchgehenden Seite stehen.
 
 - [Das Wichtigste auf einem Blatt, zum Ausdrucken](merkblatt.qmd)
 - [Ihre Anästhesie: Fragebogen, Gespräch, Verfahren](anaesthesie.qmd)
-- [Falls Sie zusatzversichert sind: Ihre Wahlleistungen](zusatzversichert.qmd)
 
 {{< include _feedback.qmd >}}
 
