@@ -1,5 +1,6 @@
 ---
 title: "Anästhesie: Für Ärzteschaft und Zuweisende"
+toc-location: left
 ---
 
 ::: {.mini-nav}
@@ -51,7 +52,7 @@ Anhand der Angaben im Fragebogen und des EIngriffs **triagiert** das ANästhesie
 
 ## Risikoklassen der Eingriffe {#risikoklassen}
 
-::: {.column-page}
+::: {.column-page-right}
 ::: {.callout-note collapse="true" icon="false"}
 ### Übersicht: Risikoklassen A, B und C mit Beispieleingriffen
 
@@ -85,7 +86,7 @@ Voraussetzung für eine Regionalanästhesie.
 
 Übersicht über Dosierungen, Absetzzeitpunkten und Bridging-Hinweisen:
 
-::: {.column-page}
+::: {.column-page-right}
 ::: {.callout-note collapse="true" icon="false"}
 ### Übersicht: Absetzen gerinnungshemmender Medikamente vor der Operation
 
