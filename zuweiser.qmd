@@ -11,7 +11,7 @@ Struktur-Prototyp für den Zuweiser-Bereich. Klinische Inhalte vor
 Verwendung fachlich freigeben.
 :::
 
-Die Klinik verschickt den digitalen Gesundheitsfragebogen, die
+Die Klinik verschickt automatisch den digitalen Gesundheitsfragebogen, die
 Anästhesie beurteilt individuell das Risiko und triagiert in Sprechstundenpfade, das präoperative Pflegeteam (POPS)
 unterstützt bei KomplexpatientInnen.
 
@@ -51,10 +51,6 @@ Anhand der Angaben im Fragebogen und des EIngriffs **triagiert** das ANästhesie
 
 ## Risikoklassen der Eingriffe {#risikoklassen}
 
-Massgebend sind die Beispieleingriffe [(modifiziert nach ESC/ESA
-Guidelines und DGAI. Risiko für kardiovaskulären Tod oder
-Myokardinfarkt innert 30 Tagen)]{.ph}:
-
 ::: {.column-page}
 ::: {.callout-note collapse="true" icon="false"}
 ### Übersicht: Risikoklassen A, B und C mit Beispieleingriffen
@@ -64,14 +60,12 @@ niedriges Risiko A unter 1 Prozent, mittleres Risiko B 1 bis
 5 Prozent, hohes Risiko C über
 5 Prozent](_images/RisikoklassenEingriffe.png){width=100%}
 
-[Stand und fachliche Freigabe der Tabelle prüfen; langfristig als
-barrierefreie HTML-Tabelle umsetzen.]{.ph}
 :::
 :::
 
 ## Welche Befunde braucht es? {#befunde}
 
-Massgebend sind Risikoklasse, körperliche belastbarkeit ([MET > 4]{.ph}) und
+Massgebend sind Risikoklasse des Eingriffs, körperliche Belastbarkeit und
 klinische Risikofaktoren [(KHK, Herzinsuffizienz, Stroke/TIA,
 Niereninsuffizienz GFR < 60, insulinpflichtiger Diabetes)]{.ph}.
 
@@ -87,8 +81,9 @@ Niereninsuffizienz GFR < 60, insulinpflichtiger Diabetes)]{.ph}.
 ## Umgang mit gerinnungshemmenden Medikamenten {#gerinnung}
 
 Die präoperativen Pausen sind neben dem Blutungsrisiko oft auch
-Voraussetzung für eine Regionalanästhesie. Die vollständige Übersicht
-mit Dosierungen, Absetzzeitpunkten und Bridging-Hinweisen:
+Voraussetzung für eine Regionalanästhesie.
+
+Übersicht über Dosierungen, Absetzzeitpunkten und Bridging-Hinweisen:
 
 ::: {.column-page}
 ::: {.callout-note collapse="true" icon="false"}
@@ -99,8 +94,6 @@ vor der Operation, präoperativer Pause und Bemerkungen (LMWH,
 Vitamin-K-Antagonisten, DOAC,
 Thrombozyten-Aggregationshemmer)](_images/BlutverduennungManagement.png){width=100%}
 
-[Stand und fachliche Freigabe der Tabelle prüfen; langfristig als
-barrierefreie HTML-Tabelle umsetzen.]{.ph}
 :::
 :::
 
