@@ -22,40 +22,34 @@ beiträgt.]{.lede}
 
 Mit Ihrer Operationsanmeldung über Docbox erhalten
 Ihre Patientinnen und Patienten automatisch den Link zum digitalen
-Gesundheitsfragebogen per E-Mail und SMS. Wer ihn nicht selbst
+Gesundheitsfragebogen per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst
 ausfüllen kann, wird von der Klinik telefonisch unterstützt.
 
-Anhand der Angaben triagiert die Anästhesie: meist genügt das
-Telefongespräch am Vortag, Risikopatientinnen und -patienten werden
+Anhand der Angaben im Fragebogen triagiert die Anästhesie: meist genügt wie bisher das
+Telefongespräch am Vortag, Risikopatientinnen und -patienten hingegen werden
 aktiv im Vorfeld in die Anästhesiesprechstunde eingeladen. [Der Prozess ist neu
 gestaltet; Details dazu haben Sie über die Fachkanäle
 erhalten.]{.ph}
 
 ## Ihr Beitrag {#praxis}
 
-- **Vor der Anmeldung informieren:** Die Patientin oder der Patient
-  kennt den geplanten Eingriff, bevor der Fragebogen automatisch
+- **Vor der Anmeldung die PatientInnen informieren:** Die Patientin oder der Patient
+  muss von Ihnen über den geplanten Eingriff informiert sein, bevor der Fragebogen automatisch
   eintrifft.
 - **Hausärztliche Abklärung** bei Alter **über 70 Jahren** oder
   Eingriff der **Risikoklasse B oder C** (Tabelle unten).
-- **Befunde eintragen und einsenden:** ins Formular [«Präoperative
+- **Befunde einsenden:** ins Formular [«Präoperative
   Beurteilung durch den Hausarzt», PDF und Word (Dummy-Link)]{.ph},
-  mit allfälligen Beilagen an [zentrale Dokumentenablage,
-  E-Mail]{.ph}. Befunde bitte nicht älter als zwei Monate.
-- **Zeitfenster:** idealerweise **vier Wochen vor dem
+  mit allfälligen Beilagen an [E-Mail]{.ph}. Befunde bitte nicht älter als zwei Monate.
+- **Möglichst früh anmelden:** idealerweise **vier Wochen vor dem
   Operationstermin**, damit Zeit für Zusatzabklärungen und die
   Behandlung einer Anämie bleibt.
-- **Sprechstundenwünsche** von Operateur oder Patientin an das
-  [Anästhesiesekretariat]{.ph}.
-
-Grundsätzlich gilt: je gesünder die Patientin oder der Patient und je
-kleiner die Operation, desto weniger Vorabklärungen braucht es.
+- **Besondere Sprechstundenwünsche** von Operateur an das [Anästhesiesekretariat]{.ph}.
 
 ## Risikoklassen der Eingriffe {#risikoklassen}
 
-Beispieleingriffe [(modifiziert nach ESC/ESA Guidelines und DGAI;
-Risiko für kardiovaskulären Tod oder Myokardinfarkt innert
-30 Tagen)]{.ph}:
+Beispieleingriffe [(modifiziert nach ESC/ESA Guidelines und DGAI.
+Risiko für kardiovaskulären Tod oder Myokardinfarkt innert 30 Tagen)]{.ph}:
 
 | Klasse A — niedrig (<1 %) | Klasse B — mittel (1–5 %) | Klasse C — hoch (>5 %) |
 |------------------------|------------------------|------------------------|
@@ -97,7 +91,7 @@ usw...
 
 ## Anämie und Patient Blood Management {#pbm}
 
-Die unbehandelte Anämie gilt als Kontraindikation für elektive
+Die unbehandelte Anämie gilt international als Kontraindikation für elektive
 Eingriffe mit relevantem Blutverlust.
 
 - **Ziel:** präoperativer Hb **130 g/l** bei Frauen und Männern.
@@ -113,8 +107,10 @@ Eingriffe mit relevantem Blutverlust.
 
 ## Anästhesiesprechstunde {#sprechstunde}
 
-Die Klinik lädt Risikopatientinnen und -patienten anhand des
-Fragebogens aktiv ein. Unabhängig davon können Sie anmelden bei
+Die Anästhesie lädt Risikopatientinnen und -patienten anhand des
+Fragebogens oder des geplanten Eingriffs aktiv ein. Das geschieht ohne Ihr Zutun.
+
+Unabhängig davon können Sie anmelden bei
 
 - Patientenwunsch (etwa ausgeprägter Angst)
 - Status nach Anästhesieproblemen
