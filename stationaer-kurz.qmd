@@ -1,0 +1,55 @@
+---
+title: "Vor, während und nach der Operation"
+toc: false
+---
+
+::: {.mini-nav}
+[⌂ Prototyp-Übersicht](index.qmd)
+[Ausführliche Fassung →](stationaer.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Architektur-Variante «kurzer Pfad»: dieselben Inhalte wie der
+[siebenschrittige Wegweiser](stationaer.qmd), gebündelt in drei
+Phasen nach dem Muster vor, während, nach.
+:::
+
+[Dieser Wegweiser führt Sie in drei Phasen durch Ihre Operation. Jede
+Phase öffnet die passenden Seiten; Sie steigen dort ein, wo Sie
+gerade stehen.]{.lede}
+
+## Ihr Pfad in drei Phasen
+
+::: {.phasen}
+1. [Vor der Operation](phasen/entscheidung.qmd)
+
+   [Wie treffe ich [meine Entscheidung](phasen/entscheidung.qmd)? Was
+   klären [Fragebogen und Anästhesiegespräch](phasen/abklaerung.qmd)?
+   Wie nutze ich [die Zeit bis zum Eintritt](phasen/wartezeit.qmd),
+   und was [erledige ich vor dem
+   Eintritt](phasen/vorbereitung.qmd)?]{.p-frage}
+
+2. [Während des Aufenthalts](phasen/eintrittstag.qmd)
+
+   [Wie verläuft [mein Eintritts- und
+   Operationstag](phasen/eintrittstag.qmd), und wie sind [meine Tage
+   in der Klinik](phasen/aufenthalt.qmd) gestaltet?]{.p-frage}
+
+3. [Nach der Operation](phasen/nachhause.qmd)
+
+   [Wie geht [meine Erholung zu Hause](phasen/nachhause.qmd) weiter?
+   Austritt, Nachkontrolle, Unterstützung im Alltag. Und bei welchen
+   Anzeichen melde ich mich sofort?]{.p-frage}
+:::
+
+## Gut zu wissen
+
+- [Das Wichtigste auf einem Blatt, zum Ausdrucken](merkblatt.qmd)
+- [Kurzinformationen, Fragen und Antworten](eilig.qmd)
+- [Ihre Anästhesie: Fragebogen, Gespräch, Verfahren](anaesthesie.qmd)
+
+::: {#kontaktzone}
+{{< include _kontakt.qmd >}}
+:::
+
+{{< include _governance.qmd >}}

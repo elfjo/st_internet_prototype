@@ -14,6 +14,7 @@ Sprache.
 ### Die generische Patientenreise
 
 - [Operation mit stationärem Aufenthalt →](stationaer.qmd)
+- [Generischer Patientenpfad kurz: vor, während, nach →](stationaer-kurz.qmd)
 
 ### Zwei Architektur-Varianten zu spezifischen Eingriffen im Vergleich
 
