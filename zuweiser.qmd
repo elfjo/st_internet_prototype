@@ -54,6 +54,7 @@ Massgebend sind die Beispieleingriffe [(modifiziert nach ESC/ESA
 Guidelines und DGAI. Risiko für kardiovaskulären Tod oder
 Myokardinfarkt innert 30 Tagen)]{.ph}:
 
+::: {.column-page}
 ::: {.callout-note collapse="true" icon="false"}
 ### Übersicht: Risikoklassen A, B und C mit Beispieleingriffen
 
@@ -64,6 +65,7 @@ niedriges Risiko A unter 1 Prozent, mittleres Risiko B 1 bis
 
 [Stand und fachliche Freigabe der Tabelle prüfen; langfristig als
 barrierefreie HTML-Tabelle umsetzen.]{.ph}
+:::
 :::
 
 ## Welche Befunde braucht es? {#befunde}
@@ -87,6 +89,7 @@ Die präoperativen Pausen sind neben dem Blutungsrisiko oft auch
 Voraussetzung für eine Regionalanästhesie. Die vollständige Übersicht
 mit Dosierungen, Absetzzeitpunkten und Bridging-Hinweisen:
 
+::: {.column-page}
 ::: {.callout-note collapse="true" icon="false"}
 ### Übersicht: Absetzen gerinnungshemmender Medikamente vor der Operation
 
@@ -97,6 +100,7 @@ Thrombozyten-Aggregationshemmer)](_images/BlutverduennungManagement.png){width=1
 
 [Stand und fachliche Freigabe der Tabelle prüfen; langfristig als
 barrierefreie HTML-Tabelle umsetzen.]{.ph}
+:::
 :::
 
 ## Anämie und Patient Blood Management {#pbm}
