@@ -107,8 +107,11 @@ wird die Patientin oder der Patient von uns automatisch in die Anästheisesprech
   zusätzlich Retikulozyten, Vitamin B12, Folsäure.
 - **Zeitfaktor:** Behandlungsbeginn idealerweise vier Wochen
   präoperativ. Jeder Therapietag vor dem Eingriff hilft.
-- **Algorithmus:** regional abgestimmt, [Abbildung oder
-  Download]{.ph}.
+
+Der regional abgestimmte Algorithmus mit Grenzwerten und Dosierungen
+steht auf einer eigenen Seite:
+
+[Präoperative Anämie: Empfehlungen zur Abklärung und Behandlung →](zuweiser-anaemie.qmd)
 
 
 ## Kontakt {#kontakt}

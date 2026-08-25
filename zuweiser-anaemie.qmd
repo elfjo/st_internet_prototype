@@ -1,0 +1,81 @@
+---
+title: "Präoperative Anämie: Empfehlungen zur Abklärung und Behandlung"
+---
+
+::: {.mini-nav}
+[⌂ Prototyp-Übersicht](index.qmd)
+[← Zuweiser-Seite](zuweiser.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp für den Zuweiser-Bereich. Dosierungen und
+Grenzwerte vor Verwendung fachlich freigeben.
+:::
+
+[Die unbehandelte Anämie gilt als Kontraindikation für elektive
+Eingriffe mit relevantem Blutverlust. Früh erkannt, lässt sie sich
+rechtzeitig behandeln; das senkt Komplikationen und Transfusionen.
+Der Algorithmus ist regional einheitlich abgestimmt.]{.lede}
+
+## Das Wichtigste {#kern}
+
+- **Ziel:** präoperativer Hb **130 g/l**, bei Frauen und Männern.
+- **Wann abklären:** elektive Eingriffe mit potenziellem Blutverlust
+  über [500 ml bzw. 10 ml/kg]{.ph}, insbesondere Gelenkersatz und
+  Revisionen, Wirbelsäuleneingriffe über zwei Etagen,
+  Aortenaneurysmen, grosse abdominale Gynäkologie, Prostatektomien,
+  Nephrektomien, Zystektomien sowie Leber-, Pankreas- und
+  Darmchirurgie.
+- **Zeitfaktor:** Behandlungsbeginn idealerweise **vier Wochen**
+  präoperativ. Auch kurzfristig lohnt der Start, denn jeder
+  Therapietag vor dem Eingriff nützt.
+- **Labor:** Hb, MCV, Ferritin, TSAT, CRP, Kreatinin; bei erhöhtem
+  MCV zusätzlich Retikulozyten, Vitamin B12
+  (Holo-Transcobalamin) und Folsäure.
+
+## Der Algorithmus {#algorithmus}
+
+Nach dem PBM-Labor entscheidet die Konstellation:
+
+- **Hb unter 100 g/l, Ursache unbekannt:** Operationsstopp und
+  Abklärung.
+- **Hb 100 bis 130 g/l:**
+  - Ferritin unter 100 µg/l oder TSAT unter 20 %:
+    Eisenmangelanämie. **1 g Eisencarboxymaltose i.v.**
+  - Ferritin über 100 µg/l und CRP erhöht: Anämie bei chronischer
+    Erkrankung. **EPO-α 600 E/kg s.c.**, dazu 1 g
+    Eisencarboxymaltose i.v., falls Ferritin unter 500 µg/l.
+  - Kreatinin-Clearance unter 50 ml/min: renale Anämie. **EPO-α
+    plus Eisen i.v.**
+- **Hb über 130 g/l, aber Ferritin unter 100 µg/l oder TSAT unter
+  20 %:** zu geringer Eisenspeicher für die Operation. **1 g
+  Eisencarboxymaltose i.v.**
+
+::: {.callout-note collapse="true" icon="false"}
+### Dosierung und Anwendung
+
+- **Eisencarboxymaltose:** Kurzinfusion über 20 bis 30 Minuten unter
+  Monitorkontrolle, [20 mg/kg, maximal 1 g pro Woche]{.ph}.
+- **EPO-α:** 600 E/kg s.c., [z. B. 40'000 E, maximal 1-mal pro
+  Woche]{.ph}.
+- **Vitamin B12:** 1 mg s.c. oder i.m., [1- bis 3-mal, maximal
+  1-mal pro Woche]{.ph}.
+- **Folsäure:** 5 mg p.o. täglich bis zur Operation.
+- **Schwangerschaft, abweichende Grenzwerte:** 1. Trimester unter
+  110 g/l, 2. und 3. Trimester unter 105 g/l, postpartal unter
+  100 g/l.
+:::
+
+## Befunde und Rückfragen {#kontakt}
+
+Laborbefunde mit dem Beurteilungsformular an
+[zentrale Dokumentenablage]{.ph}, nicht älter als zwei Monate. Bei
+Fragen zur Indikation oder Therapie: [Klinik für Anästhesie, Telefon,
+E-Mail]{.ph}.
+
+::: {.mini-nav}
+[⌂ Prototyp-Übersicht](index.qmd)
+[← Zuweiser-Seite](zuweiser.qmd)
+:::
+
+{{< include _governance.qmd >}}

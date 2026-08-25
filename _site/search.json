@@ -497,25 +497,172 @@
     "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nTermin, Eintritt, Unterlagen: Patientenadministration, Telefonnummer, Mo–Fr xx–xx Uhr\nMedizinische Fragen zu Ihrer Operation: Sekretariat Ihrer Operateurin oder Ihres Operateurs, Telefonnummer\nFragen zur Narkose: Anästhesiesprechstunde, Telefonnummer\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Prototypische Seiten",
+    "objectID": "zuweiser.html",
+    "href": "zuweiser.html",
+    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "",
-    "text": "Interne Skizzen Projektteam. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte. Sie zeigen Strukturskizzen und Sprache."
+    "text": "⌂ Prototyp-Übersicht\n[Die Klinik verschickt den digitalen Gesundheitsfragebogen, die Anästhesie beurteilt das Risiko, das präoperative Pflegeteam (POPS) unterstützt bei KomplexpatientInnen.\nHier finden Sie, was Ihre Praxis dazu beiträgt.]{.lede}"
   },
   {
-    "objectID": "index.html#für-patientinnen",
-    "href": "index.html#für-patientinnen",
-    "title": "Prototypische Seiten",
-    "section": "Für PatientInnen",
-    "text": "Für PatientInnen\n\nDie generische Patientenreise\nErste Experimente mit verschiedenen Längen\n\nOperation mit stationärem Aufenthalt (ausführlich) →\nGenerischer Patientenpfad kurz: vor, während, nach →\n\n\n\nDrei Architektur-Varianten zu spezifischen Eingriffen im Vergleich\nHier habe ich einmal mit verschiedenen Längen experimentiert\n\nKompakte Einzelseite nach norwegischem Muster: Hüftprothese: alles auf einer Seite →\nEigener “Eingriffskosmos”: Hüftprothese: der «Eingriffskosmos» →\nLangformseite: Wirbelsäule Spondylodese: die Langseiten-Variante →"
+    "objectID": "zuweiser.html#prozess",
+    "href": "zuweiser.html#prozess",
+    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
+    "section": "So läuft die präoperative Abklärung",
+    "text": "So läuft die präoperative Abklärung\nMit Ihrer Operationsanmeldung über Docbox erhalten Ihre Patientinnen und Patienten automatisch den Link zum digitalen Gesundheitsfragebogen per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst ausfüllen kann, wird vom Anästhesiesekretariat telefonisch unterstützt. Wenn Ihre Praxis automatisch die Kopien des Fragebögen Ihrer PatientInnen erhalten möchte, sagen Sie uns gerne bescheid.\nAnhand der Angaben im Fragebogen triagiert die Anästhesie: - meist genügt das Telefongespräch am Vortag - Risikopatientinnen und -patienten hingegen werden aktiv im Vorfeld in die Anästhesiesprechstunde eingeladen. Der Prozess ist neu gestaltet; Details dazu haben Sie über die Fachkanäle erhalten."
   },
   {
-    "objectID": "index.html#für-zuweisende",
-    "href": "index.html#für-zuweisende",
-    "title": "Prototypische Seiten",
-    "section": "Für Zuweisende",
-    "text": "Für Zuweisende\n\nAnästhesie\n\nFür Ärzteschaft und Zuweisende: Prozess und präoperative Abklärungen →"
+    "objectID": "zuweiser.html#praxis",
+    "href": "zuweiser.html#praxis",
+    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
+    "section": "Ihr Beitrag",
+    "text": "Ihr Beitrag\n\nVor der Anmeldung die PatientInnen informieren: Die Patientin oder der Patient muss von Ihnen über den geplanten Eingriff informiert sein, bevor der Fragebogen automatisch eintrifft.\nHausärztliche Abklärung veranlassen bei Alter über 70 Jahren oder Eingriff der Risikoklasse B oder C (Tabelle unten).\nBefunde einsenden: ins Formular «Präoperative Beurteilung durch den Hausarzt», PDF und Word (Dummy-Link), mit allfälligen Beilagen an E-Mail. Befunde bitte nicht älter als zwei Monate.\nDen EIngriff möglichst früh anmelden: idealerweise vier Wochen vor dem Operationstermin, damit Zeit für Zusatzabklärungen und die Behandlung einer Anämie bleibt.\nBesondere Sprechstundenwünsche von Operateur an das Anästhesiesekretariat.\n\nPatientenwunsch (etwa ausgeprägter Angst)\nStatus nach Anästhesieproblemen\nschweren Begleiterkrankungen / Risikoabwägungen im Vorfeld"
+  },
+  {
+    "objectID": "zuweiser.html#risikoklassen",
+    "href": "zuweiser.html#risikoklassen",
+    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
+    "section": "Risikoklassen der Eingriffe",
+    "text": "Risikoklassen der Eingriffe\nBeispieleingriffe (modifiziert nach ESC/ESA Guidelines und DGAI. Risiko für kardiovaskulären Tod oder Myokardinfarkt innert 30 Tagen):\n\n\n\n\n\n\n\n\nKlasse A — niedrig (&lt;1 %)\nKlasse B — mittel (1–5 %)\nKlasse C — hoch (&gt;5 %)\n\n\n\n\nOberflächliche und plastisch-rekonstruktive Eingriffe, Mammachirurgie\nGrössere viszerale Eingriffe (Darmresektion, Cholezystektomie, Splenektomie)\nDuodeno-Pankreatektomie, Leber- und Gallengangschirurgie, Darmperforation\n\n\nKleinere orthopädische Eingriffe (KAS, Hand, Fuss)\nGrosse Orthopädie: Endoprothetik grosser Gelenke, Rückenchirurgie\nAorten- und grosse arterielle Gefässeingriffe\n\n\nKleine urologische und gynäkologische Eingriffe\nGrosse Urologie und Gynäkologie (Prostatektomie, Hysterektomie abdominal)\nTotale Zystektomie\n\n\nAugenchirurgie, Zahnextraktionen\nKopf-Hals-Eingriffe, kleine intrathorakale Eingriffe\nGrosse intrathorakale Eingriffe (Pneumonektomie)"
+  },
+  {
+    "objectID": "zuweiser.html#befunde",
+    "href": "zuweiser.html#befunde",
+    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
+    "section": "Welche Befunde braucht es?",
+    "text": "Welche Befunde braucht es?\nMassgebend sind Risikoklasse, Belastbarkeit (MET &gt; 4) und klinische Risikofaktoren (KHK, Herzinsuffizienz, Stroke/TIA, Niereninsuffizienz GFR &lt; 60, insulinpflichtiger Diabetes).\n\nHausarztbericht: die Basis jeder Abklärung. Mit Diagnose- und Medikamnetenliste\nEKG und Standard-Labor (Hb, Thrombozyten, Quick, Na, K, Kreatinin): bei Klasse B und C sowie bei Risikofaktoren oder eingeschränkter Belastbarkeit.\nThorax-Röntgen: nur bei Verdacht auf akute oder unbekannte pulmonale Pathologie.\nDiabetes: HbA1c\nErweiterte Diagnostik (Ergometrie, Echo, Lufu, Gerinnung): nach Organbefund; vollständige Befund-Matrix."
+  },
+  {
+    "objectID": "zuweiser.html#gerinnung",
+    "href": "zuweiser.html#gerinnung",
+    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
+    "section": "Umgang mit gerinnungshemmenden Medikamenten",
+    "text": "Umgang mit gerinnungshemmenden Medikamenten\nDie präoperativen Pausen sind neben dem Blutungsrisiko oft auch Voraussetzung für eine Regionalanästhesie. Die vollständige Übersicht mit Dosierungen, Absetzzeitpunkten und Bridging-Hinweisen:\n\n\n\n\n\n\nHinweisÜbersicht: Absetzen gerinnungshemmender Medikamente vor der Operation\n\n\n\n\n\n\n\n\nTabelle: gerinnungshemmende Medikamente mit Dosis, Absetzzeitpunkt vor der Operation, präoperativer Pause und Bemerkungen (LMWH, Vitamin-K-Antagonisten, DOAC, Thrombozyten-Aggregationshemmer)\n\n\nStand und fachliche Freigabe der Tabelle prüfen; langfristig als barrierefreie HTML-Tabelle umsetzen."
+  },
+  {
+    "objectID": "zuweiser.html#pbm",
+    "href": "zuweiser.html#pbm",
+    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
+    "section": "Anämie und Patient Blood Management",
+    "text": "Anämie und Patient Blood Management\nDie unbehandelte Anämie gilt international als Kontraindikation für elektive Eingriffe mit relevantem Blutverlust. Wenn der Anmelde-CHOP-Code einem elektiven Eingriff mit typischerweise erhöhtem Blutungsrisiko entspricht, wird die Patientin oder der Patient von uns automatisch in die Anästheisesprechstunde aufgeboten. Dort erfolgt eine Hb-Bestimmung.\n\nZiel: präoperativer Hb 130 g/l bei Frauen und Männern.\nWann abklären: potenzieller Blutverlust über 300 ml, insbesondere Endoprothetik, Wirbelsäulen-, Gefäss-, grosse Viszeral-, Urologie- und Gynäkologie-Eingriffe.\nLabor: Hb, MCV, Ferritin/TSAT, CRP, Kreatinin; bei erhöhtem MCV zusätzlich Retikulozyten, Vitamin B12, Folsäure.\nZeitfaktor: Behandlungsbeginn idealerweise vier Wochen präoperativ. Jeder Therapietag vor dem Eingriff hilft.\n\nDer regional abgestimmte Algorithmus mit Grenzwerten und Dosierungen steht auf einer eigenen Seite:\nPräoperative Anämie: Empfehlungen zur Abklärung und Behandlung →"
+  },
+  {
+    "objectID": "zuweiser.html#kontakt",
+    "href": "zuweiser.html#kontakt",
+    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
+    "section": "Kontakt",
+    "text": "Kontakt\nEigenes Kontaktfeld - Kontakt1 - Kontakt2 - Kontakt 3\n\n⌂ Prototyp-Übersicht\n\n\n\n\n\nGeprüft am\nDatum\n\n\nNächste Prüfung\nDatum + 2 Jahre\n\n\nFachliche Freigabe\nName, Funktion\n\n\n\nDiese Seiten sind ein Prototyp. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte und dienen ausschliesslich der Veranschaulichung von Struktur und Sprache."
+  },
+  {
+    "objectID": "stationaer.html",
+    "href": "stationaer.html",
+    "title": "Operation mit stationärem Aufenthalt: Schritt für Schritt",
+    "section": "",
+    "text": "⌂ Prototyp-Übersicht\nDieser Wegweiser führt Sie durch alle Schritte Ihres geplanten Aufenthalts, von der Entscheidung zur Operation bis zur Erholung zu Hause."
+  },
+  {
+    "objectID": "stationaer.html#ihr-pfad-durch-den-aufenthalt",
+    "href": "stationaer.html#ihr-pfad-durch-den-aufenthalt",
+    "title": "Operation mit stationärem Aufenthalt: Schritt für Schritt",
+    "section": "Ihr Pfad durch den Aufenthalt",
+    "text": "Ihr Pfad durch den Aufenthalt\nDass Sie sich hier umsehen, ist bereits der erste Schritt einer guten Vorbereitung. Sie sind eingeladen, den Schritten der Reihe nach zu folgen oder direkt dorthin zu springen, wo Sie gerade stehen.\n\n\nDie Entscheidung zur Operation\nBrauche ich diese Operation? Was sind meine Wahlmöglichkeiten, was sind die Alternativen? Welche Fragen stelle ich in der Sprechstunde?\nGesundheitsfragebogen, Abklärungen und Anästhesiegespräch\nWelche Abklärungen brauche ich vor der Operation? Wann findet das Anästhesiegespräch statt?.\nDie Zeit bis zum Eintritt optimal nutzen\nBewegung, Ernährung, Gewohnheiten. Und was tue ich, wenn sich mein Gesundheitszustand zwischenzeitlich ändert?\nGut vorbereitet zum Eintritt ankommen\nWas ist hilfreich vor der Operation zu erledigen? Medikamente, Essen und Trinken, Packliste, dazu die Planung für die Zeit nach dem Austritt.\nDer Eintritt und der Operationstag\nWo melde ich mich an? Wie sind die Abläufe? Wie lange dauert es bis es losgeht?\nDer Aufenthalt in der Klinik\nWie sieht mein Tag aus? Wer betreut mich? An wen wende ich mich bei Fragen?\nAustritt und Erholung zu Hause\nAustritt, Nachkontrolle, Unterstützung im Alltag. Und bei welchen Anzeichen ich mich umgehend melden sollte."
+  },
+  {
+    "objectID": "stationaer.html#welche-operation-bekommen-sie",
+    "href": "stationaer.html#welche-operation-bekommen-sie",
+    "title": "Operation mit stationärem Aufenthalt: Schritt für Schritt",
+    "section": "Welche Operation bekommen Sie?",
+    "text": "Welche Operation bekommen Sie?\nZu unseren häufigsten Eingriffen finden Sie eine eigene Seite mit allen Schritten, vom Grund für die Operation bis zur Erholung. Ihr persönlicher Weg beginnt am besten dort:\n\nArchitektur-Demo, zwei Varianten zum Vergleichen: Hüftprothese zeigt den «Eingriffskosmos»: eine Einstiegsseite mit sechs kurzen Schritt-Seiten, Allgemeines wird zentral gepflegt und verlinkt. Spondylodese zeigt die Langseiten-Variante, bei der alle Inhalte auf einer durchgehenden Seite stehen.\n\n\nHüftprothese Wirbelsäule: Spondylodese Knieprothese weitere Operationen"
+  },
+  {
+    "objectID": "stationaer.html#gut-zu-wissen",
+    "href": "stationaer.html#gut-zu-wissen",
+    "title": "Operation mit stationärem Aufenthalt: Schritt für Schritt",
+    "section": "Gut zu wissen",
+    "text": "Gut zu wissen\n\nDas Wichtigste auf einem Blatt, zum Ausdrucken\nIhre Anästhesie: Fragebogen, Gespräch, Verfahren\nFalls Sie zusatzversichert sind: Ihre Wahlleistungen\n\n\nWar diese Seite hilfreich?\nJa\nIch finde die Seite zu schwierig\nMir fehlt etwas"
+  },
+  {
+    "objectID": "stationaer.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
+    "href": "stationaer.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
+    "title": "Operation mit stationärem Aufenthalt: Schritt für Schritt",
+    "section": "Ich habe eine Frage: An wen wende ich mich?",
+    "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nTermin, Eintritt, Unterlagen: Patientenadministration, Telefonnummer, Mo–Fr xx–xx Uhr\nMedizinische Fragen zu Ihrer Operation: Sekretariat Ihrer Operateurin oder Ihres Operateurs, Telefonnummer\nFragen zur Narkose: Anästhesiesprechstunde, Telefonnummer\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
+  },
+  {
+    "objectID": "anaesthesie.html",
+    "href": "anaesthesie.html",
+    "title": "Ihre Anästhesie: gut begleitet durch die Operation",
+    "section": "",
+    "text": "⌂ Übersicht\nDas Anästhesieteam begleitet Sie durch die gesamte Operation: Es nimmt Ihnen Schmerz und Wahrnehmung des Eingriffs ab und wacht durchgehend über Kreislauf, Atmung und Ihr Wohlbefinden."
+  },
+  {
+    "objectID": "anaesthesie.html#weg",
+    "href": "anaesthesie.html#weg",
+    "title": "Ihre Anästhesie: gut begleitet durch die Operation",
+    "section": "Ihr Weg zur passenden Anästhesie",
+    "text": "Ihr Weg zur passenden Anästhesie\n1. Der digitale Gesundheitsfragebogen. Mit der Anmeldung zur Operation hat Ihre Operateurin oder Ihr Operateur den Fragebogen für Sie ausgelöst, und Sie haben ihn bereits per E-Mail oder SMS erhalten. Füllen Sie ihn früh und vollständig aus: Ihre Angaben sind die Grundlage, auf der das Anästhesieteam Ihre Anästhesie plant. Zugang, technische Hilfe.\n2. Sprechstunde oder Telefongespräch. Auf dieser Grundlage entscheidet das Anästhesieteam, wie es weitergeht: Bei den meisten genügt das Telefongespräch am Tag vor der Operation. Wenn Ihre Gesundheit besondere Aufmerksamkeit verdient, etwa bei Herz- oder Lungenerkrankungen, laden wir Sie vorab persönlich in die Anästhesiesprechstunde ein: Zeit, die Ihrer Sicherheit gehört. Wie das Aufgebot erfolgt, Ort, Dauer.\n3. Das Gespräch. Ob am Telefon oder in der Sprechstunde: Hier legen Sie gemeinsam das Verfahren fest, und hier haben alle Ihre Fragen Platz, auch die, die Ihnen klein vorkommen."
+  },
+  {
+    "objectID": "anaesthesie.html#verfahren",
+    "href": "anaesthesie.html#verfahren",
+    "title": "Ihre Anästhesie: gut begleitet durch die Operation",
+    "section": "Die Verfahren im Überblick",
+    "text": "Die Verfahren im Überblick\n\n\n\n\n\n\nHinweisVollnarkose (Allgemeinanästhesie)\n\n\n\n\n\nSie schlafen tief und ruhig durch den ganzen Eingriff; Ihr Körper nimmt davon nichts wahr. Ablauf, Medikamente, Aufwachen; Lorem ipsum als Platzhalter für den fachlich freigegebenen Text.\n\n\n\n\n\n\n\n\n\nHinweisSpinalanästhesie und Regionalanästhesie\n\n\n\n\n\nEin Körperbereich ruht tief und schmerzfrei, Ihr Kopf bleibt klar, auf Wunsch dösen oder schlafen Sie zusätzlich. Ablauf, Dauer, Rückkehr des Gefühls; Platzhalter.\n\n\n\n\n\n\n\n\n\nHinweisLokalanästhesie\n\n\n\n\n\nFür kleinere Eingriffe: örtliche Betäubung; auf Wunsch eigene Musik über Kopfhörer; Platzhalter."
+  },
+  {
+    "objectID": "anaesthesie.html#sicherheit",
+    "href": "anaesthesie.html#sicherheit",
+    "title": "Ihre Anästhesie: gut begleitet durch die Operation",
+    "section": "Sicherheit, die mitläuft",
+    "text": "Sicherheit, die mitläuft\nWährend des gesamten Eingriffs ist Ihr Anästhesieteam bei Ihnen und überwacht kontinuierlich Kreislauf, Atmung, Narkosetiefe; Platzhalter für den freigegebenen Text. Das Narkoserisiko ist für gesunde Erwachsene sehr klein: Darstellung nach RCoA-Vorbild, je 100’000, mit eigener Risikoseite."
+  },
+  {
+    "objectID": "anaesthesie.html#mental",
+    "href": "anaesthesie.html#mental",
+    "title": "Ihre Anästhesie: gut begleitet durch die Operation",
+    "section": "Vor der Operation ruhig werden",
+    "text": "Vor der Operation ruhig werden\nAnspannung vor einer Anästhesie ist normal. Es hilft, zu wissen, was kommt, und dafür ist diese Seite da. Wenn die Angst gross ist, insbesondere vor der Narkose oder vor Nadeln: Sagen Sie es uns im Gespräch. Es gibt erprobte Wege, die vielen Menschen bereits geholfen haben. Angebote: Vorgespräch, Entspannungsübungen, Begleitung.\n\nDiese Informationen ersetzen nicht das persönliche Aufklärungsgespräch mit dem Anästhesieteam. Dort besprechen wir Ihre individuellen Fragen und Risiken.\n\n\n⌂ Übersicht"
+  },
+  {
+    "objectID": "anaesthesie.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
+    "href": "anaesthesie.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
+    "title": "Ihre Anästhesie: gut begleitet durch die Operation",
+    "section": "Ich habe eine Frage: An wen wende ich mich?",
+    "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nTermin, Eintritt, Unterlagen: Patientenadministration, Telefonnummer, Mo–Fr xx–xx Uhr\nMedizinische Fragen zu Ihrer Operation: Sekretariat Ihrer Operateurin oder Ihres Operateurs, Telefonnummer\nFragen zur Narkose: Anästhesiesprechstunde, Telefonnummer\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
+  },
+  {
+    "objectID": "zusatzversichert.html",
+    "href": "zusatzversichert.html",
+    "title": "Falls ich zusatzversichert bin",
+    "section": "",
+    "text": "⌂ Übersicht\nDie Medizin ist bei uns für alle dieselbe: dieselbe Sorgfalt, dieselbe Sicherheit, derselbe Weg durch den Aufenthalt. Ihre Zusatzversicherung erweitert Wahl und Komfort."
+  },
+  {
+    "objectID": "zusatzversichert.html#leistungen",
+    "href": "zusatzversichert.html#leistungen",
+    "title": "Falls ich zusatzversichert bin",
+    "section": "Was Ihre Zusatzversicherung Ihnen bei uns eröffnet",
+    "text": "Was Ihre Zusatzversicherung Ihnen bei uns eröffnet\n\n\n\n\n\n\nHinweisFreie Arztwahl\n\n\n\n\n\nSie wählen, wer Sie operiert und behandelt. Wie die Wunscharztwahl abläuft; Unterschied halbprivat/privat; wie früh der Wunsch geäussert werden sollte.\n\n\n\n\n\n\n\n\n\nHinweisIhr Zimmer\n\n\n\n\n\nHalbprivat: Zweibettzimmer. Privat: Einzelzimmer. Ausstattung, Aussicht, Ruhe; konkret und ehrlich beschreiben, mit Foto realer Zimmer statt Symbolbild.\n\n\n\n\n\n\n\n\n\nHinweisKomfort und Service\n\n\n\n\n\nMenüwahl und Hotellerie, erweiterte Besuchsregelung, persönliche Ansprechperson, weitere Serviceleistungen; nur auflisten, was verlässlich eingelöst wird.\n\n\n\n\n\n\n\n\n\nHinweisFlexibilität\n\n\n\n\n\nWas planbar wählbar ist: Terminfenster, Eintrittszeiten, Verlängerungsoptionen; ehrlich abgrenzen von dem, was der Operationsplan für alle gleich regelt."
+  },
+  {
+    "objectID": "zusatzversichert.html#ablauf",
+    "href": "zusatzversichert.html#ablauf",
+    "title": "Falls ich zusatzversichert bin",
+    "section": "Was Sie dafür tun müssen",
+    "text": "Was Sie dafür tun müssen\nWenig. Geben Sie Ihre Versicherungsklasse bei der Anmeldung an, denn die Kostengutsprache klären wir für Sie mit Ihrer Versicherung. Ansprechperson, Telefonnummer."
+  },
+  {
+    "objectID": "zusatzversichert.html#upgrade",
+    "href": "zusatzversichert.html#upgrade",
+    "title": "Falls ich zusatzversichert bin",
+    "section": "Allgemein versichert und neugierig?",
+    "text": "Allgemein versichert und neugierig?\nFalls die Klinik ein Eintritts-Upgrade anbietet: Möglichkeit, einzelne Komfortleistungen gegen Aufpreis zu wählen, mit transparenter Taxordnung. Nüchtern formulieren, ohne Druck. Und unabhängig davon gilt: Ihre Behandlung ist dieselbe.\n\n⌂ Übersicht Mein Eintrittstag →"
+  },
+  {
+    "objectID": "zusatzversichert.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
+    "href": "zusatzversichert.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
+    "title": "Falls ich zusatzversichert bin",
+    "section": "Ich habe eine Frage: An wen wende ich mich?",
+    "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nTermin, Eintritt, Unterlagen: Patientenadministration, Telefonnummer, Mo–Fr xx–xx Uhr\nMedizinische Fragen zu Ihrer Operation: Sekretariat Ihrer Operateurin oder Ihres Operateurs, Telefonnummer\nFragen zur Narkose: Anästhesiesprechstunde, Telefonnummer\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
   },
   {
     "objectID": "eilig.html",
@@ -588,172 +735,53 @@
     "text": "Wählen Sie Ihr Thema\n\n\nVor der Operation\nAm Operationstag\nWährend meines Aufenthalts\nNach der Operation\nMeine konkrete Operation\nMedikamente und Ernährung\nNarkose und Anästhesie\nOrganisatorisches\nAnsprechpartner und Notfall\n\n\n\n⌂ Übersicht Alles auf einem Blatt →"
   },
   {
-    "objectID": "zusatzversichert.html",
-    "href": "zusatzversichert.html",
-    "title": "Falls ich zusatzversichert bin",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Prototypische Seiten",
     "section": "",
-    "text": "⌂ Übersicht\nDie Medizin ist bei uns für alle dieselbe: dieselbe Sorgfalt, dieselbe Sicherheit, derselbe Weg durch den Aufenthalt. Ihre Zusatzversicherung erweitert Wahl und Komfort."
+    "text": "Interne Skizzen Projektteam. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte. Sie zeigen Strukturskizzen und Sprache."
   },
   {
-    "objectID": "zusatzversichert.html#leistungen",
-    "href": "zusatzversichert.html#leistungen",
-    "title": "Falls ich zusatzversichert bin",
-    "section": "Was Ihre Zusatzversicherung Ihnen bei uns eröffnet",
-    "text": "Was Ihre Zusatzversicherung Ihnen bei uns eröffnet\n\n\n\n\n\n\nHinweisFreie Arztwahl\n\n\n\n\n\nSie wählen, wer Sie operiert und behandelt. Wie die Wunscharztwahl abläuft; Unterschied halbprivat/privat; wie früh der Wunsch geäussert werden sollte.\n\n\n\n\n\n\n\n\n\nHinweisIhr Zimmer\n\n\n\n\n\nHalbprivat: Zweibettzimmer. Privat: Einzelzimmer. Ausstattung, Aussicht, Ruhe; konkret und ehrlich beschreiben, mit Foto realer Zimmer statt Symbolbild.\n\n\n\n\n\n\n\n\n\nHinweisKomfort und Service\n\n\n\n\n\nMenüwahl und Hotellerie, erweiterte Besuchsregelung, persönliche Ansprechperson, weitere Serviceleistungen; nur auflisten, was verlässlich eingelöst wird.\n\n\n\n\n\n\n\n\n\nHinweisFlexibilität\n\n\n\n\n\nWas planbar wählbar ist: Terminfenster, Eintrittszeiten, Verlängerungsoptionen; ehrlich abgrenzen von dem, was der Operationsplan für alle gleich regelt."
+    "objectID": "index.html#für-patientinnen",
+    "href": "index.html#für-patientinnen",
+    "title": "Prototypische Seiten",
+    "section": "Für PatientInnen",
+    "text": "Für PatientInnen\n\nDie generische Patientenreise\nErste Experimente mit verschiedenen Längen\n\nOperation mit stationärem Aufenthalt (ausführlich) →\nGenerischer Patientenpfad kurz: vor, während, nach →\n\n\n\nDrei Architektur-Varianten zu spezifischen Eingriffen im Vergleich\nHier habe ich einmal mit verschiedenen Längen experimentiert\n\nKompakte Einzelseite nach norwegischem Muster: Hüftprothese: alles auf einer Seite →\nEigener “Eingriffskosmos”: Hüftprothese: der «Eingriffskosmos» →\nLangformseite: Wirbelsäule Spondylodese: die Langseiten-Variante →"
   },
   {
-    "objectID": "zusatzversichert.html#ablauf",
-    "href": "zusatzversichert.html#ablauf",
-    "title": "Falls ich zusatzversichert bin",
-    "section": "Was Sie dafür tun müssen",
-    "text": "Was Sie dafür tun müssen\nWenig. Geben Sie Ihre Versicherungsklasse bei der Anmeldung an, denn die Kostengutsprache klären wir für Sie mit Ihrer Versicherung. Ansprechperson, Telefonnummer."
+    "objectID": "index.html#für-zuweisende",
+    "href": "index.html#für-zuweisende",
+    "title": "Prototypische Seiten",
+    "section": "Für Zuweisende",
+    "text": "Für Zuweisende\n\nAnästhesie\n\nFür Ärzteschaft und Zuweisende: Prozess und präoperative Abklärungen →"
   },
   {
-    "objectID": "zusatzversichert.html#upgrade",
-    "href": "zusatzversichert.html#upgrade",
-    "title": "Falls ich zusatzversichert bin",
-    "section": "Allgemein versichert und neugierig?",
-    "text": "Allgemein versichert und neugierig?\nFalls die Klinik ein Eintritts-Upgrade anbietet: Möglichkeit, einzelne Komfortleistungen gegen Aufpreis zu wählen, mit transparenter Taxordnung. Nüchtern formulieren, ohne Druck. Und unabhängig davon gilt: Ihre Behandlung ist dieselbe.\n\n⌂ Übersicht Mein Eintrittstag →"
-  },
-  {
-    "objectID": "zusatzversichert.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
-    "href": "zusatzversichert.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
-    "title": "Falls ich zusatzversichert bin",
-    "section": "Ich habe eine Frage: An wen wende ich mich?",
-    "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nTermin, Eintritt, Unterlagen: Patientenadministration, Telefonnummer, Mo–Fr xx–xx Uhr\nMedizinische Fragen zu Ihrer Operation: Sekretariat Ihrer Operateurin oder Ihres Operateurs, Telefonnummer\nFragen zur Narkose: Anästhesiesprechstunde, Telefonnummer\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
-  },
-  {
-    "objectID": "anaesthesie.html",
-    "href": "anaesthesie.html",
-    "title": "Ihre Anästhesie: gut begleitet durch die Operation",
+    "objectID": "zuweiser-anaemie.html",
+    "href": "zuweiser-anaemie.html",
+    "title": "Präoperative Anämie: Empfehlungen zur Abklärung und Behandlung",
     "section": "",
-    "text": "⌂ Übersicht\nDas Anästhesieteam begleitet Sie durch die gesamte Operation: Es nimmt Ihnen Schmerz und Wahrnehmung des Eingriffs ab und wacht durchgehend über Kreislauf, Atmung und Ihr Wohlbefinden."
+    "text": "⌂ Prototyp-Übersicht ← Zuweiser-Seite\nDie unbehandelte Anämie gilt als Kontraindikation für elektive Eingriffe mit relevantem Blutverlust. Früh erkannt, lässt sie sich rechtzeitig behandeln; das senkt Komplikationen und Transfusionen. Der Algorithmus ist regional einheitlich abgestimmt."
   },
   {
-    "objectID": "anaesthesie.html#weg",
-    "href": "anaesthesie.html#weg",
-    "title": "Ihre Anästhesie: gut begleitet durch die Operation",
-    "section": "Ihr Weg zur passenden Anästhesie",
-    "text": "Ihr Weg zur passenden Anästhesie\n1. Der digitale Gesundheitsfragebogen. Mit der Anmeldung zur Operation hat Ihre Operateurin oder Ihr Operateur den Fragebogen für Sie ausgelöst, und Sie haben ihn bereits per E-Mail oder SMS erhalten. Füllen Sie ihn früh und vollständig aus: Ihre Angaben sind die Grundlage, auf der das Anästhesieteam Ihre Anästhesie plant. Zugang, technische Hilfe.\n2. Sprechstunde oder Telefongespräch. Auf dieser Grundlage entscheidet das Anästhesieteam, wie es weitergeht: Bei den meisten genügt das Telefongespräch am Tag vor der Operation. Wenn Ihre Gesundheit besondere Aufmerksamkeit verdient, etwa bei Herz- oder Lungenerkrankungen, laden wir Sie vorab persönlich in die Anästhesiesprechstunde ein: Zeit, die Ihrer Sicherheit gehört. Wie das Aufgebot erfolgt, Ort, Dauer.\n3. Das Gespräch. Ob am Telefon oder in der Sprechstunde: Hier legen Sie gemeinsam das Verfahren fest, und hier haben alle Ihre Fragen Platz, auch die, die Ihnen klein vorkommen."
+    "objectID": "zuweiser-anaemie.html#kern",
+    "href": "zuweiser-anaemie.html#kern",
+    "title": "Präoperative Anämie: Empfehlungen zur Abklärung und Behandlung",
+    "section": "Das Wichtigste",
+    "text": "Das Wichtigste\n\nZiel: präoperativer Hb 130 g/l, bei Frauen und Männern.\nWann abklären: elektive Eingriffe mit potenziellem Blutverlust über 500 ml bzw. 10 ml/kg, insbesondere Gelenkersatz und Revisionen, Wirbelsäuleneingriffe über zwei Etagen, Aortenaneurysmen, grosse abdominale Gynäkologie, Prostatektomien, Nephrektomien, Zystektomien sowie Leber-, Pankreas- und Darmchirurgie.\nZeitfaktor: Behandlungsbeginn idealerweise vier Wochen präoperativ. Auch kurzfristig lohnt der Start, denn jeder Therapietag vor dem Eingriff nützt.\nLabor: Hb, MCV, Ferritin, TSAT, CRP, Kreatinin; bei erhöhtem MCV zusätzlich Retikulozyten, Vitamin B12 (Holo-Transcobalamin) und Folsäure."
   },
   {
-    "objectID": "anaesthesie.html#verfahren",
-    "href": "anaesthesie.html#verfahren",
-    "title": "Ihre Anästhesie: gut begleitet durch die Operation",
-    "section": "Die Verfahren im Überblick",
-    "text": "Die Verfahren im Überblick\n\n\n\n\n\n\nHinweisVollnarkose (Allgemeinanästhesie)\n\n\n\n\n\nSie schlafen tief und ruhig durch den ganzen Eingriff; Ihr Körper nimmt davon nichts wahr. Ablauf, Medikamente, Aufwachen; Lorem ipsum als Platzhalter für den fachlich freigegebenen Text.\n\n\n\n\n\n\n\n\n\nHinweisSpinalanästhesie und Regionalanästhesie\n\n\n\n\n\nEin Körperbereich ruht tief und schmerzfrei, Ihr Kopf bleibt klar, auf Wunsch dösen oder schlafen Sie zusätzlich. Ablauf, Dauer, Rückkehr des Gefühls; Platzhalter.\n\n\n\n\n\n\n\n\n\nHinweisLokalanästhesie\n\n\n\n\n\nFür kleinere Eingriffe: örtliche Betäubung; auf Wunsch eigene Musik über Kopfhörer; Platzhalter."
+    "objectID": "zuweiser-anaemie.html#algorithmus",
+    "href": "zuweiser-anaemie.html#algorithmus",
+    "title": "Präoperative Anämie: Empfehlungen zur Abklärung und Behandlung",
+    "section": "Der Algorithmus",
+    "text": "Der Algorithmus\nNach dem PBM-Labor entscheidet die Konstellation:\n\nHb unter 100 g/l, Ursache unbekannt: Operationsstopp und Abklärung.\nHb 100 bis 130 g/l:\n\nFerritin unter 100 µg/l oder TSAT unter 20 %: Eisenmangelanämie. 1 g Eisencarboxymaltose i.v.\nFerritin über 100 µg/l und CRP erhöht: Anämie bei chronischer Erkrankung. EPO-α 600 E/kg s.c., dazu 1 g Eisencarboxymaltose i.v., falls Ferritin unter 500 µg/l.\nKreatinin-Clearance unter 50 ml/min: renale Anämie. EPO-α plus Eisen i.v.\n\nHb über 130 g/l, aber Ferritin unter 100 µg/l oder TSAT unter 20 %: zu geringer Eisenspeicher für die Operation. 1 g Eisencarboxymaltose i.v.\n\n\n\n\n\n\n\nHinweisDosierung und Anwendung\n\n\n\n\n\n\nEisencarboxymaltose: Kurzinfusion über 20 bis 30 Minuten unter Monitorkontrolle, 20 mg/kg, maximal 1 g pro Woche.\nEPO-α: 600 E/kg s.c., z. B. 40’000 E, maximal 1-mal pro Woche.\nVitamin B12: 1 mg s.c. oder i.m., 1- bis 3-mal, maximal 1-mal pro Woche.\nFolsäure: 5 mg p.o. täglich bis zur Operation.\nSchwangerschaft, abweichende Grenzwerte: 1. Trimester unter 110 g/l, 2. und 3. Trimester unter 105 g/l, postpartal unter 100 g/l."
   },
   {
-    "objectID": "anaesthesie.html#sicherheit",
-    "href": "anaesthesie.html#sicherheit",
-    "title": "Ihre Anästhesie: gut begleitet durch die Operation",
-    "section": "Sicherheit, die mitläuft",
-    "text": "Sicherheit, die mitläuft\nWährend des gesamten Eingriffs ist Ihr Anästhesieteam bei Ihnen und überwacht kontinuierlich Kreislauf, Atmung, Narkosetiefe; Platzhalter für den freigegebenen Text. Das Narkoserisiko ist für gesunde Erwachsene sehr klein: Darstellung nach RCoA-Vorbild, je 100’000, mit eigener Risikoseite."
-  },
-  {
-    "objectID": "anaesthesie.html#mental",
-    "href": "anaesthesie.html#mental",
-    "title": "Ihre Anästhesie: gut begleitet durch die Operation",
-    "section": "Vor der Operation ruhig werden",
-    "text": "Vor der Operation ruhig werden\nAnspannung vor einer Anästhesie ist normal. Es hilft, zu wissen, was kommt, und dafür ist diese Seite da. Wenn die Angst gross ist, insbesondere vor der Narkose oder vor Nadeln: Sagen Sie es uns im Gespräch. Es gibt erprobte Wege, die vielen Menschen bereits geholfen haben. Angebote: Vorgespräch, Entspannungsübungen, Begleitung.\n\nDiese Informationen ersetzen nicht das persönliche Aufklärungsgespräch mit dem Anästhesieteam. Dort besprechen wir Ihre individuellen Fragen und Risiken.\n\n\n⌂ Übersicht"
-  },
-  {
-    "objectID": "anaesthesie.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
-    "href": "anaesthesie.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
-    "title": "Ihre Anästhesie: gut begleitet durch die Operation",
-    "section": "Ich habe eine Frage: An wen wende ich mich?",
-    "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nTermin, Eintritt, Unterlagen: Patientenadministration, Telefonnummer, Mo–Fr xx–xx Uhr\nMedizinische Fragen zu Ihrer Operation: Sekretariat Ihrer Operateurin oder Ihres Operateurs, Telefonnummer\nFragen zur Narkose: Anästhesiesprechstunde, Telefonnummer\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
-  },
-  {
-    "objectID": "stationaer.html",
-    "href": "stationaer.html",
-    "title": "Operation mit stationärem Aufenthalt: Schritt für Schritt",
-    "section": "",
-    "text": "⌂ Prototyp-Übersicht\nDieser Wegweiser führt Sie durch alle Schritte Ihres geplanten Aufenthalts, von der Entscheidung zur Operation bis zur Erholung zu Hause."
-  },
-  {
-    "objectID": "stationaer.html#ihr-pfad-durch-den-aufenthalt",
-    "href": "stationaer.html#ihr-pfad-durch-den-aufenthalt",
-    "title": "Operation mit stationärem Aufenthalt: Schritt für Schritt",
-    "section": "Ihr Pfad durch den Aufenthalt",
-    "text": "Ihr Pfad durch den Aufenthalt\nDass Sie sich hier umsehen, ist bereits der erste Schritt einer guten Vorbereitung. Sie sind eingeladen, den Schritten der Reihe nach zu folgen oder direkt dorthin zu springen, wo Sie gerade stehen.\n\n\nDie Entscheidung zur Operation\nBrauche ich diese Operation? Was sind meine Wahlmöglichkeiten, was sind die Alternativen? Welche Fragen stelle ich in der Sprechstunde?\nGesundheitsfragebogen, Abklärungen und Anästhesiegespräch\nWelche Abklärungen brauche ich vor der Operation? Wann findet das Anästhesiegespräch statt?.\nDie Zeit bis zum Eintritt optimal nutzen\nBewegung, Ernährung, Gewohnheiten. Und was tue ich, wenn sich mein Gesundheitszustand zwischenzeitlich ändert?\nGut vorbereitet zum Eintritt ankommen\nWas ist hilfreich vor der Operation zu erledigen? Medikamente, Essen und Trinken, Packliste, dazu die Planung für die Zeit nach dem Austritt.\nDer Eintritt und der Operationstag\nWo melde ich mich an? Wie sind die Abläufe? Wie lange dauert es bis es losgeht?\nDer Aufenthalt in der Klinik\nWie sieht mein Tag aus? Wer betreut mich? An wen wende ich mich bei Fragen?\nAustritt und Erholung zu Hause\nAustritt, Nachkontrolle, Unterstützung im Alltag. Und bei welchen Anzeichen ich mich umgehend melden sollte."
-  },
-  {
-    "objectID": "stationaer.html#welche-operation-bekommen-sie",
-    "href": "stationaer.html#welche-operation-bekommen-sie",
-    "title": "Operation mit stationärem Aufenthalt: Schritt für Schritt",
-    "section": "Welche Operation bekommen Sie?",
-    "text": "Welche Operation bekommen Sie?\nZu unseren häufigsten Eingriffen finden Sie eine eigene Seite mit allen Schritten, vom Grund für die Operation bis zur Erholung. Ihr persönlicher Weg beginnt am besten dort:\n\nArchitektur-Demo, zwei Varianten zum Vergleichen: Hüftprothese zeigt den «Eingriffskosmos»: eine Einstiegsseite mit sechs kurzen Schritt-Seiten, Allgemeines wird zentral gepflegt und verlinkt. Spondylodese zeigt die Langseiten-Variante, bei der alle Inhalte auf einer durchgehenden Seite stehen.\n\n\nHüftprothese Wirbelsäule: Spondylodese Knieprothese weitere Operationen"
-  },
-  {
-    "objectID": "stationaer.html#gut-zu-wissen",
-    "href": "stationaer.html#gut-zu-wissen",
-    "title": "Operation mit stationärem Aufenthalt: Schritt für Schritt",
-    "section": "Gut zu wissen",
-    "text": "Gut zu wissen\n\nDas Wichtigste auf einem Blatt, zum Ausdrucken\nIhre Anästhesie: Fragebogen, Gespräch, Verfahren\nFalls Sie zusatzversichert sind: Ihre Wahlleistungen\n\n\nWar diese Seite hilfreich?\nJa\nIch finde die Seite zu schwierig\nMir fehlt etwas"
-  },
-  {
-    "objectID": "stationaer.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
-    "href": "stationaer.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
-    "title": "Operation mit stationärem Aufenthalt: Schritt für Schritt",
-    "section": "Ich habe eine Frage: An wen wende ich mich?",
-    "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nTermin, Eintritt, Unterlagen: Patientenadministration, Telefonnummer, Mo–Fr xx–xx Uhr\nMedizinische Fragen zu Ihrer Operation: Sekretariat Ihrer Operateurin oder Ihres Operateurs, Telefonnummer\nFragen zur Narkose: Anästhesiesprechstunde, Telefonnummer\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
-  },
-  {
-    "objectID": "zuweiser.html",
-    "href": "zuweiser.html",
-    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
-    "section": "",
-    "text": "⌂ Prototyp-Übersicht\n[Die Klinik verschickt den digitalen Gesundheitsfragebogen, die Anästhesie beurteilt das Risiko, das präoperative Pflegeteam (POPS) unterstützt bei KomplexpatientInnen.\nHier finden Sie, was Ihre Praxis dazu beiträgt.]{.lede}"
-  },
-  {
-    "objectID": "zuweiser.html#prozess",
-    "href": "zuweiser.html#prozess",
-    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
-    "section": "So läuft die präoperative Abklärung",
-    "text": "So läuft die präoperative Abklärung\nMit Ihrer Operationsanmeldung über Docbox erhalten Ihre Patientinnen und Patienten automatisch den Link zum digitalen Gesundheitsfragebogen per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst ausfüllen kann, wird vom Anästhesiesekretariat telefonisch unterstützt. Wenn Ihre Praxis automatisch die Kopien des Fragebögen Ihrer PatientInnen erhalten möchte, sagen Sie uns gerne bescheid.\nAnhand der Angaben im Fragebogen triagiert die Anästhesie: - meist genügt das Telefongespräch am Vortag - Risikopatientinnen und -patienten hingegen werden aktiv im Vorfeld in die Anästhesiesprechstunde eingeladen. Der Prozess ist neu gestaltet; Details dazu haben Sie über die Fachkanäle erhalten."
-  },
-  {
-    "objectID": "zuweiser.html#praxis",
-    "href": "zuweiser.html#praxis",
-    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
-    "section": "Ihr Beitrag",
-    "text": "Ihr Beitrag\n\nVor der Anmeldung die PatientInnen informieren: Die Patientin oder der Patient muss von Ihnen über den geplanten Eingriff informiert sein, bevor der Fragebogen automatisch eintrifft.\nHausärztliche Abklärung veranlassen bei Alter über 70 Jahren oder Eingriff der Risikoklasse B oder C (Tabelle unten).\nBefunde einsenden: ins Formular «Präoperative Beurteilung durch den Hausarzt», PDF und Word (Dummy-Link), mit allfälligen Beilagen an E-Mail. Befunde bitte nicht älter als zwei Monate.\nDen EIngriff möglichst früh anmelden: idealerweise vier Wochen vor dem Operationstermin, damit Zeit für Zusatzabklärungen und die Behandlung einer Anämie bleibt.\nBesondere Sprechstundenwünsche von Operateur an das Anästhesiesekretariat.\n\nPatientenwunsch (etwa ausgeprägter Angst)\nStatus nach Anästhesieproblemen\nschweren Begleiterkrankungen / Risikoabwägungen im Vorfeld"
-  },
-  {
-    "objectID": "zuweiser.html#risikoklassen",
-    "href": "zuweiser.html#risikoklassen",
-    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
-    "section": "Risikoklassen der Eingriffe",
-    "text": "Risikoklassen der Eingriffe\nBeispieleingriffe (modifiziert nach ESC/ESA Guidelines und DGAI. Risiko für kardiovaskulären Tod oder Myokardinfarkt innert 30 Tagen):\n\n\n\n\n\n\n\n\nKlasse A — niedrig (&lt;1 %)\nKlasse B — mittel (1–5 %)\nKlasse C — hoch (&gt;5 %)\n\n\n\n\nOberflächliche und plastisch-rekonstruktive Eingriffe, Mammachirurgie\nGrössere viszerale Eingriffe (Darmresektion, Cholezystektomie, Splenektomie)\nDuodeno-Pankreatektomie, Leber- und Gallengangschirurgie, Darmperforation\n\n\nKleinere orthopädische Eingriffe (KAS, Hand, Fuss)\nGrosse Orthopädie: Endoprothetik grosser Gelenke, Rückenchirurgie\nAorten- und grosse arterielle Gefässeingriffe\n\n\nKleine urologische und gynäkologische Eingriffe\nGrosse Urologie und Gynäkologie (Prostatektomie, Hysterektomie abdominal)\nTotale Zystektomie\n\n\nAugenchirurgie, Zahnextraktionen\nKopf-Hals-Eingriffe, kleine intrathorakale Eingriffe\nGrosse intrathorakale Eingriffe (Pneumonektomie)"
-  },
-  {
-    "objectID": "zuweiser.html#befunde",
-    "href": "zuweiser.html#befunde",
-    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
-    "section": "Welche Befunde braucht es?",
-    "text": "Welche Befunde braucht es?\nMassgebend sind Risikoklasse, Belastbarkeit (MET &gt; 4) und klinische Risikofaktoren (KHK, Herzinsuffizienz, Stroke/TIA, Niereninsuffizienz GFR &lt; 60, insulinpflichtiger Diabetes).\n\nHausarztbericht: die Basis jeder Abklärung. Mit Diagnose- und Medikamnetenliste\nEKG und Standard-Labor (Hb, Thrombozyten, Quick, Na, K, Kreatinin): bei Klasse B und C sowie bei Risikofaktoren oder eingeschränkter Belastbarkeit.\nThorax-Röntgen: nur bei Verdacht auf akute oder unbekannte pulmonale Pathologie.\nDiabetes: HbA1c\nErweiterte Diagnostik (Ergometrie, Echo, Lufu, Gerinnung): nach Organbefund; vollständige Befund-Matrix."
-  },
-  {
-    "objectID": "zuweiser.html#gerinnung",
-    "href": "zuweiser.html#gerinnung",
-    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
-    "section": "Umgang mit gerinnungshemmenden Medikamenten",
-    "text": "Umgang mit gerinnungshemmenden Medikamenten\nDie präoperativen Pausen sind neben dem Blutungsrisiko oft auch Voraussetzung für eine Regionalanästhesie. Die vollständige Übersicht mit Dosierungen, Absetzzeitpunkten und Bridging-Hinweisen:\n\n\n\n\n\n\nHinweisÜbersicht: Absetzen gerinnungshemmender Medikamente vor der Operation\n\n\n\n\n\n\n\n\nTabelle: gerinnungshemmende Medikamente mit Dosis, Absetzzeitpunkt vor der Operation, präoperativer Pause und Bemerkungen (LMWH, Vitamin-K-Antagonisten, DOAC, Thrombozyten-Aggregationshemmer)\n\n\nStand und fachliche Freigabe der Tabelle prüfen; langfristig als barrierefreie HTML-Tabelle umsetzen."
-  },
-  {
-    "objectID": "zuweiser.html#pbm",
-    "href": "zuweiser.html#pbm",
-    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
-    "section": "Anämie und Patient Blood Management",
-    "text": "Anämie und Patient Blood Management\nDie unbehandelte Anämie gilt international als Kontraindikation für elektive Eingriffe mit relevantem Blutverlust. Wenn der Anmelde-CHOP-Code einem elektiven Eingriff mit typischerweise erhöhtem Blutungsrisiko entspricht, wird die Patientin oder der Patient von uns automatisch in die Anästheisesprechstunde aufgeboten. Dort erfolgt eine Hb-Bestimmung.\n\nZiel: präoperativer Hb 130 g/l bei Frauen und Männern.\nWann abklären: potenzieller Blutverlust über 300 ml, insbesondere Endoprothetik, Wirbelsäulen-, Gefäss-, grosse Viszeral-, Urologie- und Gynäkologie-Eingriffe.\nLabor: Hb, MCV, Ferritin/TSAT, CRP, Kreatinin; bei erhöhtem MCV zusätzlich Retikulozyten, Vitamin B12, Folsäure.\nZeitfaktor: Behandlungsbeginn idealerweise vier Wochen präoperativ. Jeder Therapietag vor dem Eingriff hilft.\nAlgorithmus: regional abgestimmt, Abbildung oder Download."
-  },
-  {
-    "objectID": "zuweiser.html#kontakt",
-    "href": "zuweiser.html#kontakt",
-    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
-    "section": "Kontakt",
-    "text": "Kontakt\nEigenes Kontaktfeld - Kontakt1 - Kontakt2 - Kontakt 3\n\n⌂ Prototyp-Übersicht\n\n\n\n\n\nGeprüft am\nDatum\n\n\nNächste Prüfung\nDatum + 2 Jahre\n\n\nFachliche Freigabe\nName, Funktion\n\n\n\nDiese Seiten sind ein Prototyp. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte und dienen ausschliesslich der Veranschaulichung von Struktur und Sprache."
+    "objectID": "zuweiser-anaemie.html#kontakt",
+    "href": "zuweiser-anaemie.html#kontakt",
+    "title": "Präoperative Anämie: Empfehlungen zur Abklärung und Behandlung",
+    "section": "Befunde und Rückfragen",
+    "text": "Befunde und Rückfragen\nLaborbefunde mit dem Beurteilungsformular an zentrale Dokumentenablage, nicht älter als zwei Monate. Bei Fragen zur Indikation oder Therapie: Klinik für Anästhesie, Telefon, E-Mail.\n\n⌂ Prototyp-Übersicht ← Zuweiser-Seite\n\n\n\n\n\nGeprüft am\nDatum\n\n\nNächste Prüfung\nDatum + 2 Jahre\n\n\nFachliche Freigabe\nName, Funktion\n\n\n\nDiese Seiten sind ein Prototyp. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte und dienen ausschliesslich der Veranschaulichung von Struktur und Sprache."
   },
   {
     "objectID": "phasen/vorbereitung.html",
