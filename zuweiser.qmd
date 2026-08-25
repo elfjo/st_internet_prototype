@@ -43,7 +43,8 @@ Anhand der Angaben im Fragebogen **triagiert** die Anästhesie:
   mit allfälligen Beilagen an [E-Mail]{.ph}. Befunde bitte nicht älter als zwei Monate.
 - **Den Eingriff möglichst früh anmelden:** idealerweise **vier Wochen vor dem
   Operationstermin**, damit Zeit für Zusatzabklärungen und die Behandlung einer Anämie bleibt.
-- **Besondere Sprechstundenwünsche** von Operateur an das [Anästhesiesekretariat]{.ph}. bei
+- **Besondere Sprechstundenwünsche** von Operateurin oder Operateur an das [Anästhesiesekretariat]{.ph}. bei:
+
     - Patientenwunsch (etwa ausgeprägter Angst)
     - Status nach Anästhesieproblemen
     - schweren Begleiterkrankungen / Risikoabwägungen im Vorfeld
