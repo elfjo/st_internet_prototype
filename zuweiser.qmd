@@ -22,7 +22,7 @@ beiträgt.]{.lede}
 
 Mit Ihrer **Operationsanmeldung über Docbox** erhalten
 Ihre Patientinnen und Patienten automatisch den Link zum **digitalen Gesundheitsfragebogen** per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst
-ausfüllen kann, wird vom Anästhesiesekretariat telefonisch unterstützt. Wenn Ihre Praxis automatisch die Kopien der Fragebögen Ihrer PatientInnen erhalten soll, sagen Sie uns gerne bescheid.
+ausfüllen kann, wird vom Anästhesiesekretariat unterstützt. Wenn Ihre Praxis automatisch die Kopien der Fragebögen Ihrer PatientInnen erhalten soll, geben Sie uns gerne bescheid.
 
 Anhand der Angaben im Fragebogen **triagiert** die Anästhesie:
 
@@ -38,12 +38,12 @@ Anhand der Angaben im Fragebogen **triagiert** die Anästhesie:
   eintrifft.
 - **Hausärztliche Abklärung veranlassen** bei Alter **über 70 Jahren** oder
   Eingriff der **Risikoklasse B oder C** (Tabelle unten).
-- **Befunde einsenden:** ins Formular [«Präoperative
+- **Berichte und Befunde einsenden:** Formular [«Präoperative
   Beurteilung durch den Hausarzt», PDF und Word (Dummy-Link)]{.ph},
   mit allfälligen Beilagen an [E-Mail]{.ph}. Befunde bitte nicht älter als zwei Monate.
-- **Den EIngriff möglichst früh anmelden:** idealerweise **vier Wochen vor dem
+- **Den Eingriff möglichst früh anmelden:** idealerweise **vier Wochen vor dem
   Operationstermin**, damit Zeit für Zusatzabklärungen und die Behandlung einer Anämie bleibt.
-- **Besondere Sprechstundenwünsche** von Operateur an das [Anästhesiesekretariat]{.ph}.
+- **Besondere Sprechstundenwünsche** von Operateur an das [Anästhesiesekretariat]{.ph}. bei
     - Patientenwunsch (etwa ausgeprägter Angst)
     - Status nach Anästhesieproblemen
     - schweren Begleiterkrankungen / Risikoabwägungen im Vorfeld
@@ -106,8 +106,8 @@ barrierefreie HTML-Tabelle umsetzen.]{.ph}
 ## Anämie und Patient Blood Management {#pbm}
 
 Die **unbehandelte Anämie** gilt international als Kontraindikation für elektive
-Eingriffe mit relevantem Blutverlust. Wenn der Anmelde-CHOP-Code einem elektiven Eingriff mit typischerweise erhöhtem Blutungsrisiko entspricht,
-wird die Patientin oder der Patient von uns automatisch in die Anästheisesprechstunde aufgeboten. Dort erfolgt eine Hb-Bestimmung.
+Eingriffe mit relevantem Blutverlust. Wenn der Anmelde-CHOP-Code einem elektiven Eingriff mit erhöhtem Blutungsrisiko entspricht,
+wird die Patientin oder der Patient von uns automatisch in die Anästheisesprechstunde aufgeboten. Dort erfolgt auch eine Hb-Bestimmung.
 
 - **Ziel:** präoperativer Hb **130 g/l** bei Frauen und Männern.
 - **Wann abklären:** potenzieller Blutverlust über [300 ml]{.ph},
@@ -118,8 +118,8 @@ wird die Patientin oder der Patient von uns automatisch in die Anästheisesprech
 - **Zeitfaktor:** Behandlungsbeginn idealerweise vier Wochen
   präoperativ. Jeder Therapietag vor dem Eingriff hilft.
 
-Der regional abgestimmte Algorithmus mit Grenzwerten und Dosierungen
-steht auf einer eigenen Seite:
+Den regional abgestimmte Algorithmus mit Grenzwerten und Dosierungen
+finden Sie hier:
 
 [Präoperative Anämie: Empfehlungen zur Abklärung und Behandlung →](zuweiser-anaemie.qmd)
 
