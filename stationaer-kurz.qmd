@@ -14,8 +14,7 @@ Seite in drei Phasen. Tiefe liegt in Aufklappern.
 :::
 
 [Dieser Wegweiser führt Sie in drei Phasen durch Ihren geplanten
-Aufenthalt. Das Wichtigste steht direkt auf dieser Seite; Vertiefung
-öffnen Sie bei Bedarf.]{.lede}
+Aufenthalt.]{.lede}
 
 ## Vor der Operation {#vor}
 
@@ -25,19 +24,17 @@ mit, denn vier Ohren hören mehr als zwei, und fragen Sie nach, bis es
 für Sie stimmt.
 
 Mit der Anmeldung erhalten Sie den digitalen Gesundheitsfragebogen
-per E-Mail; am besten füllen Sie ihn heute oder morgen aus, er dauert
-etwa **15 Minuten**. Sie können ihn allein oder mit jemandem aus
-Ihrem Umfeld ausfüllen, und wenn Sie Unterstützung möchten, genügt
+per E-Mail. Er dauert
+etwa **15 Minuten**. Sie können ihn allein oder mit jemandem aus Ihrem Umfeld ausfüllen, und wenn Sie Unterstützung möchten, genügt
 ein Anruf: [Telefonnummer]{.ph}.
 
-Aus Ihren Angaben ergibt sich, wie Ihr Anästhesiegespräch
+Aus Ihren Angaben ergibt sich, auf welche Weise Ihr Anästhesiegespräch
 stattfindet: Bei vielen genügt das Telefonat am Tag vor der
 Operation. Wenn Ihre Gesundheit besondere Aufmerksamkeit verdient,
 laden wir Sie mit separater Einladung persönlich in die
 Anästhesiesprechstunde ein.
 
-Die Wochen bis zum Eintritt sind Ihr Trainingsfenster, und vieles
-davon haben Sie selbst in der Hand:
+Die Wochen bis zum Eintritt können Sie aktiv für eine optimale Vorbereitung nutzen:
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Die Zeit bis zum Eintritt nutzen: Kraft, Ernährung, Rauchstopp
@@ -55,8 +52,8 @@ davon haben Sie selbst in der Hand:
 
 Und der Kopf bereitet sich mit vor: Was Ihnen Ruhe gibt, wie
 Spaziergänge, Musik oder ein gutes Gespräch, darf in diesen Wochen
-bewusst Platz bekommen. Wenn Sie sehr von sorgenvollen Gedanken
-eingenommen sind, sprechen Sie mit uns über das, was Sie beschäftigt.
+bewusst Platz bekommen. Sollten Sie einmal mehr von sorgenvollen Gedanken
+eingenommen sein, sprechen Sie mit uns über das, was Sie beschäftigt.
 :::
 
 ### Essen und Trinken vor dem Eintritt {#nuechtern}
@@ -84,7 +81,7 @@ Schmuck und Wertsachen bleiben zu Hause.
 :::
 
 ::: {.melden}
-### Wenn sich Ihr Zustand verändert
+### Wenn sich Ihr Zustand zwischenzeitlich verändert
 
 Deutlich zunehmende oder neue Beschwerden, eine Erkältung, Fieber
 oder eine Zahnentzündung vor der Operation: Rufen Sie uns an unter
@@ -92,13 +89,16 @@ oder eine Zahnentzündung vor der Operation: Rufen Sie uns an unter
 wir alles für Sie abstimmen.
 :::
 
-## Während des Aufenthalts {#waehrend}
+## Ankommen und Aufenthalts {#waehrend}
 
 Ihre Eintrittszeit erhalten Sie [am Vortag per SMS]{.ph}; falls
 keine Nachricht ankommt, rufen Sie uns einfach an:
-[Telefonnummer]{.ph}. Am Operationstag begleiten wir Sie durch einen eingespielten Ablauf;
-Ihre Aufgabe ist es, anzukommen und mitzuhelfen, möglichst bequem zu
-liegen. Zwischen Ankunft und Operation bleibt oft eine Wartezeit,
+[Telefonnummer]{.ph}.
+
+Am Operationstag begleiten wir Sie durch einen eingespielten Ablauf;
+Ihre Aufgabe ist es, anzukommen und mitzuhelfen, es Ihnen möglichst angenehm zu gestalten.
+
+Zwischen Ankunft und Operation bleibt oft eine Wartezeit,
 manchmal eine halbe Stunde, manchmal länger: Nehmen Sie sich etwas
 zum Lesen oder Hören mit.
 
@@ -110,14 +110,18 @@ Angehörigen, wie die Operation verlaufen ist.
 
 Auf der Station bespricht das Ärzteteam mindestens einmal täglich mit
 Ihnen den Stand und die nächsten Schritte; notieren Sie Ihre Fragen
-vorher, denn jede Frage hat dort Platz. Schmerzen lassen sich
+vorher, denn jede Frage hat dort Platz.
+
+Schmerzen lassen sich
 heutzutage gut behandeln: Melden Sie sich früh, je eher wir wissen,
-was Sie brauchen, desto besser wirkt die Behandlung. Und bereits
+was Sie brauchen, desto besser wirkt die Behandlung.
+
+Bereits
 während des Aufenthalts klären wir mit Ihnen, wie es zu Hause
 weitergeht: Unterstützung, Hilfsmittel, falls nötig Rehabilitation
 oder Spitex.
 
-## Nach der Operation {#nach}
+## Nach Hause {#nach}
 
 Mit dem Austrittsgespräch gehen Sie sicher nach Hause: Es klärt
 Medikamente, Wundversorgung, erlaubte Aktivitäten und die
