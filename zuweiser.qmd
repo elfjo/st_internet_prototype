@@ -22,7 +22,7 @@ beiträgt.]{.lede}
 
 Mit Ihrer **Operationsanmeldung über Docbox** erhalten
 Ihre Patientinnen und Patienten automatisch den Link zum **digitalen Gesundheitsfragebogen** per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst
-ausfüllen kann, wird vom Anästhesiesekretariat telefonisch unterstützt. Wenn Ihre Praxis automatisch die Kopien des Fragebögen Ihrer PatientInnen erhalten möchte, sagen Sie uns gerne bescheid.
+ausfüllen kann, wird vom Anästhesiesekretariat telefonisch unterstützt. Wenn Ihre Praxis automatisch die Kopien der Fragebögen Ihrer PatientInnen erhalten soll, sagen Sie uns gerne bescheid.
 
 Anhand der Angaben im Fragebogen **triagiert** die Anästhesie:
 
@@ -50,15 +50,21 @@ Anhand der Angaben im Fragebogen **triagiert** die Anästhesie:
 
 ## Risikoklassen der Eingriffe {#risikoklassen}
 
-Beispieleingriffe [(modifiziert nach ESC/ESA Guidelines und DGAI.
-Risiko für kardiovaskulären Tod oder Myokardinfarkt innert 30 Tagen)]{.ph}:
+Massgebend sind die Beispieleingriffe [(modifiziert nach ESC/ESA
+Guidelines und DGAI. Risiko für kardiovaskulären Tod oder
+Myokardinfarkt innert 30 Tagen)]{.ph}:
 
-| Klasse A — niedrig (<1 %) | Klasse B — mittel (1–5 %) | Klasse C — hoch (>5 %) |
-|------------------------|------------------------|------------------------|
-| Oberflächliche und plastisch-rekonstruktive Eingriffe, Mammachirurgie | Grössere viszerale Eingriffe (Darmresektion, Cholezystektomie, Splenektomie) | Duodeno-Pankreatektomie, Leber- und Gallengangschirurgie, Darmperforation |
-| Kleinere orthopädische Eingriffe (KAS, Hand, Fuss) | Grosse Orthopädie: Endoprothetik grosser Gelenke, Rückenchirurgie | Aorten- und grosse arterielle Gefässeingriffe |
-| Kleine urologische und gynäkologische Eingriffe | Grosse Urologie und Gynäkologie (Prostatektomie, Hysterektomie abdominal) | Totale Zystektomie |
-| Augenchirurgie, Zahnextraktionen | Kopf-Hals-Eingriffe, kleine intrathorakale Eingriffe | Grosse intrathorakale Eingriffe (Pneumonektomie) |
+::: {.callout-note collapse="true" icon="false"}
+### Übersicht: Risikoklassen A, B und C mit Beispieleingriffen
+
+![Tabelle: Beispieleingriffe zum operativen Risiko in drei Klassen —
+niedriges Risiko A unter 1 Prozent, mittleres Risiko B 1 bis
+5 Prozent, hohes Risiko C über
+5 Prozent](_images/RisikoklassenEingriffe.png){width=100%}
+
+[Stand und fachliche Freigabe der Tabelle prüfen; langfristig als
+barrierefreie HTML-Tabelle umsetzen.]{.ph}
+:::
 
 ## Welche Befunde braucht es? {#befunde}
 
