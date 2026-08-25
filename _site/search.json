@@ -703,8 +703,8 @@
     "objectID": "zuweiser.html#prozess",
     "href": "zuweiser.html#prozess",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
-    "section": "So läuft die präoperative Abklärung",
-    "text": "So läuft die präoperative Abklärung\nMit Ihrer Operationsanmeldung über Docbox erhalten Ihre Patientinnen und Patienten automatisch den Link zum digitalen Gesundheitsfragebogen per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst ausfüllen kann, wird vom Anästhesiesekretariat telefonisch unterstützt. Wenn Ihre Praxis automatisch die Kopien der Fragebögen Ihrer PatientInnen erhalten soll, sagen Sie uns gerne bescheid.\nAnhand der Angaben im Fragebogen triagiert die Anästhesie:\n\nmeist genügt das Telefongespräch am Vortag\nRisikopatientinnen und -patienten hingegen werden aktiv im Vorfeld in die Anästhesiesprechstunde eingeladen\n\nDer Prozess ist neu gestaltet; Details dazu haben Sie über die Fachkanäle erhalten."
+    "section": "So funktioniert die präoperative Abklärung",
+    "text": "So funktioniert die präoperative Abklärung\nMit Ihrer Operationsanmeldung über Docbox erhalten Ihre Patientinnen und Patienten automatisch den Link zum digitalen Gesundheitsfragebogen per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst ausfüllen kann, wird vom Anästhesiesekretariat telefonisch unterstützt. Wenn Ihre Praxis automatisch die Kopien der Fragebögen Ihrer PatientInnen erhalten soll, sagen Sie uns gerne bescheid.\nAnhand der Angaben im Fragebogen triagiert die Anästhesie:\n\nmeist genügt das Telefongespräch am Vortag\nRisikopatientinnen und -patienten hingegen werden aktiv im Vorfeld in die Anästhesiesprechstunde eingeladen\n\nDer Prozess ist neu gestaltet; Details dazu haben Sie über die Fachkanäle erhalten."
   },
   {
     "objectID": "zuweiser.html#praxis",
@@ -725,7 +725,7 @@
     "href": "zuweiser.html#befunde",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "Welche Befunde braucht es?",
-    "text": "Welche Befunde braucht es?\nMassgebend sind Risikoklasse, Belastbarkeit (MET &gt; 4) und klinische Risikofaktoren (KHK, Herzinsuffizienz, Stroke/TIA, Niereninsuffizienz GFR &lt; 60, insulinpflichtiger Diabetes).\n\nHausarztbericht: die Basis jeder Abklärung. Mit Diagnose- und Medikamnetenliste\nEKG und Standard-Labor (Hb, Thrombozyten, Quick, Na, K, Kreatinin): bei Klasse B und C sowie bei Risikofaktoren oder eingeschränkter Belastbarkeit.\nThorax-Röntgen: nur bei Verdacht auf akute oder unbekannte pulmonale Pathologie.\nDiabetes: HbA1c\nErweiterte Diagnostik (Ergometrie, Echo, Lufu, Gerinnung): nach Organbefund; vollständige Befund-Matrix."
+    "text": "Welche Befunde braucht es?\nMassgebend sind Risikoklasse, körperliche belastbarkeit (MET &gt; 4) und klinische Risikofaktoren (KHK, Herzinsuffizienz, Stroke/TIA, Niereninsuffizienz GFR &lt; 60, insulinpflichtiger Diabetes).\n\nHausarztbericht: die Basis jeder Abklärung. Mit Diagnose- und Medikamnetenliste\nEKG und Standard-Labor (Hb, Thrombozyten, Quick, Na, K, Kreatinin): bei Klasse B und C sowie bei Risikofaktoren oder eingeschränkter Belastbarkeit.\nThorax-Röntgen: nur bei Verdacht auf akute oder unbekannte pulmonale Pathologie.\nDiabetes: HbA1c\nErweiterte Diagnostik (Ergometrie, Echo, Lufu, Gerinnung): nach Organbefund; vollständige Befund-Matrix."
   },
   {
     "objectID": "zuweiser.html#gerinnung",

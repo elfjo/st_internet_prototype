@@ -18,7 +18,7 @@ unterstützt bei KomplexpatientInnen.
 Hier finden Sie, was Ihre Praxis dazu
 beiträgt.]{.lede}
 
-## So läuft die präoperative Abklärung {#prozess}
+## So funktioniert die präoperative Abklärung {#prozess}
 
 Mit Ihrer **Operationsanmeldung über Docbox** erhalten
 Ihre Patientinnen und Patienten automatisch den Link zum **digitalen Gesundheitsfragebogen** per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst
@@ -70,7 +70,7 @@ barrierefreie HTML-Tabelle umsetzen.]{.ph}
 
 ## Welche Befunde braucht es? {#befunde}
 
-Massgebend sind Risikoklasse, Belastbarkeit ([MET > 4]{.ph}) und
+Massgebend sind Risikoklasse, körperliche belastbarkeit ([MET > 4]{.ph}) und
 klinische Risikofaktoren [(KHK, Herzinsuffizienz, Stroke/TIA,
 Niereninsuffizienz GFR < 60, insulinpflichtiger Diabetes)]{.ph}.
 
