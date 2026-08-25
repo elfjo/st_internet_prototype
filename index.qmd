@@ -16,9 +16,10 @@ Sprache.
 - [Operation mit stationärem Aufenthalt →](stationaer.qmd)
 - [Generischer Patientenpfad kurz: vor, während, nach →](stationaer-kurz.qmd)
 
-### Zwei Architektur-Varianten zu spezifischen Eingriffen im Vergleich
+### Drei Architektur-Varianten zu spezifischen Eingriffen im Vergleich
 
 - Eigener "Eingriffskosmos": [Hüftprothese: der «Eingriffskosmos» →](behandlungen/hueftprothese.qmd)
+- Kompakte Einzelseite nach norwegischem Muster: [Hüftprothese: alles auf einer Seite →](behandlungen/hueftprothese-kompakt.qmd)
 - Langformseite: [Wirbelsäule Spondylodese: die Langseiten-Variante →](behandlungen/spondylodese.qmd)
 
 ## Für Zuweisende

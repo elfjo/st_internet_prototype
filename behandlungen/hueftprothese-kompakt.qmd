@@ -1,0 +1,145 @@
+---
+title: "Meine Hüftoperation im Überblick"
+---
+
+::: {.mini-nav}
+[⌂ Übersicht](../stationaer.qmd)
+[Schritt-für-Schritt-Fassung →](hueftprothese.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Architektur-Variante nach norwegischem Muster (eine Seite, drei
+Phasen, Tiefe in Aufklappern), angesiedelt zwischen der
+[Kompaktinformation](hueftprothese/eilig.qmd) und der
+[Langform](spondylodese.qmd). Klinische Angaben vor Verwendung
+fachlich freigeben.
+:::
+
+[Bei einer Hüftprothese erhält Ihr Hüftgelenk einen Ersatz, der Sie
+meist ein Leben lang begleitet, damit Sie wieder frei und sicher
+gehen, Treppen steigen und durchschlafen. Hier finden Sie den ganzen
+Weg auf einer Seite: vor, während und nach der Operation.]{.lede}
+
+Die Operation dauert in der Regel [60 bis 90 Minuten]{.ph}, der
+Aufenthalt meist **3 Tage**. Üblich ist eine Spinalanästhesie: Ihre
+Beine ruhen tief und schmerzfrei, Ihr Kopf bleibt klar.
+
+::: {.callout-note collapse="true" icon="false"}
+### Mehr erfahren: das Implantat
+
+Die künstliche Pfanne ist eine Schale mit einer Gleitfläche aus
+Kunststoff; ihre Aussenseite kann fest in den eigenen Knochen
+einwachsen. Die neue Gelenkkugel aus Keramik oder Metall sitzt auf
+einem Schaft, der im Oberschenkelknochen verankert wird. Welche
+Variante zu Ihnen passt, plant Ihre Orthopädin oder Ihr Orthopäde
+anhand Ihrer Röntgenbilder und bespricht sie mit Ihnen.
+:::
+
+## Vor der Operation {#vor}
+
+Mit der Anmeldung erhalten Sie den digitalen Gesundheitsfragebogen
+per E-Mail; am besten füllen Sie ihn heute oder morgen aus, er dauert
+etwa **15 Minuten**. Aus Ihren Angaben ergibt sich, wie Ihr
+Anästhesiegespräch stattfindet: bei vielen als Telefonat am Tag vor
+der Operation, bei besonderer Aufmerksamkeit als persönliche
+Sprechstunde mit separater Einladung.
+
+Die Wochen bis zum Eintritt sind Ihr Trainingsfenster: aktiv bleiben,
+gut essen, ab **6 Wochen** vorher rauchfrei. Richten Sie Ihre Wohnung
+her, damit sie nachher mitspielt, und klären Sie Fahrt und
+Unterstützung für die erste Woche.
+
+::: {.callout-note collapse="true" icon="false"}
+### Essen und Trinken vor dem Eintritt
+
+Essen bis **6 Stunden** vor der Eintrittszeit, danach bitte nichts
+mehr. Trinken (Wasser ohne Kohlensäure, Tee, schwarzer Kaffee) bis
+**2 Stunden** vorher. In den letzten zwei Stunden gar nichts mehr,
+auch keine Bonbons oder Kaugummis. Ein leerer Magen schützt während
+der Narkose Ihre Atemwege.
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+### Medikamente, Waschbehandlung, Packliste
+
+Die meisten Medikamente nehmen Sie normal weiter; Blutverdünner und
+Diabetesmedikamente pausieren Sie nur nach Absprache. Ab **Tag 5 vor
+der Operation** beginnt die Waschbehandlung, falls verordnet. Für die
+Packliste gilt: bequeme weite Kleidung, feste Schuhe, Ihre Gehstöcke,
+falls vorhanden; Schmuck und Wertsachen bleiben zu Hause.
+[Alle Details →](hueftprothese/vor-der-operation.qmd)
+:::
+
+## Während des Aufenthalts {#waehrend}
+
+Ihre Eintrittszeit erhalten Sie [am Vortag per SMS]{.ph}. Am
+Operationstag begleiten wir Sie durch einen eingespielten Ablauf;
+Ihre Aufgabe ist es, anzukommen und mitzuhelfen, möglichst bequem zu
+liegen. Ob Sie während der Spinalanästhesie dösen, Musik hören oder
+ganz schlafen, entscheiden Sie mit. Danach wachen Sie im Aufwachraum
+auf, in Ruhe und gut betreut.
+
+Ihre Erholung beginnt noch am Operationstag: die ersten Schritte an
+Stöcken mit Begleitung. An Tag 1 folgen Gehtraining und normales
+Essen, an Tag 2 Treppensteigen und die Röntgenkontrolle, an Tag 3
+gehen die meisten nach Hause: Sie gehen sicher und selbstständig,
+steigen Treppen und die Wunde ist ruhig.
+
+## Nach der Operation {#nach}
+
+Zu Hause wird Ihre Gehstrecke laufend länger; die Gehstöcke geben
+Ihrem neuen Gelenk in den ersten Wochen Halt, bis es fest
+eingewachsen ist. Gönnen Sie sich grosszügig Pausen und steigern Sie
+sich schrittweise: Autofahren ab **Woche 6**, Velofahren ab
+**Woche 10**, Wandern nach **3 Monaten**, nach einem Jahr volle
+Kraft, Beweglichkeit und Ausdauer. Vielleicht wissen Sie schon,
+worauf Sie sich am meisten freuen; dieses Ziel darf Sie durch die
+Übungswochen begleiten.
+
+::: {.callout-note collapse="true" icon="false"}
+### Ihr Übungsprogramm
+
+[Gesässmuskulatur aktivieren, Hüftbeugung in Rückenlage,
+Hüftstreckung im Stehen; je 10 bis 20 Wiederholungen, 3-mal täglich.
+Als bebilderte Anleitung oder kurzes Video umsetzen.]{.ph}
+:::
+
+Die Nachkontrolle findet [nach Wochenangabe]{.ph} statt. Notieren Sie
+sich bis dahin, was Sie beschäftigt, denn jede Frage hat dort Platz,
+auch, wie es Ihnen insgesamt geht, mit Energie, Schlaf und Stimmung.
+
+## Worauf Sie achten sollten {#achten}
+
+Die allermeisten Verläufe gehen ruhig ihren Gang. Damit Sie sicher
+unterscheiden können, wofür Ihr Körper einfach Zeit braucht und was
+einen Anruf verdient:
+
+::: {.care}
+### Melden Sie sich sofort bei diesen Anzeichen
+
+- Fieber über [38.5 °C]{.ph}
+- Zunehmende Rötung, Schwellung oder Nässen der Wunde
+- Plötzlich stark zunehmende Schmerzen
+- Schwellung oder Schmerz in der Wade
+- Atemnot oder Brustschmerz: in diesem Fall direkt **144** anrufen
+
+In den ersten [7 Tagen]{.ph} nach Austritt erreichen Sie die Station
+unter [Nummer]{.ph}, danach die Person, die Sie operiert hat, oder
+Ihre Hausarztpraxis.
+:::
+
+::: {.praxis}
+## Praktische Informationen {#praktisches}
+
+[Anreise und Parkierung · Zimmer und Menüwahl · Besuchszeiten · WLAN
+· Wertsachen, gesammelt unter «Gut zu wissen».]{.ph}
+:::
+
+::: {.mini-nav}
+[⌂ Übersicht](../stationaer.qmd)
+[Schritt-für-Schritt-Fassung →](hueftprothese.qmd)
+:::
+
+{{< include ../_kontakt.qmd >}}
+
+{{< include ../_governance.qmd >}}
