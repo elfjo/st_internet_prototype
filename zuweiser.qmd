@@ -11,14 +11,14 @@ Struktur-Prototyp für den Zuweiser-Bereich. Klinische Inhalte vor
 Verwendung fachlich freigeben.
 :::
 
-[Die Klinik verschickt den digitalen Gesundheitsfragebogen, die
-Anästhesie beurteilt das Risiko, das präoperative Pflegeteam (POPS)
+Die Klinik verschickt den digitalen Gesundheitsfragebogen, die
+Anästhesie beurteilt individuell das Risiko und triagiert in Sprechstundenpfade, das präoperative Pflegeteam (POPS)
 unterstützt bei KomplexpatientInnen.
 
 Hier finden Sie, was Ihre Praxis dazu
-beiträgt.]{.lede}
+beiträgt.
 
-## So funktioniert die präoperative Abklärung {#prozess}
+## So funktioniert die präoperative Abklärung und Triage {#prozess}
 
 Mit Ihrer **Operationsanmeldung über Docbox** erhalten
 Ihre Patientinnen und Patienten automatisch den Link zum **digitalen Gesundheitsfragebogen** per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst
@@ -26,8 +26,8 @@ ausfüllen kann, wird vom Anästhesiesekretariat unterstützt. Wenn Ihre Praxis 
 
 Anhand der Angaben im Fragebogen **triagiert** die Anästhesie:
 
-- meist genügt das **Telefongespräch am Vortag**
-- **Risikopatientinnen** und -patienten hingegen werden aktiv im Vorfeld in die **Anästhesiesprechstunde** eingeladen
+- oft genügt das **Telefongespräch am Vortag** durch die narkoseführende Anästhesistin oder den narkoseführenden Anästhesisten
+- **Risikopatientinnen** und -patienten hingegen werden aktiv im Vorfeld von uns in die **Anästhesiesprechstunde** aufgeboten
 
 [Der Prozess ist neu gestaltet; Details dazu haben Sie über die Fachkanäle erhalten.]{.ph}
 
@@ -127,6 +127,7 @@ finden Sie hier:
 ## Kontakt {#kontakt}
 
 Eigenes Kontaktfeld
+
 - Kontakt1
 - Kontakt2
 - Kontakt 3

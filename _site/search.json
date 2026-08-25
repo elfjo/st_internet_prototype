@@ -697,14 +697,14 @@
     "href": "zuweiser.html",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "",
-    "text": "⌂ Prototyp-Übersicht\n[Die Klinik verschickt den digitalen Gesundheitsfragebogen, die Anästhesie beurteilt das Risiko, das präoperative Pflegeteam (POPS) unterstützt bei KomplexpatientInnen.\nHier finden Sie, was Ihre Praxis dazu beiträgt.]{.lede}"
+    "text": "⌂ Prototyp-Übersicht\nDie Klinik verschickt den digitalen Gesundheitsfragebogen, die Anästhesie beurteilt individuell das Risiko und triagiert in Sprechstundenpfade, das präoperative Pflegeteam (POPS) unterstützt bei KomplexpatientInnen.\nHier finden Sie, was Ihre Praxis dazu beiträgt."
   },
   {
     "objectID": "zuweiser.html#prozess",
     "href": "zuweiser.html#prozess",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
-    "section": "So funktioniert die präoperative Abklärung",
-    "text": "So funktioniert die präoperative Abklärung\nMit Ihrer Operationsanmeldung über Docbox erhalten Ihre Patientinnen und Patienten automatisch den Link zum digitalen Gesundheitsfragebogen per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst ausfüllen kann, wird vom Anästhesiesekretariat unterstützt. Wenn Ihre Praxis automatisch die Kopien der Fragebögen Ihrer PatientInnen erhalten soll, geben Sie uns gerne bescheid.\nAnhand der Angaben im Fragebogen triagiert die Anästhesie:\n\nmeist genügt das Telefongespräch am Vortag\nRisikopatientinnen und -patienten hingegen werden aktiv im Vorfeld in die Anästhesiesprechstunde eingeladen\n\nDer Prozess ist neu gestaltet; Details dazu haben Sie über die Fachkanäle erhalten."
+    "section": "So funktioniert die präoperative Abklärung und Triage",
+    "text": "So funktioniert die präoperative Abklärung und Triage\nMit Ihrer Operationsanmeldung über Docbox erhalten Ihre Patientinnen und Patienten automatisch den Link zum digitalen Gesundheitsfragebogen per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst ausfüllen kann, wird vom Anästhesiesekretariat unterstützt. Wenn Ihre Praxis automatisch die Kopien der Fragebögen Ihrer PatientInnen erhalten soll, geben Sie uns gerne bescheid.\nAnhand der Angaben im Fragebogen triagiert die Anästhesie:\n\noft genügt das Telefongespräch am Vortag durch die narkoseführende Anästhesistin oder den narkoseführenden Anästhesisten\nRisikopatientinnen und -patienten hingegen werden aktiv im Vorfeld von uns in die Anästhesiesprechstunde aufgeboten\n\nDer Prozess ist neu gestaltet; Details dazu haben Sie über die Fachkanäle erhalten."
   },
   {
     "objectID": "zuweiser.html#praxis",
@@ -746,7 +746,7 @@
     "href": "zuweiser.html#kontakt",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "Kontakt",
-    "text": "Kontakt\nEigenes Kontaktfeld - Kontakt1 - Kontakt2 - Kontakt 3\n\n⌂ Prototyp-Übersicht\n\n\n\n\n\nGeprüft am\nDatum\n\n\nNächste Prüfung\nDatum + 2 Jahre\n\n\nFachliche Freigabe\nName, Funktion\n\n\n\nDiese Seiten sind ein Prototyp. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte und dienen ausschliesslich der Veranschaulichung von Struktur und Sprache."
+    "text": "Kontakt\nEigenes Kontaktfeld\n\nKontakt1\nKontakt2\nKontakt 3\n\n\n⌂ Prototyp-Übersicht\n\n\n\n\n\nGeprüft am\nDatum\n\n\nNächste Prüfung\nDatum + 2 Jahre\n\n\nFachliche Freigabe\nName, Funktion\n\n\n\nDiese Seiten sind ein Prototyp. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte und dienen ausschliesslich der Veranschaulichung von Struktur und Sprache."
   },
   {
     "objectID": "stationaer-kurz.html",
