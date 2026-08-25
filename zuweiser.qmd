@@ -1,6 +1,5 @@
 ---
 title: "Anästhesie: Für Ärzteschaft und Zuweisende"
-toc-location: left
 ---
 
 ::: {.mini-nav}
@@ -52,7 +51,6 @@ Anhand der Angaben im Fragebogen und des EIngriffs **triagiert** das ANästhesie
 
 ## Risikoklassen der Eingriffe {#risikoklassen}
 
-::: {.column-page-right}
 ::: {.callout-note collapse="true" icon="false"}
 ### Übersicht: Risikoklassen A, B und C mit Beispieleingriffen
 
@@ -60,8 +58,6 @@ Anhand der Angaben im Fragebogen und des EIngriffs **triagiert** das ANästhesie
 niedriges Risiko A unter 1 Prozent, mittleres Risiko B 1 bis
 5 Prozent, hohes Risiko C über
 5 Prozent](_images/RisikoklassenEingriffe.png){width=100%}
-
-:::
 :::
 
 ## Welche Befunde braucht es? {#befunde}
@@ -86,7 +82,6 @@ Voraussetzung für eine Regionalanästhesie.
 
 Übersicht über Dosierungen, Absetzzeitpunkten und Bridging-Hinweisen:
 
-::: {.column-page-right}
 ::: {.callout-note collapse="true" icon="false"}
 ### Übersicht: Absetzen gerinnungshemmender Medikamente vor der Operation
 
@@ -94,8 +89,6 @@ Voraussetzung für eine Regionalanästhesie.
 vor der Operation, präoperativer Pause und Bemerkungen (LMWH,
 Vitamin-K-Antagonisten, DOAC,
 Thrombozyten-Aggregationshemmer)](_images/BlutverduennungManagement.png){width=100%}
-
-:::
 :::
 
 ## Anämie und Patient Blood Management {#pbm}
