@@ -23,12 +23,10 @@ informiert und in Ihrem Tempo. Nehmen Sie zur Sprechstunde jemanden
 mit, denn vier Ohren hören mehr als zwei, und fragen Sie nach, bis es
 für Sie stimmt.
 
-Mit der Anmeldung erhalten Sie den digitalen Gesundheitsfragebogen
-per E-Mail. Er dauert
-etwa **15 Minuten**. Sie können ihn allein oder mit jemandem aus Ihrem Umfeld ausfüllen, und wenn Sie Unterstützung möchten, genügt
-ein Anruf: [Telefonnummer]{.ph}.
+Mit der Anmeldung erhalten Sie den **digitalen Gesundheitsfragebogen**
+per E-Mail mit einem SMS-COde. Er dauert etwa 15 Minuten. Sie können ihn allein oder mit jemandem aus Ihrem Umfeld ausfüllen, und wenn Sie Unterstützung möchten, genügt ein Anruf: [Telefonnummer]{.ph}.
 
-Aus Ihren Angaben ergibt sich, auf welche Weise Ihr Anästhesiegespräch
+Aus Ihren Angaben ergibt sich, auf welche Weise Ihr **Anästhesiegespräch**
 stattfindet: Bei vielen genügt das Telefonat am Tag vor der
 Operation. Wenn Ihre Gesundheit besondere Aufmerksamkeit verdient,
 laden wir Sie mit separater Einladung persönlich in die
@@ -74,14 +72,16 @@ Bescheid.
 
 Die meisten Medikamente nehmen Sie normal weiter; Blutverdünner und
 Diabetesmedikamente pausieren Sie nur nach Absprache mit Ihrer Ärztin
-oder Ihrem Arzt, im Zweifel genügt ein Anruf. Für die Packliste gilt:
+oder Ihrem Arzt, im Zweifel genügt ein Anruf.
+
+Für die Packliste gilt:
 Versichertenkarte, Ausweis, Medikamentenliste, bequeme Kleidung,
 feste Schuhe, Toilettenartikel, Brille oder Hörgerät samt Etui;
 Schmuck und Wertsachen bleiben zu Hause.
 :::
 
 ::: {.melden}
-### Wenn sich Ihr Zustand zwischenzeitlich verändert
+### Melden Sie sich, Wenn sich Ihr Zustand zwischenzeitlich verändert
 
 Deutlich zunehmende oder neue Beschwerden, eine Erkältung, Fieber
 oder eine Zahnentzündung vor der Operation: Rufen Sie uns an unter
@@ -91,33 +91,32 @@ wir alles für Sie abstimmen.
 
 ## Ankommen und Aufenthalt {#waehrend}
 
-Ihre Eintrittszeit erhalten Sie [am Vortag per SMS]{.ph}; falls
+Ihre **Eintrittszeit** erhalten Sie [am Vortag per SMS]{.ph}; falls
 keine Nachricht ankommt, rufen Sie uns einfach an:
 [Telefonnummer]{.ph}.
 
 Am Operationstag begleiten wir Sie durch einen eingespielten Ablauf;
-Ihre Aufgabe ist es, anzukommen und mitzuhelfen, es Ihnen möglichst angenehm zu gestalten.
+Wir laden Sie ein, anzukommen und mitzuhelfen, es Ihnen möglichst angenehm zu gestalten.
 
-Zwischen Ankunft und Operation bleibt oft eine Wartezeit,
-manchmal eine halbe Stunde, manchmal länger: Nehmen Sie sich etwas
+Zwischen Ankunft und Operation bleibt oft eine **Wartezeit**,
+manchmal eine halbe Stunde, manchmal deutlich länger: Nehmen Sie sich etwas
 zum Lesen oder Hören mit.
 
-Nach dem Eingriff wachen Sie im Aufwachraum auf, in Ruhe und gut
+Nach dem Eingriff wachen Sie im **Aufwachraum** auf, in Ruhe und gut
 betreut. Sie dürfen dort einfach dösen, denn Ihr Körper nutzt diese
 Stunden zum Ankommen, während wir Kreislauf, Atmung und Ihr
 Wohlbefinden im Blick behalten. Auf Wunsch informieren wir Ihre
 Angehörigen, wie die Operation verlaufen ist.
 
 Auf der Station bespricht das Ärzteteam mindestens einmal täglich mit
-Ihnen den Stand und die nächsten Schritte; notieren Sie Ihre Fragen
+Ihnen den Stand und die nächsten Schritte. Notieren Sie Ihre Fragen
 vorher, denn jede Frage hat dort Platz.
 
-Schmerzen lassen sich
+Schmerzen oder Unwohlsein lassen sich
 heutzutage gut behandeln: Melden Sie sich früh, je eher wir wissen,
 was Sie brauchen, desto besser wirkt die Behandlung.
 
-Bereits
-während des Aufenthalts klären wir mit Ihnen, wie es zu Hause
+Bereits während des Aufenthalts klären wir mit Ihnen, wie es zu Hause
 weitergeht: Unterstützung, Hilfsmittel, falls nötig Rehabilitation
 oder Spitex.
 
