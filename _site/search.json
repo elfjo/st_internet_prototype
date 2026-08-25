@@ -711,14 +711,14 @@
     "href": "zuweiser.html#prozess",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "So läuft die präoperative Abklärung",
-    "text": "So läuft die präoperative Abklärung\nMit Ihrer Operationsanmeldung über Docbox erhalten Ihre Patientinnen und Patienten automatisch den Link zum digitalen Gesundheitsfragebogen per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst ausfüllen kann, wird von der Klinik telefonisch unterstützt.\nAnhand der Angaben im Fragebogen triagiert die Anästhesie: meist genügt wie bisher das Telefongespräch am Vortag, Risikopatientinnen und -patienten hingegen werden aktiv im Vorfeld in die Anästhesiesprechstunde eingeladen. Der Prozess ist neu gestaltet; Details dazu haben Sie über die Fachkanäle erhalten."
+    "text": "So läuft die präoperative Abklärung\nMit Ihrer Operationsanmeldung über Docbox erhalten Ihre Patientinnen und Patienten automatisch den Link zum digitalen Gesundheitsfragebogen per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst ausfüllen kann, wird vom Anästhesiesekretariat telefonisch unterstützt. Wenn Ihre Praxis automatisch die Kopien des Fragebögen Ihrer PatientInnen erhalten möchte, sagen Sie uns gerne bescheid.\nAnhand der Angaben im Fragebogen triagiert die Anästhesie: - meist genügt das Telefongespräch am Vortag - Risikopatientinnen und -patienten hingegen werden aktiv im Vorfeld in die Anästhesiesprechstunde eingeladen. Der Prozess ist neu gestaltet; Details dazu haben Sie über die Fachkanäle erhalten."
   },
   {
     "objectID": "zuweiser.html#praxis",
     "href": "zuweiser.html#praxis",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "Ihr Beitrag",
-    "text": "Ihr Beitrag\n\nVor der Anmeldung die PatientInnen informieren: Die Patientin oder der Patient muss von Ihnen über den geplanten Eingriff informiert sein, bevor der Fragebogen automatisch eintrifft.\nHausärztliche Abklärung bei Alter über 70 Jahren oder Eingriff der Risikoklasse B oder C (Tabelle unten).\nBefunde einsenden: ins Formular «Präoperative Beurteilung durch den Hausarzt», PDF und Word (Dummy-Link), mit allfälligen Beilagen an E-Mail. Befunde bitte nicht älter als zwei Monate.\nMöglichst früh anmelden: idealerweise vier Wochen vor dem Operationstermin, damit Zeit für Zusatzabklärungen und die Behandlung einer Anämie bleibt.\nBesondere Sprechstundenwünsche von Operateur an das Anästhesiesekretariat."
+    "text": "Ihr Beitrag\n\nVor der Anmeldung die PatientInnen informieren: Die Patientin oder der Patient muss von Ihnen über den geplanten Eingriff informiert sein, bevor der Fragebogen automatisch eintrifft.\nHausärztliche Abklärung veranlassen bei Alter über 70 Jahren oder Eingriff der Risikoklasse B oder C (Tabelle unten).\nBefunde einsenden: ins Formular «Präoperative Beurteilung durch den Hausarzt», PDF und Word (Dummy-Link), mit allfälligen Beilagen an E-Mail. Befunde bitte nicht älter als zwei Monate.\nDen EIngriff möglichst früh anmelden: idealerweise vier Wochen vor dem Operationstermin, damit Zeit für Zusatzabklärungen und die Behandlung einer Anämie bleibt.\nBesondere Sprechstundenwünsche von Operateur an das Anästhesiesekretariat.\n\nPatientenwunsch (etwa ausgeprägter Angst)\nStatus nach Anästhesieproblemen\nschweren Begleiterkrankungen / Risikoabwägungen im Vorfeld"
   },
   {
     "objectID": "zuweiser.html#risikoklassen",
@@ -739,28 +739,21 @@
     "href": "zuweiser.html#gerinnung",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "Umgang mit gerinnungshemmenden Medikamenten",
-    "text": "Umgang mit gerinnungshemmenden Medikamenten\nPräoperative Pausen.\n\n\n\n\n\n\n\nSubstanz\nPräoperative Pause\n\n\n\n\nLMWH prophylaktisch / therapeutisch\n12 h / über 24 h\n\n\nVitamin-K-Antagonisten\n8 Tage, Bridging gemäss Empfehlung\n\n\nDOAC (Rivaroxaban, Apixaban, Edoxaban)\n≥ 48 h, kein Bridging\n\n\nDabigatran bei Niereninsuffizienz\n72 bis über 120 h je nach Clearance\n\n\nASS 100 mg prophylaktisch\n5 Tage\n\n\nASS therapeutisch\nbeibehalten, Pause nur auf Anordnung des Operateurs\n\n\nClopidogrel / Prasugrel / Ticagrelor\n7 / 7 / 5 Tage\n\n\n\nusw…"
+    "text": "Umgang mit gerinnungshemmenden Medikamenten\nDie präoperativen Pausen sind neben dem Blutungsrisiko oft auch Voraussetzung für eine Regionalanästhesie. Die vollständige Übersicht mit Dosierungen, Absetzzeitpunkten und Bridging-Hinweisen:\n\n\n\n\n\n\nHinweisÜbersicht: Absetzen gerinnungshemmender Medikamente vor der Operation\n\n\n\n\n\n\n\n\nTabelle: gerinnungshemmende Medikamente mit Dosis, Absetzzeitpunkt vor der Operation, präoperativer Pause und Bemerkungen (LMWH, Vitamin-K-Antagonisten, DOAC, Thrombozyten-Aggregationshemmer)\n\n\nStand und fachliche Freigabe der Tabelle prüfen; langfristig als barrierefreie HTML-Tabelle umsetzen."
   },
   {
     "objectID": "zuweiser.html#pbm",
     "href": "zuweiser.html#pbm",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "Anämie und Patient Blood Management",
-    "text": "Anämie und Patient Blood Management\nDie unbehandelte Anämie gilt international als Kontraindikation für elektive Eingriffe mit relevantem Blutverlust.\n\nZiel: präoperativer Hb 130 g/l bei Frauen und Männern.\nWann abklären: potenzieller Blutverlust über 300 ml, insbesondere Endoprothetik, Wirbelsäulen-, Gefäss-, grosse Viszeral-, Urologie- und Gynäkologie-Eingriffe.\nLabor: Hb, MCV, Ferritin/TSAT, CRP, Kreatinin; bei erhöhtem MCV zusätzlich Retikulozyten, Vitamin B12, Folsäure.\nZeitfaktor: Behandlungsbeginn idealerweise vier Wochen präoperativ. Jeder Therapietag vor dem Eingriff hilft.\nAlgorithmus: regional abgestimmt, Abbildung oder Download."
-  },
-  {
-    "objectID": "zuweiser.html#sprechstunde",
-    "href": "zuweiser.html#sprechstunde",
-    "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
-    "section": "Anästhesiesprechstunde",
-    "text": "Anästhesiesprechstunde\nDie Anästhesie lädt Risikopatientinnen und -patienten anhand des Fragebogens oder des geplanten Eingriffs aktiv ein. Das geschieht ohne Ihr Zutun.\nUnabhängig davon können Sie anmelden bei\n\nPatientenwunsch (etwa ausgeprägter Angst)\nStatus nach Anästhesieproblemen\nschweren Begleiterkrankungen / Risikoabwägungen\n\nAnmeldung: Anästhesiesekretariat, E-Mail."
+    "text": "Anämie und Patient Blood Management\nDie unbehandelte Anämie gilt international als Kontraindikation für elektive Eingriffe mit relevantem Blutverlust. Wenn der Anmelde-CHOP-Code einem elektiven Eingriff mit typischerweise erhöhtem Blutungsrisiko entspricht, wird die Patientin oder der Patient von uns automatisch in die Anästheisesprechstunde aufgeboten. Dort erfolgt eine Hb-Bestimmung.\n\nZiel: präoperativer Hb 130 g/l bei Frauen und Männern.\nWann abklären: potenzieller Blutverlust über 300 ml, insbesondere Endoprothetik, Wirbelsäulen-, Gefäss-, grosse Viszeral-, Urologie- und Gynäkologie-Eingriffe.\nLabor: Hb, MCV, Ferritin/TSAT, CRP, Kreatinin; bei erhöhtem MCV zusätzlich Retikulozyten, Vitamin B12, Folsäure.\nZeitfaktor: Behandlungsbeginn idealerweise vier Wochen präoperativ. Jeder Therapietag vor dem Eingriff hilft.\nAlgorithmus: regional abgestimmt, Abbildung oder Download."
   },
   {
     "objectID": "zuweiser.html#kontakt",
     "href": "zuweiser.html#kontakt",
     "title": "Anästhesie: Für Ärzteschaft und Zuweisende",
     "section": "Kontakt",
-    "text": "Kontakt\n\nFragen zur Anästhesie, zum Anästhesiegespräch oder zum Gesundheitsfragebogen: Anästhesiesekretariat, Telefon, E-Mail\nFragen zum Operationstermin oder zum Eintritt: Patientenadministration, Telefon\nAnmeldungen für die Anästhesiesprechstunde und Rückmeldungen zum Ablauf: E-Mail\n\n\n⌂ Prototyp-Übersicht\n\n\n\n\n\nGeprüft am\nDatum\n\n\nNächste Prüfung\nDatum + 2 Jahre\n\n\nFachliche Freigabe\nName, Funktion\n\n\n\nDiese Seiten sind ein Prototyp. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte und dienen ausschliesslich der Veranschaulichung von Struktur und Sprache."
+    "text": "Kontakt\nEigenes Kontaktfeld - Kontakt1 - Kontakt2 - Kontakt 3\n\n⌂ Prototyp-Übersicht\n\n\n\n\n\nGeprüft am\nDatum\n\n\nNächste Prüfung\nDatum + 2 Jahre\n\n\nFachliche Freigabe\nName, Funktion\n\n\n\nDiese Seiten sind ein Prototyp. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte und dienen ausschliesslich der Veranschaulichung von Struktur und Sprache."
   },
   {
     "objectID": "phasen/vorbereitung.html",

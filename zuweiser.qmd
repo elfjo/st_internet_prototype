@@ -20,14 +20,14 @@ beiträgt.]{.lede}
 
 ## So läuft die präoperative Abklärung {#prozess}
 
-Mit Ihrer Operationsanmeldung über Docbox erhalten
-Ihre Patientinnen und Patienten automatisch den Link zum digitalen
-Gesundheitsfragebogen per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst
-ausfüllen kann, wird von der Klinik telefonisch unterstützt.
+Mit Ihrer **Operationsanmeldung über Docbox** erhalten
+Ihre Patientinnen und Patienten automatisch den Link zum **digitalen Gesundheitsfragebogen** per E-Mail und einen Code per SMS. Wer den Bogen nicht selbst
+ausfüllen kann, wird vom Anästhesiesekretariat telefonisch unterstützt. Wenn Ihre Praxis automatisch die Kopien des Fragebögen Ihrer PatientInnen erhalten möchte, sagen Sie uns gerne bescheid.
 
-Anhand der Angaben im Fragebogen triagiert die Anästhesie: meist genügt wie bisher das
-Telefongespräch am Vortag, Risikopatientinnen und -patienten hingegen werden
-aktiv im Vorfeld in die Anästhesiesprechstunde eingeladen. [Der Prozess ist neu
+Anhand der Angaben im Fragebogen **triagiert** die Anästhesie:
+- meist genügt das **Telefongespräch am Vortag**
+- **Risikopatientinnen** und -patienten hingegen werden
+aktiv im Vorfeld in die **Anästhesiesprechstunde** eingeladen. [Der Prozess ist neu
 gestaltet; Details dazu haben Sie über die Fachkanäle
 erhalten.]{.ph}
 
@@ -36,15 +36,17 @@ erhalten.]{.ph}
 - **Vor der Anmeldung die PatientInnen informieren:** Die Patientin oder der Patient
   muss von Ihnen über den geplanten Eingriff informiert sein, bevor der Fragebogen automatisch
   eintrifft.
-- **Hausärztliche Abklärung** bei Alter **über 70 Jahren** oder
+- **Hausärztliche Abklärung veranlassen** bei Alter **über 70 Jahren** oder
   Eingriff der **Risikoklasse B oder C** (Tabelle unten).
 - **Befunde einsenden:** ins Formular [«Präoperative
   Beurteilung durch den Hausarzt», PDF und Word (Dummy-Link)]{.ph},
   mit allfälligen Beilagen an [E-Mail]{.ph}. Befunde bitte nicht älter als zwei Monate.
-- **Möglichst früh anmelden:** idealerweise **vier Wochen vor dem
-  Operationstermin**, damit Zeit für Zusatzabklärungen und die
-  Behandlung einer Anämie bleibt.
+- **Den EIngriff möglichst früh anmelden:** idealerweise **vier Wochen vor dem
+  Operationstermin**, damit Zeit für Zusatzabklärungen und die Behandlung einer Anämie bleibt.
 - **Besondere Sprechstundenwünsche** von Operateur an das [Anästhesiesekretariat]{.ph}.
+    - Patientenwunsch (etwa ausgeprägter Angst)
+    - Status nach Anästhesieproblemen
+    - schweren Begleiterkrankungen / Risikoabwägungen im Vorfeld
 
 ## Risikoklassen der Eingriffe {#risikoklassen}
 
@@ -75,24 +77,27 @@ Niereninsuffizienz GFR < 60, insulinpflichtiger Diabetes)]{.ph}.
 
 ## Umgang mit gerinnungshemmenden Medikamenten {#gerinnung}
 
-Präoperative Pausen.
+Die präoperativen Pausen sind neben dem Blutungsrisiko oft auch
+Voraussetzung für eine Regionalanästhesie. Die vollständige Übersicht
+mit Dosierungen, Absetzzeitpunkten und Bridging-Hinweisen:
 
-| Substanz | Präoperative Pause |
-|--------------------------------------|----------------------|
-| LMWH prophylaktisch / therapeutisch | 12 h / über 24 h |
-| Vitamin-K-Antagonisten | 8 Tage, Bridging gemäss Empfehlung |
-| DOAC (Rivaroxaban, Apixaban, Edoxaban) | ≥ 48 h, kein Bridging |
-| Dabigatran bei Niereninsuffizienz | 72 bis über 120 h je nach Clearance |
-| ASS 100 mg prophylaktisch | 5 Tage |
-| ASS therapeutisch | beibehalten, Pause nur auf Anordnung des Operateurs |
-| Clopidogrel / Prasugrel / Ticagrelor | 7 / 7 / 5 Tage |
+::: {.callout-note collapse="true" icon="false"}
+### Übersicht: Absetzen gerinnungshemmender Medikamente vor der Operation
 
-usw...
+![Tabelle: gerinnungshemmende Medikamente mit Dosis, Absetzzeitpunkt
+vor der Operation, präoperativer Pause und Bemerkungen (LMWH,
+Vitamin-K-Antagonisten, DOAC,
+Thrombozyten-Aggregationshemmer)](_images/BlutverduennungManagement.png){width=100%}
+
+[Stand und fachliche Freigabe der Tabelle prüfen; langfristig als
+barrierefreie HTML-Tabelle umsetzen.]{.ph}
+:::
 
 ## Anämie und Patient Blood Management {#pbm}
 
-Die unbehandelte Anämie gilt international als Kontraindikation für elektive
-Eingriffe mit relevantem Blutverlust.
+Die **unbehandelte Anämie** gilt international als Kontraindikation für elektive
+Eingriffe mit relevantem Blutverlust. Wenn der Anmelde-CHOP-Code einem elektiven Eingriff mit typischerweise erhöhtem Blutungsrisiko entspricht,
+wird die Patientin oder der Patient von uns automatisch in die Anästheisesprechstunde aufgeboten. Dort erfolgt eine Hb-Bestimmung.
 
 - **Ziel:** präoperativer Hb **130 g/l** bei Frauen und Männern.
 - **Wann abklären:** potenzieller Blutverlust über [300 ml]{.ph},
@@ -105,29 +110,13 @@ Eingriffe mit relevantem Blutverlust.
 - **Algorithmus:** regional abgestimmt, [Abbildung oder
   Download]{.ph}.
 
-## Anästhesiesprechstunde {#sprechstunde}
-
-Die Anästhesie lädt Risikopatientinnen und -patienten anhand des
-Fragebogens oder des geplanten Eingriffs aktiv ein. Das geschieht ohne Ihr Zutun.
-
-Unabhängig davon können Sie anmelden bei
-
-- Patientenwunsch (etwa ausgeprägter Angst)
-- Status nach Anästhesieproblemen
-- schweren Begleiterkrankungen / Risikoabwägungen
-
-Anmeldung:
-[Anästhesiesekretariat, E-Mail]{.ph}.
 
 ## Kontakt {#kontakt}
 
-- Fragen zur Anästhesie, zum Anästhesiegespräch oder zum
-  Gesundheitsfragebogen: [Anästhesiesekretariat, Telefon,
-  E-Mail]{.ph}
-- Fragen zum Operationstermin oder zum Eintritt:
-  [Patientenadministration, Telefon]{.ph}
-- Anmeldungen für die Anästhesiesprechstunde und Rückmeldungen zum
-  Ablauf: [E-Mail]{.ph}
+Eigenes Kontaktfeld
+- Kontakt1
+- Kontakt2
+- Kontakt 3
 
 ::: {.mini-nav}
 [⌂ Prototyp-Übersicht](index.qmd)
