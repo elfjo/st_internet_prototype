@@ -1,6 +1,5 @@
 ---
 title: "Vor, während und nach der Operation"
-toc: false
 ---
 
 ::: {.mini-nav}
@@ -9,44 +8,157 @@ toc: false
 :::
 
 ::: {.hinweis-prototyp}
-Architektur-Variante «kurzer Pfad»: dieselben Inhalte wie der
-[siebenschrittige Wegweiser](stationaer.qmd), gebündelt in drei
-Phasen nach dem Muster vor, während, nach.
+Architektur-Variante «kurzer Pfad»: die Inhalte des
+[siebenschrittigen Wegweisers](stationaer.qmd), verdichtet auf einer
+Seite in drei Phasen. Tiefe liegt in Aufklappern.
 :::
 
-[Dieser Wegweiser führt Sie in drei Phasen durch Ihre Operation. Jede
-Phase öffnet die passenden Seiten; Sie steigen dort ein, wo Sie
-gerade stehen.]{.lede}
+[Dieser Wegweiser führt Sie in drei Phasen durch Ihren geplanten
+Aufenthalt. Das Wichtigste steht direkt auf dieser Seite; Vertiefung
+öffnen Sie bei Bedarf.]{.lede}
 
-## Ihr Pfad in drei Phasen
+## Vor der Operation {#vor}
 
-::: {.phasen}
-1. [Vor der Operation](phasen/entscheidung.qmd)
+Ob eine Operation der richtige Weg ist, entscheiden Sie selbst, gut
+informiert und in Ihrem Tempo. Nehmen Sie zur Sprechstunde jemanden
+mit, denn vier Ohren hören mehr als zwei, und fragen Sie nach, bis es
+für Sie stimmt.
 
-   [Wie treffe ich [meine Entscheidung](phasen/entscheidung.qmd)? Was
-   klären [Fragebogen und Anästhesiegespräch](phasen/abklaerung.qmd)?
-   Wie nutze ich [die Zeit bis zum Eintritt](phasen/wartezeit.qmd),
-   und was [erledige ich vor dem
-   Eintritt](phasen/vorbereitung.qmd)?]{.p-frage}
+Mit der Anmeldung erhalten Sie den digitalen Gesundheitsfragebogen
+per E-Mail; am besten füllen Sie ihn heute oder morgen aus, er dauert
+etwa **15 Minuten**. Sie können ihn allein oder mit jemandem aus
+Ihrem Umfeld ausfüllen, und wenn Sie Unterstützung möchten, genügt
+ein Anruf: [Telefonnummer]{.ph}.
 
-2. [Während des Aufenthalts](phasen/eintrittstag.qmd)
+Aus Ihren Angaben ergibt sich, wie Ihr Anästhesiegespräch
+stattfindet: Bei vielen genügt das Telefonat am Tag vor der
+Operation. Wenn Ihre Gesundheit besondere Aufmerksamkeit verdient,
+laden wir Sie mit separater Einladung persönlich in die
+Anästhesiesprechstunde ein.
 
-   [Wie verläuft [mein Eintritts- und
-   Operationstag](phasen/eintrittstag.qmd), und wie sind [meine Tage
-   in der Klinik](phasen/aufenthalt.qmd) gestaltet?]{.p-frage}
+Die Wochen bis zum Eintritt sind Ihr Trainingsfenster, und vieles
+davon haben Sie selbst in der Hand:
 
-3. [Nach der Operation](phasen/nachhause.qmd)
+::: {.callout-note collapse="true" icon="false"}
+### Die Zeit bis zum Eintritt nutzen: Kraft, Ernährung, Rauchstopp
 
-   [Wie geht [meine Erholung zu Hause](phasen/nachhause.qmd) weiter?
-   Austritt, Nachkontrolle, Unterstützung im Alltag. Und bei welchen
-   Anzeichen melde ich mich sofort?]{.p-frage}
+- **In Bewegung bleiben:** so aktiv, wie Ihr Gesundheitszustand es
+  zulässt. Schon tägliches Gehen erhält Kraft und Ausdauer.
+- **Essen für die Heilung:** ausgewogen, genug Eiweiss, wenig
+  Alkohol. Ungewollter Gewichtsverlust verdient Aufmerksamkeit:
+  Sprechen Sie ihn an, wir unterstützen Sie.
+- **Rauchstopp:** ein Stopp [mehrere Wochen]{.ph} vor der Operation
+  verbessert Wundheilung und Atmung messbar. Ihr Körper beginnt
+  schon nach Tagen, davon zu profitieren.
+- **Alltag klären:** Arbeitsunfähigkeit, Betreuungsaufgaben, Fahrt
+  nach Hause und Unterstützung für die erste Woche.
+
+Und der Kopf bereitet sich mit vor: Was Ihnen Ruhe gibt, wie
+Spaziergänge, Musik oder ein gutes Gespräch, darf in diesen Wochen
+bewusst Platz bekommen. Wenn Sie sehr von sorgenvollen Gedanken
+eingenommen sind, sprechen Sie mit uns über das, was Sie beschäftigt.
 :::
 
-## Gut zu wissen
+### Essen und Trinken vor dem Eintritt {#nuechtern}
 
-- [Das Wichtigste auf einem Blatt, zum Ausdrucken](merkblatt.qmd)
-- [Kurzinformationen, Fragen und Antworten](eilig.qmd)
-- [Ihre Anästhesie: Fragebogen, Gespräch, Verfahren](anaesthesie.qmd)
+- Essen bis **6 Stunden** vor der Eintrittszeit, danach bitte nichts
+  mehr.
+- Trinken (Wasser ohne Kohlensäure, Tee, schwarzer Kaffee, Zucker ist
+  OK) bis **2 Stunden** vorher.
+- In den letzten zwei Stunden gar nichts mehr, auch keine Bonbons
+  oder Kaugummis.
+
+Ein leerer Magen schützt während der Narkose Ihre Atemwege. Sollten
+Sie die Zeiten nicht eingehalten haben, sagen Sie uns bitte umgehend
+Bescheid.
+
+::: {.callout-note collapse="true" icon="false"}
+### Medikamente und Packliste
+
+Die meisten Medikamente nehmen Sie normal weiter; Blutverdünner und
+Diabetesmedikamente pausieren Sie nur nach Absprache mit Ihrer Ärztin
+oder Ihrem Arzt, im Zweifel genügt ein Anruf. Für die Packliste gilt:
+Versichertenkarte, Ausweis, Medikamentenliste, bequeme Kleidung,
+feste Schuhe, Toilettenartikel, Brille oder Hörgerät samt Etui;
+Schmuck und Wertsachen bleiben zu Hause.
+:::
+
+::: {.melden}
+### Wenn sich Ihr Zustand verändert
+
+Deutlich zunehmende oder neue Beschwerden, eine Erkältung, Fieber
+oder eine Zahnentzündung vor der Operation: Rufen Sie uns an unter
+[Telefonnummer]{.ph}. Je früher wir es wissen, desto besser können
+wir alles für Sie abstimmen.
+:::
+
+## Während des Aufenthalts {#waehrend}
+
+Ihre Eintrittszeit erhalten Sie [am Vortag per SMS]{.ph}; falls
+keine Nachricht ankommt, rufen Sie uns einfach an:
+[Telefonnummer]{.ph}. Am Operationstag begleiten wir Sie durch einen eingespielten Ablauf;
+Ihre Aufgabe ist es, anzukommen und mitzuhelfen, möglichst bequem zu
+liegen. Zwischen Ankunft und Operation bleibt oft eine Wartezeit,
+manchmal eine halbe Stunde, manchmal länger: Nehmen Sie sich etwas
+zum Lesen oder Hören mit.
+
+Nach dem Eingriff wachen Sie im Aufwachraum auf, in Ruhe und gut
+betreut. Sie dürfen dort einfach dösen, denn Ihr Körper nutzt diese
+Stunden zum Ankommen, während wir Kreislauf, Atmung und Ihr
+Wohlbefinden im Blick behalten. Auf Wunsch informieren wir Ihre
+Angehörigen, wie die Operation verlaufen ist.
+
+Auf der Station bespricht das Ärzteteam mindestens einmal täglich mit
+Ihnen den Stand und die nächsten Schritte; notieren Sie Ihre Fragen
+vorher, denn jede Frage hat dort Platz. Schmerzen lassen sich
+heutzutage gut behandeln: Melden Sie sich früh, je eher wir wissen,
+was Sie brauchen, desto besser wirkt die Behandlung. Und bereits
+während des Aufenthalts klären wir mit Ihnen, wie es zu Hause
+weitergeht: Unterstützung, Hilfsmittel, falls nötig Rehabilitation
+oder Spitex.
+
+## Nach der Operation {#nach}
+
+Mit dem Austrittsgespräch gehen Sie sicher nach Hause: Es klärt
+Medikamente, Wundversorgung, erlaubte Aktivitäten und die
+Nachkontrolle, und Sie erhalten Austrittsbericht, Rezepte und
+Zeugnis. Für die Heimfahrt lassen Sie sich fahren.
+
+Zu Hause geht die Erholung in ihrem eigenen Tempo weiter. Gönnen Sie
+sich grosszügig Pausen und steigern Sie sich schrittweise. Manche
+Tage fühlen sich leichter an als andere; die Richtung stimmt
+trotzdem: Von Woche zu Woche kehrt Ihre Kraft zurück. Hilfe
+anzunehmen beschleunigt die Erholung, und Schritt für Schritt
+übernehmen Sie wieder selbst. Notieren Sie
+sich bis zur Nachkontrolle, was Sie beschäftigt, denn jede Frage hat
+dort Platz, auch, wie es Ihnen insgesamt geht, mit Energie, Schlaf
+und Stimmung.
+
+## Worauf Sie achten sollten {#achten}
+
+Die allermeisten Verläufe gehen ruhig ihren Gang. Damit Sie sicher
+unterscheiden können, wofür Ihr Körper einfach Zeit braucht und was
+einen Anruf verdient:
+
+::: {.care}
+### Melden Sie sich sofort bei diesen Anzeichen
+
+- Fieber über [38.5 °C]{.ph}
+- Zunehmende Rötung, Schwellung oder Nässen der Wunde
+- Plötzlich stark zunehmende Schmerzen
+- Schwellung oder Schmerz in der Wade
+- Atemnot oder Brustschmerz: in diesem Fall direkt **144** anrufen
+
+In den ersten [7 Tagen]{.ph} nach Austritt erreichen Sie die Station
+unter [Nummer]{.ph}, danach [Sprechstunde oder Hausärztin]{.ph}.
+:::
+
+::: {.praxis}
+## Praktische Informationen {#praktisches}
+
+[Anreise und Parkierung · Zimmer und Menüwahl · Besuchszeiten · WLAN
+· Wertsachen, gesammelt unter «Gut zu wissen».]{.ph}
+:::
 
 ::: {#kontaktzone}
 {{< include _kontakt.qmd >}}

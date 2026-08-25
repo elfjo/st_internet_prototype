@@ -39,13 +39,21 @@ anhand Ihrer Röntgenbilder und bespricht sie mit Ihnen.
 
 Mit der Anmeldung erhalten Sie den digitalen Gesundheitsfragebogen
 per E-Mail; am besten füllen Sie ihn heute oder morgen aus, er dauert
-etwa **15 Minuten**. Aus Ihren Angaben ergibt sich, wie Ihr
-Anästhesiegespräch stattfindet: bei vielen als Telefonat am Tag vor
-der Operation, bei besonderer Aufmerksamkeit als persönliche
-Sprechstunde mit separater Einladung.
+etwa **15 Minuten**. Sie können ihn allein oder mit jemandem aus
+Ihrem Umfeld ausfüllen, und wenn Sie Unterstützung möchten, genügt
+ein Anruf: [Telefonnummer]{.ph}.
+
+Aus Ihren Angaben ergibt sich, wie Ihr Anästhesiegespräch
+stattfindet: Bei vielen genügt das Telefonat am Tag vor der
+Operation. Wenn Ihre Gesundheit besondere Aufmerksamkeit verdient,
+laden wir Sie mit separater Einladung persönlich in die
+Anästhesiesprechstunde ein.
 
 Die Wochen bis zum Eintritt sind Ihr Trainingsfenster, und vieles
 davon haben Sie selbst in der Hand:
+
+::: {.callout-note collapse="true" icon="false"}
+### Die Zeit bis zum Eintritt nutzen: Kraft, Ernährung, Rauchstopp
 
 - **Kraft aufbauen:** Das Übungsprogramm, das Sie nach der Operation
   begleitet, dürfen Sie schon vorher beginnen; die Anleitung erhalten
@@ -68,36 +76,44 @@ davon haben Sie selbst in der Hand:
 Und der Kopf bereitet sich mit vor: Was Ihnen Ruhe gibt, wie
 Spaziergänge, Musik oder ein gutes Gespräch, darf in diesen Wochen
 bewusst Platz bekommen.
-
-::: {.callout-note collapse="true" icon="false"}
-### Essen und Trinken vor dem Eintritt
-
-Essen bis **6 Stunden** vor der Eintrittszeit, danach bitte nichts
-mehr. Trinken (Wasser ohne Kohlensäure, Tee, schwarzer Kaffee) bis
-**2 Stunden** vorher. In den letzten zwei Stunden gar nichts mehr,
-auch keine Bonbons oder Kaugummis. Ein leerer Magen schützt während
-der Narkose Ihre Atemwege.
 :::
+
+### Essen und Trinken vor dem Eintritt {#nuechtern}
+
+- Essen bis **6 Stunden** vor der Eintrittszeit, danach bitte nichts
+  mehr.
+- Trinken (Wasser ohne Kohlensäure, Tee, schwarzer Kaffee, Zucker ist
+  OK) bis **2 Stunden** vorher.
+- In den letzten zwei Stunden gar nichts mehr, auch keine Bonbons
+  oder Kaugummis.
+
+Ein leerer Magen schützt während der Narkose Ihre Atemwege. Sollten
+Sie die Zeiten nicht eingehalten haben, sagen Sie uns bitte umgehend
+Bescheid.
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Medikamente, Waschbehandlung, Packliste
 
 Die meisten Medikamente nehmen Sie normal weiter; Blutverdünner und
-Diabetesmedikamente pausieren Sie nur nach Absprache. Ab **Tag 5 vor
-der Operation** beginnt die Waschbehandlung, falls verordnet. Für die
-Packliste gilt: bequeme weite Kleidung, feste Schuhe, Ihre Gehstöcke,
-falls vorhanden; Schmuck und Wertsachen bleiben zu Hause.
-[Alle Details →](hueftprothese/vor-der-operation.qmd)
+Diabetesmedikamente pausieren Sie nur nach Absprache mit Ihrer Ärztin
+oder Ihrem Arzt, im Zweifel genügt ein Anruf. Ab **Tag 5 vor der
+Operation** beginnt die Waschbehandlung, falls verordnet; sie
+reduziert die Keime auf der Haut und schützt so Ihr neues Gelenk. Für
+die Packliste gilt: Versichertenkarte, Ausweis, Medikamentenliste,
+bequeme weite Kleidung, feste Schuhe, Ihre Gehstöcke, falls
+vorhanden; Schmuck und Wertsachen bleiben zu Hause.
 :::
 
 ## Während des Aufenthalts {#waehrend}
 
-Ihre Eintrittszeit erhalten Sie [am Vortag per SMS]{.ph}. Am
-Operationstag begleiten wir Sie durch einen eingespielten Ablauf;
+Ihre Eintrittszeit erhalten Sie [am Vortag per SMS]{.ph}; falls
+keine Nachricht ankommt, rufen Sie uns einfach an:
+[Telefonnummer]{.ph}. Am Operationstag begleiten wir Sie durch einen eingespielten Ablauf;
 Ihre Aufgabe ist es, anzukommen und mitzuhelfen, möglichst bequem zu
 liegen. Ob Sie während der Spinalanästhesie dösen, Musik hören oder
 ganz schlafen, entscheiden Sie mit. Danach wachen Sie im Aufwachraum
-auf, in Ruhe und gut betreut.
+auf, in Ruhe und gut betreut. Auf Wunsch informieren wir Ihre
+Angehörigen, wie die Operation verlaufen ist.
 
 Ihre Erholung beginnt noch am Operationstag: die ersten Schritte an
 Stöcken mit Begleitung. An Tag 1 folgen Gehtraining und normales
@@ -123,6 +139,12 @@ worauf Sie sich am meisten freuen; dieses Ziel darf Sie durch die
 Hüftstreckung im Stehen; je 10 bis 20 Wiederholungen, 3-mal täglich.
 Als bebilderte Anleitung oder kurzes Video umsetzen.]{.ph}
 :::
+
+Wenn Sie zu Hause Unterstützung möchten, etwa Spitex,
+Haushaltshilfe oder Mahlzeitendienst, klärt das Austrittsmanagement
+das mit Ihnen schon während des Aufenthalts. Hilfe anzunehmen
+beschleunigt die Erholung, und Schritt für Schritt übernehmen Sie
+wieder selbst.
 
 Die Nachkontrolle findet [nach Wochenangabe]{.ph} statt. Notieren Sie
 sich bis dahin, was Sie beschäftigt, denn jede Frage hat dort Platz,
