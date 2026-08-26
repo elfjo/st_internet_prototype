@@ -36,8 +36,10 @@ Anhand der Angaben im Fragebogen und des EIngriffs **triagiert** das ANästhesie
 - **Vor der Anmeldung die PatientInnen informieren:** Die Patientin oder der Patient
   muss von Ihnen über den geplanten Eingriff informiert sein, bevor der Fragebogen automatisch
   eintrifft.
-- **Hausärztliche Abklärung veranlassen** bei Alter **über 70 Jahren** oder
-  Eingriff der **Risikoklasse B oder C** (Tabelle unten).
+- **Hausärztliche Abklärung veranlassen**
+    - bei Alter **über 70 Jahren** oder
+    - Eingriff der **Risikoklasse B oder C** (Tabelle unten) oder
+    - bei **relevanten Begleiterkrankungen**.
 - **Berichte und Befunde einsenden:** Formular [«Präoperative
   Beurteilung durch den Hausarzt», PDF und Word (Dummy-Link)]{.ph},
   mit allfälligen Beilagen an [E-Mail]{.ph}. Befunde bitte nicht älter als zwei Monate.
