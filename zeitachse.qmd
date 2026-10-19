@@ -9,7 +9,7 @@ toc: false
 [Für Angehörige →](begleiten.qmd)
 :::
 
-[Danke für Ihr Vertrauen in die Klinik St. Anna. Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt sagt, was wir tun und was Sie tun. Sie können die Seite ausdrucken oder Ihren Angehörigen schicken. Für sie gibt es in jedem Abschnitt einen eigenen Hinweis.]{.lede}
+[Danke für Ihr Vertrauen in die Klinik St. Anna. Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt erklärt, was wir tun und was Sie tun. Sie können die Seite ausdrucken oder Ihren Angehörigen schicken.]{.lede}
 
 ```{=html}
 <p class="werkzeuge">
