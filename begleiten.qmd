@@ -9,7 +9,7 @@ toc: false
 [Alles auf einem Blatt →](merkblatt.qmd)
 :::
 
-[Sie lesen für Ihre Mutter, Ihren Vater, Ihre Partnerin oder einen Freund. Diese Seite sagt, was Sie als Begleiterin oder Begleiter tun können, was Sie dürfen und wen Sie anrufen. Ihre Unterstützung hilft der Person und uns.]{.lede}
+[Sie lesen für Ihre Mutter, Ihren Vater, Ihre Partnerin oder einen Freund. Diese Seite sagt, was Sie als Begleiterin oder Begleiter tun können, was Sie dürfen und wen Sie anrufen. Ihre Unterstützung hilft der Person und uns. Danke dafür.]{.lede}
 
 ::: {.kontaktzeile}
 **Wen rufe ich an?**

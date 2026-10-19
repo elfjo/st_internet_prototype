@@ -465,3 +465,9 @@ main > .mini-nav:last-of-type,
 .kontaktzeile li { max-width: none; margin: .15rem 0; }
 .kurzweg { font-size: .95rem; color: var(--ink-soft); border-left: 3px solid var(--line); padding: .2rem 0 .2rem .8rem; margin: .4rem 0 1rem; }
 .kurzweg p { margin: 0; }
+
+/* Zeitachse: Punkt und Überschrift bündig (Quarto verpackt h2 in section.level2) */
+.zeit section.level2, .zeit section.level3 { margin-top: 0; padding-top: 0; border: 0; }
+.zeit h2 { margin-top: 0; padding-top: 0; border-top: 0; border-bottom: 0; line-height: 1.2; }
+.station::before { display: block; box-sizing: border-box; width: 18px; height: 18px; top: .45rem; left: calc(-1.6rem - 11px); border: 3px solid #fff; background: var(--accent); box-shadow: 0 0 0 2px var(--accent); border-radius: 50%; }
+.station { padding-top: .1rem; }

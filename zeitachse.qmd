@@ -9,7 +9,7 @@ toc: false
 [Für Angehörige →](begleiten.qmd)
 :::
 
-[Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt sagt, was wir tun und was Sie tun. Sie können die Seite ausdrucken oder Ihren Angehörigen schicken. Für sie gibt es in jedem Abschnitt einen eigenen Hinweis.]{.lede}
+[Danke für Ihr Vertrauen in die Klinik St. Anna. Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt sagt, was wir tun und was Sie tun. Sie können die Seite ausdrucken oder Ihren Angehörigen schicken. Für sie gibt es in jedem Abschnitt einen eigenen Hinweis.]{.lede}
 
 ```{=html}
 <p class="werkzeuge">
@@ -195,6 +195,8 @@ Ihre Ärztin oder Ihr Arzt besucht Sie täglich und bespricht mit Ihnen den Verl
 ### Was wir tun
 
 Sie erhalten einen Austrittsbericht, Rezepte und die Termine für Nachkontrollen. Die Pflege erklärt Ihnen Wundversorgung und Medikamente und gibt Ihnen alles schriftlich mit. Zu Hause erholen Sie sich weiter, in Ihrem eigenen Tempo. Die Kraft kommt Woche für Woche zurück. Die Rechnung geht an Ihre Krankenkasse. Für persönliche Auslagen erhalten Sie eine separate Rechnung.
+
+Wir wünschen Ihnen einen guten Aufenthalt bei uns und eine gute Erholung zu Hause.
 
 ### Was Sie tun
 
