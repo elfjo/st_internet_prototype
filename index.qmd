@@ -14,7 +14,7 @@ Sprache.
 ### Die generische Patientenreise
 Erste Experimente mit verschiedenen Längen
 
-- **Neu, Oktober 2026:** [Der elektive Eintritt als Zeitachse mit Aufgaben →](zeitachse.qmd), dazu [Wenn Sie jemanden begleiten →](begleiten.qmd). Variante nach den Personae und der Evidenzrecherche: Reihenfolge der Zeit statt der Orte.
+- **Neu, Oktober 2026:** [Der elektive Eintritt als Zeitachse mit Aufgaben →](zeitachse.qmd), dazu [Für Angehörige und Begleitpersonen →](begleiten.qmd). Variante nach den Personae und der Evidenzrecherche: Reihenfolge der Zeit statt der Orte.
 - [Operation mit stationärem Aufenthalt (ausführlich) →](stationaer.qmd)
 - [Generischer Patientenpfad kurz: vor, während, nach →](stationaer-kurz.qmd)
 

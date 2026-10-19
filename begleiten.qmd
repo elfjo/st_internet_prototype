@@ -1,5 +1,5 @@
 ---
-title: "Wenn Sie jemanden begleiten"
+title: "Für Angehörige und Begleitpersonen"
 toc: false
 ---
 
@@ -13,7 +13,7 @@ toc: false
 Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
-[Sie lesen für Ihre Mutter, Ihren Vater, Ihre Partnerin oder einen Freund. Diese Seite sagt, was Sie als Begleiterin oder Begleiter tun können, was Sie dürfen und wen Sie anrufen. Mit Ihnen an der Seite läuft vieles leichter, für die Person und für uns.]{.lede}
+[Sie lesen für Ihre Mutter, Ihren Vater, Ihre Partnerin oder einen Freund. Diese Seite sagt, was Sie als Begleiterin oder Begleiter tun können, was Sie dürfen und wen Sie anrufen. Ihre Unterstützung hilft der Person und uns.]{.lede}
 
 ::: {.kontaktzeile}
 **Fragen zum Eintritt:** [Patientendisposition, +41 41 208 30 12]{.ph}, Montag bis Freitag 8 bis 12 und 13 bis 17 Uhr.
@@ -22,7 +22,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 ## Was Sie vor dem Eintritt tun können {#vorher}
 
 ::: {.tun}
-- Den Gesundheitsfragebogen gemeinsam ausfüllen. Sie dürfen das; geben Sie am Anfang an, dass Sie helfen. Bei Fragen zu Alkohol, Rauchen und Stimmung sollte die Person selbst antworten.
+- Den Gesundheitsfragebogen gemeinsam ausfüllen. Das ist ausdrücklich erlaubt; geben Sie am Anfang des Fragebogens an, dass Sie helfen. Bei Fragen zu Alkohol, Rauchen und Stimmung sollte die Person selbst antworten.
 - Die Eintrittszeit aus der SMS in den Kalender übernehmen und die Zeiten für Essen und Trinken ausrechnen: nichts mehr essen ab 6 Stunden vorher, nichts mehr trinken ab 2 Stunden vorher. Auf einen Zettel an den Kühlschrank.
 - Die Medikamentenliste prüfen und die Packungen bereitlegen. Blutverdünner und Diabetesmedikamente werden erst pausiert, wenn es mit der Anästhesie vereinbart ist.
 - Fahrt hin und zurück organisieren. Nach einer Narkose wird die Person 24 Stunden lang gefahren.
@@ -31,9 +31,9 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 
 ## Am Eintrittstag {#tag}
 
-Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Dort sind die Plätze während des Umbaus mit Vorhängen abgetrennt; für Begleitende stehen Stühle bereit, der Platz ist knapp. Ab dem Operationsbereich übernimmt das Team; Besuch ist wieder im Zimmer möglich.
+Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Dort sind die Plätze während des Umbaus mit Vorhängen abgetrennt; für Begleitende stehen Stühle bereit, der Platz ist knapp. In den Operationsbereich und den Aufwachraum begleitet das Team die Person allein; im Zimmer können Sie sie wieder besuchen.
 
-Hinterlassen Sie an der Réception Ihre Telefonnummer. Wir rufen Sie an, sobald die Person im Zimmer ist, und Sie können aufatmen; das kann [mehrere Stunden]{.ph} dauern. Nutzen Sie die Zeit ruhig ausserhalb des Hauses.
+Hinterlassen Sie an der Réception Ihre Telefonnummer. Wir rufen Sie an, sobald die Person im Zimmer ist; das kann [mehrere Stunden]{.ph} dauern. Sie können in dieser Zeit die Klinik verlassen.
 
 ## Während des Aufenthalts {#waehrend}
 
@@ -44,13 +44,13 @@ Besuchszeiten: [Zeiten]{.ph}. Wenn die Patientin oder der Patient es wünscht, d
 ::: {.tun}
 - Abholung bis 10 Uhr am Austrittstag.
 - Rezepte einlösen, Medikamente nach dem mitgegebenen Plan richten.
-- Die erste Nacht erreichbar sein; meist bleibt sie ruhig.
+- In der ersten Nacht erreichbar sein.
 :::
 
 ::: {.melden}
 ### Wann Sie anrufen
 
-Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder Nässen der Wunde, Verwirrtheit, Atemnot, Brustschmerz, Wadenschmerz: [Klinik-Nummer, rund um die Uhr]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**. Wenn Ihnen etwas seltsam vorkommt, rufen Sie an; lieber einmal mehr.
+Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder Nässen der Wunde, Verwirrtheit, Atemnot, Brustschmerz, Wadenschmerz: [Klinik-Nummer, rund um die Uhr]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**. Wenn Ihnen etwas Sorgen macht, rufen Sie an; lieber einmal zu viel als einmal zu wenig.
 :::
 
 ## Darf ich das überhaupt? {#duerfen}

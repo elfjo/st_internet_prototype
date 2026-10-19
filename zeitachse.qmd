@@ -6,26 +6,26 @@ toc: false
 ::: {.mini-nav}
 [⌂ Übersicht](index.qmd)
 [Alles auf einem Blatt →](merkblatt.qmd)
-[Wenn Sie jemanden begleiten →](begleiten.qmd)
+[Für Angehörige →](begleiten.qmd)
 :::
 
 ::: {.hinweis-prototyp}
 Struktur-Prototyp, Variante «Zeitachse und Aufgaben». Inhalte beispielhafte Platzhalter. Die Zeitachse ersetzt die Gliederung nach Orten (Tagesklinik, Aufwachraum, Zimmer) durch die Reihenfolge, in der Sie die Dinge erleben.
 :::
 
-[Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt sagt, was wir tun und was Sie tun. Vieles davon haben wir schon für Sie vorbereitet. Sie können die Seite ausdrucken oder jemandem schicken, der Sie begleitet.]{.lede}
+[Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt sagt, was wir tun und was Sie tun. Sie können die Seite ausdrucken oder Ihren Angehörigen schicken; für sie gibt es in jedem Abschnitt einen eigenen Hinweis.]{.lede}
 
 ```{=html}
 <p class="werkzeuge">
 <button class="drucken" type="button" onclick="window.print()">Diese Seite drucken</button>
 <a class="werkzeug" href="merkblatt.qmd">Nur das Wichtigste, eine Seite</a>
-<a class="werkzeug" href="begleiten.qmd">Ich begleite jemanden</a>
+<a class="werkzeug" href="begleiten.qmd">Für Angehörige</a>
 <span class="werkzeug ph">Italiano · Français: foglio informativo</span>
 </p>
 ```
 
 ::: {.kontaktzeile}
-**Fragen zum Eintritt:** [Patientendisposition, +41 41 208 30 12]{.ph}, Montag bis Freitag 8 bis 12 und 13 bis 17 Uhr. Dort erreichen Sie Menschen, die Ihren Eintritt planen.
+**Fragen zum Eintritt:** [Patientendisposition, +41 41 208 30 12]{.ph}, Montag bis Freitag 8 bis 12 und 13 bis 17 Uhr. Das Team dort plant Ihren Eintritt und beantwortet Ihre Fragen.
 :::
 
 ## Das Wichtigste in einer Minute {#kurz}
@@ -38,7 +38,7 @@ Struktur-Prototyp, Variante «Zeitachse und Aufgaben». Inhalte beispielhafte Pl
 - **Austritt:** Den Tag legen Sie mit Ihrer Ärztin oder Ihrem Arzt fest; das Zimmer geben Sie bis 10 Uhr frei. Jemand holt Sie ab.
 :::
 
-Alles Weitere unten, in der Reihenfolge, in der es auf Sie zukommt.
+Alles Weitere steht unten, in zeitlicher Reihenfolge.
 
 ::: {.zeit}
 
@@ -49,24 +49,24 @@ Alles Weitere unten, in der Reihenfolge, in der es auf Sie zukommt.
 
 ### Was wir tun
 
-Wir schicken Ihnen eine **E-Mail und eine SMS** mit dem Link zum Gesundheitsfragebogen der Anästhesie. Einige Tage später folgt die **Anmeldebestätigung per Post** mit dem Eintrittsdatum und dem Eintrittsformular. Ab heute kennt Sie ein Team, das Ihren Eintritt vorbereitet.
+Wir schicken Ihnen eine **E-Mail und eine SMS** mit dem Link zum Gesundheitsfragebogen der Anästhesie. Einige Tage später folgt die **Anmeldebestätigung per Post** mit dem Eintrittsdatum und dem Eintrittsformular. Ab jetzt bereitet unser Team Ihren Eintritt vor.
 
 ::: {.echt}
 ### Ist diese Nachricht echt?
 
-Unsere SMS kommt vom Absender [Absenderkennung]{.ph}, unsere E-Mail von [Adresse]{.ph}. Beide enthalten nur den Link zum Fragebogen. Passwörter, Karten- oder Bankdaten und Zahlungen verlangen wir per SMS oder E-Mail nie. Im Zweifel rufen Sie uns an, auf der Nummer oben auf dieser Seite.
+Unsere SMS kommt vom Absender [Absenderkennung]{.ph}, unsere E-Mail von [Adresse]{.ph}. Beide enthalten nur den Link zum Fragebogen. Wir fragen per SMS oder E-Mail nie nach Passwörtern, Karten- oder Bankdaten und verlangen nie eine Zahlung. Wenn Sie unsicher sind, rufen Sie uns an; die Nummer steht oben auf dieser Seite.
 :::
 
 ### Was Sie tun
 
 ::: {.tun}
 - Den Gesundheitsfragebogen ausfüllen, allein oder mit jemandem zusammen. Rechnen Sie mit 30 bis 60 Minuten; Sie können unterbrechen und später weitermachen.
-- Falls das Ausfüllen für Sie schwierig ist: Lassen Sie den Fragebogen liegen. Wir rufen Sie an und nehmen die Angaben gemeinsam mit Ihnen auf.
+- Falls Ihnen das Ausfüllen am Bildschirm schwerfällt: Sie können den Fragebogen auch offen lassen. Dann rufen wir Sie an und gehen die Fragen am Telefon mit Ihnen durch.
 - Das Eintrittsformular aus dem Brief ausfüllen, unterschreiben und zurücksenden.
 :::
 
 ::: {.begleit}
-**Wenn Sie jemanden begleiten:** Sie dürfen den Fragebogen gemeinsam ausfüllen. Am Anfang des Fragebogens geben Sie an, wer ausfüllt. Bei Fragen zu Alkohol, Rauchen und Stimmung sollte die Patientin oder der Patient selbst antworten.
+**Für Angehörige und Begleitpersonen:** Sie dürfen den Fragebogen gemeinsam ausfüllen. Am Anfang des Fragebogens geben Sie an, wer ausfüllt. Bei Fragen zu Alkohol, Rauchen und Stimmung sollte die Patientin oder der Patient selbst antworten.
 :::
 :::
 
@@ -77,7 +77,7 @@ Unsere SMS kommt vom Absender [Absenderkennung]{.ph}, unsere E-Mail von [Adresse
 
 ### Was wir tun
 
-Die Anästhesie meldet sich bei Ihnen. Je nach Eingriff und Gesundheit **laden wir Sie in die Anästhesie-Sprechstunde ein**, oder **die Anästhesieärztin oder der Anästhesiearzt ruft Sie am Vortag an**. Das organisieren wir. Im Gespräch ist Platz für alles, was Sie zur Narkose wissen möchten; es gibt keine überflüssige Frage. Falls Sie nach dem Aufenthalt eine Rehabilitation oder Kur brauchen, planen wir sie jetzt und rufen Sie an.
+Die Anästhesie meldet sich bei Ihnen. Je nach Eingriff und Gesundheit **laden wir Sie in die Anästhesie-Sprechstunde ein**, oder **die Anästhesieärztin oder der Anästhesiearzt ruft Sie am Vortag an**. Darum kümmern wir uns. Im Gespräch können Sie alles fragen, was Sie zur Narkose wissen möchten. Falls Sie nach dem Aufenthalt eine Rehabilitation oder Kur brauchen, planen wir sie jetzt und rufen Sie an.
 
 ### Was Sie tun
 
@@ -85,12 +85,12 @@ Die Anästhesie meldet sich bei Ihnen. Je nach Eingriff und Gesundheit **laden w
 - Organisieren, wer Sie nach dem Austritt abholt. Nach einer Narkose lassen Sie sich 24 Stunden lang fahren.
 - Organisieren, wer Sie in der ersten Woche zu Hause unterstützt: Einkaufen, Kochen, Treppen.
 - Ihre Medikamente nehmen Sie weiter wie gewohnt. Blutverdünner und Diabetesmedikamente pausieren Sie erst, wenn die Anästhesie oder Ihre Ärztin es mit Ihnen vereinbart hat. Im Zweifel anrufen.
-- Bei Fieber, Husten, Erkältung oder einer Verschlechterung: anrufen, auch kurz vor dem Eintritt. Dann finden wir gemeinsam den sicheren Weg.
+- Bei Fieber, Husten, Erkältung oder einer Verschlechterung: anrufen, auch kurz vor dem Eintritt. Wir besprechen dann mit Ihnen, ob die Operation wie geplant stattfindet.
 - Rauchen: Jede rauchfreie Woche vor der Operation stärkt die Wundheilung. [Unterstützung]{.ph}
 :::
 
 ::: {.begleit}
-**Wenn Sie jemanden begleiten:** Dies ist der Moment für die Logistik. Wer fährt, wer ist in der ersten Woche da, wer kümmert sich um Haustiere und Post. Ein Blick auf die Wohnung lohnt sich: Treppen, Teppiche, Dusche.
+**Für Angehörige und Begleitpersonen:** Jetzt ist die Zeit, das Praktische zu klären: wer fährt, wer in der ersten Woche da ist, wer sich um Haustiere und Post kümmert. Schauen Sie auch die Wohnung an: Treppen, Teppiche, Dusche.
 :::
 :::
 
@@ -101,18 +101,18 @@ Die Anästhesie meldet sich bei Ihnen. Je nach Eingriff und Gesundheit **laden w
 
 ### Was wir tun
 
-Wir schicken Ihnen **per SMS Ihre Eintrittszeit**. Ohne Handynummer **rufen wir Sie an**. Falls bis 14 Uhr keine Nachricht da ist, rufen Sie uns an: [Nummer]{.ph}, 13 bis 17 Uhr. Wer die Anästhesie noch in der Sprechstunde gesehen hat, ist informiert; alle anderen **ruft heute die Anästhesie an** und bespricht die Narkose. Halten Sie Ihre Medikamentenliste bereit. Wenn Sie heute Abend den Koffer schliessen, ist der grösste Teil der Vorbereitung getan.
+Wir schicken Ihnen **per SMS Ihre Eintrittszeit**. Ohne Handynummer **rufen wir Sie an**. Falls bis 14 Uhr keine Nachricht da ist, rufen Sie uns an: [Nummer]{.ph}, 13 bis 17 Uhr. Falls Sie noch kein Gespräch in der Anästhesie-Sprechstunde hatten, **ruft Sie heute die Anästhesieärztin oder der Anästhesiearzt an** und bespricht die Narkose mit Ihnen. Halten Sie dafür Ihre Medikamentenliste bereit. Nach dem Packen am Abend ist das Wichtigste erledigt.
 
 ### Was Sie tun
 
 ::: {.tun}
-- Die Eintrittszeit notieren und ausrechnen: Bis wann Sie essen (6 Stunden vorher) und bis wann Sie trinken (2 Stunden vorher).
+- Die Eintrittszeit aufschreiben und zwei Uhrzeiten ausrechnen: bis wann Sie essen dürfen (6 Stunden vorher) und bis wann Sie trinken dürfen (2 Stunden vorher).
 - Packen: Ausweis, Medikamente in der Originalpackung, Medikamentenliste, Allergiepass oder andere medizinische Ausweise, Brille, Hörgerät mit Batterien, Zahnprothesenschale, CPAP-Gerät, bequeme Kleidung, feste Schuhe, Toilettenartikel, etwas zum Lesen oder Hören.
 - Schmuck, Wertsachen und grössere Geldbeträge bleiben zu Hause.
 :::
 
 ::: {.begleit}
-**Wenn Sie jemanden begleiten:** Rechnen Sie die Zeiten für Essen und Trinken gemeinsam aus und schreiben Sie sie auf einen Zettel an den Kühlschrank. Das ist die häufigste Fehlerquelle am Eintrittstag.
+**Für Angehörige und Begleitpersonen:** Rechnen Sie die Zeiten für Essen und Trinken gemeinsam aus und schreiben Sie sie auf einen Zettel an den Kühlschrank. Beim Essen und Trinken am Morgen passieren die meisten Fehler; der Zettel verhindert sie.
 :::
 :::
 
@@ -127,7 +127,7 @@ Wir schicken Ihnen **per SMS Ihre Eintrittszeit**. Ohne Handynummer **rufen wir 
 
 **Anreise.** [Adresse, Eingang, öffentlicher Verkehr. Während des Umbaus kommen Sie am besten mit dem öffentlichen Verkehr oder lassen sich bringen.]{.ph}
 
-**Empfang.** Sie melden sich an der Réception und erhalten Ihr Patientenarmband mit Name, Geburtsdatum und Fallnummer. Im Lauf des Tages fragen wir Sie mehrmals nach Name und Geburtsdatum; so wissen alle im Team jederzeit, wen sie vor sich haben. Von hier an sind Sie in jedem Schritt begleitet.
+**Empfang.** Sie melden sich an der Réception und erhalten Ihr Patientenarmband mit Name, Geburtsdatum und Fallnummer. Im Lauf des Tages fragen wir Sie mehrmals nach Name und Geburtsdatum; so stellen wir sicher, dass jede Behandlung bei der richtigen Person ankommt. Ab der Réception begleitet Sie bei jedem Schritt jemand vom Team.
 
 ::: {.anders}
 ### Was zurzeit anders ist
@@ -135,20 +135,20 @@ Wir schicken Ihnen **per SMS Ihre Eintrittszeit**. Ohne Handynummer **rufen wir 
 Während des Umbaus (ANNAplus, voraussichtlich bis [Datum]{.ph}) bereiten wir Sie in der Tagesklinik auf die Operation vor. Die Plätze dort sind mit Vorhängen abgetrennt; das gilt für alle Patientinnen und Patienten, unabhängig von der Versicherung. Für vertrauliche Gespräche steht ein Besprechungsraum bereit; sagen Sie es der Pflegefachperson. Ihr Zimmer beziehen Sie nach der Operation.
 :::
 
-**Warten.** Der Operationsplan wird laufend abgestimmt; Ihre Operationszeit erfahren Sie am Eintrittstag. Zwischen Ankunft und Operation vergeht deshalb Zeit: manchmal eine halbe Stunde, manchmal mehrere Stunden. Alle [30 Minuten]{.ph} sagen wir Ihnen, wo Sie stehen, auch wenn alles beim Alten ist. Diese Zeit arbeitet für Sie: Im Hintergrund bereitet Ihr Team alles vor.
+**Warten.** Der Operationsplan wird laufend abgestimmt; Ihre Operationszeit erfahren Sie am Eintrittstag. Zwischen Ankunft und Operation vergeht deshalb Zeit: manchmal eine halbe Stunde, manchmal mehrere Stunden. Alle [30 Minuten]{.ph} sagt Ihnen jemand, wie es weitergeht, auch wenn sich noch nichts geändert hat. In dieser Zeit bereitet das Team im Hintergrund Ihre Operation vor.
 
-**Operation.** Eine Pflegefachperson begleitet Sie in den Operationsbereich; dort empfängt Sie das Anästhesieteam, das während der ganzen Operation bei Ihnen bleibt. Nach der Operation erwachen Sie im Aufwachraum oder, bei grösseren Eingriffen, auf der Überwachungsstation; dort kümmert sich das Team um Schmerzen und Übelkeit, bevor sie stark werden. Besuch empfangen Sie wieder im Zimmer; Ihre Angehörigen erhalten eine Nachricht, sobald Sie dort sind.
+**Operation.** Eine Pflegefachperson begleitet Sie in den Operationsbereich; dort empfängt Sie das Anästhesieteam und bleibt während der ganzen Operation bei Ihnen. Nach der Operation erwachen Sie im Aufwachraum oder, bei grösseren Eingriffen, auf der Überwachungsstation. Dort behandelt das Team Schmerzen und Übelkeit sofort. Sobald Sie im Zimmer sind, informieren wir Ihre Angehörigen; dort können sie Sie besuchen.
 
 ### Was Sie tun
 
 ::: {.tun}
 - Pünktlich zur Eintrittszeit an der Réception sein, Ausweis bereithalten.
 - Sagen, wenn etwas unklar ist, wehtut oder Sie etwas brauchen. Fragen sind erwünscht, Nachfragen auch.
-- Essen und trinken Sie erst wieder, wenn die Pflege es freigibt, auch wenn das Warten lang wird.
+- Mit Essen und Trinken warten, bis die Pflege es erlaubt, auch wenn die Wartezeit lang wird.
 :::
 
 ::: {.begleit}
-**Wenn Sie jemanden begleiten:** Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Hinterlassen Sie Ihre Telefonnummer; wir rufen an, sobald die Patientin oder der Patient im Zimmer ist. Rechnen Sie mit [mehreren Stunden]{.ph}; nutzen Sie die Zeit ruhig ausserhalb des Hauses.
+**Für Angehörige und Begleitpersonen:** Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Hinterlassen Sie Ihre Telefonnummer; wir rufen an, sobald die Patientin oder der Patient im Zimmer ist. Rechnen Sie mit [mehreren Stunden]{.ph}. Sie können in dieser Zeit die Klinik verlassen; wir erreichen Sie telefonisch.
 :::
 :::
 
@@ -159,18 +159,18 @@ Während des Umbaus (ANNAplus, voraussichtlich bis [Datum]{.ph}) bereiten wir Si
 
 ### Was wir tun
 
-Ihre Ärztin oder Ihr Arzt besucht Sie täglich und bespricht mit Ihnen den Verlauf und den Austrittstag. Die Pflege ist rund um die Uhr für Sie da, mit der Klingel am Bett. Schmerzen und Übelkeit behandeln wir früh; sagen Sie es, sobald Sie etwas spüren. Jeder Tag bringt Sie ein Stück näher an den Alltag, oft schneller, als Sie erwarten. Besuch: [Besuchszeiten]{.ph}.
+Ihre Ärztin oder Ihr Arzt besucht Sie täglich und bespricht mit Ihnen den Verlauf und den Austrittstag. Die Pflege ist rund um die Uhr für Sie da, mit der Klingel am Bett. Schmerzen und Übelkeit behandeln wir früh; sagen Sie es, sobald Sie etwas spüren. Mit jedem Tag kommen Sie dem Alltag näher. Besuch: [Besuchszeiten]{.ph}.
 
 ### Was Sie tun
 
 ::: {.tun}
-- Jede Beschwerde melden, auch kleine. Was wir wissen, können wir behandeln.
-- Aufstehen und gehen, sobald die Pflege es freigibt; jeder Schritt beschleunigt die Erholung.
+- Jede Beschwerde melden, auch kleine. Dann können wir sie behandeln.
+- Aufstehen und gehen, sobald die Pflege es erlaubt. Bewegung beschleunigt die Erholung.
 - Fragen aufschreiben, wenn sie Ihnen einfallen, und bei der Visite stellen.
 :::
 
 ::: {.begleit}
-**Wenn Sie jemanden begleiten:** Ein Angehöriger darf bei der Visite dabei sein, wenn die Patientin es wünscht. Fragen Sie nach dem voraussichtlichen Austrittstag und was zu Hause gebraucht wird: Hilfsmittel, Spitex, Rezepte.
+**Für Angehörige und Begleitpersonen:** Ein Angehöriger darf bei der Visite dabei sein, wenn die Patientin es wünscht. Fragen Sie nach dem voraussichtlichen Austrittstag und was zu Hause gebraucht wird: Hilfsmittel, Spitex, Rezepte.
 :::
 :::
 
@@ -181,14 +181,14 @@ Ihre Ärztin oder Ihr Arzt besucht Sie täglich und bespricht mit Ihnen den Verl
 
 ### Was wir tun
 
-Sie erhalten einen Austrittsbericht, Rezepte und die Termine für Nachkontrollen. Die Pflege erklärt Ihnen Wundversorgung und Medikamente und gibt Ihnen alles schriftlich mit. Zu Hause geht die Erholung weiter, in Ihrem Tempo; die Kraft kehrt Woche für Woche zurück. Die Rechnung geht an Ihre Krankenkasse; für persönliche Auslagen erhalten Sie eine separate Rechnung.
+Sie erhalten einen Austrittsbericht, Rezepte und die Termine für Nachkontrollen. Die Pflege erklärt Ihnen Wundversorgung und Medikamente und gibt Ihnen alles schriftlich mit. Zu Hause erholen Sie sich weiter, in Ihrem eigenen Tempo; die Kraft kommt Woche für Woche zurück. Die Rechnung geht an Ihre Krankenkasse; für persönliche Auslagen erhalten Sie eine separate Rechnung.
 
 ### Was Sie tun
 
 ::: {.tun}
 - Das Zimmer bis 10 Uhr freigeben; jemand holt Sie ab.
 - Rezepte in der Klinikapotheke oder einer Apotheke Ihrer Wahl einlösen.
-- Bei den Zeichen unten sofort anrufen; dafür sind wir da.
+- Bei den Zeichen unten sofort anrufen, auch nachts.
 :::
 
 ::: {.melden}
@@ -198,7 +198,7 @@ Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder N�
 :::
 
 ::: {.begleit}
-**Wenn Sie jemanden begleiten:** In der ersten Nacht zu Hause ist es gut, wenn jemand erreichbar ist. Die Zeichen oben gelten auch für Sie: Wenn Ihnen etwas seltsam vorkommt, rufen Sie an.
+**Für Angehörige und Begleitpersonen:** In der ersten Nacht zu Hause sollte jemand erreichbar sein. Die Zeichen oben gelten auch für Sie: Wenn Ihnen etwas Sorgen macht, rufen Sie an.
 :::
 :::
 
@@ -209,7 +209,7 @@ Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder N�
 ::: {.hinweis-prototyp}
 Für das Projektteam. Die Gestaltung folgt den Personae und der Evidenzrecherche vom Oktober 2026.
 
-Die Reihenfolge ist die Zeit, nicht der Ort, weil die Aufgaben zeitlich sind (Hanspeter, Sandra). Jede Station hat dieselben drei Teile: Wann, Was wir tun, Was Sie tun; die Hälfte der Älteren führt Listen und arbeitet methodisch (NN/g 2013). «Das Wichtigste in einer Minute» oben ist für Sandra und für alle, die nur das brauchen. Die Kontaktzeile steht oben und in jeder Station, weil Anrufen für Beat und Rosmarie der normale Weg ist und WCAG 3.2.6 es verlangt. «Ist diese Nachricht echt?» steht am Anfang, weil der erste Kontakt der Klinik ein Link per SMS ist und Ältere Phishing schlechter erkennen (Lin 2019, Pehlivanoglu 2024). «Was zurzeit anders ist» benennt die Tagesklinik mit Grund, Horizont, «gilt für alle» und Angebot; Zufriedenheit folgt der Passung zwischen Erwartung und Erlebnis (Hafkamp 2020, Zhang 2025). Die Zeile «Wenn Sie jemanden begleiten» in jeder Station ist für Claudia; 14 Prozent der über 65-Jährigen werden digital nur über Angehörige erreicht (Burgdorf 2023). Die Seite ist eine Spalte, ohne Akkordeons, druckbar, mit Links im Inhalt statt nur im Menü (Romano Bergstrom 2016, Li und Luximon 2020). Für Graziella fehlt noch das italienische Merkblatt und das Video mit mitlaufendem Text; beides ist als Platzhalter markiert.
+Die Reihenfolge ist die Zeit, nicht der Ort, weil die Aufgaben zeitlich sind (Hanspeter, Sandra). Jede Station hat dieselben drei Teile: Wann, Was wir tun, Was Sie tun; die Hälfte der Älteren führt Listen und arbeitet methodisch (NN/g 2013). «Das Wichtigste in einer Minute» oben ist für Sandra und für alle, die nur das brauchen. Die Kontaktzeile steht oben und in jeder Station, weil Anrufen für Beat und Rosmarie der normale Weg ist und WCAG 3.2.6 es verlangt. «Ist diese Nachricht echt?» steht am Anfang, weil der erste Kontakt der Klinik ein Link per SMS ist und Ältere Phishing schlechter erkennen (Lin 2019, Pehlivanoglu 2024). «Was zurzeit anders ist» benennt die Tagesklinik mit Grund, Horizont, «gilt für alle» und Angebot; Zufriedenheit folgt der Passung zwischen Erwartung und Erlebnis (Hafkamp 2020, Zhang 2025). Die Zeile «Für Angehörige und Begleitpersonen» in jeder Station ist für Claudia; 14 Prozent der über 65-Jährigen werden digital nur über Angehörige erreicht (Burgdorf 2023). Die Seite ist eine Spalte, ohne Akkordeons, druckbar, mit Links im Inhalt statt nur im Menü (Romano Bergstrom 2016, Li und Luximon 2020). Für Graziella fehlt noch das italienische Merkblatt und das Video mit mitlaufendem Text; beides ist als Platzhalter markiert.
 :::
 
 {{< include _feedback.qmd >}}
@@ -217,7 +217,7 @@ Die Reihenfolge ist die Zeit, nicht der Ort, weil die Aufgaben zeitlich sind (Ha
 ::: {.mini-nav}
 [⌂ Übersicht](index.qmd)
 [Alles auf einem Blatt →](merkblatt.qmd)
-[Wenn Sie jemanden begleiten →](begleiten.qmd)
+[Für Angehörige →](begleiten.qmd)
 :::
 
 ::: {#kontaktzone}
