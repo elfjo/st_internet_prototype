@@ -471,3 +471,10 @@ main > .mini-nav:last-of-type,
 .zeit h2 { margin-top: 0; padding-top: 0; border-top: 0; border-bottom: 0; line-height: 1.2; }
 .station::before { display: block; box-sizing: border-box; width: 18px; height: 18px; top: .45rem; left: calc(-1.6rem - 11px); border: 3px solid #fff; background: var(--accent); box-shadow: 0 0 0 2px var(--accent); border-radius: 50%; }
 .station { padding-top: .1rem; }
+.rechnen { background: #fff; border: 1px solid var(--line); border-radius: 6px; padding: .7rem 1rem .4rem; margin: .8rem 0; }
+.rechnen h3 { margin-top: 0; }
+.rechnen table { width: 100%; margin: .4rem 0 .6rem; font-size: .97rem; }
+.rechnen th { font-size: 0; height: 0; padding: 0; border: 0; }
+.rechnen td { padding: .35rem .5rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+.rechnen tr:last-child td { border-bottom: 0; }
+.rechnen p:last-child { margin-bottom: .3rem; }
