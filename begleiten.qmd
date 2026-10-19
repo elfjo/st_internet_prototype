@@ -22,7 +22,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 ## Was Sie vor dem Eintritt tun können {#vorher}
 
 ::: {.tun}
-- Den Gesundheitsfragebogen gemeinsam ausfüllen. Das ist ausdrücklich erlaubt; geben Sie am Anfang des Fragebogens an, dass Sie helfen. Bei Fragen zu Alkohol, Rauchen und Stimmung sollte die Person selbst antworten.
+- Den Gesundheitsfragebogen gemeinsam ausfüllen. Das ist ausdrücklich erlaubt. Geben Sie am Anfang des Fragebogens an, dass Sie helfen. Bei Fragen zu Alkohol, Rauchen und Stimmung sollte die Person selbst antworten.
 - Die Eintrittszeit aus der SMS in den Kalender übernehmen und die Zeiten für Essen und Trinken ausrechnen: nichts mehr essen ab 6 Stunden vorher, nichts mehr trinken ab 2 Stunden vorher. Auf einen Zettel an den Kühlschrank.
 - Die Medikamentenliste prüfen und die Packungen bereitlegen. Blutverdünner und Diabetesmedikamente werden erst pausiert, wenn es mit der Anästhesie vereinbart ist.
 - Fahrt hin und zurück organisieren. Nach einer Narkose wird die Person 24 Stunden lang gefahren.
@@ -31,9 +31,9 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 
 ## Am Eintrittstag {#tag}
 
-Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Dort sind die Plätze während des Umbaus mit Vorhängen abgetrennt; für Begleitende stehen Stühle bereit, der Platz ist knapp. In den Operationsbereich und den Aufwachraum begleitet das Team die Person allein; im Zimmer können Sie sie wieder besuchen.
+Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Dort sind die Plätze während des Umbaus mit Vorhängen abgetrennt. Für Begleitende stehen Stühle bereit, der Platz ist knapp. In den Operationsbereich und den Aufwachraum begleitet das Team die Person allein. Im Zimmer können Sie sie wieder besuchen.
 
-Hinterlassen Sie an der Réception Ihre Telefonnummer. Wir rufen Sie an, sobald die Person im Zimmer ist; das kann [mehrere Stunden]{.ph} dauern. Sie können in dieser Zeit die Klinik verlassen.
+Hinterlassen Sie an der Réception Ihre Telefonnummer. Wir rufen Sie an, sobald die Person im Zimmer ist. Das kann [mehrere Stunden]{.ph} dauern. Sie können in dieser Zeit die Klinik verlassen.
 
 ## Während des Aufenthalts {#waehrend}
 
@@ -50,12 +50,12 @@ Besuchszeiten: [Zeiten]{.ph}. Wenn die Patientin oder der Patient es wünscht, d
 ::: {.melden}
 ### Wann Sie anrufen
 
-Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder Nässen der Wunde, Verwirrtheit, Atemnot, Brustschmerz, Wadenschmerz: [Klinik-Nummer, rund um die Uhr]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**. Wenn Ihnen etwas Sorgen macht, rufen Sie an; lieber einmal zu viel als einmal zu wenig.
+Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder Nässen der Wunde, Verwirrtheit, Atemnot, Brustschmerz, Wadenschmerz: [Klinik-Nummer, rund um die Uhr]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**. Wenn Ihnen etwas Sorgen macht, rufen Sie an, lieber einmal zu viel als einmal zu wenig.
 :::
 
 ## Darf ich das überhaupt? {#duerfen}
 
-Sie dürfen Informationen für die Person lesen, Termine abmachen und Fragen stellen. Auskunft über den Gesundheitszustand erhalten Sie, wenn die Patientin oder der Patient uns das erlaubt hat; wir fragen das beim Eintritt. Für rechtliche Vertretung gilt die Patientenverfügung oder ein Vorsorgeauftrag; bringen Sie Kopien mit, falls vorhanden.
+Sie dürfen Informationen für die Person lesen, Termine abmachen und Fragen stellen. Auskunft über den Gesundheitszustand erhalten Sie, wenn die Patientin oder der Patient uns das erlaubt hat. Wir fragen das beim Eintritt. Für rechtliche Vertretung gilt die Patientenverfügung oder ein Vorsorgeauftrag. Bringen Sie Kopien mit, falls vorhanden.
 
 ::: {.hinweis-prototyp}
 Für das Projektteam: Diese Seite ist für die Persona Claudia gebaut. Sie beantwortet die vier Fragen, die Angehörige am häufigsten stellen (Hladkowicz 2024): was tun, darf ich mit, was kommt danach, wen anrufen. Sie ist ohne Login lesbar, druckbar und per Link teilbar. Der Abschnitt «Darf ich das überhaupt?» braucht eine juristische Prüfung.
