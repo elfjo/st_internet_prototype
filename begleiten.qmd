@@ -9,10 +9,6 @@ toc: false
 [Alles auf einem Blatt →](merkblatt.qmd)
 :::
 
-::: {.hinweis-prototyp}
-Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
-:::
-
 [Sie lesen für Ihre Mutter, Ihren Vater, Ihre Partnerin oder einen Freund. Diese Seite sagt, was Sie als Begleiterin oder Begleiter tun können, was Sie dürfen und wen Sie anrufen. Ihre Unterstützung hilft der Person und uns.]{.lede}
 
 ::: {.kontaktzeile}
@@ -60,10 +56,6 @@ Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder N�
 ## Darf ich das überhaupt? {#duerfen}
 
 Sie dürfen Informationen für die Person lesen, Termine abmachen und Fragen stellen. Auskunft über den Gesundheitszustand erhalten Sie, wenn die Patientin oder der Patient uns das erlaubt hat. Wir fragen das beim Eintritt. Für rechtliche Vertretung gilt die Patientenverfügung oder ein Vorsorgeauftrag. Bringen Sie Kopien mit, falls vorhanden.
-
-::: {.hinweis-prototyp}
-Für das Projektteam: Diese Seite ist für die Persona Claudia gebaut. Sie beantwortet die vier Fragen, die Angehörige am häufigsten stellen (Hladkowicz 2024): was tun, darf ich mit, was kommt danach, wen anrufen. Sie ist ohne Login lesbar, druckbar und per Link teilbar. Der Abschnitt «Darf ich das überhaupt?» braucht eine juristische Prüfung.
-:::
 
 {{< include _feedback.qmd >}}
 

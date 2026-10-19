@@ -9,10 +9,6 @@ toc: false
 [Für Angehörige →](begleiten.qmd)
 :::
 
-::: {.hinweis-prototyp}
-Struktur-Prototyp, Variante «Zeitachse und Aufgaben». Inhalte beispielhafte Platzhalter. Die Zeitachse ersetzt die Gliederung nach Orten (Tagesklinik, Aufwachraum, Zimmer) durch die Reihenfolge, in der Sie die Dinge erleben.
-:::
-
 [Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt sagt, was wir tun und was Sie tun. Sie können die Seite ausdrucken oder Ihren Angehörigen schicken. Für sie gibt es in jedem Abschnitt einen eigenen Hinweis.]{.lede}
 
 ```{=html}
@@ -219,14 +215,6 @@ Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder N�
 :::
 :::
 
-:::
-
-## Wie diese Seite aufgebaut ist {#warum}
-
-::: {.hinweis-prototyp}
-Für das Projektteam. Die Gestaltung folgt den Personae und der Evidenzrecherche vom Oktober 2026.
-
-Die Reihenfolge ist die Zeit, nicht der Ort, weil die Aufgaben zeitlich sind (Hanspeter, Sandra). Die Zeitangaben sind relativ, damit kurzfristig Angemeldete sich wiederfinden; «Wo stehen Sie gerade?» und der Kasten «Wenn Ihre Operation bald ist» sind ihre Einstiege. Station 1 steht im Perfekt, weil die Seite meist erst nach der ersten SMS gelesen wird; Links aus Mail und Brief können direkt auf #heute oder #wochen zeigen. Jede Station hat dieselben drei Teile: Wann, Was wir tun, Was Sie tun. Die Hälfte der Älteren führt Listen und arbeitet methodisch (NN/g 2013). «Das Wichtigste in einer Minute» oben ist für Sandra und für alle, die nur das brauchen. Die Kontaktzeile steht oben und in jeder Station, weil Anrufen für Beat und Rosmarie der normale Weg ist und WCAG 3.2.6 es verlangt. «Ist diese Nachricht echt?» steht am Anfang, weil der erste Kontakt der Klinik ein Link per SMS ist und Ältere Phishing schlechter erkennen (Lin 2019, Pehlivanoglu 2024). «Was zurzeit anders ist» benennt die Tagesklinik mit Grund, Horizont, «gilt für alle» und Angebot. Zufriedenheit folgt der Passung zwischen Erwartung und Erlebnis (Hafkamp 2020, Zhang 2025). Die Zeile «Für Angehörige und Begleitpersonen» in jeder Station ist für Claudia. 14 Prozent der über 65-Jährigen werden digital nur über Angehörige erreicht (Burgdorf 2023). Die Seite ist eine Spalte, ohne Akkordeons, druckbar, mit Links im Inhalt statt nur im Menü (Romano Bergstrom 2016, Li und Luximon 2020). Für Graziella fehlt noch das italienische Merkblatt und das Video mit mitlaufendem Text. beides ist als Platzhalter markiert.
 :::
 
 {{< include _feedback.qmd >}}
