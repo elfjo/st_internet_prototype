@@ -1,0 +1,227 @@
+---
+title: "Ihr Eintritt, Schritt für Schritt"
+toc: false
+---
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+[Alles auf einem Blatt →](merkblatt.qmd)
+[Wenn Sie jemanden begleiten →](begleiten.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp, Variante «Zeitachse und Aufgaben». Inhalte beispielhafte Platzhalter. Die Zeitachse ersetzt die Gliederung nach Orten (Tagesklinik, Aufwachraum, Zimmer) durch die Reihenfolge, in der Sie die Dinge erleben.
+:::
+
+[Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt sagt, was passiert und was Sie tun. Sie können sie ausdrucken oder jemandem schicken, der Sie begleitet.]{.lede}
+
+```{=html}
+<p class="werkzeuge">
+<button class="drucken" type="button" onclick="window.print()">Diese Seite drucken</button>
+<a class="werkzeug" href="merkblatt.qmd">Nur das Wichtigste, eine Seite</a>
+<a class="werkzeug" href="begleiten.qmd">Ich begleite jemanden</a>
+<span class="werkzeug ph">Italiano · Français: foglio informativo</span>
+</p>
+```
+
+::: {.kontaktzeile}
+**Fragen zum Eintritt:** [Patientendisposition, +41 41 208 30 12]{.ph}, Montag bis Freitag 8 bis 12 und 13 bis 17 Uhr. [Ihre Ansprechperson: Name]{.ph}
+:::
+
+## Das Wichtigste in einer Minute {#kurz}
+
+::: {.kurzliste}
+- **Eintritt:** [Freitag, 4. Dezember 2026]{.ph}, Réception Klinik St. Anna. Die Uhrzeit kommt am Vortag per SMS oder Anruf.
+- **Bis dahin:** Gesundheitsfragebogen ausfüllen (Link in E-Mail und SMS), Eintrittsformular zurücksenden, Abholung und erste Woche zu Hause organisieren.
+- **Am Eintrittstag:** bis 6 Stunden vor der Eintrittszeit essen, bis 2 Stunden vorher Wasser, Tee oder schwarzen Kaffee trinken, danach nichts mehr. Medikamente wie gewohnt, ausser die Anästhesie hat etwas anderes mit Ihnen vereinbart.
+- **Mitbringen:** Ausweis, Medikamente in der Originalpackung, Medikamentenliste, Hilfsmittel (Brille, Hörgerät, CPAP-Gerät).
+- **Austritt:** voraussichtlich [Montag, 7. Dezember 2026]{.ph}, bis 10 Uhr. Jemand holt Sie ab.
+:::
+
+Alles Weitere unten, in der Reihenfolge, in der es kommt.
+
+::: {.zeit}
+
+::: {.station}
+## Heute: Sie sind angemeldet {#heute}
+
+[Wann]{.wann} Am Tag, an dem Ihre Ärztin oder Ihr Arzt Sie bei uns anmeldet.
+
+### Was passiert
+
+Sie erhalten von uns eine **E-Mail und eine SMS** mit dem Link zum Gesundheitsfragebogen der Anästhesie. Einige Tage später kommt die **Anmeldebestätigung per Post** mit dem Eintrittsformular und dem Eintrittsdatum.
+
+::: {.echt}
+### Ist diese Nachricht echt?
+
+Unsere SMS kommt vom Absender [Absenderkennung]{.ph}, unsere E-Mail von [Adresse]{.ph}. Beide enthalten nur den Link zum Fragebogen. Wir fragen per SMS oder E-Mail nie nach Passwörtern, Karten- oder Bankdaten und verlangen nie eine Zahlung. Im Zweifel rufen Sie uns an, auf der Nummer oben, nicht auf einer Nummer aus der Nachricht.
+:::
+
+### Was Sie tun
+
+::: {.tun}
+- Den Gesundheitsfragebogen ausfüllen, allein oder mit jemandem zusammen. Rechnen Sie mit 30 bis 60 Minuten; Sie können unterbrechen und später weitermachen.
+- Falls Sie den Fragebogen nicht ausfüllen können oder wollen: nichts weiter. Wir melden uns dann telefonisch und nehmen die Angaben mit Ihnen auf.
+- Das Eintrittsformular aus dem Brief ausfüllen, unterschreiben und zurücksenden.
+:::
+
+::: {.begleit}
+**Wenn Sie jemanden begleiten:** Sie dürfen den Fragebogen gemeinsam ausfüllen. Am Anfang des Fragebogens geben Sie an, wer ausfüllt. Bei Fragen zu Alkohol, Rauchen und Stimmung sollte die Patientin oder der Patient selbst antworten.
+:::
+:::
+
+::: {.station}
+## In den Wochen davor: Die Narkose wird besprochen {#wochen}
+
+[Wann]{.wann} Zwischen Anmeldung und Eintritt, meist zwei bis sechs Wochen.
+
+### Was passiert
+
+Die Anästhesie meldet sich bei Ihnen. Je nach Eingriff und Gesundheit **laden wir Sie in die Anästhesie-Sprechstunde ein**, oder **die Anästhesieärztin oder der Anästhesiearzt ruft Sie am Vortag an**. Sie müssen dafür nichts unternehmen. Falls eine Rehabilitation oder Kur nötig ist, organisieren wir sie jetzt und rufen Sie an.
+
+### Was Sie tun
+
+::: {.tun}
+- Organisieren, wer Sie nach dem Austritt abholt. Nach einer Narkose dürfen Sie 24 Stunden nicht selbst fahren.
+- Organisieren, wer Sie in der ersten Woche zu Hause unterstützt: Einkaufen, Kochen, Treppen.
+- Blutverdünner und Diabetesmedikamente: nur pausieren, wenn die Anästhesie oder Ihre Ärztin es mit Ihnen vereinbart hat. Im Zweifel anrufen.
+- Falls Sie Fieber, Husten, eine Erkältung oder eine Verschlechterung bemerken: anrufen, auch kurz vor dem Eintritt.
+- Rauchen: Jede rauchfreie Woche vor der Operation hilft der Wundheilung. [Unterstützung]{.ph}
+:::
+
+::: {.begleit}
+**Wenn Sie jemanden begleiten:** Dies ist der Moment für die Logistik. Wer fährt, wer ist in der ersten Woche da, wer kümmert sich um Haustiere und Post. Ein Blick auf die Wohnung lohnt sich: Treppen, Teppiche, Dusche.
+:::
+:::
+
+::: {.station}
+## Am Vortag: Uhrzeit und Vorbereitung {#vortag}
+
+[Wann]{.wann} Am Tag vor dem Eintritt. Bei Eintritt am Montag: am Freitag davor.
+
+### Was passiert
+
+Sie erhalten **per SMS Ihre Eintrittszeit**. Falls wir keine Handynummer von Ihnen haben, **rufen wir Sie an**. Falls bis 14 Uhr keine Nachricht da ist, rufen Sie uns an: [Nummer]{.ph}, 13 bis 17 Uhr. Falls kein Sprechstundentermin stattgefunden hat, **ruft Sie heute die Anästhesie an** und bespricht die Narkose mit Ihnen; halten Sie Ihre Medikamentenliste bereit.
+
+### Was Sie tun
+
+::: {.tun}
+- Die Eintrittszeit notieren und ausrechnen: Ab wann nichts mehr essen (6 Stunden vorher), ab wann nichts mehr trinken (2 Stunden vorher).
+- Packen: Ausweis, Medikamente in der Originalpackung, Medikamentenliste, Allergiepass oder andere medizinische Ausweise, Brille, Hörgerät mit Batterien, Zahnprothesenschale, CPAP-Gerät, bequeme Kleidung, feste Schuhe, Toilettenartikel, etwas zum Lesen oder Hören.
+- Zu Hause lassen: Schmuck, Wertsachen, grössere Geldbeträge.
+:::
+
+::: {.begleit}
+**Wenn Sie jemanden begleiten:** Rechnen Sie die Zeiten für Essen und Trinken gemeinsam aus und schreiben Sie sie auf einen Zettel an den Kühlschrank. Das ist die häufigste Fehlerquelle am Eintrittstag.
+:::
+:::
+
+::: {.station}
+## Am Eintrittstag: Ankommen, warten, Operation {#eintrittstag}
+
+[Wann]{.wann} Vom Aufstehen bis zum Abend.
+
+### Was passiert
+
+**Morgens zu Hause.** Bis 6 Stunden vor der Eintrittszeit eine leichte Mahlzeit, bis 2 Stunden vorher Wasser ohne Kohlensäure, Tee oder schwarzer Kaffee, danach nichts mehr, auch keine Bonbons oder Kaugummi. Medikamente wie gewohnt mit einem Schluck Wasser, ausser es wurde etwas anderes vereinbart.
+
+**Anreise.** [Adresse, Eingang, öffentlicher Verkehr; Parkplätze sind wegen des Umbaus knapp, lassen Sie sich bringen.]{.ph}
+
+**Empfang.** Sie melden sich an der Réception und erhalten Ihr Patientenarmband mit Name, Geburtsdatum und Fallnummer. Wir fragen Sie im Lauf des Tages mehrmals nach Name und Geburtsdatum; das ist Absicht und dient Ihrer Sicherheit.
+
+::: {.anders}
+### Was zurzeit anders ist
+
+Während des Umbaus (ANNAplus, voraussichtlich bis [Datum]{.ph}) bereiten wir Sie in der Tagesklinik auf die Operation vor. Die Plätze dort sind mit Vorhängen abgetrennt, nicht mit Wänden; das gilt für alle Patientinnen und Patienten, unabhängig von der Versicherung. Für vertrauliche Gespräche steht ein Besprechungsraum zur Verfügung; sagen Sie es der Pflegefachperson. Ihr Zimmer beziehen Sie nach der Operation.
+:::
+
+**Warten.** Der Operationsplan wird laufend abgestimmt; Ihre Operationszeit erfahren Sie am Eintrittstag. Zwischen Ankunft und Operation vergeht deshalb Zeit: manchmal eine halbe Stunde, manchmal mehrere Stunden. Wir sagen Ihnen alle [30 Minuten]{.ph}, wo Sie stehen, auch wenn es nichts Neues gibt. Diese Zeit arbeitet für Sie: Im Hintergrund bereitet Ihr Team alles vor.
+
+**Operation.** Eine Pflegefachperson begleitet Sie in den Operationsbereich; dort empfängt Sie das Anästhesieteam. Nach der Operation erwachen Sie im Aufwachraum oder, bei grösseren Eingriffen, auf der Überwachungsstation. Besuch ist dort nicht möglich; Ihre Angehörigen erhalten eine Nachricht, sobald Sie im Zimmer sind.
+
+### Was Sie tun
+
+::: {.tun}
+- Pünktlich zur Eintrittszeit an der Réception sein, Ausweis bereithalten.
+- Sagen, wenn etwas unklar ist, wehtut oder Sie etwas brauchen. Fragen sind erwünscht, Nachfragen auch.
+- Nichts essen oder trinken, bis die Pflege es freigibt, auch wenn Sie lange warten.
+:::
+
+::: {.begleit}
+**Wenn Sie jemanden begleiten:** Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Im Operationsbereich und im Aufwachraum ist kein Besuch möglich. Hinterlassen Sie Ihre Telefonnummer; wir rufen an, sobald die Patientin oder der Patient im Zimmer ist. Rechnen Sie mit [mehreren Stunden]{.ph}; Sie müssen nicht im Haus warten.
+:::
+:::
+
+::: {.station}
+## Die Tage im Spital {#spital}
+
+[Wann]{.wann} Vom Abend der Operation bis zum Austritt, meist [2 bis 5]{.ph} Tage.
+
+### Was passiert
+
+Ihre Ärztin oder Ihr Arzt besucht Sie täglich und bespricht mit Ihnen den Verlauf und den Austrittstag. Die Pflege ist rund um die Uhr erreichbar, mit der Klingel am Bett. Schmerzen und Übelkeit behandeln wir; sagen Sie es, bevor es stark wird. Besuch: [Besuchszeiten]{.ph}.
+
+### Was Sie tun
+
+::: {.tun}
+- Jede Beschwerde melden, auch kleine. Wir können nur behandeln, was wir wissen.
+- Aufstehen und gehen, sobald die Pflege es freigibt; das beschleunigt die Erholung.
+- Fragen aufschreiben, wenn sie Ihnen einfallen, und bei der Visite stellen.
+:::
+
+::: {.begleit}
+**Wenn Sie jemanden begleiten:** Ein Angehöriger darf bei der Visite dabei sein, wenn die Patientin es wünscht. Fragen Sie nach dem voraussichtlichen Austrittstag und was zu Hause gebraucht wird: Hilfsmittel, Spitex, Rezepte.
+:::
+:::
+
+::: {.station}
+## Austritt und die erste Woche zu Hause {#austritt}
+
+[Wann]{.wann} Am Austrittstag bis 10 Uhr, dann die ersten sieben Tage.
+
+### Was passiert
+
+Sie erhalten einen Austrittsbericht, Rezepte und die Termine für Nachkontrollen. Die Pflege erklärt Ihnen Wundversorgung und Medikamente und gibt Ihnen das schriftlich mit. Die Rechnung geht an Ihre Krankenkasse; für persönliche Auslagen erhalten Sie eine separate Rechnung.
+
+### Was Sie tun
+
+::: {.tun}
+- Das Zimmer bis 10 Uhr verlassen; jemand holt Sie ab.
+- Rezepte in der Klinikapotheke oder einer Apotheke Ihrer Wahl einlösen.
+- Bei den Warnzeichen unten sofort anrufen.
+:::
+
+::: {.melden}
+### Sofort melden
+
+Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder Nässen der Wunde, Atemnot, Brustschmerz, Wadenschmerz: [Klinik-Nummer, rund um die Uhr]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**.
+:::
+
+::: {.begleit}
+**Wenn Sie jemanden begleiten:** Die erste Nacht zu Hause sollte jemand erreichbar sein. Die Warnzeichen oben gelten auch für Sie: Wenn Ihnen etwas nicht geheuer ist, rufen Sie an.
+:::
+:::
+
+:::
+
+## Wie diese Seite aufgebaut ist {#warum}
+
+::: {.hinweis-prototyp}
+Für das Projektteam. Die Gestaltung folgt den Personae und der Evidenzrecherche vom Oktober 2026.
+
+Die Reihenfolge ist die Zeit, nicht der Ort, weil die Aufgaben zeitlich sind (Hanspeter, Sandra). Jede Station hat dieselben drei Teile: Wann, Was passiert, Was Sie tun; die Hälfte der Älteren führt Listen und arbeitet methodisch (NN/g 2013). «Das Wichtigste in einer Minute» oben ist für Sandra und für alle, die nur das brauchen. Die Kontaktzeile steht oben und in jeder Station, weil Anrufen für Beat und Rosmarie der normale Weg ist und WCAG 3.2.6 es verlangt. «Ist diese Nachricht echt?» steht am Anfang, weil der erste Kontakt der Klinik ein Link per SMS ist und Ältere Phishing schlechter erkennen (Lin 2019, Pehlivanoglu 2024). «Was zurzeit anders ist» benennt die Tagesklinik mit Grund, Horizont, «gilt für alle» und Angebot; Zufriedenheit folgt der Passung zwischen Erwartung und Erlebnis (Hafkamp 2020, Zhang 2025). Die Zeile «Wenn Sie jemanden begleiten» in jeder Station ist für Claudia; 14 Prozent der über 65-Jährigen werden digital nur über Angehörige erreicht (Burgdorf 2023). Die Seite ist eine Spalte, ohne Akkordeons, druckbar, mit Links im Inhalt statt nur im Menü (Romano Bergstrom 2016, Li und Luximon 2020). Für Graziella fehlt noch das italienische Merkblatt und das Video mit mitlaufendem Text; beides ist als Platzhalter markiert.
+:::
+
+{{< include _feedback.qmd >}}
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+[Alles auf einem Blatt →](merkblatt.qmd)
+[Wenn Sie jemanden begleiten →](begleiten.qmd)
+:::
+
+::: {#kontaktzone}
+{{< include _kontakt.qmd >}}
+:::
+
+{{< include _governance.qmd >}}

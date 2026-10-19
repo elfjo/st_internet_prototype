@@ -1,0 +1,73 @@
+---
+title: "Wenn Sie jemanden begleiten"
+toc: false
+---
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+[← Der Eintritt, Schritt für Schritt](zeitachse.qmd)
+[Alles auf einem Blatt →](merkblatt.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
+:::
+
+[Sie lesen für Ihre Mutter, Ihren Vater, Ihre Partnerin oder einen Freund. Diese Seite sagt, was Sie als Begleiterin oder Begleiter tun können, was Sie dürfen und wen Sie anrufen.]{.lede}
+
+::: {.kontaktzeile}
+**Fragen zum Eintritt:** [Patientendisposition, +41 41 208 30 12]{.ph}, Montag bis Freitag 8 bis 12 und 13 bis 17 Uhr.
+:::
+
+## Was Sie vor dem Eintritt tun können {#vorher}
+
+::: {.tun}
+- Den Gesundheitsfragebogen gemeinsam ausfüllen. Sie dürfen das; geben Sie am Anfang an, dass Sie helfen. Bei Fragen zu Alkohol, Rauchen und Stimmung sollte die Person selbst antworten.
+- Die Eintrittszeit aus der SMS in den Kalender übernehmen und die Zeiten für Essen und Trinken ausrechnen: nichts mehr essen ab 6 Stunden vorher, nichts mehr trinken ab 2 Stunden vorher. Auf einen Zettel an den Kühlschrank.
+- Die Medikamentenliste prüfen und die Packungen bereitlegen. Blutverdünner und Diabetesmedikamente nur pausieren, wenn es mit der Anästhesie vereinbart ist.
+- Fahrt hin und zurück organisieren. Nach einer Narkose darf die Person 24 Stunden nicht selbst fahren.
+- Die erste Woche zu Hause planen: Einkaufen, Kochen, Treppen, Dusche, Haustiere, Post.
+:::
+
+## Am Eintrittstag {#tag}
+
+Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Dort sind die Plätze während des Umbaus mit Vorhängen abgetrennt; es gibt Stühle für Begleitende, aber wenig Platz. Im Operationsbereich und im Aufwachraum ist kein Besuch möglich.
+
+Hinterlassen Sie an der Réception Ihre Telefonnummer. Wir rufen Sie an, sobald die Person im Zimmer ist; das kann [mehrere Stunden]{.ph} dauern. Sie müssen in dieser Zeit nicht im Haus bleiben.
+
+## Während des Aufenthalts {#waehrend}
+
+Besuchszeiten: [Zeiten]{.ph}. Wenn die Patientin oder der Patient es wünscht, dürfen Sie bei der Visite dabei sein. Fragen Sie dort nach dem voraussichtlichen Austrittstag und danach, was zu Hause gebraucht wird: Hilfsmittel, Spitex, Rezepte. Das Case Management hilft bei der Organisation: [Kontakt]{.ph}.
+
+## Nach dem Austritt {#nachher}
+
+::: {.tun}
+- Abholung bis 10 Uhr am Austrittstag.
+- Rezepte einlösen, Medikamente nach dem mitgegebenen Plan richten.
+- Die erste Nacht erreichbar sein.
+:::
+
+::: {.melden}
+### Wann Sie anrufen
+
+Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder Nässen der Wunde, Verwirrtheit, Atemnot, Brustschmerz, Wadenschmerz: [Klinik-Nummer, rund um die Uhr]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**. Wenn Ihnen etwas nicht geheuer ist, rufen Sie an; lieber einmal zu viel.
+:::
+
+## Darf ich das überhaupt? {#duerfen}
+
+Sie dürfen Informationen für die Person lesen, Termine abmachen und Fragen stellen. Auskunft über den Gesundheitszustand erhalten Sie, wenn die Patientin oder der Patient uns das erlaubt hat; wir fragen das beim Eintritt. Für rechtliche Vertretung gilt die Patientenverfügung oder ein Vorsorgeauftrag; bringen Sie Kopien mit, falls vorhanden.
+
+::: {.hinweis-prototyp}
+Für das Projektteam: Diese Seite ist für die Persona Claudia gebaut. Sie beantwortet die vier Fragen, die Angehörige am häufigsten stellen (Hladkowicz 2024): was tun, darf ich mit, was kommt danach, wen anrufen. Sie ist ohne Login lesbar, druckbar und per Link teilbar. Der Abschnitt «Darf ich das überhaupt?» braucht eine juristische Prüfung.
+:::
+
+{{< include _feedback.qmd >}}
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+[← Der Eintritt, Schritt für Schritt](zeitachse.qmd)
+:::
+
+{{< include _kontakt.qmd >}}
+
+{{< include _governance.qmd >}}

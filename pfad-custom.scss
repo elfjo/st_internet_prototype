@@ -414,3 +414,45 @@ main > .mini-nav:last-of-type,
   .navbar, .stepper, .feedback, nav.page-navigation, #quarto-sidebar, #TOC { display: none !important; }
   body { font-size: 11pt; }
 }
+
+/* ---------- Variante Zeitachse (zeitachse.qmd, begleiten.qmd) ---------- */
+
+.werkzeuge { display: flex; flex-wrap: wrap; gap: .5rem; margin: .6rem 0 1rem; }
+.werkzeug { display: inline-block; padding: .55rem .9rem; border: 1px solid var(--line); border-radius: 6px; background: #fff; color: var(--accent); font-weight: 600; text-decoration: none; min-height: 48px; line-height: 1.3; }
+.werkzeug:hover { background: var(--bg-soft); }
+.werkzeug.ph { border-style: dashed; color: var(--placeholder); font-weight: 400; }
+.werkzeuge .drucken { margin: 0; }
+
+.kontaktzeile { background: var(--bg-soft); border: 1px solid var(--line); border-radius: 6px; padding: .6rem .9rem; margin: .4rem 0 1.4rem; font-size: 1rem; }
+.kontaktzeile p { margin: 0; max-width: none; }
+
+.kurzliste { background: #fff; border: 2px solid var(--accent); border-radius: 8px; padding: .9rem 1.1rem .5rem; margin: .6rem 0 1.2rem; }
+.kurzliste ul { margin: 0; padding-left: 1.2rem; }
+.kurzliste li { margin: 0 0 .55rem; max-width: none; line-height: 1.45; }
+
+.zeit { position: relative; margin: 1.2rem 0 2rem; padding-left: 1.6rem; border-left: 4px solid var(--line); }
+.station { position: relative; margin: 0 0 2.6rem; }
+.station::before { content: ""; position: absolute; left: calc(-1.6rem - 12px); top: .55rem; width: 20px; height: 20px; border-radius: 50%; background: var(--accent); border: 3px solid #fff; box-shadow: 0 0 0 2px var(--accent); }
+.station > h2 { margin-top: 0; border-bottom: 0; padding-bottom: 0; }
+.station h3 { font-size: 1.05rem; margin: 1rem 0 .35rem; color: var(--accent-dark); }
+.wann { display: inline-block; font-size: .8rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-soft); background: var(--bg-soft); border: 1px solid var(--line); border-radius: 4px; padding: .1rem .5rem; margin-right: .4rem; vertical-align: middle; }
+.station > p:has(.wann) { margin: .2rem 0 .6rem; color: var(--ink-soft); }
+
+.tun ul { list-style: none; padding: 0; margin: .2rem 0 .6rem; }
+.tun li { position: relative; padding: .45rem 0 .45rem 2rem; border-bottom: 1px solid var(--line); max-width: none; line-height: 1.45; }
+.tun li::before { content: "☐"; position: absolute; left: .2rem; top: .3rem; font-size: 1.25rem; line-height: 1; color: var(--accent); }
+
+.begleit { background: #f7f3ea; border-left: 4px solid #9a8a6a; padding: .55rem .9rem; margin: .8rem 0 0; font-size: .97rem; }
+.begleit p { margin: 0; max-width: none; }
+
+.echt, .anders { background: var(--bg-soft); border: 1px solid var(--line); border-radius: 6px; padding: .7rem 1rem; margin: .8rem 0; }
+.anders { background: #fff7ed; border-color: #e3c08a; }
+.echt h3, .anders h3 { margin-top: 0; }
+.echt p:last-child, .anders p:last-child { margin-bottom: 0; }
+
+@media print {
+  .werkzeuge, .feedback, .mini-nav { display: none; }
+  .zeit { border-left-color: #999; }
+  .station::before { box-shadow: 0 0 0 2px #999; background: #999; }
+  .tun li { break-inside: avoid; }
+}
