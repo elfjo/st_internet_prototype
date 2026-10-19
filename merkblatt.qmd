@@ -37,6 +37,8 @@ Kühlschrank.]{.lede}
 - Die **2 Stunden** direkt vor dem Eintritt: gar nichts mehr, auch keine Bonbons oder
   Kaugummis.
 
+{{< include _rechenbeispiel.qmd >}}
+
 ## Medikamente
 
 - Alle gewohnten Medikamente weiternehmen, **ausser** es wurde anders
