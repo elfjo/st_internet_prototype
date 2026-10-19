@@ -16,7 +16,11 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 [Sie lesen für Ihre Mutter, Ihren Vater, Ihre Partnerin oder einen Freund. Diese Seite sagt, was Sie als Begleiterin oder Begleiter tun können, was Sie dürfen und wen Sie anrufen. Ihre Unterstützung hilft der Person und uns.]{.lede}
 
 ::: {.kontaktzeile}
-**Fragen zum Eintritt:** [Patientendisposition, +41 41 208 30 12]{.ph}, Montag bis Freitag 8 bis 12 und 13 bis 17 Uhr.
+**Wen rufe ich an?**
+
+- **Eintritt, Termin, Unterlagen:** [Patientendisposition, +41 41 208 30 12]{.ph}, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr
+- **Gesundheitsfragebogen und Narkose:** [Anästhesie, Telefonnummer]{.ph}
+- **Ihre Operation:** die Praxis Ihrer Operateurin oder Ihres Operateurs
 :::
 
 ## Was Sie vor dem Eintritt tun können {#vorher}
