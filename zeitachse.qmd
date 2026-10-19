@@ -13,7 +13,7 @@ toc: false
 Struktur-Prototyp, Variante «Zeitachse und Aufgaben». Inhalte beispielhafte Platzhalter. Die Zeitachse ersetzt die Gliederung nach Orten (Tagesklinik, Aufwachraum, Zimmer) durch die Reihenfolge, in der Sie die Dinge erleben.
 :::
 
-[Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt sagt, was wir tun und was Sie tun. Sie können sie ausdrucken oder jemandem schicken, der Sie begleitet.]{.lede}
+[Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt sagt, was wir tun und was Sie tun. Vieles davon haben wir schon für Sie vorbereitet. Sie können die Seite ausdrucken oder jemandem schicken, der Sie begleitet.]{.lede}
 
 ```{=html}
 <p class="werkzeuge">
@@ -49,7 +49,7 @@ Alles Weitere unten, in der Reihenfolge, in der es auf Sie zukommt.
 
 ### Was wir tun
 
-Wir schicken Ihnen eine **E-Mail und eine SMS** mit dem Link zum Gesundheitsfragebogen der Anästhesie. Einige Tage später folgt die **Anmeldebestätigung per Post** mit dem Eintrittsdatum und dem Eintrittsformular.
+Wir schicken Ihnen eine **E-Mail und eine SMS** mit dem Link zum Gesundheitsfragebogen der Anästhesie. Einige Tage später folgt die **Anmeldebestätigung per Post** mit dem Eintrittsdatum und dem Eintrittsformular. Ab heute kennt Sie ein Team, das Ihren Eintritt vorbereitet.
 
 ::: {.echt}
 ### Ist diese Nachricht echt?
@@ -77,7 +77,7 @@ Unsere SMS kommt vom Absender [Absenderkennung]{.ph}, unsere E-Mail von [Adresse
 
 ### Was wir tun
 
-Die Anästhesie meldet sich bei Ihnen. Je nach Eingriff und Gesundheit **laden wir Sie in die Anästhesie-Sprechstunde ein**, oder **die Anästhesieärztin oder der Anästhesiearzt ruft Sie am Vortag an**. Das organisieren wir. Falls Sie nach dem Aufenthalt eine Rehabilitation oder Kur brauchen, planen wir sie jetzt und rufen Sie an.
+Die Anästhesie meldet sich bei Ihnen. Je nach Eingriff und Gesundheit **laden wir Sie in die Anästhesie-Sprechstunde ein**, oder **die Anästhesieärztin oder der Anästhesiearzt ruft Sie am Vortag an**. Das organisieren wir. Im Gespräch ist Platz für alles, was Sie zur Narkose wissen möchten; es gibt keine überflüssige Frage. Falls Sie nach dem Aufenthalt eine Rehabilitation oder Kur brauchen, planen wir sie jetzt und rufen Sie an.
 
 ### Was Sie tun
 
@@ -101,7 +101,7 @@ Die Anästhesie meldet sich bei Ihnen. Je nach Eingriff und Gesundheit **laden w
 
 ### Was wir tun
 
-Wir schicken Ihnen **per SMS Ihre Eintrittszeit**. Ohne Handynummer **rufen wir Sie an**. Falls bis 14 Uhr keine Nachricht da ist, rufen Sie uns an: [Nummer]{.ph}, 13 bis 17 Uhr. Wer die Anästhesie noch in der Sprechstunde gesehen hat, ist informiert; alle anderen **ruft heute die Anästhesie an** und bespricht die Narkose. Halten Sie Ihre Medikamentenliste bereit.
+Wir schicken Ihnen **per SMS Ihre Eintrittszeit**. Ohne Handynummer **rufen wir Sie an**. Falls bis 14 Uhr keine Nachricht da ist, rufen Sie uns an: [Nummer]{.ph}, 13 bis 17 Uhr. Wer die Anästhesie noch in der Sprechstunde gesehen hat, ist informiert; alle anderen **ruft heute die Anästhesie an** und bespricht die Narkose. Halten Sie Ihre Medikamentenliste bereit. Wenn Sie heute Abend den Koffer schliessen, ist der grösste Teil der Vorbereitung getan.
 
 ### Was Sie tun
 
@@ -127,7 +127,7 @@ Wir schicken Ihnen **per SMS Ihre Eintrittszeit**. Ohne Handynummer **rufen wir 
 
 **Anreise.** [Adresse, Eingang, öffentlicher Verkehr. Während des Umbaus kommen Sie am besten mit dem öffentlichen Verkehr oder lassen sich bringen.]{.ph}
 
-**Empfang.** Sie melden sich an der Réception und erhalten Ihr Patientenarmband mit Name, Geburtsdatum und Fallnummer. Im Lauf des Tages fragen wir Sie mehrmals nach Name und Geburtsdatum; so wissen alle im Team jederzeit, wen sie vor sich haben.
+**Empfang.** Sie melden sich an der Réception und erhalten Ihr Patientenarmband mit Name, Geburtsdatum und Fallnummer. Im Lauf des Tages fragen wir Sie mehrmals nach Name und Geburtsdatum; so wissen alle im Team jederzeit, wen sie vor sich haben. Von hier an sind Sie in jedem Schritt begleitet.
 
 ::: {.anders}
 ### Was zurzeit anders ist
@@ -137,7 +137,7 @@ Während des Umbaus (ANNAplus, voraussichtlich bis [Datum]{.ph}) bereiten wir Si
 
 **Warten.** Der Operationsplan wird laufend abgestimmt; Ihre Operationszeit erfahren Sie am Eintrittstag. Zwischen Ankunft und Operation vergeht deshalb Zeit: manchmal eine halbe Stunde, manchmal mehrere Stunden. Alle [30 Minuten]{.ph} sagen wir Ihnen, wo Sie stehen, auch wenn alles beim Alten ist. Diese Zeit arbeitet für Sie: Im Hintergrund bereitet Ihr Team alles vor.
 
-**Operation.** Eine Pflegefachperson begleitet Sie in den Operationsbereich; dort empfängt Sie das Anästhesieteam. Nach der Operation erwachen Sie im Aufwachraum oder, bei grösseren Eingriffen, auf der Überwachungsstation; dort kümmert sich das Team um Schmerzen und Übelkeit, bevor sie stark werden. Besuch empfangen Sie wieder im Zimmer; Ihre Angehörigen erhalten eine Nachricht, sobald Sie dort sind.
+**Operation.** Eine Pflegefachperson begleitet Sie in den Operationsbereich; dort empfängt Sie das Anästhesieteam, das während der ganzen Operation bei Ihnen bleibt. Nach der Operation erwachen Sie im Aufwachraum oder, bei grösseren Eingriffen, auf der Überwachungsstation; dort kümmert sich das Team um Schmerzen und Übelkeit, bevor sie stark werden. Besuch empfangen Sie wieder im Zimmer; Ihre Angehörigen erhalten eine Nachricht, sobald Sie dort sind.
 
 ### Was Sie tun
 
@@ -159,7 +159,7 @@ Während des Umbaus (ANNAplus, voraussichtlich bis [Datum]{.ph}) bereiten wir Si
 
 ### Was wir tun
 
-Ihre Ärztin oder Ihr Arzt besucht Sie täglich und bespricht mit Ihnen den Verlauf und den Austrittstag. Die Pflege ist rund um die Uhr für Sie da, mit der Klingel am Bett. Schmerzen und Übelkeit behandeln wir früh; sagen Sie es, sobald Sie etwas spüren. Besuch: [Besuchszeiten]{.ph}.
+Ihre Ärztin oder Ihr Arzt besucht Sie täglich und bespricht mit Ihnen den Verlauf und den Austrittstag. Die Pflege ist rund um die Uhr für Sie da, mit der Klingel am Bett. Schmerzen und Übelkeit behandeln wir früh; sagen Sie es, sobald Sie etwas spüren. Jeder Tag bringt Sie ein Stück näher an den Alltag, oft schneller, als Sie erwarten. Besuch: [Besuchszeiten]{.ph}.
 
 ### Was Sie tun
 
@@ -181,7 +181,7 @@ Ihre Ärztin oder Ihr Arzt besucht Sie täglich und bespricht mit Ihnen den Verl
 
 ### Was wir tun
 
-Sie erhalten einen Austrittsbericht, Rezepte und die Termine für Nachkontrollen. Die Pflege erklärt Ihnen Wundversorgung und Medikamente und gibt Ihnen alles schriftlich mit. Die Rechnung geht an Ihre Krankenkasse; für persönliche Auslagen erhalten Sie eine separate Rechnung.
+Sie erhalten einen Austrittsbericht, Rezepte und die Termine für Nachkontrollen. Die Pflege erklärt Ihnen Wundversorgung und Medikamente und gibt Ihnen alles schriftlich mit. Zu Hause geht die Erholung weiter, in Ihrem Tempo; die Kraft kehrt Woche für Woche zurück. Die Rechnung geht an Ihre Krankenkasse; für persönliche Auslagen erhalten Sie eine separate Rechnung.
 
 ### Was Sie tun
 

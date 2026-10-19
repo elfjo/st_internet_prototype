@@ -13,7 +13,7 @@ toc: false
 Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
-[Sie lesen für Ihre Mutter, Ihren Vater, Ihre Partnerin oder einen Freund. Diese Seite sagt, was Sie als Begleiterin oder Begleiter tun können, was Sie dürfen und wen Sie anrufen.]{.lede}
+[Sie lesen für Ihre Mutter, Ihren Vater, Ihre Partnerin oder einen Freund. Diese Seite sagt, was Sie als Begleiterin oder Begleiter tun können, was Sie dürfen und wen Sie anrufen. Mit Ihnen an der Seite läuft vieles leichter, für die Person und für uns.]{.lede}
 
 ::: {.kontaktzeile}
 **Fragen zum Eintritt:** [Patientendisposition, +41 41 208 30 12]{.ph}, Montag bis Freitag 8 bis 12 und 13 bis 17 Uhr.
@@ -33,7 +33,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 
 Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Dort sind die Plätze während des Umbaus mit Vorhängen abgetrennt; für Begleitende stehen Stühle bereit, der Platz ist knapp. Ab dem Operationsbereich übernimmt das Team; Besuch ist wieder im Zimmer möglich.
 
-Hinterlassen Sie an der Réception Ihre Telefonnummer. Wir rufen Sie an, sobald die Person im Zimmer ist; das kann [mehrere Stunden]{.ph} dauern. Nutzen Sie die Zeit ruhig ausserhalb des Hauses.
+Hinterlassen Sie an der Réception Ihre Telefonnummer. Wir rufen Sie an, sobald die Person im Zimmer ist, und Sie können aufatmen; das kann [mehrere Stunden]{.ph} dauern. Nutzen Sie die Zeit ruhig ausserhalb des Hauses.
 
 ## Während des Aufenthalts {#waehrend}
 
@@ -44,7 +44,7 @@ Besuchszeiten: [Zeiten]{.ph}. Wenn die Patientin oder der Patient es wünscht, d
 ::: {.tun}
 - Abholung bis 10 Uhr am Austrittstag.
 - Rezepte einlösen, Medikamente nach dem mitgegebenen Plan richten.
-- Die erste Nacht erreichbar sein.
+- Die erste Nacht erreichbar sein; meist bleibt sie ruhig.
 :::
 
 ::: {.melden}
