@@ -1,91 +1,257 @@
 ---
-title: "Operation mit stationärem Aufenthalt: Schritt für Schritt"
+title: "Ihr Eintritt, Schritt für Schritt"
 toc: false
 ---
 
 ::: {.mini-nav}
-[⌂ Prototyp-Übersicht](index.qmd)
+[⌂ Übersicht](index.qmd)
+[Alles auf einem Blatt →](merkblatt.qmd)
+[Ich begleite jemanden →](begleiten.qmd)
 :::
 
-::: {.hinweis-prototyp}
-Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
+[Danke für Ihr Vertrauen in die Klinik St. Anna. Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt erklärt, was wir tun und was Sie beitragen. Sie können die Seite auch ausdrucken oder Ihren Angehörigen schicken.]{.lede}
+
+```{=html}
+<p class="werkzeuge">
+<a class="werkzeug" href="merkblatt.qmd">Das Wichtigste auf einer Seite, auch zum Ausdrucken</a>
+<a class="werkzeug" href="begleiten.qmd">Ich begleite jemanden</a>
+<span class="werkzeug ph">Italiano · Français: foglio informativo</span>
+</p>
+```
+
+::: {.video-einstieg}
+[Wenn Sie mögen: Wir zeigen Ihnen in zwei Minuten, wie Ihr
+Aufenthalt bei uns aussieht, von der Anmeldung bis zurück nach
+Hause. Sie müssen sich dabei nichts merken, denn wir führen Sie
+unterwegs durch jeden Schritt.]{.einladung}
+
+![Standbild des Einführungsvideos: eine Pflegefachperson empfängt
+Sie in der Klinik](_images/video-poster.jpg)
+
+[Alles aus dem Video steht auch hier auf der Seite zum Lesen. Video
+mit Untertiteln, [2 Minuten, folgt]{.ph}.]{.nachsatz}
 :::
 
-[Dieser Wegweiser führt Sie durch alle Schritte Ihres geplanten
-Aufenthalts, von der Entscheidung zur Operation bis zur Erholung zu Hause.]{.lede}
+::: {.weiche}
+**Kommen Sie zu einer Herzkatheter-Untersuchung?** Für Sie gilt ein
+eigener, kürzerer Fahrplan: [Herzkatheter: Ihr Fahrplan →](herzkatheter.qmd)
 
-::: {.eilig-teaser}
-Wenn Sie gerade wenig Zeit haben und nur das Wichtigste wissen möchten:
-
-[Hier geht´s direkt zur Kurzinformation →](eilig.qmd)
+Für alle anderen Eingriffe geht es hier weiter.
 :::
 
-## Ihr Pfad durch den Aufenthalt
+::: {.kontaktzeile}
+**So erreichen Sie uns.** Jede Frage ist willkommen; rufen Sie
+lieber einmal mehr an.
 
-Dass Sie sich hier umsehen, ist bereits der erste Schritt einer guten
-Vorbereitung. Sie sind eingeladen, den Schritten der Reihe nach zu
-folgen oder direkt dorthin zu springen, wo Sie gerade stehen.
-
-::: {.phasen}
-1. [Die Entscheidung zur Operation](phasen/entscheidung.qmd)
-
-   [Brauche ich diese Operation? Was sind meine Wahlmöglichkeiten, was sind
-   die Alternativen? Welche Fragen stelle ich in der Sprechstunde?]{.p-frage}
-
-2. [Gesundheitsfragebogen, Abklärungen und Anästhesiegespräch](phasen/abklaerung.qmd)
-
-   [Welche Abklärungen brauche ich vor der Operation? Wann findet das Anästhesiegespräch statt?.]{.p-frage}
-
-3. [Die Zeit bis zum Eintritt optimal nutzen](phasen/wartezeit.qmd)
-
-   [Bewegung, Ernährung, Gewohnheiten. Und was tue ich, wenn sich mein
-   Gesundheitszustand zwischenzeitlich ändert?]{.p-frage}
-
-4. [Gut vorbereitet zum Eintritt ankommen](phasen/vorbereitung.qmd)
-
-   [Was ist hilfreich vor der Operation zu erledigen? Medikamente, Essen und
-   Trinken, Packliste, dazu die Planung für die Zeit nach dem
-   Austritt.]{.p-frage}
-
-5. [Der Eintritt und der Operationstag](phasen/eintrittstag.qmd)
-
-   [Wo melde ich mich an? Wie sind die Abläufe? Wie lange
-   dauert es bis es losgeht?]{.p-frage}
-
-6. [Der Aufenthalt in der Klinik](phasen/aufenthalt.qmd)
-
-   [Wie sieht mein Tag aus? Wer betreut mich? An wen wende ich mich bei Fragen?]{.p-frage}
-
-7. [Austritt und Erholung zu Hause](phasen/nachhause.qmd)
-
-   [Austritt, Nachkontrolle, Unterstützung im Alltag. Und bei welchen
-   Anzeichen ich mich umgehend melden sollte.]{.p-frage}
+- **Eintritt, Operationstermin:** [Patientendisposition, +41 41 208 30 12]{.ph}, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr
+- **Gesundheitsfragebogen, Unterlagen und Narkose:** [Anästhesie, Telefonnummer]{.ph}
+- **Ihre Operation:** die Praxis Ihrer Operateurin oder Ihres Operateurs
 :::
 
-## Welche Operation bekommen Sie?
+## Das Wichtigste in einer Minute {#kurz}
 
-Zu unseren häufigsten Eingriffen finden Sie eine eigene Seite mit allen
-Schritten, vom Grund für die Operation bis zur Erholung. Ihr
-persönlicher Weg beginnt am besten dort:
-
-::: {.hinweis-prototyp}
-Architektur-Demo «Eingriffskosmos»: Die Hüftprothese zeigt eine
-Einstiegsseite mit kurzen Schritt-Seiten; Allgemeines wird zentral
-gepflegt und verlinkt.
+::: {.kurzliste}
+- **Eintritt:** Das Datum steht in Ihrer Anmeldebestätigung. Die Uhrzeit erhalten Sie am Vortag per SMS oder Anruf. Melden Sie sich an der Réception.
+- **Bis dahin:** Gesundheitsfragebogen ausfüllen (Link in E-Mail und SMS), Eintrittsformular zurücksenden, Ihre Abholung und die erste Woche zu Hause organisieren.
+- **Am Eintrittstag:** bis 6 Stunden vor der Eintrittszeit essen, bis 2 Stunden vorher Wasser, Tee oder schwarzen Kaffee trinken, danach nichts mehr. Medikamente wie gewohnt, ausser die Ärztin oder der Arzt hat etwas anderes mit Ihnen vereinbart.
+- **Mitbringen:** Ausweis, Medikamente in der Originalpackung, Medikamentenliste, Ihre gewohnten Hilfsmittel (Brille, Hörgerät, CPAP-Gerät).
+- **Austritt:** Den Tag legen Sie mit Ihrer Ärztin oder Ihrem Arzt fest. Das Zimmer geben Sie bis 10 Uhr frei. Jemand holt Sie ab.
 :::
 
-::: {.op-wahl}
-[Hüftprothese](behandlungen/hueftprothese.qmd)
-[Knieprothese]{.ph}
-[weitere Operationen]{.ph}
+## Wo stehen Sie gerade? {#wo}
+
+::: {.wo}
+- [Ich habe eine SMS oder E-Mail mit dem Gesundheitsfragebogen erhalten →](#heute)
+- [Ich habe die Anmeldebestätigung per Post erhalten →](#wochen)
+- [Mein Eintritt ist morgen →](#vortag)
+- [Meine Operation ist in wenigen Tagen →](#kurz-weg)
+- [Ich begleite oder unterstütze jemanden bei diesem Weg →](begleiten.qmd)
 :::
 
-## Gut zu wissen
+::: {.kurzweg #kurz-weg}
+**Operation in wenigen Tagen?** Die Reihenfolge unten bleibt gleich, alles kommt nur dichter, und der Brief kann nach dem Eintritt eintreffen. Sie haben nichts verpasst. Zuerst zählen der Fragebogen, die Abholung und die Regeln für den Eintrittstag.
+:::
 
-- [Das Wichtigste auf einem Blatt, zum Ausdrucken](merkblatt.qmd)
-- [Ihre Anästhesie: Fragebogen, Gespräch, Verfahren](anaesthesie.qmd)
+Alles Weitere steht unten, in der Reihenfolge, in der es kommt. Was bei Ihnen schon erledigt ist, überspringen Sie.
+
+::: {.zeit}
+
+::: {.station}
+## Nach der Anmeldung: Fragebogen und Bestätigung {#heute}
+
+[Wann]{.wann} Ab dem Tag, an dem Ihre Ärztin oder Ihr Arzt Sie bei uns anmeldet.
+
+### Was wir tun
+
+Sie haben von uns eine **E-Mail und eine SMS** mit dem Link zum Gesundheitsfragebogen der Anästhesie erhalten. Die **Anmeldebestätigung per Post** mit dem Eintrittsdatum und dem Eintrittsformular folgt, je nach Termin innerhalb von Tagen oder Wochen. Ab jetzt bereitet unser Team Ihren Eintritt vor.
+
+::: {.echt}
+### So prüfen Sie, ob eine Nachricht von uns kommt
+
+Unsere SMS kommt vom Absender [Absenderkennung]{.ph}, unsere E-Mail von [Adresse]{.ph}, und der Link führt auf [hirslanden.ch]{.ph}. Wir fragen per SMS oder E-Mail nie nach Passwörtern, Karten- oder Bankdaten und verlangen nie eine Zahlung. Wenn Sie unsicher sind: Tippen Sie hirslanden.ch selbst in den Browser und rufen Sie die Nummer an, die dort steht, statt einer Nummer aus der Nachricht. Und falls Sie den Link lieber gar nicht öffnen: Wir rufen Sie an.
+:::
+
+### Was Sie tun
+
+::: {.tun}
+- Den Gesundheitsfragebogen ausfüllen, allein oder mit jemandem zusammen. Rechnen Sie mit 30 bis 60 Minuten. Sie können unterbrechen und später weitermachen. Falls Sie ihn schon ausgefüllt haben, ist dieser Punkt erledigt.
+- Falls Ihnen das Ausfüllen am Bildschirm schwerfällt: Sie können den Fragebogen auch offen lassen. Dann rufen wir Sie an und gehen die Fragen am Telefon mit Ihnen durch.
+- Das Eintrittsformular aus dem Brief ausfüllen, unterschreiben und zurücksenden.
+:::
+
+::: {.begleit}
+**Für Angehörige und Begleitpersonen:** Sie dürfen den Fragebogen gemeinsam ausfüllen. Am Anfang des Fragebogens geben Sie an, wer ausfüllt. Bei Fragen zu Alkohol, Rauchen und Stimmung sollte die Patientin oder der Patient selbst antworten.
+:::
+:::
+
+::: {.station}
+## Bis zum Eintritt: Die Narkose wird besprochen {#wochen}
+
+[Wann]{.wann} Zwischen Anmeldung und Eintritt. Das können mehrere Wochen sein oder wenige Tage.
+
+### Was wir tun
+
+Am Vortag **ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an** und bespricht die Narkose mit Ihnen. Je nach Eingriff und Gesundheit **laden wir Sie vorher zusätzlich in die Anästhesie-Sprechstunde ein**, in der Klinik oder telefonisch. Darum kümmern wir uns. Im Gespräch können Sie alles fragen, was Sie zur Narkose wissen möchten. Falls Sie nach dem Aufenthalt eine Rehabilitation oder Kur brauchen, planen wir sie jetzt und rufen Sie an.
+
+### Was Sie tun
+
+::: {.tun}
+- Organisieren, wer Sie nach dem Austritt abholt. Nach einer Narkose lassen Sie sich 24 Stunden lang fahren.
+- Organisieren, wer Sie in der ersten Woche zu Hause unterstützt: Einkaufen, Kochen, Treppen.
+- Ihre Medikamente nehmen Sie weiter wie gewohnt. Blutverdünner und Diabetesmedikamente pausieren Sie erst, wenn die Anästhesie oder Ihre Ärztin es mit Ihnen vereinbart hat. Im Zweifel anrufen.
+- Bei Fieber, Husten, Erkältung oder einer Verschlechterung: anrufen, auch kurz vor dem Eintritt. Wir besprechen dann mit Ihnen, ob die Operation wie geplant stattfindet.
+- Rauchen: Jeder rauchfreie Tag vor der Operation stärkt die Wundheilung. [Unterstützung]{.ph}
+:::
+
+::: {.begleit}
+**Für Angehörige und Begleitpersonen:** Jetzt ist die Zeit, das Praktische zu klären: wer fährt, wer in der ersten Woche da ist, wer sich um Haustiere und Post kümmert. Schauen Sie auch die Wohnung an: Treppen, Teppiche, Dusche.
+:::
+:::
+
+::: {.station}
+## Am Vortag: Uhrzeit und Vorbereitung {#vortag}
+
+[Wann]{.wann} Am Tag vor dem Eintritt. Bei Eintritt am Montag: am Freitag davor.
+
+### Was wir tun
+
+**Ihre Eintrittszeit.** Sie erhalten sie heute **per SMS**. Ohne Handynummer rufen wir Sie an. Haben Sie bis 14 Uhr nichts von uns gehört, rufen Sie uns an: [Nummer]{.ph}, 13 bis 17 Uhr.
+
+**Der Anruf zur Narkose.** Heute **ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an**, auch wenn Sie schon in der Sprechstunde waren. Halten Sie dafür Ihre Medikamentenliste bereit.
+
+### Was Sie tun
+
+::: {.tun}
+- Die Eintrittszeit aufschreiben und zwei Uhrzeiten ausrechnen: bis wann Sie essen dürfen (6 Stunden vorher) und bis wann Sie trinken dürfen (2 Stunden vorher). Ein Rechenbeispiel steht gleich unten.
+- Falls Ihre Eintrittszeit heute telefonisch kommt: in der Nähe des Telefons bleiben.
+- Packen: Ausweis, Medikamente in der Originalpackung, Medikamentenliste, Allergiepass oder andere medizinische Ausweise, Brille, Hörgerät mit Batterien, Zahnprothesenschale, CPAP-Gerät, bequeme Kleidung, feste Schuhe, Toilettenartikel, etwas zum Lesen oder Hören.
+- Schmuck, Wertsachen und grössere Geldbeträge bleiben zu Hause.
+:::
+
+{{< include _rechenbeispiel.qmd >}}
+
+::: {.begleit}
+**Für Angehörige und Begleitpersonen:** Rechnen Sie die Zeiten für Essen und Trinken gemeinsam aus und schreiben Sie sie auf einen Zettel an den Kühlschrank. Beim Essen und Trinken am Morgen passieren die meisten Fehler. Der Zettel verhindert sie.
+:::
+:::
+
+::: {.station}
+## Am Eintrittstag: Ankommen, warten, Operation {#eintrittstag}
+
+[Wann]{.wann} Vom Aufstehen bis zum Abend.
+
+### Was wir tun, und was auf Sie zukommt
+
+**Morgens zu Hause.** Bis 6 Stunden vor der Eintrittszeit eine leichte Mahlzeit, bis 2 Stunden vorher Wasser ohne Kohlensäure, Tee oder schwarzer Kaffee. Danach nichts mehr, auch keine Bonbons oder Kaugummi. So schützen Sie Ihre Atemwege während der Narkose. Medikamente wie gewohnt mit einem Schluck Wasser, ausser es wurde etwas anderes vereinbart.
+
+**Anreise.** [Adresse, Eingang, öffentlicher Verkehr. Während des Umbaus kommen Sie am besten mit dem öffentlichen Verkehr oder lassen sich bringen.]{.ph}
+
+**Empfang.** Sie melden sich an der Réception und erhalten Ihr Patientenarmband mit Name, Geburtsdatum und Fallnummer. Im Lauf des Tages fragen wir Sie mehrmals nach Name und Geburtsdatum. So stellen wir sicher, dass jede Behandlung bei der richtigen Person ankommt. Ab der Réception begleitet Sie bei jedem Schritt jemand vom Team.
+
+::: {.anders}
+### Was zurzeit anders ist
+
+Während des Umbaus (ANNAplus, voraussichtlich bis [Datum]{.ph}) bereiten wir Sie in der Tagesklinik auf die Operation vor. Die Plätze dort sind mit Vorhängen abgetrennt. Das gilt für alle Patientinnen und Patienten, unabhängig von der Versicherung. Für vertrauliche Gespräche steht ein Besprechungsraum bereit. Sagen Sie es der Pflegefachperson. Ihr Zimmer beziehen Sie nach der Operation.
+:::
+
+**Warten.** Der Operationsplan wird laufend abgestimmt. Ihre Operationszeit erfahren Sie am Eintrittstag. Zwischen Ankunft und Operation vergeht deshalb Zeit: manchmal eine halbe Stunde, manchmal mehrere Stunden. Alle [30 Minuten]{.ph} sagt Ihnen jemand, wie es weitergeht, auch wenn sich noch nichts geändert hat. In dieser Zeit bereitet das Team im Hintergrund Ihre Operation vor.
+
+**Operation.** Eine Pflegefachperson begleitet Sie in den Operationsbereich. Dort empfängt Sie das Anästhesieteam und bleibt während der ganzen Operation bei Ihnen. Nach der Operation erwachen Sie im Aufwachraum oder, bei grösseren Eingriffen, auf der Überwachungsstation. Dort sorgt das Team dafür, dass Sie sich möglichst wohl fühlen, und bringt Sie dann in Ihr Zimmer. Sobald Sie dort sind, informieren wir Ihre Angehörigen, und sie können Sie besuchen.
+
+### Was Sie tun
+
+::: {.tun}
+- Pünktlich zur Eintrittszeit an der Réception sein, Ausweis bereithalten.
+- Sagen, wenn etwas unklar ist, wehtut oder Sie etwas brauchen. Fragen sind erwünscht, Nachfragen auch.
+- Mit Essen und Trinken warten, bis die Pflege es erlaubt, auch wenn die Wartezeit lang wird.
+:::
+
+::: {.begleit}
+**Für Angehörige und Begleitpersonen:** Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Hinterlassen Sie Ihre Telefonnummer. Wir rufen an, sobald die Patientin oder der Patient im Zimmer ist. Rechnen Sie mit [mehreren Stunden]{.ph}. Sie können in dieser Zeit die Klinik verlassen, wir erreichen Sie telefonisch.
+:::
+:::
+
+::: {.station}
+## Die Tage im Spital {#spital}
+
+[Wann]{.wann} Vom Abend der Operation bis zum Austritt, meist [2 bis 5]{.ph} Tage.
+
+### Was wir tun
+
+Ihre Ärztin oder Ihr Arzt besucht Sie täglich und bespricht mit Ihnen den Verlauf und den Austrittstag. Die Pflege ist rund um die Uhr für Sie da, mit der Klingel am Bett. Sagen Sie uns, sobald Sie Schmerzen oder Übelkeit spüren. Dann können wir früh helfen. Mit jedem Tag kommen Sie dem Alltag näher. Besuch: [Besuchszeiten]{.ph}.
+
+### Was Sie tun
+
+::: {.tun}
+- Jede Beschwerde melden, auch kleine. Dann können wir sie behandeln.
+- Aufstehen und gehen, sobald die Pflege es erlaubt. Bewegung beschleunigt die Erholung.
+- Fragen aufschreiben, wenn sie Ihnen einfallen, und bei der Visite stellen.
+:::
+
+::: {.begleit}
+**Für Angehörige und Begleitpersonen:** Ein Angehöriger darf bei der Visite dabei sein, wenn die Patientin es wünscht. Fragen Sie nach dem voraussichtlichen Austrittstag und was zu Hause gebraucht wird: Hilfsmittel, Spitex, Rezepte.
+:::
+:::
+
+::: {.station}
+## Austritt und die erste Woche zu Hause {#austritt}
+
+[Wann]{.wann} Am Austrittstag bis 10 Uhr, dann die ersten sieben Tage.
+
+### Was wir tun
+
+Sie erhalten einen Austrittsbericht, Rezepte und die Termine für Nachkontrollen. Die Pflege erklärt Ihnen Wundversorgung und Medikamente und gibt Ihnen alles schriftlich mit. Zu Hause erholen Sie sich weiter, in Ihrem eigenen Tempo. Die Kraft kommt Woche für Woche zurück. Die Rechnung geht an Ihre Krankenkasse. Für persönliche Auslagen erhalten Sie eine separate Rechnung.
+
+Wir wünschen Ihnen einen guten Aufenthalt bei uns und eine gute Erholung zu Hause.
+
+### Was Sie tun
+
+::: {.tun}
+- Das Zimmer bis 10 Uhr freigeben. Jemand holt Sie ab.
+- Rezepte in der Klinikapotheke oder einer Apotheke Ihrer Wahl einlösen.
+- Bei den Zeichen unten sofort anrufen, auch nachts.
+:::
+
+::: {.care}
+### Sofort melden
+
+Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder Nässen der Wunde, Atemnot, Brustschmerz, Wadenschmerz: [Klinik-Nummer, rund um die Uhr]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**.
+:::
+
+::: {.begleit}
+**Für Angehörige und Begleitpersonen:** In der ersten Nacht zu Hause sollte jemand erreichbar sein. Die Zeichen oben gelten auch für Sie: Wenn Ihnen etwas Sorgen macht, rufen Sie an.
+:::
+:::
+
+:::
 
 {{< include _feedback.qmd >}}
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+[Alles auf einem Blatt →](merkblatt.qmd)
+[Ich begleite jemanden →](begleiten.qmd)
+:::
 
 ::: {#kontaktzone}
 {{< include _kontakt.qmd >}}

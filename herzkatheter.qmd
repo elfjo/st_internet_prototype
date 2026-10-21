@@ -4,7 +4,7 @@ title: "Herzkatheter-Untersuchung: Ihr Fahrplan"
 
 ::: {.mini-nav}
 [⌂ Übersicht](index.qmd)
-[← Allgemeiner Fahrplan](zeitachse.qmd)
+[← Allgemeiner Fahrplan](stationaer.qmd)
 :::
 
 ::: {.hinweis-prototyp}
@@ -32,7 +32,7 @@ Im Zweifel rufen Sie an: [Telefonnummer]{.ph}.
 Ob Ihre Untersuchung stationär oder ambulant geplant ist, steht in
 Ihrer Anmeldebestätigung. Eintrittszeit, Anmeldung an der Réception
 und der Weg durch den Tag folgen dem
-[allgemeinen Fahrplan](zeitachse.qmd); die Abschnitte unten
+[allgemeinen Fahrplan](stationaer.qmd); die Abschnitte unten
 beschreiben, was bei der Herzkatheter-Untersuchung dazukommt.
 
 ## Nach der Untersuchung: stationär {#stationaer}
@@ -110,7 +110,7 @@ Brustschmerz oder Atemnot direkt **144**.
 
 ::: {.mini-nav}
 [⌂ Übersicht](index.qmd)
-[← Allgemeiner Fahrplan](zeitachse.qmd)
+[← Allgemeiner Fahrplan](stationaer.qmd)
 :::
 
 ::: {#kontaktzone}

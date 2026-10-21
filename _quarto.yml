@@ -16,9 +16,7 @@ website:
     collapse-below: lg
     right:
       - text: "Eintritt Schritt für Schritt"
-        href: zeitachse.qmd
-      - text: "Das Wichtigste in Kürze"
-        href: eilig.qmd
+        href: stationaer.qmd
       - text: "Kontakt & Anmeldung"
         href: stationaer.html#kontaktzone
 

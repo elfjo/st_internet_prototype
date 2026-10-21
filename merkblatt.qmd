@@ -4,9 +4,8 @@ toc: false
 ---
 
 ::: {.mini-nav}
-[⌂ Übersicht](stationaer.qmd)
+[← Ihr Eintritt, Schritt für Schritt](stationaer.qmd)
 :::
-
 
 ::: {.hinweis-prototyp}
 Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
@@ -52,10 +51,12 @@ Kühlschrank.]{.lede}
 Versichertenkarte · Ausweis · Medikamentenliste · [medizinische
 Ausweise (Allergie, Blutverdünner, Diabetes, Schrittmacher)]{.ph} ·
 bequeme Kleidung · feste rutschfeste Schuhe · Toilettenartikel ·
-Brille/Hörgerät mit Etui. **Zu Hause lassen:** Schmuck, Wertsachen.
+Brille, Hörgerät mit Batterien, CPAP-Gerät. **Zu Hause lassen:** Schmuck, Wertsachen.
 
 ## Vorher noch erledigen
 
+- Gesundheitsfragebogen ausfüllen (Link in E-Mail und SMS)
+- Eintrittsformular ausfüllen und zurücksenden
 - Abholung nach dem Austritt organisieren (nicht selbst fahren)
 - Unterstützung für die erste Woche zu Hause regeln
 - Bei Fieber, Erkältung oder Verschlechterung vor dem Eintritt:
@@ -63,10 +64,10 @@ Brille/Hörgerät mit Etui. **Zu Hause lassen:** Schmuck, Wertsachen.
 
 ::: {.rechtshinweis}
 Dieses Blatt fasst zusammen und ersetzt weder die ausführlichen
-Informationen auf [den Wegweiser-Seiten](stationaer.qmd) noch das
+Informationen auf [der Seite «Ihr Eintritt, Schritt für Schritt»](stationaer.qmd) noch das
 persönliche Gespräch. Stand: [Datum]{.ph}
 :::
 
 ::: {.mini-nav}
-[⌂ Übersicht](stationaer.qmd)
+[← Ihr Eintritt, Schritt für Schritt](stationaer.qmd)
 :::

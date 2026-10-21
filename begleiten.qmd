@@ -5,14 +5,15 @@ toc: false
 
 ::: {.mini-nav}
 [⌂ Übersicht](index.qmd)
-[← Der Eintritt, Schritt für Schritt](zeitachse.qmd)
+[← Der Eintritt, Schritt für Schritt](stationaer.qmd)
 [Alles auf einem Blatt →](merkblatt.qmd)
 :::
 
 [Sie lesen für Ihre Mutter, Ihren Vater, Ihre Partnerin oder einen Freund. Diese Seite sagt, was Sie als Begleiterin oder Begleiter tun können, was Sie dürfen und wen Sie anrufen; sie ist mehr als Besuchszeiten. Ihre Unterstützung hilft der Person und uns. Danke dafür.]{.lede}
 
 ::: {.kontaktzeile}
-**Wen rufe ich an?**
+**So erreichen Sie uns.** Jede Frage ist willkommen; rufen Sie
+lieber einmal mehr an.
 
 - **Eintritt, Termin, Unterlagen:** [Patientendisposition, +41 41 208 30 12]{.ph}, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr
 - **Gesundheitsfragebogen und Narkose:** [Anästhesie, Telefonnummer]{.ph}
@@ -47,8 +48,8 @@ Besuchszeiten: [Zeiten]{.ph}. Wenn die Patientin oder der Patient es wünscht, d
 - In der ersten Nacht erreichbar sein.
 :::
 
-::: {.melden}
-### Wann Sie anrufen
+::: {.care}
+### Sofort melden
 
 Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder Nässen der Wunde, Verwirrtheit, Atemnot, Brustschmerz, Wadenschmerz: [Klinik-Nummer, rund um die Uhr]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**. Wenn Ihnen etwas Sorgen macht, rufen Sie an, lieber einmal zu viel als einmal zu wenig.
 :::
@@ -61,7 +62,7 @@ Sie dürfen Informationen für die Person lesen, Termine abmachen und Fragen ste
 
 ::: {.mini-nav}
 [⌂ Übersicht](index.qmd)
-[← Der Eintritt, Schritt für Schritt](zeitachse.qmd)
+[← Der Eintritt, Schritt für Schritt](stationaer.qmd)
 :::
 
 {{< include _kontakt.qmd >}}
