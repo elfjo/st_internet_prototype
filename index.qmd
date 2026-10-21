@@ -12,3 +12,7 @@ Beispieltexte.
 
 - [Stationär: Ihr Eintritt, Schritt für Schritt →](stationaer.qmd)
 - [Ambulant: Ihr Eingriff, Schritt für Schritt →](ambulant.qmd)
+
+## Hintergrund für das Projektteam
+
+- [Personae: Für wen wir bauen, mit der Evidenz hinter dem Konzept →](personae.qmd)

@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.19">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Personae: Für wen wir bauen – Web Prototypen</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-3155e06acd2769e28e90c6c3da75ecee.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "Keine Treffer",
+    "search-matching-documents-text": "Treffer",
+    "search-copy-link-title": "Link in die Suche kopieren",
+    "search-hide-matches-text": "Zusätzliche Treffer verbergen",
+    "search-more-match-text": "weitere Treffer in diesem Dokument",
+    "search-more-matches-text": "weitere Treffer in diesem Dokument",
+    "search-clear-button-title": "Zurücksetzen",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Abbrechen",
+    "search-submit-button-title": "Abschicken",
+    "search-label": "Suchen"
+  }
+}</script>
+<meta name="robots" content="noindex, nofollow">
+
+
+</head>
+
+<body class="nav-fixed fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Web Prototypen</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navigation umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./stationaer.html"> 
+<span class="menu-text">Eintritt Schritt für Schritt</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./stationaer.html#kontaktzone"> 
+<span class="menu-text">Kontakt &amp; Anmeldung</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content page-columns page-full" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Personae: Für wen wir bauen</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="mini-nav">
+<p><a href="./index.html">⌂ Übersicht</a> <a href="./stationaer.html">Zum Prototyp →</a></p>
+</div>
+<div class="hinweis-prototyp">
+<p>Arbeitsgrundlage für das Projektteam und Stakeholder. Die Personen sind fiktiv, die Portraits KI-generiert; die Zahlen stammen aus den zitierten Studien.</p>
+</div>
+<p><span class="lede">Acht Personen stehen stellvertretend für die Menschen, die unsere Eintrittsseiten nutzen. Sie sind aus Evidenz gebaut, nicht aus Bauchgefühl, und sie dienen uns als Prüffiguren: Ein Text ist fertig, wenn er vor jeder dieser Personen besteht.</span></p>
+<section id="evidenz" class="level2">
+<h2 class="anchored" data-anchor-id="evidenz">Die stärkste Evidenz hinter dem Konzept</h2>
+<div class="ev-liste">
+<ul>
+<li><strong>Neun von zehn über 65-Jährigen sind online, ab 85 deutlich weniger; die Kompetenzen streuen stark.</strong> Pro Senectute, Digital Seniors 2025 (Seifert, FHNW), repräsentative Befragung, n = 1455. <a href="https://be.prosenectute.ch/assets/bilder-flyer-pdf/news/2025/ps_digital_seniors_2025_studie_de.pdf">Studie (PDF)</a></li>
+<li><strong>49 Prozent der Schweizer Bevölkerung haben geringe Gesundheitskompetenz, häufiger bei über 76-Jährigen und bei Sprachhürden.</strong> De Gani et al., Health Literacy Survey Schweiz 2019–2021, Careum im Auftrag des BAG. <a href="https://m-pohl.net/sites/m-pohl.net/files/2021-10/Schweiz_Endbericht_HLS19_2019-2021.pdf">Endbericht (PDF)</a></li>
+<li><strong>Von den über 65-Jährigen nutzen 10 Prozent ihr Patientenportal selbst, 14 Prozent nur über Angehörige, 74 Prozent gar nicht.</strong> Burgdorf, Fabius, Wolff, J Am Geriatr Soc 2023. <a href="https://pubmed.ncbi.nlm.nih.gov/36573382/">PubMed</a></li>
+<li><strong>Ältere lösen 55 Prozent der Webaufgaben, Jüngere 75 Prozent; neun von zehn Älteren geben sich bei Fehlern selbst die Schuld.</strong> Nielsen Norman Group, Usability for Senior Citizens. <a href="https://www.nngroup.com/articles/usability-for-senior-citizens/">NN/g</a></li>
+<li><strong>Gesprochene Information schliesst die Verständnislücke bei geringer Gesundheitskompetenz.</strong> Meppelink et al., J Med Internet Res 2015, Experiment mit 231 Erwachsenen ab 55. <a href="https://www.jmir.org/2015/1/e11/">Volltext</a></li>
+<li><strong>Bei geringer Literacy wirken Kernbotschaft zuerst und reduzierte Informationsdichte.</strong> Sheridan et al., J Health Commun 2011, systematische Übersicht. <a href="https://doi.org/10.1080/10810730.2011.604391">DOI</a></li>
+<li><strong>Erfüllte Erwartungen hängen in 93 Prozent der Studien mit Zufriedenheit zusammen; Erwartungsmanagement ist der Hebel.</strong> Hafkamp et al., EFORT Open Rev 2020, Hüft- und Knieprothetik. <a href="https://doi.org/10.1302/2058-5241.5.190015">DOI</a></li>
+</ul>
+</div>
+</section>
+<section id="personen" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="personen">Die acht Personen</h2>
+<div class="column-page">
+<style>
+.pa-wrap { font-size: 1.02rem; }
+.pa { margin: 3.5rem 0 4.5rem; padding-top: 1rem; }
+.pa + .pa { border-top: 1px solid #d9dce1; }
+.pa-toc { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1rem 0 2rem; }
+.pa-toclink { display: inline-block; padding: .5rem .95rem; border: 1px solid; border-left-width: 6px; border-radius: 999px; background: #fff; font-weight: 600; text-decoration: none; color: #1F2A37; }
+.pa-hero { width: 100%; border-radius: 12px; display: block; box-shadow: 0 2px 8px rgba(16,42,67,.12); }
+.pa-kopf { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; margin-top: 1.1rem; }
+.pa-name { margin: 0; border: 0; padding: 0; font-size: 2rem; letter-spacing: -0.015em; }
+.pa-meta { margin: .25rem 0 0; color: #5B6673; }
+.pa-gruppe { margin: .4rem 0 0; font-size: .78rem; font-weight: 700; letter-spacing: .12em; }
+.pa-badge { flex: 0 0 auto; border: 1px solid; border-radius: 10px; padding: .45rem .9rem; text-align: center; font-weight: 700; color: #1F2A37; }
+.pa-badge small { display: block; font-weight: 600; color: #5B6673; font-size: .72rem; }
+.pa-quote { font-size: 1.35rem; font-style: italic; color: #8C2F39; margin: 1.1rem 0 1.4rem; line-height: 1.45; max-width: none; }
+.pa-grid { display: grid; grid-template-columns: 1fr 1fr; gap: .9rem; }
+.pa-card { background: #EEF1F5; border: 1px solid #D9DCE1; border-radius: 10px; padding: 1rem 1.2rem; }
+.pa-card h3 { margin: 0 0 .5rem; font-size: 1.02rem; color: #0B5A8E; }
+.pa-card p { margin: 0 0 .6rem; max-width: none; font-size: .97rem; }
+.pa-card p:last-child { margin-bottom: 0; }
+.pa-haltung { background: #F3EDE2; border-color: #cdbfa3; }
+.pa-haltung h3 { color: #6E5F3F; }
+.pa-breit { margin-top: .9rem; background: #fff; }
+.pa-braucht { background: #E9F3E6; border-color: #a9cba4; }
+.pa-braucht h3 { color: #2E6B4A; }
+.pa-scale { display: flex; justify-content: space-between; align-items: center; margin: 0 0 .3rem; font-size: .92rem; }
+.pa-dots { white-space: nowrap; }
+.pa-dot { display: inline-block; width: .72rem; height: .72rem; border-radius: 50%; margin-left: .28rem; background: #fff; border: 1.5px solid #D9DCE1; }
+.pa-dot.on { background: #0B5A8E; border-color: #0B5A8E; }
+.pa-klein { margin-top: .7rem; font-size: .85rem !important; color: #5B6673; }
+.pa-evidenz { margin: .9rem 0 0; font-size: .85rem; color: #5B6673; max-width: none; }
+.ev-liste li { margin: 0 0 .55rem; max-width: none; }
+</style>
+<div class="pa-toc"><a class="pa-toclink" href="#sandra" style="border-color:#4F7EA3">Sandra</a><a class="pa-toclink" href="#rosmarie" style="border-color:#B85C3F">Rosmarie</a><a class="pa-toclink" href="#claudia" style="border-color:#0B5A8E">Claudia</a><a class="pa-toclink" href="#hanspeter" style="border-color:#3B5A78">Hanspeter</a><a class="pa-toclink" href="#ruedi" style="border-color:#1F2A37">Ruedi</a><a class="pa-toclink" href="#graziella" style="border-color:#8C2F39">Graziella</a><a class="pa-toclink" href="#beat" style="border-color:#2E6B4A">Beat</a><a class="pa-toclink" href="#mirlinda" style="border-color:#7A5C92">Mirlinda</a></div>
+<div class="pa-wrap">
+
+<section class="pa" id="sandra">
+<img class="pa-hero" src="_images/personae/Persona-1.jpg" alt="Portrait (KI-generiert, fiktive Person): Sandra Imfeld">
+<div class="pa-kopf">
+  <div>
+    <h2 class="pa-name anchored">Sandra Imfeld</h2>
+    <p class="pa-meta">48 Jahre · Luzern · Projektleiterin · allgemein versichert · Meniskus-Operation, stationär wegen Nachblutungsrisiko</p>
+    <p class="pa-gruppe" style="color:#4F7EA3">NORMALFALL · UNTER 65 · 42 BIS 57 % DER EINTRITTE</p>
+  </div>
+  <div class="pa-badge" style="background:#E4EEF6;border-color:#4F7EA3"><small>Zugang</small>digital</div>
+</div>
+<p class="pa-quote">«Ich will das im Zug lesen, in drei Minuten, und dann wissen, was ich bis Donnerstag erledigen muss.»</p>
+<div class="pa-grid">
+  <div class="pa-card"><h3 class="anchored">Lebenssituation</h3><p>Verheiratet, zwei Kinder im Schulalter, Pendlerin. Alles auf dem Smartphone, Termine im Kalender, Post öffnet sie am Wochenende. Den Fragebogen hat sie im Zug ausgefüllt, 25 Minuten, ohne Hilfe.</p></div>
+  <div class="pa-card"><h3 class="anchored">Gesundheit und Eingriff</h3><p>Meniskusriss, Arthroskopie in Allgemeinanästhesie. Sonst gesund, keine Medikamente. Sie versteht alles, überliest aber leicht etwas: die Nüchternheitszeit, die Abholung, das Fahrverbot nach der Narkose.</p></div>
+  <div class="pa-card"><h3 class="anchored">Digitales Profil</h3><div class="pa-scale"><span>Smartphone im Alltag</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div>
+<div class="pa-scale"><span>Lesen am Bildschirm</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div>
+<div class="pa-scale"><span>Formulare allein ausfüllen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div>
+<div class="pa-scale"><span>Gesundheitskompetenz</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Vertrauen in SMS und E-Mail</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Deutsch lesen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div><p class="pa-klein">Unter 65 sind praktisch alle online. Die NN/g-Kontrollgruppe (21 bis 55) löste 75 % der Aufgaben, Ältere 55 %. Sandra ist die Nutzerin, für die Webseiten normalerweise gebaut werden.</p></div>
+  <div class="pa-card pa-haltung"><h3 class="anchored">Haltung und Wahrnehmung</h3><p>Die Klinik ist für sie ein Dienstleister wie die Bank: Link öffnen, erledigen, Bestätigung erhalten. Sie vertraut der Institution und sieht dem Eingriff gelassen entgegen. Lange Erklärungen zu Dingen, die sie gar nicht gefragt hat, überspringt sie.</p>
+<p>Was sie stört, ist Unklarheit über Zeiten. Sie plant in Stunden, weil sie um 16 Uhr die Kinder hat. Eine Wartezeit akzeptiert sie, wenn sie vorher weiss, wie lang sie werden kann.</p></div>
+</div>
+<div class="pa-card pa-breit"><h3 class="anchored">Was Sandra wissen will, und in welcher Reihenfolge</h3><p>Zuerst: was muss ich bis wann erledigen, als Liste. Dann: wann muss ich wo sein, wie lange dauert der Tag, wann kann mich jemand abholen. Dann: was darf ich am Morgen essen und trinken, konkret mit Uhrzeit. Erst danach: wie läuft die Operation. Versicherungsleistungen, Anästhesieverfahren und Bauprojekt überspringt sie.</p></div>
+<div class="pa-card pa-breit pa-braucht"><h3 class="anchored">Was die Seite und der Fahrplan für Sandra leisten müssen</h3><p>Eine Kurzfassung oben, die fünf Aufgaben bis zum Eintritt mit Datum, abhakbar. Zeitachse statt Stationen, Wartezeit als Spanne mit dem Hinweis, dass die Operationszeit erst am Eintrittstag feststeht. Checklisten als Seite, nicht als PDF. SMS und E-Mail sind für sie richtig. Was den Älteren hilft, eine Spalte und die Kernbotschaft zuerst, passt auch für sie; sie scrollt einfach schneller.</p></div>
+<p class="pa-evidenz"><strong>Woher die Persona kommt.</strong> Altersverteilung elektive Eintritte 2026 (unter 65: 57 % mit Anästhesiekontakt, 42 % anästhesiefern); NN/g 2013 (Kontrollgruppe 21 bis 55: 75 % Erfolg); Maramba 2022 (präoperativer Online-Bogen, Median 47 min bei Medianalter 46); Sheridan 2011 (Kernbotschaft zuerst); Thompson 1996 (erklärte Wartezeit wird akzeptiert).</p>
+</section>
+
+<section class="pa" id="rosmarie">
+<img class="pa-hero" src="_images/personae/Persona-2.jpg" alt="Portrait (KI-generiert, fiktive Person): Rosmarie Bühler">
+<div class="pa-kopf">
+  <div>
+    <h2 class="pa-name anchored">Rosmarie Bühler</h2>
+    <p class="pa-meta">83 Jahre · Emmen LU · verwitwet · Knie-Totalprothese, Eintritt am Operationstag</p>
+    <p class="pa-gruppe" style="color:#B85C3F">GRUPPE 85+ (IM ÜBERGANG) · 4 BIS 6 % DER EINTRITTE</p>
+  </div>
+  <div class="pa-badge" style="background:#F3EDE2;border-color:#9A8A6A"><small>Zugang</small>analog</div>
+</div>
+<p class="pa-quote">«Ich habe das SMS schon gesehen, aber ich drücke nichts an, was ich nicht kenne. Die Claudia schaut das dann.»</p>
+<div class="pa-grid">
+  <div class="pa-card"><h3 class="anchored">Lebenssituation</h3><p>Lebt allein, Tochter Claudia kommt zweimal die Woche. Tastenhandy, Festnetz, keine E-Mail. Liest auf Papier, mit Lesebrille, und hebt jeden Brief der Klinik in einer Mappe auf.</p></div>
+  <div class="pa-card"><h3 class="anchored">Gesundheit und Eingriff</h3><p>Knie-Totalprothese. Vorhofflimmern mit Marcoumar, Hörgerät beidseits, am Telefon anstrengend. Geistig klar, etwas langsamer. Fragebogen nicht ausgefüllt, analoger präoperativer Prozess.</p></div>
+  <div class="pa-card"><h3 class="anchored">Digitales Profil</h3><div class="pa-scale"><span>Smartphone im Alltag</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Lesen am Bildschirm</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Formulare allein ausfüllen</span><span class="pa-dots"><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Gesundheitskompetenz</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Vertrauen in SMS und E-Mail</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Deutsch lesen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div><p class="pa-klein">Ab 85: 40 % offline, 53 % mit Smartphone, 72 % der Frauen über 80 brauchen beim Ausfüllen Hilfe. Rosmarie liegt am unteren Rand.</p></div>
+  <div class="pa-card pa-haltung"><h3 class="anchored">Haltung und Wahrnehmung</h3><p>Sie vertraut der Klinik und den Ärzten. Sie möchte, dass man ihr sagt, was sie tun soll: einmal, deutlich, auf Papier. Digitale Angebote empfindet sie als Zumutung («zu kompliziert»); wenn etwas schiefgeht, sucht sie den Fehler bei sich.</p>
+<p>Vor der Operation hat sie wenig Angst. Ihre Sorge ist, etwas falsch zu machen: zur falschen Zeit zu kommen, das falsche Medikament zu nehmen, etwas zu vergessen.</p></div>
+</div>
+<div class="pa-card pa-breit"><h3 class="anchored">Was Rosmarie wissen will, und in welcher Reihenfolge</h3><p>Zuerst: wann muss ich wo sein, und wer holt mich ab. Dann: was darf ich am Morgen nehmen, Marcoumar ja oder nein. Dann: was muss ich mitbringen. Dann: wie lange bleibe ich, wer kümmert sich danach um mich. Alles Weitere soll ihr jemand sagen, wenn es so weit ist. Sie möchte sich darauf verlassen können, dass die Klinik das tut.</p></div>
+<div class="pa-card pa-breit pa-braucht"><h3 class="anchored">Was die Seite und der Fahrplan für Rosmarie leisten müssen</h3><p>Der Brief ist ihr Fahrplan: eine Seite, Zeitachse, Nüchternheit, Medikamente, Telefonnummer gross, 14 Punkt, zum Aufhängen. Fehlt die Handynummer, ruft die Disposition auf dem Festnetz an; die SMS-Regel entfällt für sie. Der Anruf der Anästhesie am Vortag ist ihr persönlichster Kontakt und trägt ihre Medikamentenfragen. Die Webseite erreicht sie über Claudia: druckbar, ohne Login.</p></div>
+<p class="pa-evidenz"><strong>Woher die Persona kommt.</strong> Digital Seniors 2025 (85+: 60 % online, 53 % Smartphone; Offliner: «zu kompliziert»); Riedl 2023 (72 % der Frauen über 80 brauchen Hilfe); BAG/Careum 2023 (81 % der über 76-Jährigen mit geringer digitaler Gesundheitskompetenz); Gordon 2019 (Gedrucktes, OR 2.8 bei 76 bis 85); NN/g 2013 (90 % geben sich bei Fehlern selbst die Schuld); Özbek 2025 (Anruf am Vortag senkt Angst).</p>
+</section>
+
+<section class="pa" id="claudia">
+<img class="pa-hero" src="_images/personae/Persona-3.jpg" alt="Portrait (KI-generiert, fiktive Person): Claudia Bühler-Steiner">
+<div class="pa-kopf">
+  <div>
+    <h2 class="pa-name anchored">Claudia Bühler-Steiner</h2>
+    <p class="pa-meta">56 Jahre · Rothenburg LU · Sachbearbeiterin, 80 % · Tochter von Rosmarie</p>
+    <p class="pa-gruppe" style="color:#0B5A8E">ANGEHÖRIGE ALS MITNUTZENDE · LIEST FÜR DIE MUTTER</p>
+  </div>
+  <div class="pa-badge" style="background:#E4EEF6;border-color:#4F7EA3"><small>Zugang</small>digital, stellvertretend</div>
+</div>
+<p class="pa-quote">«Ich lese das abends auf dem Handy, wenn die Kinder im Bett sind. Dann drucke ich es aus und lege es Mami auf den Tisch.»</p>
+<div class="pa-grid">
+  <div class="pa-card"><h3 class="anchored">Lebenssituation</h3><p>Zwei Jugendliche, Vollzeit im Kopf. Organisiert für die Mutter Termine, Rezepte, Fahrten. Googelt «St. Anna Eintritt» und landet auf einer Unterseite, abends, in Eile, auf dem Smartphone.</p></div>
+  <div class="pa-card"><h3 class="anchored">Gesundheit und Eingriff</h3><p>Selbst gesund. Sie trägt die Logistik und einen Teil der Verantwortung: Medikamentenliste, Abholung, erste Woche zu Hause, Treppe in der Wohnung der Mutter.</p></div>
+  <div class="pa-card"><h3 class="anchored">Digitales Profil</h3><div class="pa-scale"><span>Smartphone im Alltag</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div>
+<div class="pa-scale"><span>Lesen am Bildschirm</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div>
+<div class="pa-scale"><span>Formulare allein ausfüllen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div>
+<div class="pa-scale"><span>Gesundheitskompetenz</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Vertrauen in SMS und E-Mail</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Deutsch lesen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div><p class="pa-klein">14 % der über 65-Jährigen werden digital ausschliesslich über Angehörige erreicht, 74 % gar nicht. Claudia ist dieser Kanal.</p></div>
+  <div class="pa-card pa-haltung"><h3 class="anchored">Haltung und Wahrnehmung</h3><p>Sie ist Vermittlerin und Organisatorin, und die Klinik kennt sie nicht. Sie möchte wissen, was ihre Rolle ist: darf sie mit, wo wartet sie, wen ruft sie an. Der Klinik gegenüber ist sie loyal; bei allem, was auf dem Handy der Mutter ankommt, ist sie vorsichtig.</p>
+<p>Ihre Sorge gilt der Zeit nach dem Austritt: wer ist da, wenn Mami nach drei Tagen heimkommt. Die Vorbereitung traut sie der Klinik zu; die Zeit danach organisiert sie selbst.</p></div>
+</div>
+<div class="pa-card pa-breit"><h3 class="anchored">Was Claudia wissen will, und in welcher Reihenfolge</h3><p>Zuerst: was sie für die Mutter erledigen muss und bis wann. Dann: ob sie am Eintrittstag dabei sein darf und wie lange es dauert. Dann: was nach dem Austritt auf sie zukommt, Spitex, Hilfsmittel, Nachkontrolle. Dann: wen sie anrufen kann, wenn etwas unklar ist, und zu welchen Zeiten. Medizinische Details liest sie nur, wenn sie für die Organisation zu Hause wichtig sind.</p></div>
+<div class="pa-card pa-breit pa-braucht"><h3 class="anchored">Was die Seite und der Fahrplan für Claudia leisten müssen</h3><p>Ein Einstieg «Wenn Sie jemanden begleiten» mit ihren Aufgaben, der Frage nach dem Mitkommen und dem Blick auf die Zeit nach dem Austritt. Seiten ohne Login, teilbar, druckbar ohne Verlust; ein Merkblatt auf einer Seite. Ein Abschnitt «So sehen echte Nachrichten der Klinik aus». Auf dem Smartphone: eine Spalte, Telefonnummer auf jedem Bildschirm, Zoom frei.</p></div>
+<p class="pa-evidenz"><strong>Woher die Persona kommt.</strong> Burgdorf, Fabius und Wolff 2023 (Portalnutzung über 65: 14 % nur Angehörige, 74 % keine); Hladkowicz 2024 und Keny 2026 («wissen, was zu erwarten ist» und die Zeit nach dem Austritt als Hauptbedürfnisse von Angehörigen); Latulipe 2018 (geteilte Logins); NN/g 2013 (Einstieg über Suchmaschinen); WCAG 3.2.6.</p>
+</section>
+
+<section class="pa" id="hanspeter">
+<img class="pa-hero" src="_images/personae/Persona-4.jpg" alt="Portrait (KI-generiert, fiktive Person): Hanspeter Zemp">
+<div class="pa-kopf">
+  <div>
+    <h2 class="pa-name anchored">Hanspeter Zemp</h2>
+    <p class="pa-meta">72 Jahre · Meggen LU · pensionierter Maschineningenieur · privatversichert · Prostata-Operation</p>
+    <p class="pa-gruppe" style="color:#3B5A78">GRUPPE 65 BIS 74 · DIGITAL SELBSTÄNDIG · METHODISCH</p>
+  </div>
+  <div class="pa-badge" style="background:#E4EEF6;border-color:#4F7EA3"><small>Zugang</small>digital</div>
+</div>
+<p class="pa-quote">«Ich habe mir alles notiert. Wenn dann etwas anders läuft, als es angekündigt war, will ich wissen, warum.»</p>
+<div class="pa-grid">
+  <div class="pa-card"><h3 class="anchored">Lebenssituation</h3><p>iPhone und PC, Online-Banking, E-Mail täglich. Liest eine Seite ganz, bevor er klickt, und führt eine Liste mit Schritten und Nummern. Fragebogen am Abend des Erhalts ausgefüllt, 50 Minuten. Druckt, was er behalten will.</p></div>
+  <div class="pa-card"><h3 class="anchored">Gesundheit und Eingriff</h3><p>Benigne Prostatahyperplasie, Spinalanästhesie. Hypertonie, sonst fit. Kontrastsehen altersgemäss reduziert. Medizinisch unkompliziert. Sein Thema ist, ob das, was er erlebt, zu dem passt, was angekündigt war.</p></div>
+  <div class="pa-card"><h3 class="anchored">Digitales Profil</h3><div class="pa-scale"><span>Smartphone im Alltag</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div>
+<div class="pa-scale"><span>Lesen am Bildschirm</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Formulare allein ausfüllen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div>
+<div class="pa-scale"><span>Gesundheitskompetenz</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Vertrauen in SMS und E-Mail</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Deutsch lesen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div><p class="pa-klein">97 % der 65- bis 74-Jährigen sind online, 95 % mit Smartphone. Hanspeter nutzt beides, bevorzugt aber den PC für Dinge, die er behalten will.</p></div>
+  <div class="pa-card pa-haltung"><h3 class="anchored">Haltung und Wahrnehmung</h3><p>Er sieht die Klinik wie einen Lieferanten: Zusagen gelten. Er möchte vollständige und widerspruchsfreie Information; zwei Seiten, die Verschiedenes sagen, sind für ihn ein Qualitätsmangel. Wartezeit akzeptiert er, sobald sie begründet ist.</p>
+<p>Er vertraut Zahlen und Abläufen. Ein Redesign, nach dem seine Notizen nicht mehr stimmen, ärgert ihn; eine Seite, die ihm Gründe nennt, überzeugt ihn.</p></div>
+</div>
+<div class="pa-card pa-breit"><h3 class="anchored">Was Hanspeter wissen will, und in welcher Reihenfolge</h3><p>Zuerst: der Ablauf des Eintrittstags, Schritt für Schritt, mit Zeiten und Orten. Dann: was er vorbereiten muss, vollständig, mit Begründung. Dann: wie die Spinalanästhesie abläuft und was er dabei spürt. Dann: was im Zimmer und bei der Hotellerie gilt, weil er es bezahlt. Zuletzt: wen er anruft, wenn etwas nicht stimmt. Er will alles vorher wissen und liest es zweimal.</p></div>
+<div class="pa-card pa-breit pa-braucht"><h3 class="anchored">Was die Seite und der Fahrplan für Hanspeter leisten müssen</h3><p>Eine Zeitachse, auf der alles steht, was er erleben wird, inklusive dessen, was wegen des Umbaus anders ist als auf der Leistungsseite, mit Grund, Horizont und Angebot; derselbe Wortlaut auf beiden Seiten. Besuchte Links sichtbar, konsistente Navigation und Benennung. Ein Video, das den Tag real zeigt, mit einer Pflegefachperson, die erzählt. Für ihn zählt, ob das Erlebnis zur Erwartung passt.</p></div>
+<p class="pa-evidenz"><strong>Woher die Persona kommt.</strong> NN/g 2013 (95 % der Älteren arbeiten methodisch, 50 % führen Listen; Redesigns entwerten sie); Thompson 1996 und Hafkamp 2020 (Erfüllung der Erwartung erklärt Zufriedenheit); Zhang 2025 (Erwartungskalibrierung senkt Unzufriedenheit); Powell 2016 (prozedurale und sensorische Information wirkt); Bol 2015 (erzählendes Video).</p>
+</section>
+
+<section class="pa" id="ruedi">
+<img class="pa-hero" src="_images/personae/Persona-5.jpg" alt="Portrait (KI-generiert, fiktive Person): Ruedi Kaufmann">
+<div class="pa-kopf">
+  <div>
+    <h2 class="pa-name anchored">Ruedi Kaufmann</h2>
+    <p class="pa-meta">70 Jahre · Weggis LU · ehemaliger Inhaber eines Maschinenbaubetriebs, verkauft 2022 · privatversichert · Hüft-Totalprothese</p>
+    <p class="pa-gruppe" style="color:#1F2A37">GRUPPE 65 BIS 74 · PRIVAT · ANSPRUCH UND DELEGATION</p>
+  </div>
+  <div class="pa-badge" style="background:#E4EEF6;border-color:#4F7EA3"><small>Zugang</small>digital, delegiert</div>
+</div>
+<p class="pa-quote">«Ich lese das nicht nach. Jemand soll wissen, wer ich bin, und mir sagen, was läuft.»</p>
+<div class="pa-grid">
+  <div class="pa-card"><h3 class="anchored">Lebenssituation</h3><p>Verheiratet, Haus mit Seeblick, Golf und Segeln. Hat 40 Jahre entschieden und delegiert; Administratives erledigt seine Frau Monika. iPad und iPhone, mailt kurz. Den Fragebogen hat Monika ausgefüllt, er hat unterschrieben.</p></div>
+  <div class="pa-card"><h3 class="anchored">Gesundheit und Eingriff</h3><p>Coxarthrose rechts, Hüft-Totalprothese, will in acht Wochen wieder auf den Platz. Hypertonie, Vorhofflimmern mit Eliquis, Schlafapnoe unbehandelt. Mittleres Risiko. Nach der Eliquis-Pause und dem Schnarchen hat bisher nur Monika am Fragebogen geantwortet, er selbst wurde nie gefragt.</p></div>
+  <div class="pa-card"><h3 class="anchored">Digitales Profil</h3><div class="pa-scale"><span>Smartphone im Alltag</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Lesen am Bildschirm</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Formulare allein ausfüllen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Gesundheitskompetenz</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Vertrauen in SMS und E-Mail</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Deutsch lesen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div><p class="pa-klein">Kompetent, aber ungeduldig: liest Überschriften und delegiert den Rest. In den Zahlen gleicht er Hanspeter, im Verhalten unterscheidet er sich deutlich.</p></div>
+  <div class="pa-card pa-haltung"><h3 class="anchored">Haltung und Wahrnehmung</h3><p>Er kauft eine Leistung und erwartet Führung: einen Namen, eine Nummer, jemanden, der ihn kennt. Information, die er sich selbst holen muss, empfindet er als Servicelücke. Er respektiert Fachkompetenz und erwartet, dass sie sich zeigt, beim Chefarzt und beim Empfang gleichermassen.</p>
+<p>Seine Sorge ist Kontrollverlust: warten, ohne zu wissen worauf, und niemand ist zuständig. Was ihn ärgert, sagt er der Direktion persönlich; den Rückmeldebogen füllt er kaum aus.</p></div>
+</div>
+<div class="pa-card pa-breit"><h3 class="anchored">Was Ruedi wissen will, und in welcher Reihenfolge</h3><p>Zuerst: wer ist für mich zuständig, mit Namen und Nummer. Dann: wann geht es los und wie lange dauert es, und wann werde ich informiert, wenn sich etwas verschiebt. Dann: was von dem, was ich bezahle, gilt am Eintrittstag und was erst nachher. Dann: wann bin ich wieder auf dem Platz. Die Vorbereitung soll ihm jemand am Telefon erklären.</p></div>
+<div class="pa-card pa-breit pa-braucht"><h3 class="anchored">Was die Seite und der Fahrplan für Ruedi leisten müssen</h3><p>Eine Ansprechperson mit Namen und Direktnummer auf Brief und Seite. Erwartungen werden vor dem Eintritt auf der Leistungsseite gesetzt, bevor der Empfang sie korrigieren muss: was am Eintrittstag für alle gleich ist und was er bezahlt (Zimmer, Küche, Wahlarzt). Am Eintrittstag ein Statusupdate alle 30 Minuten, auch ohne Neuigkeit. Der Anruf der Anästhesie fragt ihn selbst nach Medikamenten und Risiken, zusätzlich zu Monikas Angaben.</p></div>
+<p class="pa-evidenz"><strong>Woher die Persona kommt.</strong> Hafkamp 2020 (Erfüllung der Erwartung erklärt Zufriedenheit in 93 % der Studien, Hüft- und Knieprothetik); Cooke 2006 (76 % erwarten ein Statusupdate alle 30 Minuten); Thompson 1996 (Information und Erklärung prädizieren Zufriedenheit); Ballacchino 2025 (Ältere wollen Kontakt mit der Anästhesie vor dem OP-Tag: «die sollen meine Krankheiten kennen»); Elliott 2008 (Stellvertreter-Antworten weichen von Selbstauskunft ab).</p>
+</section>
+
+<section class="pa" id="graziella">
+<img class="pa-hero" src="_images/personae/Persona-6.jpg" alt="Portrait (KI-generiert, fiktive Person): Graziella Bernasconi">
+<div class="pa-kopf">
+  <div>
+    <h2 class="pa-name anchored">Graziella Bernasconi</h2>
+    <p class="pa-meta">78 Jahre · aus Bellinzona TI, seit 2021 beim Sohn in Horw LU · Muttersprache Italienisch · Hüft-Totalprothese</p>
+    <p class="pa-gruppe" style="color:#8C2F39">GRUPPE 75 BIS 84 · SPRACHHÜRDE · HILFE IST DIE REGEL</p>
+  </div>
+  <div class="pa-badge" style="background:#E4EEF6;border-color:#4F7EA3"><small>Zugang</small>digital mit Hilfe</div>
+</div>
+<p class="pa-quote">«Capisco il tedesco quando parlano piano. Sullo schermo è un'altra cosa. Marco mi legge tutto, poi gli chiedo tre volte.»</p>
+<div class="pa-grid">
+  <div class="pa-card"><h3 class="anchored">Lebenssituation</h3><p>Witwe, lebt bei Sohn Marco und Familie. Deutsch mündlich für den Alltag; Lesen fällt ihr schwer, Fachwörter versteht sie selten. Smartphone für WhatsApp und Videoanrufe ins Tessin. Fragebogen mit Marco am Tablet ausgefüllt, zwei Abende.</p></div>
+  <div class="pa-card"><h3 class="anchored">Gesundheit und Eingriff</h3><p>Hüft-Totalprothese. Diabetes Typ 2 mit Tabletten, Hörminderung ohne Hörgerät. Nüchternheit, Diabetesmedikamente, Blutverdünner: drei Regeln, die sie selbst verstehen muss, auch wenn Marco übersetzt.</p></div>
+  <div class="pa-card"><h3 class="anchored">Digitales Profil</h3><div class="pa-scale"><span>Smartphone im Alltag</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Lesen am Bildschirm</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Formulare allein ausfüllen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Gesundheitskompetenz</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Vertrauen in SMS und E-Mail</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Deutsch lesen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div><p class="pa-klein">88 % der 75- bis 84-Jährigen sind online; 81 % der über 76-Jährigen haben geringe digitale Gesundheitskompetenz, bei Sprachhürden tiefer. Graziella liest Deutsch Wort für Wort.</p></div>
+  <div class="pa-card pa-haltung"><h3 class="anchored">Haltung und Wahrnehmung</h3><p>Sie vertraut Menschen mehr als Texten: dem Hausarzt, dem Sohn, der Pflegefachfrau, die langsam spricht. Schriftliches auf Deutsch erlebt sie als Prüfung, und sie schämt sich, nachzufragen; deshalb fragt sie Marco dreimal, bevor sie die Klinik einmal fragt.</p>
+<p>Ihre Sorge: etwas Wichtiges nicht verstanden zu haben und deshalb Schaden zu nehmen. Bilder beruhigen sie mehr als Worte; ein Gesicht, das sie wiedererkennt, am meisten.</p></div>
+</div>
+<div class="pa-card pa-breit"><h3 class="anchored">Was Graziella wissen will, und in welcher Reihenfolge</h3><p>Zuerst: die drei Regeln, die sie selbst einhalten muss, Essen, Zuckertabletten, Blutverdünner, in einer Sprache, die sie versteht. Dann: wer sie am Eintrittstag empfängt und ob Marco dabei sein darf. Dann: wie der Tag aussieht, am liebsten in Bildern. Dann: wie lange sie bleibt und wer ihr danach hilft. Begründungen, Verfahren und Versicherungsfragen überlässt sie Marco.</p></div>
+<div class="pa-card pa-breit pa-braucht"><h3 class="anchored">Was die Seite und der Fahrplan für Graziella leisten müssen</h3><p>Einfache Sprache mit ganzen Sätzen: «Ab sechs Stunden vor dem Eintritt nichts mehr essen» statt «nüchtern». Die Sicherheitsregeln, die sie selbst einhalten muss, als eigener Block zuerst, und als italienisches Merkblatt auf einer Seite. Das Video: gesprochen, mit mitlaufendem Text, langsam, Untertitel wahlweise italienisch, reale Bilder von Empfang und Station. Für den Anruf der Anästhesie: Marco als Kontaktperson erfassen.</p></div>
+<p class="pa-evidenz"><strong>Woher die Persona kommt.</strong> BAG/Careum 2021 und 2023 (geringe Gesundheitskompetenz häufiger bei Sprachhürden und über 76); Digital Seniors 2025 (75 bis 84: 88 % online); Riedl 2023 (Frauen 71 bis 80: 45 % brauchen Hilfe); Schatz 2017 (Einfache Sprache gleicht den Altersunterschied aus); Meppelink 2015 (gesprochene Animation bei geringer Kompetenz); Fenesi 2015 (mitlaufender Text hilft Älteren).</p>
+</section>
+
+<section class="pa" id="beat">
+<img class="pa-hero" src="_images/personae/Persona-7.jpg" alt="Portrait (KI-generiert, fiktive Person): Beat Odermatt">
+<div class="pa-kopf">
+  <div>
+    <h2 class="pa-name anchored">Beat Odermatt</h2>
+    <p class="pa-meta">67 Jahre · Giswil OW · Landwirt, Hof übergeben · halbprivat · Leistenhernie beidseits</p>
+    <p class="pa-gruppe" style="color:#2E6B4A">GRUPPE 65 BIS 74 · GERINGE GESUNDHEITSKOMPETENZ</p>
+  </div>
+  <div class="pa-badge" style="background:#E4EEF6;border-color:#4F7EA3"><small>Zugang</small>digital, zögernd</div>
+</div>
+<p class="pa-quote">«Ein SMS mit einem Link, da drücke ich nicht drauf. Das hat man uns bei der Bank gesagt. Ich rufe lieber an.»</p>
+<div class="pa-grid">
+  <div class="pa-card"><h3 class="anchored">Lebenssituation</h3><p>Android-Smartphone, grosse Hände, tippt mit dem Zeigefinger. Liest kurz und ungern. Das Fragebogen-SMS hat er für Betrug gehalten und gelöscht; nach dem Brief rief er an und füllte den Bogen mit seiner Frau am Küchentisch aus.</p></div>
+  <div class="pa-card"><h3 class="anchored">Gesundheit und Eingriff</h3><p>Leistenhernie, Allgemeinanästhesie. Diabetes Typ 2 mit Metformin, Übergewicht, Schlafapnoe mit CPAP, raucht. Versteht «nüchtern» als «nichts essen» und trinkt den Milchkaffee.</p></div>
+  <div class="pa-card"><h3 class="anchored">Digitales Profil</h3><div class="pa-scale"><span>Smartphone im Alltag</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Lesen am Bildschirm</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Formulare allein ausfüllen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Gesundheitskompetenz</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Vertrauen in SMS und E-Mail</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Deutsch lesen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div><p class="pa-klein">42 % der über 65-Jährigen sehen ihre Daten gefährdet; Ältere erkennen Phishing schlechter. Beat klickt deshalb gar nichts an.</p></div>
+  <div class="pa-card pa-haltung"><h3 class="anchored">Haltung und Wahrnehmung</h3><p>Er nimmt Dinge wörtlich und erwartet eine klare Anweisung; bei drei Wahlmöglichkeiten steigt er aus. Digitalen Nachrichten von aussen misstraut er, einer Stimme am Telefon vertraut er sofort. Ärzten glaubt er; Formularen gegenüber bleibt er skeptisch.</p>
+<p>Seine Sorge ist, dumm dazustehen: eine Frage falsch zu verstehen, auf dem Bildschirm danebenzutippen, etwas falsch zu machen. Dann gibt er sich die Schuld und schweigt.</p></div>
+</div>
+<div class="pa-card pa-breit"><h3 class="anchored">Was Beat wissen will, und in welcher Reihenfolge</h3><p>Zuerst: was er am Morgen des Eintritts darf und was nicht, mit Uhrzeiten statt Fachbegriffen. Dann: welche Tabletten er nimmt und welche nicht, und ob das CPAP-Gerät mitkommt. Dann: wo er hin muss und wen er anruft, wenn etwas ist. Das genügt ihm. Mehr Text verwirrt ihn eher.</p></div>
+<div class="pa-card pa-breit pa-braucht"><h3 class="anchored">Was die Seite und der Fahrplan für Beat leisten müssen</h3><p>«So sehen echte Nachrichten der Klinik aus», und der Brief kündigt die SMS an. Telefonnummer auf jedem Bildschirm; Anrufen ist für ihn der normale Weg. Kernbotschaft zuerst, als Aufgabe mit Uhrzeit: «Ab 02:00 Uhr nichts mehr essen. Wasser, Tee, schwarzer Kaffee bis 06:00 Uhr.» Überschriften als Fragen. Knöpfe mindestens 56 Pixel. Ein Hinweis auf dem Merkblatt am Kühlschrank, eigene Geräte und Medikamente mitzubringen.</p></div>
+<p class="pa-evidenz"><strong>Woher die Persona kommt.</strong> Digital Seniors 2025 (42 % sehen Datensicherheit gefährdet); Lin 2019 und Pehlivanoglu 2024 (Phishing-Anfälligkeit steigt mit dem Alter); Babicz 2022; BAG/Careum 2021 (49 % geringe Gesundheitskompetenz); Sheridan 2011 (Kernbotschaft zuerst); Leitão 2012 (Berührungsziele ab 14 mm); NN/g 2013 (90 % geben sich selbst die Schuld); Wildenbos 2018 (Motivation und Kognition als Hauptbarrieren).</p>
+</section>
+
+<section class="pa" id="mirlinda">
+<img class="pa-hero" src="_images/personae/Persona-8.jpg" alt="Portrait (KI-generiert, fiktive Person): Mirlinda Gashi">
+<div class="pa-kopf">
+  <div>
+    <h2 class="pa-name anchored">Mirlinda Gashi</h2>
+    <p class="pa-meta">48 Jahre · Emmenbrücke LU · Mitarbeiterin Hauswirtschaft im Alterszentrum · allgemein versichert · laparoskopische Entfernung einer Ovarialzyste</p>
+    <p class="pa-gruppe" style="color:#7A5C92">UNTER 65 · DEUTSCH ALS ZWEITSPRACHE (B1–B2) · SMARTPHONE-FIRST</p>
+  </div>
+  <div class="pa-badge" style="background:#E4EEF6;border-color:#4F7EA3"><small>Zugang</small>digital</div>
+</div>
+<p class="pa-quote">«Auf dem Handy geht alles. Nur die langen deutschen Sätze übersetze ich mit dem Handy, und dann hoffe ich, dass es stimmt.»</p>
+<div class="pa-grid">
+  <div class="pa-card"><h3 class="anchored">Lebenssituation</h3><p>Aufgewachsen in Pristina, seit 2004 in der Schweiz, Deutsch im Alltag gelernt. Verheiratet, zwei Kinder (19 und 16). Täglich Videoanrufe mit Mutter und Schwester im Kosovo. Flüge, Termine und Einkäufe bucht sie am Smartphone; einen Computer nutzt sie nicht. Den Fragebogen hat sie allein am Handy ausgefüllt, an zwei Abenden, mit der Übersetzungs-App daneben.</p></div>
+  <div class="pa-card"><h3 class="anchored">Gesundheit und Eingriff</h3><p>Zufallsbefund Ovarialzyste, laparoskopische Entfernung in Allgemeinanästhesie, in der Regel eine Nacht. Sonst gesund, keine Dauermedikamente. Das Wort «Zyste» hat sie gegoogelt; die Frage, ob es etwas Bösartiges sein könnte, trägt sie mit sich, stellt sie aber nicht von selbst. Und sie arbeitet körperlich: Wie lange sie nicht heben darf, entscheidet über ihren Alltag.</p></div>
+  <div class="pa-card"><h3 class="anchored">Digitales Profil</h3><div class="pa-scale"><span>Smartphone im Alltag</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span></span></div>
+<div class="pa-scale"><span>Lesen am Bildschirm</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Formulare allein ausfüllen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Gesundheitskompetenz</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Vertrauen in SMS und E-Mail</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span></span></div>
+<div class="pa-scale"><span>Deutsch lesen</span><span class="pa-dots"><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot on"></span><span class="pa-dot"></span><span class="pa-dot"></span></span></div><p class="pa-klein">Digital kompetent, aber ausschliesslich am Smartphone. Lange deutsche Texte liest sie mit maschineller Übersetzung; was sich nicht als Text markieren lässt (PDF, Bild, Grafik), bleibt für sie unübersetzt. Geringe Gesundheitskompetenz ist bei Sprachhürden deutlich häufiger.</p></div>
+  <div class="pa-card pa-haltung"><h3 class="anchored">Haltung und Wahrnehmung</h3><p>Der Klinik begegnet sie mit Respekt und etwas Distanz. Sie will nicht als ungebildet gelten und nickt deshalb auch dann, wenn sie nur die Hälfte verstanden hat; Nachfragen kostet sie Überwindung, auf Deutsch doppelt.</p>
+<p>Ihre Sorgen: ob der Befund wirklich harmlos ist, wie lange sie bei der Arbeit ausfällt und wer zu Hause übernimmt. Einfache, freundliche Sprache gewinnt sie sofort; spürt sie Ungeduld, fragt sie nichts mehr.</p></div>
+</div>
+<div class="pa-card pa-breit"><h3 class="anchored">Was Mirlinda wissen will, und in welcher Reihenfolge</h3><p>Zuerst: ist die Zyste etwas Schlimmes, in verständlichen Worten. Dann: wie lange sie bei der Arbeit ausfällt und was sie nicht heben darf, mit Zeugnis. Dann: Essen und Trinken vor dem Eintritt, mit Uhrzeiten statt «nüchtern». Dann: wer sie abholt und ob ihr Mann am Eintrittstag dabei sein darf. Versicherungsfragen und Verfahren überspringt sie.</p></div>
+<div class="pa-card pa-breit pa-braucht"><h3 class="anchored">Was die Seite und der Fahrplan für Mirlinda leisten müssen</h3><p>Einfache Sprache auf B1-Niveau: kurze Hauptsätze, jedes Fachwort mit Erklärung («nüchtern: ab 02:00 Uhr nichts mehr essen»). Inhalte als echter Text statt PDF oder Bild, damit die Übersetzungsfunktion des Handys greift; eine Spalte, mobile-first. Die Arbeitsunfähigkeit als eigener, sichtbarer Punkt: wer das Zeugnis ausstellt und wen sie dazu fragen kann. Das gesprochene Video mit mitlaufendem Text hilft ihr doppelt. Im Anruf der Anästhesie: langsam sprechen und das Verständnis mit einer Rückfrage sichern statt mit «alles klar?».</p></div>
+<p class="pa-evidenz"><strong>Woher die Persona kommt.</strong> BAG/Careum 2021 und 2023 (geringe Gesundheitskompetenz deutlich häufiger bei Sprachhürden und Migrationshintergrund); Schatz 2017 (Einfache Sprache verbessert das Verständnis über alle Gruppen); Meppelink 2015 (gesprochene Information bei geringer Gesundheitskompetenz); Fenesi 2015 (mitlaufender Text); Sheridan 2011 (Kernbotschaft zuerst).</p>
+</section>
+</div>
+</div>
+<div class="governance">
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td>Geprüft am</td>
+<td><span class="ph">Datum</span></td>
+</tr>
+<tr class="even">
+<td>Nächste Prüfung</td>
+<td><span class="ph">Datum + 2 Jahre</span></td>
+</tr>
+<tr class="odd">
+<td>Fachliche Freigabe</td>
+<td><span class="ph">Name, Funktion</span></td>
+</tr>
+</tbody>
+</table>
+<p>Diese Seiten sind ein Prototyp. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte und dienen ausschliesslich der Veranschaulichung von Struktur und Sprache.</p>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Kopiert");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Kopiert");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Struktur-Prototyp — keine geprüfte medizinische Information</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+<script>
+function fb(btn, msg){
+  var s = btn.parentElement.querySelector('.fb-danke');
+  if (s) { s.textContent = msg; }
+  btn.parentElement.querySelectorAll('button').forEach(function(b){ b.disabled = true; });
+}
+</script>
+
+
+
+
+</body></html>
