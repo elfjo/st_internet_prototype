@@ -1,0 +1,13 @@
+::: {.rechnen}
+### Rechenbeispiel
+
+Die Eintrittszeit in der SMS lautet **10:00 Uhr**.
+
+| | Rechnung | Ergebnis |
+|---|---|---|
+| Letzte leichte Mahlzeit | 10:00 minus 6 Stunden | bis **04:00 Uhr** |
+| Letztes Glas Wasser, Tee oder schwarzer Kaffee | 10:00 minus 2 Stunden | bis **08:00 Uhr** |
+| Ab dann | | nichts mehr essen und trinken |
+
+Praktisch heisst das: Am Abend vorher normal essen, in der Nacht nichts mehr, am Morgen bis 08:00 Uhr Wasser oder Tee. Bei einer Eintrittszeit um **14:00 Uhr** dürfen Sie bis **08:00 Uhr** ein leichtes Frühstück essen und bis **12:00 Uhr** trinken.
+:::

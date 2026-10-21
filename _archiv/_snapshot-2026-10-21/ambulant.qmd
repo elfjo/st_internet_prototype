@@ -1,0 +1,25 @@
+---
+title: "Ihr ambulanter Eingriff, Schritt für Schritt"
+toc: false
+---
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Platzhalterseite: Der ambulante Fahrplan entsteht nach dem Muster der
+[stationären Seite](stationaer.qmd).
+:::
+
+[Diese Seite folgt. Sie wird den ambulanten Eingriff von der
+Anmeldung bis zum Abend zu Hause begleiten.]{.lede}
+
+::: {.weiche}
+**Kommen Sie zu einer Herzkatheter-Untersuchung?** Für Sie gilt ein
+eigener Fahrplan: [Herzkatheter: Ihr Fahrplan →](herzkatheter.qmd)
+:::
+
+{{< include _kontakt.qmd >}}
+
+{{< include _governance.qmd >}}

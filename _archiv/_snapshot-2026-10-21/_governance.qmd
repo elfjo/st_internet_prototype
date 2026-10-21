@@ -1,0 +1,11 @@
+::: {.governance}
+| | |
+|---|---|
+| Geprüft am | [Datum]{.ph} |
+| Nächste Prüfung | [Datum + 2 Jahre]{.ph} |
+| Fachliche Freigabe | [Name, Funktion]{.ph} |
+
+Diese Seiten sind ein Prototyp. Alle Inhalte sind fiktive,
+fachlich nicht geprüfte Beispieltexte und dienen ausschliesslich der
+Veranschaulichung von Struktur und Sprache.
+:::

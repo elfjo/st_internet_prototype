@@ -1,0 +1,73 @@
+---
+title: "Das Wichtigste auf einem Blatt"
+toc: false
+---
+
+::: {.mini-nav}
+[← Ihr Eintritt, Schritt für Schritt](stationaer.qmd)
+:::
+
+::: {.hinweis-prototyp}
+Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
+:::
+
+[Die Kerninformationen zu Ihrem Eintritt, zum Ausdrucken und
+Aufhängen.]{.lede}
+
+```{=html}
+<button class="drucken" type="button" onclick="window.print()">Dieses Blatt drucken</button>
+```
+
+## Mein Eintritt
+
+| | |
+|---|---|
+| Eintrittsdatum | ______________________ |
+| Eintrittszeit (kommt [per SMS am Vortag]{.ph}) | ______________________ |
+| Wo ich mich melde | [Adresse, Eingang, Stockwerk]{.ph} |
+| Bei Fragen vorab | [Telefonnummer, Mo–Fr xx–xx Uhr]{.ph} |
+
+## Essen und Trinken vor dem Eintritt
+
+- Bis **6 Stunden** vor der Eintrittszeit: leichte Mahlzeit erlaubt,
+  danach nichts mehr essen.
+- Bis **2 Stunden** vor dem Eintritt: Wasser ohne Kohlensäure, Tee oder
+  schwarzer Kaffee erlaubt.
+- Die **2 Stunden** direkt vor dem Eintritt: gar nichts mehr, auch keine Bonbons oder
+  Kaugummis.
+
+{{< include _rechenbeispiel.qmd >}}
+
+## Medikamente
+
+- Alle gewohnten Medikamente weiternehmen, **ausser** es wurde anders
+  mit Ihnen besprochen.
+- **Blutverdünner und Diabetesmedikamente:** nur nach Absprache
+  pausieren. Im Zweifel anrufen: [Telefonnummer]{.ph}.
+- Medikamentenliste in der Originalverpackung mitbringen.
+
+## Was ich mitbringe
+
+Versichertenkarte · Ausweis · Medikamentenliste · [medizinische
+Ausweise (Allergie, Blutverdünner, Diabetes, Schrittmacher)]{.ph} ·
+bequeme Kleidung · feste rutschfeste Schuhe · Toilettenartikel ·
+Brille, Hörgerät mit Batterien, CPAP-Gerät. **Zu Hause lassen:** Schmuck, Wertsachen.
+
+## Vorher noch erledigen
+
+- Gesundheitsfragebogen ausfüllen (Link in E-Mail und SMS)
+- Eintrittsformular ausfüllen und zurücksenden
+- Abholung nach dem Austritt organisieren (nicht selbst fahren)
+- Unterstützung für die erste Woche zu Hause regeln
+- Bei Fieber, Erkältung oder Verschlechterung vor dem Eintritt:
+  anrufen unter [Telefonnummer]{.ph}
+
+::: {.rechtshinweis}
+Dieses Blatt fasst zusammen und ersetzt weder die ausführlichen
+Informationen auf [der Seite «Ihr Eintritt, Schritt für Schritt»](stationaer.qmd) noch das
+persönliche Gespräch. Stand: [Datum]{.ph}
+:::
+
+::: {.mini-nav}
+[← Ihr Eintritt, Schritt für Schritt](stationaer.qmd)
+:::

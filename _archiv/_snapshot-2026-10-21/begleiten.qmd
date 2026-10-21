@@ -1,0 +1,70 @@
+---
+title: "Für Angehörige und Begleitpersonen"
+toc: false
+---
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+[← Der Eintritt, Schritt für Schritt](stationaer.qmd)
+[Alles auf einem Blatt →](merkblatt.qmd)
+:::
+
+[Sie lesen für Ihre Mutter, Ihren Vater, Ihre Partnerin oder einen Freund. Diese Seite sagt, was Sie als Begleiterin oder Begleiter tun können, was Sie dürfen und wen Sie anrufen; sie ist mehr als Besuchszeiten. Ihre Unterstützung hilft der Person und uns. Danke dafür.]{.lede}
+
+::: {.kontaktzeile}
+**So erreichen Sie uns.** Jede Frage ist willkommen; rufen Sie
+lieber einmal mehr an.
+
+- **Eintritt, Termin, Unterlagen:** [Patientendisposition, +41 41 208 30 12]{.ph}, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr
+- **Gesundheitsfragebogen und Narkose:** [Anästhesie, Telefonnummer]{.ph}
+- **Ihre Operation:** die Praxis Ihrer Operateurin oder Ihres Operateurs
+:::
+
+## Was Sie vor dem Eintritt tun können {#vorher}
+
+::: {.tun}
+- Den Gesundheitsfragebogen gemeinsam ausfüllen. Das ist ausdrücklich erlaubt. Geben Sie am Anfang des Fragebogens an, dass Sie helfen. Bei Fragen zu Alkohol, Rauchen und Stimmung sollte die Person selbst antworten.
+- Die Eintrittszeit aus der SMS in den Kalender übernehmen und die Zeiten für Essen und Trinken ausrechnen: nichts mehr essen ab 6 Stunden vorher, nichts mehr trinken ab 2 Stunden vorher. Schreiben Sie die beiden Uhrzeiten gut sichtbar auf.
+- Die Medikamentenliste prüfen und die Packungen bereitlegen. Blutverdünner und Diabetesmedikamente werden erst pausiert, wenn es mit der Anästhesie vereinbart ist.
+- Fahrt hin und zurück organisieren. Nach einer Narkose wird die Person 24 Stunden lang gefahren.
+- Die erste Woche zu Hause planen: Einkaufen, Kochen, Treppen, Dusche, Haustiere, Post.
+:::
+
+## Am Eintrittstag {#tag}
+
+Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Dort sind die Plätze während des Umbaus mit Vorhängen abgetrennt. Für Begleitende stehen Stühle bereit, der Platz ist knapp. In den Operationsbereich und den Aufwachraum begleitet das Team die Person allein. Im Zimmer können Sie sie wieder besuchen.
+
+Hinterlassen Sie an der Réception Ihre Telefonnummer. Wir rufen Sie an, sobald die Person im Zimmer ist. Das kann [mehrere Stunden]{.ph} dauern. Sie können in dieser Zeit die Klinik verlassen.
+
+## Während des Aufenthalts {#waehrend}
+
+Besuchszeiten: [Zeiten]{.ph}. Wenn die Patientin oder der Patient es wünscht, dürfen Sie bei der Visite dabei sein. Fragen Sie dort nach dem voraussichtlichen Austrittstag und danach, was zu Hause gebraucht wird: Hilfsmittel, Spitex, Rezepte. Das Case Management hilft bei der Organisation: [Kontakt]{.ph}.
+
+## Nach dem Austritt {#nachher}
+
+::: {.tun}
+- Abholung bis 10 Uhr am Austrittstag.
+- Rezepte einlösen, Medikamente nach dem mitgegebenen Plan richten.
+- In der ersten Nacht erreichbar sein.
+:::
+
+::: {.care}
+### Sofort melden
+
+Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder Nässen der Wunde, Verwirrtheit, Atemnot, Brustschmerz, Wadenschmerz: [Klinik-Nummer, rund um die Uhr]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**. Wenn Ihnen etwas Sorgen macht, rufen Sie an, lieber einmal zu viel als einmal zu wenig.
+:::
+
+## Darf ich das überhaupt? {#duerfen}
+
+Sie dürfen Informationen für die Person lesen, Termine abmachen und Fragen stellen. Auskunft über den Gesundheitszustand erhalten Sie, wenn die Patientin oder der Patient uns das erlaubt hat. Wir fragen das beim Eintritt. Für rechtliche Vertretung gilt die Patientenverfügung oder ein Vorsorgeauftrag. Bringen Sie Kopien mit, falls vorhanden.
+
+{{< include _feedback.qmd >}}
+
+::: {.mini-nav}
+[⌂ Übersicht](index.qmd)
+[← Der Eintritt, Schritt für Schritt](stationaer.qmd)
+:::
+
+{{< include _kontakt.qmd >}}
+
+{{< include _governance.qmd >}}
