@@ -13,7 +13,7 @@ toc: false
 
 ```{=html}
 <p class="werkzeuge">
-<a class="werkzeug" href="merkblatt.qmd">Das Wichtigste auf einer Seite, zum Ausdrucken</a>
+<a class="werkzeug" href="merkblatt.qmd">Das Wichtigste auf einer Seite, auch zum Ausdrucken</a>
 <a class="werkzeug" href="begleiten.qmd">Ich begleite jemanden</a>
 <span class="werkzeug ph">Italiano · Français: foglio informativo</span>
 </p>
