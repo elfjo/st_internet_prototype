@@ -11,8 +11,8 @@ toc: false
 Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
-[Die Kerninformationen zu Ihrem Eintritt, zum Ausdrucken und an den
-Kühlschrank.]{.lede}
+[Die Kerninformationen zu Ihrem Eintritt, zum Ausdrucken und
+Aufhängen.]{.lede}
 
 ```{=html}
 <button class="drucken" type="button" onclick="window.print()">Dieses Blatt drucken</button>

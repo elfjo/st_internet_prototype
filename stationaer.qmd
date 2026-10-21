@@ -111,7 +111,7 @@ Unsere SMS kommt vom Absender [Absenderkennung]{.ph}, unsere E-Mail von [Adresse
 
 ### Was wir tun
 
-Am Vortag **ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an** und bespricht die Narkose mit Ihnen. Je nach Eingriff und Gesundheit **laden wir Sie vorher zusätzlich in die Anästhesie-Sprechstunde ein**, in der Klinik oder telefonisch. Darum kümmern wir uns. Im Gespräch können Sie alles fragen, was Sie zur Narkose wissen möchten. Falls Sie nach dem Aufenthalt eine Rehabilitation oder Kur brauchen, planen wir sie jetzt und rufen Sie an.
+Am Vortag **ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an** und bespricht die Narkose mit Ihnen; [vor einem Eingriff am Montag kann dieser Anruf schon am Freitag oder am Sonntag kommen; zu klären]{.ph}. Je nach Eingriff und Gesundheit **laden wir Sie vorher zusätzlich in die Anästhesie-Sprechstunde ein**, in der Klinik oder telefonisch. Darum kümmern wir uns. Im Gespräch können Sie alles fragen, was Sie zur Narkose wissen möchten. Falls Sie nach dem Aufenthalt eine Rehabilitation oder Kur brauchen, planen wir sie jetzt und rufen Sie an.
 
 ### Was Sie tun
 
@@ -137,7 +137,7 @@ Am Vortag **ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an** und b
 
 **Ihre Eintrittszeit.** Sie erhalten sie heute **per SMS**. Ohne Handynummer rufen wir Sie an. Haben Sie bis 14 Uhr nichts von uns gehört, rufen Sie uns an: [Nummer]{.ph}, 13 bis 17 Uhr.
 
-**Der Anruf zur Narkose.** Heute **ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an**, auch wenn Sie schon in der Sprechstunde waren. Halten Sie dafür Ihre Medikamentenliste bereit.
+**Der Anruf zur Narkose.** Heute **ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an**, auch wenn Sie schon in der Sprechstunde waren; [vor einem Eingriff am Montag kann dieser Anruf schon am Freitag oder am Sonntag kommen; zu klären]{.ph}. Halten Sie dafür Ihre Medikamentenliste bereit. [Zeitfenster des Anrufs; was gilt, wenn Sie den Anruf verpassen: Rückrufnummer oder zweiter Versuch.]{.ph}
 
 ### Was Sie tun
 
@@ -151,7 +151,7 @@ Am Vortag **ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an** und b
 {{< include _rechenbeispiel.qmd >}}
 
 ::: {.begleit}
-**Für Angehörige und Begleitpersonen:** Rechnen Sie die Zeiten für Essen und Trinken gemeinsam aus und schreiben Sie sie auf einen Zettel an den Kühlschrank. Beim Essen und Trinken am Morgen passieren die meisten Fehler. Der Zettel verhindert sie.
+**Für Angehörige und Begleitpersonen:** Rechnen Sie die Zeiten für Essen und Trinken gemeinsam aus und schreiben Sie sie gut sichtbar auf. Beim Essen und Trinken am Morgen passieren die meisten Fehler; die notierten Uhrzeiten verhindern sie.
 :::
 :::
 
