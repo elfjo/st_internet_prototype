@@ -9,7 +9,7 @@ toc: false
 [Für Angehörige →](begleiten.qmd)
 :::
 
-[Danke für Ihr Vertrauen in die Klinik St. Anna. Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt erklärt, was wir tun und was Sie tun. Sie können die Seite ausdrucken oder Ihren Angehörigen schicken.]{.lede}
+[Danke für Ihr Vertrauen in die Klinik St. Anna. Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt erklärt, was wir tun und was Sie beitragen. Sie können die Seite auch ausdrucken oder Ihren Angehörigen schicken.]{.lede}
 
 ```{=html}
 <p class="werkzeuge">
@@ -20,21 +20,42 @@ toc: false
 </p>
 ```
 
-::: {.kontaktzeile}
-**Wen rufe ich an?**
+::: {.video-einstieg}
+[Wenn Sie mögen: In zwei Minuten zeigt Ihnen [Name, Pflegefachperson]{.ph}
+den Weg vom Empfang bis in Ihr Zimmer. Sie müssen sich dabei nichts
+merken, denn wir führen Sie am Eintrittstag durch jeden
+Schritt.]{.einladung}
 
-- **Eintritt, Termin, Unterlagen:** [Patientendisposition, +41 41 208 30 12]{.ph}, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr
-- **Gesundheitsfragebogen und Narkose:** [Anästhesie, Telefonnummer]{.ph}
+![Standbild des Einführungsvideos: eine Pflegefachperson heisst Sie
+am Empfang willkommen](_images/video-poster.jpg)
+
+[Alles aus dem Video steht auch hier auf der Seite zum Lesen. Video
+mit Untertiteln, [2 Minuten, folgt]{.ph}.]{.nachsatz}
+:::
+
+::: {.weiche}
+**Kommen Sie zu einer Herzkatheter-Untersuchung?** Für Sie gilt ein
+eigener, kürzerer Fahrplan: [Herzkatheter: Ihr Fahrplan →](herzkatheter.qmd)
+
+Für alle anderen Eingriffe geht es hier weiter.
+:::
+
+::: {.kontaktzeile}
+**Wo kann ich anrufen?** Jede Frage ist willkommen; rufen Sie lieber
+einmal mehr an.
+
+- **Eintritt, Operationstermin:** [Patientendisposition, +41 41 208 30 12]{.ph}, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr
+- **Gesundheitsfragebogen, Unterlagen und Narkose:** [Anästhesie, Telefonnummer]{.ph}
 - **Ihre Operation:** die Praxis Ihrer Operateurin oder Ihres Operateurs
 :::
 
 ## Das Wichtigste in einer Minute {#kurz}
 
 ::: {.kurzliste}
-- **Eintritt:** Das Datum steht in Ihrer Anmeldebestätigung. Die Uhrzeit erhalten Sie am Vortag per SMS oder Anruf. Treffpunkt ist die Réception der Klinik St. Anna.
-- **Bis dahin:** Gesundheitsfragebogen ausfüllen (Link in E-Mail und SMS), Eintrittsformular zurücksenden, Abholung und erste Woche zu Hause organisieren.
-- **Am Eintrittstag:** bis 6 Stunden vor der Eintrittszeit essen, bis 2 Stunden vorher Wasser, Tee oder schwarzen Kaffee trinken, danach nichts mehr. Medikamente wie gewohnt, ausser die Anästhesie hat etwas anderes mit Ihnen vereinbart.
-- **Mitbringen:** Ausweis, Medikamente in der Originalpackung, Medikamentenliste, Hilfsmittel (Brille, Hörgerät, CPAP-Gerät).
+- **Eintritt:** Das Datum steht in Ihrer Anmeldebestätigung. Die Uhrzeit erhalten Sie am Vortag per SMS oder Anruf. Melden Sie sich an der Réception.
+- **Bis dahin:** Gesundheitsfragebogen ausfüllen (Link in E-Mail und SMS), Eintrittsformular zurücksenden, Ihre Abholung und die erste Woche zu Hause organisieren.
+- **Am Eintrittstag:** bis 6 Stunden vor der Eintrittszeit essen, bis 2 Stunden vorher Wasser, Tee oder schwarzen Kaffee trinken, danach nichts mehr. Medikamente wie gewohnt, ausser die Ärztin oder der Arzt hat etwas anderes mit Ihnen vereinbart.
+- **Mitbringen:** Ausweis, Medikamente in der Originalpackung, Medikamentenliste, Ihre gewohnten Hilfsmittel (Brille, Hörgerät, CPAP-Gerät).
 - **Austritt:** Den Tag legen Sie mit Ihrer Ärztin oder Ihrem Arzt fest. Das Zimmer geben Sie bis 10 Uhr frei. Jemand holt Sie ab.
 :::
 

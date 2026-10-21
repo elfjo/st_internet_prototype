@@ -478,3 +478,72 @@ main > .mini-nav:last-of-type,
 .rechnen td { padding: .35rem .5rem; border-bottom: 1px solid var(--line); vertical-align: top; }
 .rechnen tr:last-child td { border-bottom: 0; }
 .rechnen p:last-child { margin-bottom: .3rem; }
+
+/* ---------- Video-Einstieg: ruhig, klickbar, nicht obligat ---------- */
+.video-einstieg { margin: .8rem 0 1.6rem; }
+.video-einstieg img { display: block; width: 100%; border-radius: 10px; border: 1px solid var(--line); }
+.video-einstieg .einladung { margin: 0 0 .55rem; font-size: 1.02rem; color: var(--ink); }
+.video-einstieg .nachsatz { margin: .45rem 0 0; font-size: .9rem; color: var(--ink-soft); }
+
+/* ---------- Weiche: frueher Fork fuer spezifische Pfade ---------- */
+.weiche { background: #fff; border: 1px solid var(--accent); border-left: 6px solid var(--accent); border-radius: 8px; padding: .7rem 1rem; margin: .9rem 0 1.4rem; }
+.weiche p { margin: .2rem 0; }
+
+/* ===================================================================
+   Design-Politur (nur SCSS, kein Eingriff in qmd-Dateien)
+   Handwerk: Typografie-Rhythmus, Box-Konsistenz, Interaktion, Fokus.
+   =================================================================== */
+
+/* Typografie: ruhiger Rhythmus, klare Hierarchie */
+body { line-height: 1.6; }
+h1 { font-size: 2.1rem; letter-spacing: -0.015em; line-height: 1.15; margin-bottom: .5rem; }
+h2 { font-size: 1.45rem; letter-spacing: -0.01em; line-height: 1.25; }
+h3 { font-size: 1.12rem; }
+.lede { font-size: 1.22rem; line-height: 1.55; }
+
+/* Links: deutlicher, aber leiser */
+main a { text-underline-offset: 3px; text-decoration-thickness: 1px; }
+main a:hover { text-decoration-thickness: 2px; }
+
+/* Interaktion: sanfte Übergänge, sichtbarer Fokus (BehiG/WCAG) */
+a, button, .werkzeug, .wo a, .mini-nav a, .themen a, .op-wahl a {
+  transition: background-color .15s ease, color .15s ease, border-color .15s ease;
+}
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
+
+/* Box-Konsistenz: ein Radius, eine Kartenanmutung */
+.kurzliste, .weiche, .kontaktzeile, .wo a, .werkzeug, .phasen ol > li,
+.themen a, .rechnen, .echt, .anders, .video-einstieg img {
+  border-radius: 10px;
+}
+.kurzliste, .weiche, .video-einstieg img, .phasen ol > li {
+  box-shadow: 0 1px 3px rgba(16, 42, 67, .07);
+}
+.warnung, .melden, .care, .ampel-gruen { border-radius: 8px; }
+
+/* Kurzliste: Gewicht behalten, Härte nehmen */
+.kurzliste { border-width: 1.5px; padding: 1rem 1.25rem .6rem; }
+
+/* Zeitachse: Linie und Punkte eine Spur feiner */
+.zeit { border-left-width: 3px; }
+.station::before { box-shadow: 0 0 0 2px var(--accent), 0 1px 3px rgba(16,42,67,.15); }
+.station > h2 { font-size: 1.5rem; }
+.wann { border-radius: 999px; padding: .12rem .6rem; }
+
+/* Tabellen: leichtere Linien */
+main table td, main table th { border-color: var(--line); }
+
+/* Abgehakte Luft vor grossen Blöcken */
+.kurzliste, .zeit, .video-einstieg { margin-top: 1.2rem; }
+
+/* Druck: Schatten weg */
+@media print {
+  .kurzliste, .weiche, .video-einstieg img, .phasen ol > li { box-shadow: none; }
+}
