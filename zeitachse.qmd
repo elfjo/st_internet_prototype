@@ -6,7 +6,7 @@ toc: false
 ::: {.mini-nav}
 [⌂ Übersicht](index.qmd)
 [Alles auf einem Blatt →](merkblatt.qmd)
-[Für Angehörige →](begleiten.qmd)
+[Ich begleite jemanden →](begleiten.qmd)
 :::
 
 [Danke für Ihr Vertrauen in die Klinik St. Anna. Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt erklärt, was wir tun und was Sie beitragen. Sie können die Seite auch ausdrucken oder Ihren Angehörigen schicken.]{.lede}
@@ -15,7 +15,7 @@ toc: false
 <p class="werkzeuge">
 <button class="drucken" type="button" onclick="window.print()">Diese Seite drucken</button>
 <a class="werkzeug" href="merkblatt.qmd">Nur das Wichtigste, eine Seite</a>
-<a class="werkzeug" href="begleiten.qmd">Für Angehörige</a>
+<a class="werkzeug" href="begleiten.qmd">Ich begleite jemanden</a>
 <span class="werkzeug ph">Italiano · Français: foglio informativo</span>
 </p>
 ```
@@ -66,6 +66,7 @@ einmal mehr an.
 - [Ich habe die Anmeldebestätigung per Post erhalten →](#wochen)
 - [Mein Eintritt ist morgen →](#vortag)
 - [Meine Operation ist in wenigen Tagen →](#kurz-weg)
+- [Ich begleite oder unterstütze jemanden bei diesem Weg →](begleiten.qmd)
 :::
 
 ::: {.kurzweg #kurz-weg}
@@ -250,7 +251,7 @@ Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder N�
 ::: {.mini-nav}
 [⌂ Übersicht](index.qmd)
 [Alles auf einem Blatt →](merkblatt.qmd)
-[Für Angehörige →](begleiten.qmd)
+[Ich begleite jemanden →](begleiten.qmd)
 :::
 
 ::: {#kontaktzone}
