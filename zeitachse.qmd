@@ -13,21 +13,20 @@ toc: false
 
 ```{=html}
 <p class="werkzeuge">
-<button class="drucken" type="button" onclick="window.print()">Diese Seite drucken</button>
-<a class="werkzeug" href="merkblatt.qmd">Nur das Wichtigste, eine Seite</a>
+<a class="werkzeug" href="merkblatt.qmd">Das Wichtigste auf einer Seite, zum Ausdrucken</a>
 <a class="werkzeug" href="begleiten.qmd">Ich begleite jemanden</a>
 <span class="werkzeug ph">Italiano · Français: foglio informativo</span>
 </p>
 ```
 
 ::: {.video-einstieg}
-[Wenn Sie mögen: In zwei Minuten zeigt Ihnen [Name, Pflegefachperson]{.ph}
-den Weg vom Empfang bis in Ihr Zimmer. Sie müssen sich dabei nichts
-merken, denn wir führen Sie am Eintrittstag durch jeden
-Schritt.]{.einladung}
+[Wenn Sie mögen: Wir zeigen Ihnen in zwei Minuten, wie Ihr
+Aufenthalt bei uns aussieht, von der Anmeldung bis zurück nach
+Hause. Sie müssen sich dabei nichts merken, denn wir führen Sie
+unterwegs durch jeden Schritt.]{.einladung}
 
-![Standbild des Einführungsvideos: eine Pflegefachperson heisst Sie
-am Empfang willkommen](_images/video-poster.jpg)
+![Standbild des Einführungsvideos: eine Pflegefachperson empfängt
+Sie in der Klinik](_images/video-poster.jpg)
 
 [Alles aus dem Video steht auch hier auf der Seite zum Lesen. Video
 mit Untertiteln, [2 Minuten, folgt]{.ph}.]{.nachsatz}
@@ -41,8 +40,8 @@ Für alle anderen Eingriffe geht es hier weiter.
 :::
 
 ::: {.kontaktzeile}
-**Wo kann ich anrufen?** Jede Frage ist willkommen; rufen Sie lieber
-einmal mehr an.
+**So erreichen Sie uns.** Jede Frage ist willkommen; rufen Sie
+lieber einmal mehr an.
 
 - **Eintritt, Operationstermin:** [Patientendisposition, +41 41 208 30 12]{.ph}, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr
 - **Gesundheitsfragebogen, Unterlagen und Narkose:** [Anästhesie, Telefonnummer]{.ph}

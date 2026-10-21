@@ -547,3 +547,7 @@ main table td, main table th { border-color: var(--line); }
 @media print {
   .kurzliste, .weiche, .video-einstieg img, .phasen ol > li { box-shadow: none; }
 }
+
+/* Kontaktzeile: deutlicher abgesetzt, Überschrift-Anmutung */
+.kontaktzeile { margin-top: 2rem; padding: .9rem 1.1rem; border-left: 6px solid var(--accent); }
+.kontaktzeile p > strong:first-child { display: block; font-size: 1.08rem; margin-bottom: .15rem; color: var(--accent-dark); }
