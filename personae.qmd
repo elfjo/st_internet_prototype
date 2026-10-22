@@ -8,17 +8,6 @@ toc: false
 [Zum Prototyp →](stationaer.qmd)
 :::
 
-::: {.hinweis-prototyp}
-Arbeitsgrundlage für das Projektteam und Stakeholder. Die Personen
-sind fiktiv, die Portraits KI-generiert; die Zahlen stammen aus den
-zitierten Studien.
-:::
-
-[Acht Personen stehen stellvertretend für die Menschen, die unsere
-Eintrittsseiten nutzen. Sie sind aus Evidenz gebaut, nicht aus
-Bauchgefühl, und sie dienen uns als Prüffiguren: Ein Text ist fertig,
-wenn er vor jeder dieser Personen besteht.]{.lede}
-
 ::: {.rahmen-recht}
 ### Rahmen: Barrierefreiheit als Massstab
 
