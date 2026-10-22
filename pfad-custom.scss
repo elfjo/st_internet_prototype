@@ -127,6 +127,25 @@ main > .mini-nav:last-of-type,
   margin: 1rem 0;
 }
 
+/* ---------- Rechtlicher Rahmen (Barrierefreiheit) ---------- */
+.rahmen-recht {
+  background: #EEF1F5;
+  border: 1px solid #D9DCE1;
+  border-left: 6px solid #0B5A8E;
+  border-radius: 8px;
+  padding: 1rem 1.3rem;
+  margin: 1.5rem 0 2rem;
+}
+.rahmen-recht h3 {
+  margin: 0 0 0.6rem;
+  padding: 0;
+  border: 0;
+  font-size: 1.05rem;
+  color: #0B5A8E;
+}
+.rahmen-recht p { margin: 0 0 0.7rem; font-size: 0.97rem; }
+.rahmen-recht p:last-child { margin-bottom: 0; font-size: 0.88rem; color: var(--ink-soft); }
+
 /* ---------- Platzhalter-Markierung ---------- */
 .ph {
   color: var(--placeholder);
