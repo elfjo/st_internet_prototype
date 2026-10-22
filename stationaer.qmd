@@ -25,16 +25,14 @@ Ihren Angehörigen zeigen.]{.lede}
 ```
 
 ::: video-einstieg
-[Wenn Sie mögen: Wir zeigen Ihnen in zwei Minuten, wie Ihr Aufenthalt
+[Wenn Sie mögen: Wir zeigen Ihnen im Video in zwei Minuten, wie Ihr Aufenthalt
 bei uns aussieht, von der Anmeldung bis zurück nach Hause. Sie müssen
 sich dabei nichts merken, denn wir führen Sie unterwegs durch jeden
-Schritt.]{.einladung}
+Schritt. Sie können auch einfach weiterlesen]{.einladung}
 
 ![Standbild des Einführungsvideos: eine Pflegefachperson empfängt Sie in
 der Klinik](_images/video-poster.jpg)
 
-[Alles aus dem Video steht auch hier auf der Seite zum
-Lesen.]{.nachsatz}
 :::
 
 ::: weiche
