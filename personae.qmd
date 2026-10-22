@@ -22,26 +22,18 @@ wenn er vor jeder dieser Personen besteht.]{.lede}
 ::: {.rahmen-recht}
 ### Rahmen: Barrierefreiheit als Massstab
 
-Gemeinwesen müssen ihre Dienstleistungen im Internet für Menschen mit
-Sprach-, Hör- oder Sehbehinderung zugänglich machen (Art. 14 Abs. 2
-BehiG). Die Verordnung konkretisiert: Internetangebote richten sich
-nach den Richtlinien des World Wide Web Consortium (Art. 10 BehiV).
-Der Schweizer Standard eCH-0059, Version 3.0, verlangt dafür WCAG 2.1
-auf Stufe AA. Er richtet sich an Gemeinwesen und konzessionierte
-Unternehmen; weitere Anbieter wenden ihn freiwillig an. Die 2024 in
-die Vernehmlassung gegebene Teilrevision des BehiG will Barrierefreiheit
-auch für digitale Dienstleistungen Privater regeln.
-
-Für den Prototyp heisst das: Ein Privatspital ist heute rechtlich nicht
-direkt verpflichtet. Wir nehmen WCAG 2.1 AA trotzdem als Messlatte,
-weil die Personae unten zeigen, wen ein Text sonst ausschliesst.
+Gemeinwesen müssen ihre Internetangebote heute barrierefrei gestalten
+(Art. 14 BehiG, eCH-0059: WCAG 2.1 AA). Die Revision des BehiG dehnt
+die Pflicht auf Private aus, die Dienstleistungen öffentlich anbieten,
+digitale eingeschlossen; geplantes Inkrafttreten 1. Januar 2027, die
+Vorlage ist noch im Parlament. Für den Prototyp ist WCAG 2.1 AA deshalb
+die Messlatte.
 
 Quellen:
-[BehiG, SR 151.3, Art. 14](https://www.fedlex.admin.ch/eli/cc/2003/667/de#art_14) ·
-[BehiV, SR 151.31, Art. 10](https://www.fedlex.admin.ch/eli/cc/2003/668/de#art_10) ·
-[eCH-0059 Accessibility Standard 3.0](https://www.ech.ch/de/ech/ech-0059/3.0) ·
-[WCAG 2.1 (W3C)](https://www.w3.org/TR/WCAG21/) ·
-[Barrierefreiheit in der Bundesverwaltung (BIT)](https://bit.admin.ch/de/barrierefreiheit-in-der-bundesverwaltung)
+[BehiG, Art. 14](https://www.fedlex.admin.ch/eli/cc/2003/667/de#art_14) ·
+[eCH-0059 3.0](https://www.ech.ch/de/ech/ech-0059/3.0) ·
+[Botschaft BehiG-Revision, BBl 2025 300](https://www.fedlex.admin.ch/eli/fga/2025/300/de) ·
+[Geschäft 25.020](https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20250020)
 :::
 
 ## Die stärkste Evidenz hinter dem Konzept {#evidenz}
