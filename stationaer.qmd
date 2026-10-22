@@ -21,13 +21,12 @@ Ihren Angehörigen zeigen.]{.lede}
 ::: kurzliste
 1. [Nach der Anmeldung:](#heute) Gesundheitsfragebogen und
    Anmeldebestätigung
-2. [Bis zum Eintritt:](#wochen) Narkosegespräch; Abholung und erste
+2. [Bis zum Eintritt:](#wochen) Narkosegespräch, Abholung und erste
    Woche zu Hause organisieren
-3. [Am Vortag:](#vortag) Eintrittszeit per SMS; Essen und Trinken
-   ausrechnen; packen
+3. [Am Vortag:](#vortag) Eintrittszeit per SMS, Essen und Trinken
+   ausrechnen, packen
 4. [Am Eintrittstag:](#eintrittstag) Ankommen, warten, Operation
-5. [Im Spital und zu Hause:](#spital) Visite, Austritt bis 10 Uhr,
-   erste Woche
+5. [Im Spital:](#spital) Visite, Erholen, Austritt bis 10 Uhr
 :::
 
 ```{=html}
@@ -97,8 +96,8 @@ anmeldet.
 
 ### Was wir tun
 
-Sie haben von uns eine **E-Mail und eine SMS** mit dem Link zum
-Gesundheitsfragebogen der Anästhesie erhalten. Die **Anmeldebestätigung
+Sie haben von uns eine **E-Mail** mit dem Link zum
+Gesundheitsfragebogen der Anästhesie erhalten. Dazu kam auch eine SMS mit einem Sicherheitscode für den Fragebogen. Die **Anmeldebestätigung
 per Post** mit dem Eintrittsdatum und dem Eintrittsformular folgt, je
 nach Termin innerhalb von Tagen oder Wochen. Ab jetzt bereitet unser
 Team Ihren Eintritt vor.
@@ -106,13 +105,7 @@ Team Ihren Eintritt vor.
 ::: echt
 ### So prüfen Sie, ob eine Nachricht von uns kommt
 
-Unsere SMS kommt vom Absender [Absenderkennung]{.ph}. Unsere E-Mail
-kommt von [Adresse]{.ph}. Der Link führt auf [Adresse der Fragebogen-Seite]{.ph}. Wir fragen per SMS
-oder E-Mail nie nach Passwörtern oder Bankdaten. Wir verlangen nie eine
-Zahlung. Sind Sie unsicher? Tippen Sie hirslanden.ch selbst in den
-Browser. Rufen Sie die Nummer an, die dort steht. Nutzen Sie keine
-Nummer aus der Nachricht. Und falls Sie den Link lieber gar nicht
-öffnen: Wir rufen Sie an.
+Wir fragen per SMS, Email oder Internet nie nach Passwörtern oder Bankdaten. Wir verlangen nie eine Zahlung. Sind Sie unsicher, ob die Nachricht von uns ist? Suchen Sie selbst im Internet nach der Internetseite der Klinik St. Anna. Rufen Sie die Nummer an, die dort steht.
 :::
 
 ### Was Sie tun
@@ -123,7 +116,7 @@ Nummer aus der Nachricht. Und falls Sie den Link lieber gar nicht
   10 bis 60 Minuten. Falls Sie ihn schon ausgefüllt haben, ist dieser
   Punkt erledigt.
 - Falls Ihnen das Ausfüllen am Bildschirm schwerfällt: Lassen Sie den
-  Fragebogen unausgefüllt. Nach [5 Tagen]{.ph} rufen wir Sie an.
+  Fragebogen unausgefüllt. Nach etwa [5 Tagen]{.ph} rufen wir Sie automatisch an.
 - Das **Eintrittsformular** aus dem Brief ausfüllen, unterschreiben und
   zurücksenden, [Frist]{.ph}.
 :::
@@ -146,8 +139,7 @@ Ihre Narkose besprechen wir persönlich mit Ihnen, spätestens am Vortag
 am Telefon (siehe [Am Vortag](#vortag)). Je nach Eingriff und
 Gesundheit **laden wir Sie vorher zusätzlich in die
 Anästhesie-Sprechstunde ein**. Das Gespräch findet in der Klinik oder
-am Telefon statt. Darum kümmern wir uns. Wir kontaktieren Sie. In der
-Sprechstunde können Sie alles fragen, was Sie zur Narkose wissen
+am Telefon statt. Um den Termin kümmern wir uns. Wir kontaktieren Sie. Im Gespräch mit der Anästhesistin oder dem Anästhesisten können Sie alles fragen, was Sie zur Narkose wissen
 möchten. Brauchen Sie nach dem Aufenthalt eine Rehabilitation oder
 Spitex? Dann planen wir das jetzt und rufen Sie an.
 
@@ -166,6 +158,7 @@ Spitex? Dann planen wir das jetzt und rufen Sie an.
   besprechen dann mit Ihnen die Planung.
 - Rauchen: Jeder rauchfreie Tag vor der Operation stärkt Ihre
   Wundheilung.
+- Bewegen: (-->Bitte guten Satz finden)
 :::
 
 ::: begleit
