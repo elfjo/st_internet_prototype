@@ -299,8 +299,9 @@ dem Alltag näher. Besuch: [Besuchszeiten]{.ph}.
 
 ::: tun
 - Jede Beschwerde melden, auch kleine. Dann können wir sie behandeln.
-- Aufstehen und gehen, sobald die Pflege es erlaubt. Bewegung
-  beschleunigt die Erholung.
+- Aufstehen und gehen, sobald die Pflege es erlaubt. Die ersten
+  Schritte sind die wichtigsten: Sie bringen Kreislauf, Atmung und
+  Verdauung in Schwung, und die Kraft kehrt schneller zurück.
 - Fragen aufschreiben, wenn sie Ihnen einfallen, und bei der Visite
   stellen.
 :::
