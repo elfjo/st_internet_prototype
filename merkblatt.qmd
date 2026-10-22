@@ -31,8 +31,8 @@ Aufhängen.]{.lede}
 
 - Bis **6 Stunden** vor der Eintrittszeit: leichte Mahlzeit erlaubt,
   danach nichts mehr essen.
-- Bis **2 Stunden** vor dem Eintritt: Wasser ohne Kohlensäure, Tee oder
-  schwarzer Kaffee erlaubt.
+- Bis **2 Stunden** vor dem Eintritt: Wasser, Tee oder schwarzer Kaffee
+  erlaubt.
 - Die **2 Stunden** direkt vor dem Eintritt: gar nichts mehr, auch keine Bonbons oder
   Kaugummis.
 
@@ -40,10 +40,11 @@ Aufhängen.]{.lede}
 
 ## Medikamente
 
-- Alle gewohnten Medikamente weiternehmen, **ausser** es wurde anders
-  mit Ihnen besprochen.
-- **Blutverdünner und Diabetesmedikamente:** nur nach Absprache
-  pausieren. Im Zweifel anrufen: [Telefonnummer]{.ph}.
+- Alle gewohnten Medikamente weiternehmen, **ausser** die Anästhesie
+  hat mit Ihnen etwas anderes vereinbart.
+- **Blutverdünner und Diabetesmedikamente:** nur nach Absprache mit der
+  Anästhesie pausieren. Im Zweifel anrufen: [Anästhesie,
+  Telefonnummer]{.ph}.
 - Medikamentenliste in der Originalverpackung mitbringen.
 
 ## Was ich mitbringe

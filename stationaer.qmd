@@ -116,7 +116,8 @@ Wir fragen per SMS, Email oder Internet nie nach Passwörtern oder Bankdaten. Wi
   10 bis 60 Minuten. Falls Sie ihn schon ausgefüllt haben, ist dieser
   Punkt erledigt.
 - Ihnen fällt das Ausfüllen am Bildschirm schwer, oder es gibt technische Schwierigkeiten: Lassen Sie den
-  Fragebogen unausgefüllt. Nach etwa [5 Tagen]{.ph} rufen wir Sie automatisch an.
+  Fragebogen unausgefüllt. Nach etwa [5 Tagen]{.ph} rufen wir Sie von
+  uns aus an.
 - Das **Eintrittsformular** aus dem Brief ausfüllen, unterschreiben und
   zurücksenden, [Frist]{.ph}.
 :::
@@ -151,14 +152,17 @@ Spitex? Dann planen wir das jetzt und rufen Sie an.
 - Organisieren, wer Sie in der ersten Woche zu Hause unterstützt:
   Einkaufen, Kochen, Treppensteigen.
 - Ihre Medikamente nehmen Sie weiter wie gewohnt. Blutverdünner und
-  Diabetesmedikamente pausieren Sie nur nach Absprache. Die Absprache
-  machen Sie mit den Ärzten. Im Zweifel anrufen.
-- Bei Fieber, Husten oder Erkältung: anrufen, auch kurz vor dem
-  Eintritt. Das gilt auch, wenn es Ihnen insgesamt schlechter geht. Wir
-  besprechen dann mit Ihnen die Planung.
-- Rauchen: Jeder rauchfreie Tag vor der Operation stärkt Ihre
-  Wundheilung.
-- Bewegen: (-->Bitte guten Satz finden)
+  Diabetesmedikamente pausieren Sie nur nach Absprache mit der
+  Anästhesie. Im Zweifel rufen Sie die Anästhesie an:
+  [Anästhesie, Telefonnummer]{.ph}.
+- Bei Fieber, Husten oder Erkältung rufen Sie die Anästhesie an:
+  [Anästhesie, Telefonnummer]{.ph}. Das gilt auch kurz vor dem Eintritt
+  und wenn es Ihnen insgesamt schlechter geht. Wir besprechen dann mit
+  Ihnen die Planung.
+- Rauchen: Jeder rauchfreie Tag vor der Operation hilft. Je früher Sie
+  aufhören, desto besser heilt die Wunde.
+- Bewegen: Jeder Spaziergang vor der Operation hilft Ihnen, danach
+  schneller wieder auf die Beine zu kommen.
 :::
 
 ::: begleit
@@ -220,11 +224,11 @@ Essen und Trinken am Morgen passieren die meisten Fehler.
 ### Was wir tun, und wie der Ablauf ist
 
 **Morgens zu Hause.** Bis 6 Stunden vor der Eintrittszeit eine leichte
-Mahlzeit, bis 2 Stunden vorher Wasser ohne Kohlensäure, Tee oder
-schwarzer Kaffee. Danach nichts mehr, auch keine Bonbons oder Kaugummi.
+Mahlzeit, bis 2 Stunden vorher Wasser, Tee oder schwarzer Kaffee.
+Danach nichts mehr, auch keine Bonbons oder Kaugummi.
 So schützen Sie Ihre Atemwege während der Narkose. Medikamente wie
-gewohnt mit einem Schluck Wasser, ausser es wurde etwas anderes
-vereinbart.
+gewohnt mit einem Schluck Wasser, ausser die Anästhesie hat mit Ihnen
+etwas anderes vereinbart.
 
 **Anreise.** [Adresse, Eingang, öffentlicher Verkehr. Während des Umbaus
 sind Parkplätze knapp. Kommen Sie am besten mit dem öffentlichen Verkehr
@@ -257,9 +261,9 @@ Operation beginnt und machen Ihnen die Wartezeit möglichst angenehm.
 Operationsbereich. Dort empfängt Sie das Operationsteam und bleibt
 während der ganzen Operation bei Ihnen. Wenn Sie eine Narkose bekommen,
 erwachen Sie nach der Operation im Aufwachraum oder, bei grösseren
-Eingriffen, auf der Überwachungsstation. Dort sorgt das Team dafür, dass
-Sie sich möglichst wohl fühlen. Danach bringt das Team Sie in Ihr
-Zimmer. Auf Wunsch informieren wir Ihre Angehörigen.
+Eingriffen, auf der Überwachungsstation, wo wir Sie in der ersten Zeit
+enger betreuen. Dort sorgt das Team dafür, dass Sie sich möglichst wohl
+fühlen. Danach bringt das Team Sie in Ihr Zimmer.
 
 ### Was Sie beitragen
 
@@ -324,9 +328,7 @@ Hilfsmittel, Spitex, Rezepte.
 Sie erhalten einen Austrittsbericht, Rezepte und die Termine für
 Nachkontrollen. Die Pflege erklärt Ihnen Wundversorgung und Medikamente
 und gibt Ihnen alles schriftlich mit. Zu Hause erholen Sie sich weiter,
-in Ihrem eigenen Tempo. Die Kraft kommt Woche für Woche zurück. Die
-Rechnung geht an Ihre Krankenkasse. Für persönliche Auslagen erhalten
-Sie eine separate Rechnung.
+in Ihrem eigenen Tempo. Die Kraft kommt Woche für Woche zurück.
 
 Wir wünschen Ihnen einen guten Aufenthalt bei uns und eine gute Erholung
 zu Hause.
@@ -334,7 +336,7 @@ zu Hause.
 ### Was Sie beitragen
 
 ::: tun
-- Das Zimmer bis 10 Uhr freigeben. Jemand holt Sie ab.
+- Das Zimmer bis 10 Uhr freigeben. Lassen Sie sich abholen.
 - Rezepte in der Klinikapotheke oder einer Apotheke Ihrer Wahl einlösen.
 - Bei den Zeichen unten sofort anrufen, auch nachts.
 :::
