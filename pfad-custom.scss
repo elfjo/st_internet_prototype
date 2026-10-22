@@ -446,7 +446,8 @@ main > .mini-nav:last-of-type,
 .kontaktzeile p { margin: 0; max-width: none; }
 
 .kurzliste { background: #fff; border: 2px solid var(--accent); border-radius: 8px; padding: .9rem 1.1rem .5rem; margin: .6rem 0 1.2rem; }
-.kurzliste ul { margin: 0; padding-left: 1.2rem; }
+.kurzliste ul, .kurzliste ol { margin: 0; padding-left: 1.4rem; }
+.kurzliste ol li a { font-weight: 700; }
 .kurzliste li { margin: 0 0 .55rem; max-width: none; line-height: 1.45; }
 
 .zeit { position: relative; margin: 1.2rem 0 2rem; padding-left: 1.6rem; border-left: 4px solid var(--line); }
