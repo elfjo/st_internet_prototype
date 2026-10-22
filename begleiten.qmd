@@ -15,9 +15,7 @@ toc: false
 **So erreichen Sie uns.** Jede Frage ist willkommen; rufen Sie
 lieber einmal mehr an.
 
-- **Eintritt, Termin, Unterlagen:** [Patientendisposition, +41 41 208 30 12]{.ph}, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr
-- **Gesundheitsfragebogen und Narkose:** [Anästhesie, Telefonnummer]{.ph}
-- **Ihre Operation:** die Praxis Ihrer Operateurin oder Ihres Operateurs
+{{< include _kontaktliste.qmd >}}
 :::
 
 ## Was Sie vor dem Eintritt tun können {#vorher}

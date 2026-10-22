@@ -48,15 +48,13 @@ Aufhängen.]{.lede}
 
 ## Was ich mitbringe
 
-Versichertenkarte · Ausweis · Medikamentenliste · [medizinische
-Ausweise (Allergie, Blutverdünner, Diabetes, Schrittmacher)]{.ph} ·
-bequeme Kleidung · feste rutschfeste Schuhe · Toilettenartikel ·
-Brille, Hörgerät mit Batterien, CPAP-Gerät. **Zu Hause lassen:** Schmuck, Wertsachen.
+{{< include _mitbringen.qmd >}}
 
 ## Vorher noch erledigen
 
-- Gesundheitsfragebogen ausfüllen (Link in E-Mail und SMS)
-- Eintrittsformular ausfüllen und zurücksenden
+- Gesundheitsfragebogen innerhalb von [5 Tagen]{.ph} ausfüllen (Link in
+  E-Mail und SMS)
+- Eintrittsformular ausfüllen und zurücksenden, [Frist]{.ph}
 - Abholung nach dem Austritt organisieren (nicht selbst fahren)
 - Unterstützung für die erste Woche zu Hause regeln
 - Bei Fieber, Erkältung oder Verschlechterung vor dem Eintritt:
