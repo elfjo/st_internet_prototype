@@ -1,8 +1,8 @@
 ---
 title: "Ihr Eintritt, Schritt für Schritt"
 toc: false
-editor: 
-  markdown: 
+editor:
+  markdown:
     wrap: none
 ---
 
@@ -10,7 +10,7 @@ editor:
 [⌂ Übersicht](index.qmd) [Alles auf einem Blatt →](merkblatt.qmd) [Ich begleite oder unterstütze jemanden →](begleiten.qmd)
 :::
 
-[Danke für Ihr Vertrauen in die Klinik St. Anna. Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt erklärt, was wir tun und was in Ihrer Hand liegt. Wir sorgen für gute Bedingungen. Erholen werden Sie sich selbst, und wir zeigen Ihnen, was dabei hilft. Sie können diese Seite auch Ihren Angehörigen zeigen.]{.lede}
+[Danke für Ihr Vertrauen in die Klinik St. Anna. Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt erklärt, was wir tun und was in Ihrer Hand liegt. Sie können diese Seite auch Ihren Angehörigen zeigen.]{.lede}
 
 ## So läuft Ihr Eintritt ab {#kurz}
 
@@ -44,7 +44,7 @@ Für alle anderen Eingriffe geht es hier weiter.
 :::
 
 ::: kontaktzeile
-**So erreichen Sie uns.** Jede Frage ist willkommen; rufen Sie lieber einmal mehr an.
+**So erreichen Sie uns.** Jede Frage ist willkommen. Rufen Sie lieber einmal mehr an.
 
 {{< include _kontaktliste.qmd >}}
 :::
@@ -72,7 +72,7 @@ Alles Weitere steht unten. Was bei Ihnen schon erledigt ist, überspringen Sie e
 
 ### Was wir tun
 
-Sie haben von uns eine **E-Mail** mit dem Link zum Gesundheitsfragebogen erhalten. Dazu kam eine SMS mit einem Sicherheitscode für den Fragebogen. Die **Anmeldebestätigung per Post** mit dem Eintrittsdatum und dem Eintrittsformular folgt, je nach Termin innerhalb von Tagen oder Wochen. Ab jetzt bereitet unser Team Ihren Eintritt vor.
+Sie haben von uns eine **E-Mail** mit dem Link zum Gesundheitsfragebogen erhalten. Dazu kam eine SMS mit einem Sicherheitscode für den Fragebogen. Die **Anmeldebestätigung per Post** mit dem Eintrittsdatum und dem Eintrittsformular folgt, je nach Termin innerhalb von Tagen oder Wochen. Ab jetzt bereitet unser Team Ihren Aufenthalt für Sie vor.
 
 ::: echt
 ### So prüfen Sie, ob eine Nachricht von uns kommt
@@ -83,8 +83,8 @@ Wir fragen per SMS, Email oder Internet nie nach Passwörtern oder Bankdaten. Wi
 ### Was in Ihrer Hand liegt
 
 ::: tun
-- Sie füllen den **Gesundheitsfragebogen** innerhalb von [5 Tagen]{.ph} aus, allein oder mit jemandem zusammen. Rechnen Sie mit 10 bis 60 Minuten. Mit Ihren Antworten geben Sie der Anästhesie das Bild, das sie für Ihre Narkose braucht. Je genauer Sie antworten, desto genauer stimmen wir die Narkose auf Sie ab. Falls Sie den Fragebogen schon ausgefüllt haben, ist dieser Punkt erledigt.
-- Fällt Ihnen das Ausfüllen am Bildschirm schwer, oder gibt es technische Schwierigkeiten? Dann lassen Sie den Fragebogen unausgefüllt. Nach etwa [5 Tagen]{.ph} rufen wir Sie von uns aus an.
+- Sie füllen den **Gesundheitsfragebogen** innerhalb von [5 Tagen]{.ph} aus, allein oder mit jemandem zusammen. Rechnen Sie mit 10 bis 60 Minuten. Mit Ihren Antworten geben Sie der Anästhesie Informationen, die sie für Ihre Narkoseplanung braucht. Falls Sie den Fragebogen schon ausgefüllt haben, ist dieser Punkt erledigt.
+- Wenn Ihnen das Ausfüllen am Bildschirm schwerfällt, oder es technische Schwierigkeiten gibt: Dann lassen Sie den Fragebogen unausgefüllt. Nach etwa [5 Tagen]{.ph} rufen wir Sie von uns aus an.
 - Sie füllen das **Eintrittsformular** aus dem Brief aus, unterschreiben es und senden es zurück, [Frist]{.ph}.
 :::
 ::::::
@@ -108,14 +108,14 @@ Ihre Narkose besprechen wir persönlich mit Ihnen, spätestens am Vortag am Tele
 :::
 
 ::: hilft
-### Was Ihnen jetzt hilft
+### Gönnen Sie sich eine bewusste Vorbereitung.
 
-Diese Wochen gehören Ihnen. Je besser vorbereitet Sie in die Operation gehen, desto schneller erholen Sie sich danach. Vier Dinge helfen dabei:
+Je besser vorbereitet Sie in die Operation gehen, desto schneller erholen Sie sich danach. Vier Dinge sind wissenschaftlich gut belegt:
 
 - Bewegen: Bleiben Sie in Bewegung, im Rahmen Ihrer Möglichkeiten. Das hilft Ihnen, nach der Operation schneller wieder zu Kräften zu kommen.
-- Rauchen: Jeder rauchfreie Tag vor der Operation hilft. Je früher Sie aufhören, desto besser heilt die Wunde.
-- Essen und Schlafen: Essen Sie regelmässig und schlafen Sie genug. So gehen Sie mit Kraft in die Operation. Alkohol: je weniger, desto besser.
-- Fragen: Schreiben Sie auf, was Sie wissen möchten, und nehmen Sie die Liste zum Narkosegespräch mit.
+- Rauchstopp: Jeder rauchfreie Tag vor der Operation hilft. Je früher Sie aufhören, desto besser heilt die Wunde.
+- Essen und Schlafen: Essen Sie regelmässig und eiweissreich und schlafen Sie genug. So gehen Sie mit Kraft in die Operation. Alkohol: je weniger, desto besser.
+- Fragen: Schreiben Sie auf, was Sie wissen möchten, und nehmen Sie die Liste zu den Arztgesprächen mit.
 :::
 
 ::: begleit
