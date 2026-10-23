@@ -1,10 +1,7 @@
 - Amtlicher Ausweis und Versichertenkarte
-- Ihre Medikamente in der Originalpackung und die Medikamentenliste
-  (Dosierungsplan)
-- Falls vorhanden: Allergiepass, Blutverdünnerausweis, Diabetesausweis,
-  Schrittmacherausweis, Patientenverfügung
-- Ihre gewohnten Hilfsmittel: Brille, Hörgerät mit Batterien, Gehhilfe,
-  CPAP-Gerät (Ihr Atemgerät für die Nacht)
+- Ihre Medikamente in der Originalpackung und die Medikamentenliste (Dosierungsplan)
+- Falls vorhanden: Allergiepass, Blutverdünnerausweis, Diabetesausweis, Schrittmacherausweis, Patientenverfügung
+- Ihre gewohnten Hilfsmittel: Brille, Hörgerät mit Batterien, Gehhilfe, CPAP-Gerät (Ihr Atemgerät für die Nacht)
 - Bequeme Kleidung, feste Schuhe mit rutschfester Sohle, Toilettenartikel
 - Etwas zum Lesen oder Hören für die Wartezeit
 - Zu Hause bleiben: Schmuck, Wertsachen, grössere Geldbeträge

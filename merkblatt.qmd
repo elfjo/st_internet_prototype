@@ -11,8 +11,7 @@ toc: false
 Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 :::
 
-[Die Kerninformationen zu Ihrem Eintritt, zum Ausdrucken und
-Aufhängen.]{.lede}
+[Die Kerninformationen zu Ihrem Eintritt, zum Ausdrucken und Aufhängen.]{.lede}
 
 ```{=html}
 <button class="drucken" type="button" onclick="window.print()">Dieses Blatt drucken</button>
@@ -29,23 +28,17 @@ Aufhängen.]{.lede}
 
 ## Essen und Trinken vor dem Eintritt
 
-- Bis **6 Stunden** vor der Eintrittszeit: leichte Mahlzeit erlaubt,
-  danach nichts mehr essen.
-- Bis **2 Stunden** vor dem Eintritt: Wasser, Tee oder schwarzer Kaffee
-  erlaubt.
-- Die **2 Stunden** direkt vor dem Eintritt: gar nichts mehr, auch keine Bonbons oder
-  Kaugummis.
+- Bis **6 Stunden** vor der Eintrittszeit: leichte Mahlzeit erlaubt, danach nichts mehr essen.
+- Bis **2 Stunden** vor dem Eintritt: Wasser, Tee oder schwarzer Kaffee erlaubt.
+- Die **2 Stunden** direkt vor dem Eintritt: gar nichts mehr, auch keine Bonbons oder Kaugummis.
 
 {{< include _rechenbeispiel.qmd >}}
 
 ## Medikamente
 
-- Alle gewohnten Medikamente weiternehmen, **ausser** die Anästhesie
-  hat mit Ihnen etwas anderes vereinbart.
-- **Blutverdünner und Diabetesmedikamente:** nur nach Absprache mit der
-  Anästhesie pausieren. Im Zweifel anrufen: [Anästhesie,
-  Telefonnummer]{.ph}.
-- Medikamentenliste in der Originalverpackung mitbringen.
+- Alle gewohnten Medikamente weiternehmen, **ausser** die Anästhesie hat mit Ihnen etwas anderes vereinbart.
+- **Blutverdünner und Diabetesmedikamente:** nur nach Absprache mit der Anästhesie pausieren. Im Zweifel anrufen: [Anästhesie, Telefonnummer]{.ph}.
+- Ihre Medikamente in der Originalpackung und die Medikamentenliste mitbringen (siehe unten, «Was ich mitbringe»).
 
 ## Was ich mitbringe
 
@@ -53,18 +46,14 @@ Aufhängen.]{.lede}
 
 ## Vorher noch erledigen
 
-- Gesundheitsfragebogen innerhalb von [5 Tagen]{.ph} ausfüllen (Link in
-  E-Mail und SMS)
+- Gesundheitsfragebogen innerhalb von [5 Tagen]{.ph} ausfüllen (Link in E-Mail und SMS)
 - Eintrittsformular ausfüllen und zurücksenden, [Frist]{.ph}
 - Abholung nach dem Austritt organisieren (nicht selbst fahren)
 - Unterstützung für die erste Woche zu Hause regeln
-- Bei Fieber, Erkältung oder Verschlechterung vor dem Eintritt:
-  anrufen unter [Telefonnummer]{.ph}
+- Bei Fieber, Erkältung oder Verschlechterung vor dem Eintritt: anrufen unter [Telefonnummer]{.ph}
 
 ::: {.rechtshinweis}
-Dieses Blatt fasst zusammen und ersetzt weder die ausführlichen
-Informationen auf [der Seite «Ihr Eintritt, Schritt für Schritt»](stationaer.qmd) noch das
-persönliche Gespräch. Stand: [Datum]{.ph}
+Dieses Blatt fasst zusammen und ersetzt weder die ausführlichen Informationen auf [der Seite «Ihr Eintritt, Schritt für Schritt»](stationaer.qmd) noch das persönliche Gespräch. Stand: [Datum]{.ph}
 :::
 
 ::: {.mini-nav}
