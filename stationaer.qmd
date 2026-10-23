@@ -52,7 +52,7 @@ Für alle anderen Eingriffe geht es hier weiter.
 ## Wo stehen Sie gerade? {#wo}
 
 ::: wo
-- [Ich habe eine SMS oder E-Mail mit dem Gesundheitsfragebogen erhalten →](#heute)
+- [Ich habe eine E-Mail und SMS für den Gesundheitsfragebogen erhalten →](#heute)
 - [Ich habe die Anmeldebestätigung per Post erhalten →](#wochen)
 - [Mein Eintritt ist morgen →](#vortag)
 - [Ich begleite oder unterstütze jemanden →](begleiten.qmd)
@@ -77,7 +77,7 @@ Sie haben von uns eine **E-Mail** mit dem Link zum Gesundheitsfragebogen der An�
 ::: echt
 ### So prüfen Sie, ob eine Nachricht von uns kommt
 
-Wir fragen per SMS, Email oder Internet nie nach Passwörtern oder Bankdaten. Wir verlangen nie eine Zahlung. Sind Sie unsicher, ob die Nachricht von uns ist? Suchen Sie selbst im Internet nach der Internetseite der Klinik St. Anna. Rufen Sie die Nummer an, die dort steht.
+Wir fragen per SMS, Email oder Internet nie nach Passwörtern oder Bankdaten. Wir verlangen nie eine Zahlung. Wir setzen Sie nie unter Druck. Sind Sie unsicher, ob die Nachricht von uns ist? Suchen Sie selbst im Internet nach der Internetseite der Klinik St. Anna. Rufen Sie die Nummer an, die dort steht.
 :::
 
 ### Was Sie beitragen
@@ -87,11 +87,6 @@ Wir fragen per SMS, Email oder Internet nie nach Passwörtern oder Bankdaten. Wi
 - Ihnen fällt das Ausfüllen am Bildschirm schwer? Es gibt technische Schwierigkeiten? Dann lassen Sie den Fragebogen unausgefüllt. Nach etwa [5 Tagen]{.ph} rufen wir Sie von uns aus an.
 - Das **Eintrittsformular** aus dem Brief ausfüllen, unterschreiben und zurücksenden, [Frist]{.ph}.
 :::
-
-::: begleit
-**Für Angehörige und Begleitpersonen:** Sie dürfen den Fragebogen gemeinsam ausfüllen.
-:::
-::::::
 
 ::::: station
 ## Bis zum Eintritt: Wir besprechen die Narkose mit Ihnen {#wochen}

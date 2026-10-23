@@ -1,4 +1,4 @@
-- **Eintritt, Operationstermin:** [Patientendisposition, +41 41 208 30 12]{.ph}, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr
-- **Gesundheitsfragebogen, medizinische Unterlagen und Narkose:** [Anästhesie, Telefonnummer]{.ph}
-- **Fragen zur Operation selbst:** Rufen Sie die Praxis Ihrer Operateurin oder Ihres Operateurs an
-- **Dringend, rund um die Uhr:** [Klinik-Nummer]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**
+- **Eintritt, Operationstermin:** <br>[Patientendisposition, +41 41 208 30 12]{.ph}, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr
+- **Gesundheitsfragebogen, medizinische Unterlagen und Narkose:** <br>[Anästhesie, Telefonnummer]{.ph}
+- **Fragen zur Operation selbst:** <br>Rufen Sie die Praxis Ihrer Operateurin oder Ihres Operateurs an
+- **Dringend, rund um die Uhr:** <br>[Klinik-Nummer]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**
