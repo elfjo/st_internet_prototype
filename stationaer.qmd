@@ -52,7 +52,7 @@ Für alle anderen Eingriffe geht es hier weiter.
 ## Wo stehen Sie gerade? {#wo}
 
 ::: wo
-- [Ich habe eine E-Mail und SMS für den Gesundheitsfragebogen erhalten →](#heute)
+- [Ich habe die E-Mail und SMS für den Gesundheitsfragebogen erhalten →](#heute)
 - [Ich habe die Anmeldebestätigung per Post erhalten →](#wochen)
 - [Mein Eintritt ist morgen →](#vortag)
 - [Ich begleite oder unterstütze jemanden →](begleiten.qmd)
@@ -72,7 +72,7 @@ Alles Weitere steht unten. Was bei Ihnen schon erledigt ist, überspringen Sie e
 
 ### Was wir tun
 
-Sie haben von uns eine **E-Mail** mit dem Link zum Gesundheitsfragebogen der Anästhesie erhalten. Dazu kam auch eine SMS mit einem Sicherheitscode für den Fragebogen. Die **Anmeldebestätigung per Post** mit dem Eintrittsdatum und dem Eintrittsformular folgt, je nach Termin innerhalb von Tagen oder Wochen. Ab jetzt bereitet unser Team Ihren Eintritt vor.
+Sie haben von uns eine **E-Mail** mit dem Link zum Gesundheitsfragebogen erhalten. Dazu kam eine SMS mit einem Sicherheitscode für den Fragebogen. Die **Anmeldebestätigung per Post** mit dem Eintrittsdatum und dem Eintrittsformular folgt, je nach Termin innerhalb von Tagen oder Wochen. Ab jetzt bereitet unser Team Ihren Eintritt vor.
 
 ::: echt
 ### So prüfen Sie, ob eine Nachricht von uns kommt
@@ -120,7 +120,7 @@ Ihre Narkose besprechen wir persönlich mit Ihnen, spätestens am Vortag am Tele
 
 ### Was wir tun
 
-**Ihre Eintrittszeit.** Sie erhalten sie am Vortag **per SMS**. Haben wir keine Handynummer von Ihnen, rufen wir Sie auf dem Festnetz an. Haben Sie am Vortag bis 14 Uhr nichts von uns gehört, rufen Sie uns an: [Patientendisposition, Nummer]{.ph}, 13 bis 17 Uhr.
+**Ihre Eintrittszeit.** erhalten sie am Vortag **per SMS**. Haben wir keine Handynummer von Ihnen, rufen wir Sie auf dem Festnetz an. Haben Sie am Vortag bis 14 Uhr nichts von uns gehört, rufen Sie uns an: [Patientendisposition, Nummer]{.ph}, 13 bis 17 Uhr.
 
 **Der Anruf zur Narkose.** Am Vortag **ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an**, auch wenn Sie schon in der Sprechstunde waren. [Vor einem Eingriff am Montag kann dieser Anruf schon am Freitag oder am Sonntag kommen]{.ph}. Halten Sie dafür Ihre Medikamentenliste bereit. [Zeitfenster des Anrufs; was gilt, wenn Sie den Anruf verpassen: Rückrufnummer oder zweiter Versuch.]{.ph}
 
@@ -159,17 +159,17 @@ Ihre Narkose besprechen wir persönlich mit Ihnen, spätestens am Vortag am Tele
 ::: anders
 ### Zurzeit ist die Klinik St. Anna im Umbau
 
-Während des **Umbaus der Klinik St. Anna** (ANNAplus, voraussichtlich bis [Datum]{.ph}) bereiten wir Sie in der Tagesklinik auf die Operation vor. Die Plätze dort sind mit Vorhängen abgetrennt. Das gilt für alle Patientinnen und Patienten, unabhängig von der Versicherung. Für vertrauliche Gespräche gibt es einen Besprechungsraum. Ihr Zimmer beziehen Sie nach der Operation.
+Während des **Umbaus der Klinik St. Anna** (ANNAplus, voraussichtlich bis [Datum]{.ph}) bereiten wir Sie in der Tagesklinik auf die Operation vor. Das gilt für alle Patientinnen und Patienten, unabhängig von der Versicherung. Die Plätze dort sind mit Vorhängen abgetrennt. Für vertrauliche Gespräche gibt es einen Besprechungsraum. Auch der Weg in den Operationsbereich ist während des Umbaus ein Provisorium. Ihr Zimmer beziehen Sie nach der Operation.
 :::
 
-**Warten.** Wir sind ein Akutspital und behandeln auch Notfälle. Der Operationsplan wird deshalb laufend abgestimmt. Zwischen Ihrer Ankunft und der Operation vergeht deshalb Zeit: manchmal eine halbe Stunde, manchmal mehrere Stunden. Wir halten Sie auf dem Laufenden, wann Ihre Operation beginnt und machen Ihnen die Wartezeit möglichst angenehm.
+**Warten.** Wir sind ein Akutspital und behandeln auch Notfälle. Der Operationsplan wird deshalb laufend abgestimmt. Zwischen Ihrer Ankunft und der Operation vergeht deshalb Zeit: manchmal eine halbe Stunde, manchmal mehrere Stunden. Wir halten Sie vor Ort auf dem Laufenden, wann Ihre Operation beginnt und machen Ihnen die Wartezeit möglichst angenehm.
 
 **Operation.** Eine Pflegefachperson begleitet Sie in den Operationsbereich. Dort empfängt Sie das Operationsteam und bleibt während der ganzen Operation bei Ihnen. Wenn Sie eine Narkose bekommen, erwachen Sie nach der Operation im Aufwachraum oder, bei grösseren Eingriffen, auf der Überwachungsstation, wo wir Sie in der ersten Zeit enger betreuen. Dort sorgt das Team dafür, dass Sie sich möglichst wohl fühlen. Danach bringt das Team Sie in Ihr Zimmer.
 
 ### Was Sie beitragen
 
 ::: tun
-- Pünktlich zur Eintrittszeit an der Réception sein, Ausweis bereithalten.
+- Zur vereinbarten Eintrittszeit an der Réception sein, Ausweis bereithalten.
 - Sagen, wenn etwas unklar ist, wehtut oder Sie etwas brauchen. Fragen sind erwünscht, Nachfragen auch.
 - Mit Essen und Trinken warten, bis die Pflege das OK gegeben hat
 :::
