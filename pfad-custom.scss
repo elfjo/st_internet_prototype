@@ -585,3 +585,10 @@ main table td, main table th { border-color: var(--line); }
   main a { text-decoration: none; color: #000; }
   .rechtshinweis, .governance { font-size: 8.5pt; }
 }
+
+/* Heilungsregister: «Was Ihnen hilft», eigene Stimme neben «Was wir tun» und «Was in Ihrer Hand liegt» */
+.hilft { background: #eef6ee; border-left: 4px solid #5f8f5f; padding: .6rem .9rem .4rem; margin: .8rem 0; }
+.hilft h3 { margin-top: 0; font-size: 1.05rem; }
+.hilft p, .hilft li { max-width: none; }
+.hilft ul { margin: .3rem 0 .5rem 1.1rem; }
+.hilft p:last-child { margin-bottom: .2rem; }
