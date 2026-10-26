@@ -1,5 +1,68 @@
 [
   {
+    "objectID": "merkblatt.html",
+    "href": "merkblatt.html",
+    "title": "Das Wichtigste auf einem Blatt",
+    "section": "",
+    "text": "← Ihr Eintritt, Schritt für Schritt\nDie Kerninformationen zu Ihrem Eintritt, zum Ausdrucken und Aufhängen."
+  },
+  {
+    "objectID": "merkblatt.html#mein-eintritt",
+    "href": "merkblatt.html#mein-eintritt",
+    "title": "Das Wichtigste auf einem Blatt",
+    "section": "Mein Eintritt",
+    "text": "Mein Eintritt\n\n\n\n\n\n\n\nEintrittsdatum\n______________________\n\n\nEintrittszeit (kommt per SMS am Vortag)\n______________________\n\n\nWo ich mich melde\nAdresse, Eingang, Stockwerk\n\n\nBei Fragen vorab\nTelefonnummer, Mo–Fr xx–xx Uhr"
+  },
+  {
+    "objectID": "merkblatt.html#essen-und-trinken-vor-dem-eintritt",
+    "href": "merkblatt.html#essen-und-trinken-vor-dem-eintritt",
+    "title": "Das Wichtigste auf einem Blatt",
+    "section": "Essen und Trinken vor dem Eintritt",
+    "text": "Essen und Trinken vor dem Eintritt\n\nBis 6 Stunden vor der Eintrittszeit: leichte Mahlzeit erlaubt, danach nichts mehr essen.\nBis 2 Stunden vor dem Eintritt: Wasser, Tee oder schwarzer Kaffee erlaubt.\nDie 2 Stunden direkt vor dem Eintritt: gar nichts mehr, auch keine Bonbons oder Kaugummis.\n\n\nRechenbeispiel\nDie Eintrittszeit in der SMS lautet 10:00 Uhr.\n\n\n\n\n\n\n\n\n\nRechnung\nErgebnis\n\n\n\n\nLetzte leichte Mahlzeit\n10:00 minus 6 Stunden\nbis 04:00 Uhr\n\n\nLetztes Glas Wasser, Tee oder schwarzer Kaffee\n10:00 minus 2 Stunden\nbis 08:00 Uhr\n\n\nAb dann\n\nnichts mehr essen und trinken\n\n\n\nPraktisch heisst das: Am Abend vorher normal essen, in der Nacht nichts mehr, am Morgen bis 08:00 Uhr Wasser, Tee oder schwarzer Kaffee. Bei einer Eintrittszeit um 14:00 Uhr dürfen Sie bis 08:00 Uhr ein leichtes Frühstück essen und bis 12:00 Uhr Wasser, Tee oder schwarzen Kaffee trinken."
+  },
+  {
+    "objectID": "merkblatt.html#medikamente",
+    "href": "merkblatt.html#medikamente",
+    "title": "Das Wichtigste auf einem Blatt",
+    "section": "Medikamente",
+    "text": "Medikamente\n\nAlle gewohnten Medikamente weiternehmen, ausser die Anästhesie hat mit Ihnen etwas anderes vereinbart.\nBlutverdünner und Diabetesmedikamente: nur nach Absprache mit der Anästhesie pausieren. Im Zweifel anrufen: Anästhesie, Telefonnummer.\nIhre Medikamente in der Originalpackung und die Medikamentenliste mitbringen (siehe unten, «Was ich mitbringe»)."
+  },
+  {
+    "objectID": "merkblatt.html#was-ich-mitbringe",
+    "href": "merkblatt.html#was-ich-mitbringe",
+    "title": "Das Wichtigste auf einem Blatt",
+    "section": "Was ich mitbringe",
+    "text": "Was ich mitbringe\n\nAmtlicher Ausweis und Versichertenkarte\nIhre Medikamente in der Originalpackung und die Medikamentenliste (Dosierungsplan)\nFalls vorhanden: Allergiepass, Blutverdünnerausweis, Diabetesausweis, Schrittmacherausweis, Patientenverfügung\nIhre gewohnten Hilfsmittel: Brille, Hörgerät mit Batterien, Gehhilfe, CPAP-Gerät (Ihr Atemgerät für die Nacht)\nBequeme Kleidung, feste Schuhe mit rutschfester Sohle, Toilettenartikel\nEtwas zum Lesen oder Hören für die Wartezeit\nZu Hause bleiben: Schmuck, Wertsachen, grössere Geldbeträge\n\nTODO Abgleichen mit Merkblatt und Anmeldebestätigung"
+  },
+  {
+    "objectID": "merkblatt.html#vorher-noch-erledigen",
+    "href": "merkblatt.html#vorher-noch-erledigen",
+    "title": "Das Wichtigste auf einem Blatt",
+    "section": "Vorher noch erledigen",
+    "text": "Vorher noch erledigen\n\nGesundheitsfragebogen innerhalb von 5 Tagen ausfüllen (Link in E-Mail und SMS)\nEintrittsformular ausfüllen und zurücksenden, Frist\nAbholung nach dem Austritt organisieren (nicht selbst fahren)\nUnterstützung für die erste Woche zu Hause regeln\nBei Fieber, Erkältung oder Verschlechterung vor dem Eintritt: anrufen unter Telefonnummer\n\n\nDieses Blatt fasst zusammen und ersetzt weder die ausführlichen Informationen auf der Seite «Ihr Eintritt, Schritt für Schritt» noch das persönliche Gespräch. Stand: Datum\n\n\n← Ihr Eintritt, Schritt für Schritt"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Prototyp Patientenpfade",
+    "section": "",
+    "text": "Interne Übersicht. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte."
+  },
+  {
+    "objectID": "index.html#ihr-aufenthalt",
+    "href": "index.html#ihr-aufenthalt",
+    "title": "Prototyp Patientenpfade",
+    "section": "Ihr Aufenthalt",
+    "text": "Ihr Aufenthalt\n\nStationär: Ihr Eintritt, Schritt für Schritt →\nAmbulant: Ihr Eingriff, Schritt für Schritt →"
+  },
+  {
+    "objectID": "index.html#hintergrund-für-das-projektteam",
+    "href": "index.html#hintergrund-für-das-projektteam",
+    "title": "Prototyp Patientenpfade",
+    "section": "Hintergrund für das Projektteam",
+    "text": "Hintergrund für das Projektteam\n\nPersonae: Für wen wir bauen, mit der Evidenz hinter dem Konzept →"
+  },
+  {
     "objectID": "stationaer.html",
     "href": "stationaer.html",
     "title": "Ihr Eintritt, Schritt für Schritt",
@@ -70,104 +133,6 @@
     "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nEintritt, Operationstermin: Patientendisposition, +41 41 208 30 12, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr\nGesundheitsfragebogen, medizinische Unterlagen und Narkose: Anästhesie, Telefonnummer\nFragen zur Operation selbst: Rufen Sie die Praxis Ihrer Operateurin oder Ihres Operateurs an\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
   },
   {
-    "objectID": "merkblatt.html",
-    "href": "merkblatt.html",
-    "title": "Das Wichtigste auf einem Blatt",
-    "section": "",
-    "text": "← Ihr Eintritt, Schritt für Schritt\nDie Kerninformationen zu Ihrem Eintritt, zum Ausdrucken und Aufhängen."
-  },
-  {
-    "objectID": "merkblatt.html#mein-eintritt",
-    "href": "merkblatt.html#mein-eintritt",
-    "title": "Das Wichtigste auf einem Blatt",
-    "section": "Mein Eintritt",
-    "text": "Mein Eintritt\n\n\n\n\n\n\n\nEintrittsdatum\n______________________\n\n\nEintrittszeit (kommt per SMS am Vortag)\n______________________\n\n\nWo ich mich melde\nAdresse, Eingang, Stockwerk\n\n\nBei Fragen vorab\nTelefonnummer, Mo–Fr xx–xx Uhr"
-  },
-  {
-    "objectID": "merkblatt.html#essen-und-trinken-vor-dem-eintritt",
-    "href": "merkblatt.html#essen-und-trinken-vor-dem-eintritt",
-    "title": "Das Wichtigste auf einem Blatt",
-    "section": "Essen und Trinken vor dem Eintritt",
-    "text": "Essen und Trinken vor dem Eintritt\n\nBis 6 Stunden vor der Eintrittszeit: leichte Mahlzeit erlaubt, danach nichts mehr essen.\nBis 2 Stunden vor dem Eintritt: Wasser, Tee oder schwarzer Kaffee erlaubt.\nDie 2 Stunden direkt vor dem Eintritt: gar nichts mehr, auch keine Bonbons oder Kaugummis.\n\n\nRechenbeispiel\nDie Eintrittszeit in der SMS lautet 10:00 Uhr.\n\n\n\n\n\n\n\n\n\nRechnung\nErgebnis\n\n\n\n\nLetzte leichte Mahlzeit\n10:00 minus 6 Stunden\nbis 04:00 Uhr\n\n\nLetztes Glas Wasser, Tee oder schwarzer Kaffee\n10:00 minus 2 Stunden\nbis 08:00 Uhr\n\n\nAb dann\n\nnichts mehr essen und trinken\n\n\n\nPraktisch heisst das: Am Abend vorher normal essen, in der Nacht nichts mehr, am Morgen bis 08:00 Uhr Wasser, Tee oder schwarzer Kaffee. Bei einer Eintrittszeit um 14:00 Uhr dürfen Sie bis 08:00 Uhr ein leichtes Frühstück essen und bis 12:00 Uhr Wasser, Tee oder schwarzen Kaffee trinken."
-  },
-  {
-    "objectID": "merkblatt.html#medikamente",
-    "href": "merkblatt.html#medikamente",
-    "title": "Das Wichtigste auf einem Blatt",
-    "section": "Medikamente",
-    "text": "Medikamente\n\nAlle gewohnten Medikamente weiternehmen, ausser die Anästhesie hat mit Ihnen etwas anderes vereinbart.\nBlutverdünner und Diabetesmedikamente: nur nach Absprache mit der Anästhesie pausieren. Im Zweifel anrufen: Anästhesie, Telefonnummer.\nIhre Medikamente in der Originalpackung und die Medikamentenliste mitbringen (siehe unten, «Was ich mitbringe»)."
-  },
-  {
-    "objectID": "merkblatt.html#was-ich-mitbringe",
-    "href": "merkblatt.html#was-ich-mitbringe",
-    "title": "Das Wichtigste auf einem Blatt",
-    "section": "Was ich mitbringe",
-    "text": "Was ich mitbringe\n\nAmtlicher Ausweis und Versichertenkarte\nIhre Medikamente in der Originalpackung und die Medikamentenliste (Dosierungsplan)\nFalls vorhanden: Allergiepass, Blutverdünnerausweis, Diabetesausweis, Schrittmacherausweis, Patientenverfügung\nIhre gewohnten Hilfsmittel: Brille, Hörgerät mit Batterien, Gehhilfe, CPAP-Gerät (Ihr Atemgerät für die Nacht)\nBequeme Kleidung, feste Schuhe mit rutschfester Sohle, Toilettenartikel\nEtwas zum Lesen oder Hören für die Wartezeit\nZu Hause bleiben: Schmuck, Wertsachen, grössere Geldbeträge\n\nTODO Abgleichen mit Merkblatt und Anmeldebestätigung"
-  },
-  {
-    "objectID": "merkblatt.html#vorher-noch-erledigen",
-    "href": "merkblatt.html#vorher-noch-erledigen",
-    "title": "Das Wichtigste auf einem Blatt",
-    "section": "Vorher noch erledigen",
-    "text": "Vorher noch erledigen\n\nGesundheitsfragebogen innerhalb von 5 Tagen ausfüllen (Link in E-Mail und SMS)\nEintrittsformular ausfüllen und zurücksenden, Frist\nAbholung nach dem Austritt organisieren (nicht selbst fahren)\nUnterstützung für die erste Woche zu Hause regeln\nBei Fieber, Erkältung oder Verschlechterung vor dem Eintritt: anrufen unter Telefonnummer\n\n\nDieses Blatt fasst zusammen und ersetzt weder die ausführlichen Informationen auf der Seite «Ihr Eintritt, Schritt für Schritt» noch das persönliche Gespräch. Stand: Datum\n\n\n← Ihr Eintritt, Schritt für Schritt"
-  },
-  {
-    "objectID": "herzkatheter.html",
-    "href": "herzkatheter.html",
-    "title": "Herzkatheter-Untersuchung: Ihr Fahrplan",
-    "section": "",
-    "text": "⌂ Übersicht ← Allgemeiner Fahrplan\nDiese Seite gilt für Ihre Herzkatheter-Untersuchung, stationär oder ambulant. Was hier steht, geht für Sie den allgemeinen Regeln vor."
-  },
-  {
-    "objectID": "herzkatheter.html#variante",
-    "href": "herzkatheter.html#variante",
-    "title": "Herzkatheter-Untersuchung: Ihr Fahrplan",
-    "section": "Bleiben Sie über Nacht, oder gehen Sie am gleichen Tag nach Hause?",
-    "text": "Bleiben Sie über Nacht, oder gehen Sie am gleichen Tag nach Hause?\nOb Ihre Untersuchung stationär oder ambulant geplant ist, steht in Ihrer Anmeldebestätigung. Eintrittszeit, Anmeldung an der Réception und der Weg durch den Tag folgen dem allgemeinen Fahrplan; die Abschnitte unten beschreiben, was bei der Herzkatheter-Untersuchung dazukommt."
-  },
-  {
-    "objectID": "herzkatheter.html#stationaer",
-    "href": "herzkatheter.html#stationaer",
-    "title": "Herzkatheter-Untersuchung: Ihr Fahrplan",
-    "section": "Nach der Untersuchung: stationär",
-    "text": "Nach der Untersuchung: stationär\n\nEinstichstelle am Handgelenk (Pulsschlagader)\nNach der Untersuchung halten Sie das Handgelenk ruhig und belasten es zwei Tage nicht. Heben Sie mit dem betroffenen Arm nicht mehr als drei Kilogramm. Aufstehen dürfen Sie unmittelbar nach der Untersuchung.\n\n\nEinstichstelle in der Leiste\n\nBettruhe: Halten Sie die Bettruhe von vier bis sechs Stunden ein, mit gestrecktem Bein auf der Einstichseite. So vermeiden Sie eine Nachblutung, und die Einstichstelle an der Schlagader kann sich sicher verschliessen.\nSeitenlage: Ihre Kardiologin oder Ihr Kardiologe sagt Ihnen, ab wann Sie sich in die Seitenlage mit gestrecktem Bein drehen dürfen. Zur Entlastung der Wirbelsäule dürfen Sie das nicht betroffene Bein im Bett aufstellen.\nKopfhaltung: Heben Sie den Kopf nicht mit eigener Kraft an. Nutzen Sie zum Essen und Trinken die elektrische Bettbedienung, bis der Kopf leicht erhöht ist (maximal 30 Grad). Ideal sind die ersten Stunden möglichst flach und ruhig.\nNiesen oder Husten: Geben Sie dabei mit der Handfläche Gegendruck auf die Druckrolle, die feste Rolle auf dem Verband.\nToilettengang: Bitten Sie während der Bettruhe die Pflegefachperson um Hilfe; dafür ist sie da. Beim Stuhlgang nicht mit der Bauchmuskulatur pressen, das drückt auf die Einstichstelle.\nSitzen, Gehen, Heben: Nach dem Entfernen des Druckverbands dürfen Sie sich mit Begleitung an den Bettrand und auf den Lehnstuhl setzen und ein paar Schritte im Zimmer gehen. Körperliche Belastung am Untersuchungstag vermeiden, nichts über drei Kilogramm heben.\nDuschen: in der Regel ab dem nächsten Tag."
-  },
-  {
-    "objectID": "herzkatheter.html#ambulant",
-    "href": "herzkatheter.html#ambulant",
-    "title": "Herzkatheter-Untersuchung: Ihr Fahrplan",
-    "section": "Nach der Untersuchung: ambulant",
-    "text": "Nach der Untersuchung: ambulant\n\nHeimreise: Nehmen Sie bis 24 Stunden nach dem Eingriff nicht selbstständig am Strassenverkehr teil und organisieren Sie eine Begleitung oder einen Fahrdienst. Sorgen Sie dafür, dass Sie zu Hause nicht allein sind.\nMedikamente: In der Regel nehmen Sie Ihre Medikamente weiter. Blutverdünnende Medikamente nehmen Sie so, wie Ihre Ärztin oder Ihr Arzt es mit Ihnen besprochen hat.\nVerband: Den Verband wechselt die Hausarztpraxis oder die kardiologische Praxis beim ersten Kontrolltermin und schaut dabei die Einstichstelle an.\nBewegung: Einstichstelle am Handgelenk: den Arm etwa eine Woche schonen, nicht mehr als drei Kilogramm heben. Einstichstelle in der Leiste: etwa eine Woche kein schweres Heben, das betroffene Bein nicht stark beugen.\nDuschen: Die Einstichstelle für zwei bis drei Tage mit einem Duschpflaster abdecken.\nTrinken: Trinken Sie am Tag des Eingriffs ausreichend, das hilft, das Kontrastmittel auszuspülen. Essen dürfen Sie wie gewohnt."
-  },
-  {
-    "objectID": "herzkatheter.html#achten",
-    "href": "herzkatheter.html#achten",
-    "title": "Herzkatheter-Untersuchung: Ihr Fahrplan",
-    "section": "Worauf Sie achten sollten",
-    "text": "Worauf Sie achten sollten\n\nMelden Sie sich sofort bei diesen Anzeichen\n\nBlutung der Einstichstelle: sofort fest auf die Stelle drücken, dann Ihre Ärztin, Ihren Arzt oder die Notfallstation anrufen\nUnwohlsein, Schwindel oder Übelkeit\nFieber\nTaubheit oder Kribbeln an Arm oder Bein der Einstichseite\n\nNotfallzentrum, rund um die Uhr: Telefonnummer. Bei Brustschmerz oder Atemnot direkt 144.\n\n\n⌂ Übersicht ← Allgemeiner Fahrplan"
-  },
-  {
-    "objectID": "herzkatheter.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
-    "href": "herzkatheter.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
-    "title": "Herzkatheter-Untersuchung: Ihr Fahrplan",
-    "section": "Ich habe eine Frage: An wen wende ich mich?",
-    "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nEintritt, Operationstermin: Patientendisposition, +41 41 208 30 12, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr\nGesundheitsfragebogen, medizinische Unterlagen und Narkose: Anästhesie, Telefonnummer\nFragen zur Operation selbst: Rufen Sie die Praxis Ihrer Operateurin oder Ihres Operateurs an\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
-  },
-  {
-    "objectID": "ambulant.html",
-    "href": "ambulant.html",
-    "title": "Ihr ambulanter Eingriff, Schritt für Schritt",
-    "section": "",
-    "text": "⌂ Übersicht\nDiese Seite folgt. Sie wird den ambulanten Eingriff von der Anmeldung bis zum Abend zu Hause begleiten."
-  },
-  {
-    "objectID": "ambulant.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
-    "href": "ambulant.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
-    "title": "Ihr ambulanter Eingriff, Schritt für Schritt",
-    "section": "Ich habe eine Frage: An wen wende ich mich?",
-    "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nEintritt, Operationstermin: Patientendisposition, +41 41 208 30 12, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr\nGesundheitsfragebogen, medizinische Unterlagen und Narkose: Anästhesie, Telefonnummer\nFragen zur Operation selbst: Rufen Sie die Praxis Ihrer Operateurin oder Ihres Operateurs an\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
-  },
-  {
     "objectID": "begleiten.html",
     "href": "begleiten.html",
     "title": "Für Angehörige und Begleitpersonen",
@@ -217,25 +182,18 @@
     "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nEintritt, Operationstermin: Patientendisposition, +41 41 208 30 12, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr\nGesundheitsfragebogen, medizinische Unterlagen und Narkose: Anästhesie, Telefonnummer\nFragen zur Operation selbst: Rufen Sie die Praxis Ihrer Operateurin oder Ihres Operateurs an\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Prototyp Patientenpfade",
+    "objectID": "ambulant.html",
+    "href": "ambulant.html",
+    "title": "Ihr ambulanter Eingriff, Schritt für Schritt",
     "section": "",
-    "text": "Interne Übersicht. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte."
+    "text": "⌂ Übersicht\nDiese Seite folgt. Sie wird den ambulanten Eingriff von der Anmeldung bis zum Abend zu Hause begleiten."
   },
   {
-    "objectID": "index.html#ihr-aufenthalt",
-    "href": "index.html#ihr-aufenthalt",
-    "title": "Prototyp Patientenpfade",
-    "section": "Ihr Aufenthalt",
-    "text": "Ihr Aufenthalt\n\nStationär: Ihr Eintritt, Schritt für Schritt →\nAmbulant: Ihr Eingriff, Schritt für Schritt →"
-  },
-  {
-    "objectID": "index.html#hintergrund-für-das-projektteam",
-    "href": "index.html#hintergrund-für-das-projektteam",
-    "title": "Prototyp Patientenpfade",
-    "section": "Hintergrund für das Projektteam",
-    "text": "Hintergrund für das Projektteam\n\nPersonae: Für wen wir bauen, mit der Evidenz hinter dem Konzept →"
+    "objectID": "ambulant.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
+    "href": "ambulant.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
+    "title": "Ihr ambulanter Eingriff, Schritt für Schritt",
+    "section": "Ich habe eine Frage: An wen wende ich mich?",
+    "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nEintritt, Operationstermin: Patientendisposition, +41 41 208 30 12, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr\nGesundheitsfragebogen, medizinische Unterlagen und Narkose: Anästhesie, Telefonnummer\nFragen zur Operation selbst: Rufen Sie die Praxis Ihrer Operateurin oder Ihres Operateurs an\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
   },
   {
     "objectID": "personae.html",
@@ -249,7 +207,7 @@
     "href": "personae.html#population",
     "title": "Personae: Für wen wir bauen",
     "section": "Wer kommt zu uns: die elektive Population",
-    "text": "Wer kommt zu uns: die elektive Population\nBevor die acht Prüffiguren vorgestellt werden, ein Blick auf die Menschen, für die der Pfad gebaut wird. Die Grafik zeigt die Altersverteilung der elektiven Eintritte in Anteilen je Lebensjahr, bewusst ohne Fallzahlen. Der Median liegt bei 63 Jahren. Gut die Hälfte der Patientinnen und Patienten ist jünger als 65 und verteilt sich breit über das Erwerbsalter. Zwischen 65 und 85 bleibt die Dichte hoch, erst danach fällt sie steil ab. Die Gruppe ab 85 ist klein, braucht aber am meisten Unterstützung. Für die Gestaltung heisst das: Die Seite muss für Sandra ebenso funktionieren wie für Rosmarie, und keine der Gruppen ist eine Randerscheinung.\n\n\n\nAltersverteilung der elektiven Gesamtpopulation, Anteil je Lebensjahr. Durchgezogen der Median bei 63 Jahren. Die gestrichelte Linie bei 100 markiert eine interne Altersgrenze der Pilotauswertung und ist für diese Seite ohne Bedeutung.\n\n\n\nRahmen: Barrierefreiheit als Massstab\nGemeinwesen müssen ihre Internetangebote heute barrierefrei gestalten (Art. 14 BehiG, eCH-0059: WCAG 2.1 AA). Die Revision des BehiG dehnt die Pflicht auf Private aus, die Dienstleistungen öffentlich anbieten, digitale eingeschlossen; geplantes Inkrafttreten 1. Januar 2027, die Vorlage ist noch im Parlament. Für den Prototyp ist WCAG 2.1 AA deshalb die Messlatte.\nQuellen: BehiG, Art. 14 · eCH-0059 3.0 · Botschaft BehiG-Revision, BBl 2025 300 · Geschäft 25.020"
+    "text": "Wer kommt zu uns: die elektive Population\n\n\n\nAltersverteilung der elektiven Gesamtpopulation und Anteil digitaler Verhaltensgruppen.\n\n\n\nRahmen: Barrierefreiheit als Massstab\nGemeinwesen müssen ihre Internetangebote heute barrierefrei gestalten (Art. 14 BehiG, eCH-0059: WCAG 2.1 AA). Die Revision des BehiG dehnt die Pflicht auf Private aus, die Dienstleistungen öffentlich anbieten, digitale eingeschlossen; geplantes Inkrafttreten 1. Januar 2027, die Vorlage ist noch im Parlament. Für den Prototyp ist WCAG 2.1 AA deshalb die Messlatte.\nQuellen: BehiG, Art. 14 · eCH-0059 3.0 · Botschaft BehiG-Revision, BBl 2025 300 · Geschäft 25.020"
   },
   {
     "objectID": "personae.html#evidenz",
@@ -264,5 +222,47 @@
     "title": "Personae: Für wen wir bauen",
     "section": "Die acht Personen",
     "text": "Die acht Personen\n\n\nSandraRosmarieClaudiaHanspeterRuediGraziellaBeatMirlinda\n\n\n\n\n\n  \n    Sandra Imfeld\n    48 Jahre · Luzern · Projektleiterin · allgemein versichert · Meniskus-Operation, stationär wegen Nachblutungsrisiko\n    NORMALFALL · UNTER 65 · 42 BIS 57 % DER EINTRITTE\n  \n  Zugangdigital\n\n«Ich will das im Zug lesen, in drei Minuten, und dann wissen, was ich bis Donnerstag erledigen muss.»\n\n  LebenssituationVerheiratet, zwei Kinder im Schulalter, Pendlerin. Alles auf dem Smartphone, Termine im Kalender, Post öffnet sie am Wochenende. Den Fragebogen hat sie im Zug ausgefüllt, 25 Minuten, ohne Hilfe.\n  Gesundheit und EingriffMeniskusriss, Arthroskopie in Allgemeinanästhesie. Sonst gesund, keine Medikamente. Sie versteht alles, überliest aber leicht etwas: die Nüchternheitszeit, die Abholung, das Fahrverbot nach der Narkose.\n  Digitales ProfilSmartphone im Alltag\nLesen am Bildschirm\nFormulare allein ausfüllen\nGesundheitskompetenz\nVertrauen in SMS und E-Mail\nDeutsch lesenUnter 65 sind praktisch alle online. Die NN/g-Kontrollgruppe (21 bis 55) löste 75 % der Aufgaben, Ältere 55 %. Sandra ist die Nutzerin, für die Webseiten normalerweise gebaut werden.\n  Haltung und WahrnehmungDie Klinik ist für sie ein Dienstleister wie die Bank: Link öffnen, erledigen, Bestätigung erhalten. Sie vertraut der Institution und sieht dem Eingriff gelassen entgegen. Lange Erklärungen zu Dingen, die sie gar nicht gefragt hat, überspringt sie.\nWas sie stört, ist Unklarheit über Zeiten. Sie plant in Stunden, weil sie um 16 Uhr die Kinder hat. Eine Wartezeit akzeptiert sie, wenn sie vorher weiss, wie lang sie werden kann.\n\nWas Sandra wissen will, und in welcher ReihenfolgeZuerst: was muss ich bis wann erledigen, als Liste. Dann: wann muss ich wo sein, wie lange dauert der Tag, wann kann mich jemand abholen. Dann: was darf ich am Morgen essen und trinken, konkret mit Uhrzeit. Erst danach: wie läuft die Operation. Versicherungsleistungen, Anästhesieverfahren und Bauprojekt überspringt sie.\nWas die Seite und der Fahrplan für Sandra leisten müssenEine Kurzfassung oben, die fünf Aufgaben bis zum Eintritt mit Datum, abhakbar. Zeitachse statt Stationen, Wartezeit als Spanne mit dem Hinweis, dass die Operationszeit erst am Eintrittstag feststeht. Checklisten als Seite, nicht als PDF. SMS und E-Mail sind für sie richtig. Was den Älteren hilft, eine Spalte und die Kernbotschaft zuerst, passt auch für sie; sie scrollt einfach schneller.\nWoher die Persona kommt. Altersverteilung elektive Eintritte 2026 (unter 65: 57 % mit Anästhesiekontakt, 42 % anästhesiefern); NN/g 2013 (Kontrollgruppe 21 bis 55: 75 % Erfolg); Maramba 2022 (präoperativer Online-Bogen, Median 47 min bei Medianalter 46); Sheridan 2011 (Kernbotschaft zuerst); Thompson 1996 (erklärte Wartezeit wird akzeptiert).\n\n\n\n\n\n  \n    Rosmarie Bühler\n    83 Jahre · Emmen LU · verwitwet · Knie-Totalprothese, Eintritt am Operationstag\n    GRUPPE 85+ (IM ÜBERGANG) · 4 BIS 6 % DER EINTRITTE\n  \n  Zuganganalog\n\n«Ich habe das SMS schon gesehen, aber ich drücke nichts an, was ich nicht kenne. Die Claudia schaut das dann.»\n\n  LebenssituationLebt allein, Tochter Claudia kommt zweimal die Woche. Tastenhandy, Festnetz, keine E-Mail. Liest auf Papier, mit Lesebrille, und hebt jeden Brief der Klinik in einer Mappe auf.\n  Gesundheit und EingriffKnie-Totalprothese. Vorhofflimmern mit Marcoumar, Hörgerät beidseits, am Telefon anstrengend. Geistig klar, etwas langsamer. Fragebogen nicht ausgefüllt, analoger präoperativer Prozess.\n  Digitales ProfilSmartphone im Alltag\nLesen am Bildschirm\nFormulare allein ausfüllen\nGesundheitskompetenz\nVertrauen in SMS und E-Mail\nDeutsch lesenAb 85: 40 % offline, 53 % mit Smartphone, 72 % der Frauen über 80 brauchen beim Ausfüllen Hilfe. Rosmarie liegt am unteren Rand.\n  Haltung und WahrnehmungSie vertraut der Klinik und den Ärzten. Sie möchte, dass man ihr sagt, was sie tun soll: einmal, deutlich, auf Papier. Digitale Angebote empfindet sie als Zumutung («zu kompliziert»); wenn etwas schiefgeht, sucht sie den Fehler bei sich.\nVor der Operation hat sie wenig Angst. Ihre Sorge ist, etwas falsch zu machen: zur falschen Zeit zu kommen, das falsche Medikament zu nehmen, etwas zu vergessen.\n\nWas Rosmarie wissen will, und in welcher ReihenfolgeZuerst: wann muss ich wo sein, und wer holt mich ab. Dann: was darf ich am Morgen nehmen, Marcoumar ja oder nein. Dann: was muss ich mitbringen. Dann: wie lange bleibe ich, wer kümmert sich danach um mich. Alles Weitere soll ihr jemand sagen, wenn es so weit ist. Sie möchte sich darauf verlassen können, dass die Klinik das tut.\nWas die Seite und der Fahrplan für Rosmarie leisten müssenDer Brief ist ihr Fahrplan: eine Seite, Zeitachse, Nüchternheit, Medikamente, Telefonnummer gross, 14 Punkt, zum Aufhängen. Fehlt die Handynummer, ruft die Disposition auf dem Festnetz an; die SMS-Regel entfällt für sie. Der Anruf der Anästhesie am Vortag ist ihr persönlichster Kontakt und trägt ihre Medikamentenfragen. Die Webseite erreicht sie über Claudia: druckbar, ohne Login.\nWoher die Persona kommt. Digital Seniors 2025 (85+: 60 % online, 53 % Smartphone; Offliner: «zu kompliziert»); Riedl 2023 (72 % der Frauen über 80 brauchen Hilfe); BAG/Careum 2023 (81 % der über 76-Jährigen mit geringer digitaler Gesundheitskompetenz); Gordon 2019 (Gedrucktes, OR 2.8 bei 76 bis 85); NN/g 2013 (90 % geben sich bei Fehlern selbst die Schuld); Özbek 2025 (Anruf am Vortag senkt Angst).\n\n\n\n\n\n  \n    Claudia Bühler-Steiner\n    56 Jahre · Rothenburg LU · Sachbearbeiterin, 80 % · Tochter von Rosmarie\n    ANGEHÖRIGE ALS MITNUTZENDE · LIEST FÜR DIE MUTTER\n  \n  Zugangdigital, stellvertretend\n\n«Ich lese das abends auf dem Handy, wenn die Kinder im Bett sind. Dann drucke ich es aus und lege es Mami auf den Tisch.»\n\n  LebenssituationZwei Jugendliche, Vollzeit im Kopf. Organisiert für die Mutter Termine, Rezepte, Fahrten. Googelt «St. Anna Eintritt» und landet auf einer Unterseite, abends, in Eile, auf dem Smartphone.\n  Gesundheit und EingriffSelbst gesund. Sie trägt die Logistik und einen Teil der Verantwortung: Medikamentenliste, Abholung, erste Woche zu Hause, Treppe in der Wohnung der Mutter.\n  Digitales ProfilSmartphone im Alltag\nLesen am Bildschirm\nFormulare allein ausfüllen\nGesundheitskompetenz\nVertrauen in SMS und E-Mail\nDeutsch lesen14 % der über 65-Jährigen werden digital ausschliesslich über Angehörige erreicht, 74 % gar nicht. Claudia ist dieser Kanal.\n  Haltung und WahrnehmungSie ist Vermittlerin und Organisatorin, und die Klinik kennt sie nicht. Sie möchte wissen, was ihre Rolle ist: darf sie mit, wo wartet sie, wen ruft sie an. Der Klinik gegenüber ist sie loyal; bei allem, was auf dem Handy der Mutter ankommt, ist sie vorsichtig.\nIhre Sorge gilt der Zeit nach dem Austritt: wer ist da, wenn Mami nach drei Tagen heimkommt. Die Vorbereitung traut sie der Klinik zu; die Zeit danach organisiert sie selbst.\n\nWas Claudia wissen will, und in welcher ReihenfolgeZuerst: was sie für die Mutter erledigen muss und bis wann. Dann: ob sie am Eintrittstag dabei sein darf und wie lange es dauert. Dann: was nach dem Austritt auf sie zukommt, Spitex, Hilfsmittel, Nachkontrolle. Dann: wen sie anrufen kann, wenn etwas unklar ist, und zu welchen Zeiten. Medizinische Details liest sie nur, wenn sie für die Organisation zu Hause wichtig sind.\nWas die Seite und der Fahrplan für Claudia leisten müssenEin Einstieg «Wenn Sie jemanden begleiten» mit ihren Aufgaben, der Frage nach dem Mitkommen und dem Blick auf die Zeit nach dem Austritt. Seiten ohne Login, teilbar, druckbar ohne Verlust; ein Merkblatt auf einer Seite. Ein Abschnitt «So sehen echte Nachrichten der Klinik aus». Auf dem Smartphone: eine Spalte, Telefonnummer auf jedem Bildschirm, Zoom frei.\nWoher die Persona kommt. Burgdorf, Fabius und Wolff 2023 (Portalnutzung über 65: 14 % nur Angehörige, 74 % keine); Hladkowicz 2024 und Keny 2026 («wissen, was zu erwarten ist» und die Zeit nach dem Austritt als Hauptbedürfnisse von Angehörigen); Latulipe 2018 (geteilte Logins); NN/g 2013 (Einstieg über Suchmaschinen); WCAG 3.2.6.\n\n\n\n\n\n  \n    Hanspeter Zemp\n    72 Jahre · Meggen LU · pensionierter Maschineningenieur · privatversichert · Prostata-Operation\n    GRUPPE 65 BIS 74 · DIGITAL SELBSTÄNDIG · METHODISCH\n  \n  Zugangdigital\n\n«Ich habe mir alles notiert. Wenn dann etwas anders läuft, als es angekündigt war, will ich wissen, warum.»\n\n  LebenssituationiPhone und PC, Online-Banking, E-Mail täglich. Liest eine Seite ganz, bevor er klickt, und führt eine Liste mit Schritten und Nummern. Fragebogen am Abend des Erhalts ausgefüllt, 50 Minuten. Druckt, was er behalten will.\n  Gesundheit und EingriffBenigne Prostatahyperplasie, Spinalanästhesie. Hypertonie, sonst fit. Kontrastsehen altersgemäss reduziert. Medizinisch unkompliziert. Sein Thema ist, ob das, was er erlebt, zu dem passt, was angekündigt war.\n  Digitales ProfilSmartphone im Alltag\nLesen am Bildschirm\nFormulare allein ausfüllen\nGesundheitskompetenz\nVertrauen in SMS und E-Mail\nDeutsch lesen97 % der 65- bis 74-Jährigen sind online, 95 % mit Smartphone. Hanspeter nutzt beides, bevorzugt aber den PC für Dinge, die er behalten will.\n  Haltung und WahrnehmungEr sieht die Klinik wie einen Lieferanten: Zusagen gelten. Er möchte vollständige und widerspruchsfreie Information; zwei Seiten, die Verschiedenes sagen, sind für ihn ein Qualitätsmangel. Wartezeit akzeptiert er, sobald sie begründet ist.\nEr vertraut Zahlen und Abläufen. Ein Redesign, nach dem seine Notizen nicht mehr stimmen, ärgert ihn; eine Seite, die ihm Gründe nennt, überzeugt ihn.\n\nWas Hanspeter wissen will, und in welcher ReihenfolgeZuerst: der Ablauf des Eintrittstags, Schritt für Schritt, mit Zeiten und Orten. Dann: was er vorbereiten muss, vollständig, mit Begründung. Dann: wie die Spinalanästhesie abläuft und was er dabei spürt. Dann: was im Zimmer und bei der Hotellerie gilt, weil er es bezahlt. Zuletzt: wen er anruft, wenn etwas nicht stimmt. Er will alles vorher wissen und liest es zweimal.\nWas die Seite und der Fahrplan für Hanspeter leisten müssenEine Zeitachse, auf der alles steht, was er erleben wird, inklusive dessen, was wegen des Umbaus anders ist als auf der Leistungsseite, mit Grund, Horizont und Angebot; derselbe Wortlaut auf beiden Seiten. Besuchte Links sichtbar, konsistente Navigation und Benennung. Ein Video, das den Tag real zeigt, mit einer Pflegefachperson, die erzählt. Für ihn zählt, ob das Erlebnis zur Erwartung passt.\nWoher die Persona kommt. NN/g 2013 (95 % der Älteren arbeiten methodisch, 50 % führen Listen; Redesigns entwerten sie); Thompson 1996 und Hafkamp 2020 (Erfüllung der Erwartung erklärt Zufriedenheit); Zhang 2025 (Erwartungskalibrierung senkt Unzufriedenheit); Powell 2016 (prozedurale und sensorische Information wirkt); Bol 2015 (erzählendes Video).\n\n\n\n\n\n  \n    Ruedi Kaufmann\n    70 Jahre · Weggis LU · ehemaliger Inhaber eines Maschinenbaubetriebs, verkauft 2022 · privatversichert · Hüft-Totalprothese\n    GRUPPE 65 BIS 74 · PRIVAT · ANSPRUCH UND DELEGATION\n  \n  Zugangdigital, delegiert\n\n«Ich lese das nicht nach. Jemand soll wissen, wer ich bin, und mir sagen, was läuft.»\n\n  LebenssituationVerheiratet, Haus mit Seeblick, Golf und Segeln. Hat 40 Jahre entschieden und delegiert; Administratives erledigt seine Frau Monika. iPad und iPhone, mailt kurz. Den Fragebogen hat Monika ausgefüllt, er hat unterschrieben.\n  Gesundheit und EingriffCoxarthrose rechts, Hüft-Totalprothese, will in acht Wochen wieder auf den Platz. Hypertonie, Vorhofflimmern mit Eliquis, Schlafapnoe unbehandelt. Mittleres Risiko. Nach der Eliquis-Pause und dem Schnarchen hat bisher nur Monika am Fragebogen geantwortet, er selbst wurde nie gefragt.\n  Digitales ProfilSmartphone im Alltag\nLesen am Bildschirm\nFormulare allein ausfüllen\nGesundheitskompetenz\nVertrauen in SMS und E-Mail\nDeutsch lesenKompetent, aber ungeduldig: liest Überschriften und delegiert den Rest. In den Zahlen gleicht er Hanspeter, im Verhalten unterscheidet er sich deutlich.\n  Haltung und WahrnehmungEr kauft eine Leistung und erwartet Führung: einen Namen, eine Nummer, jemanden, der ihn kennt. Information, die er sich selbst holen muss, empfindet er als Servicelücke. Er respektiert Fachkompetenz und erwartet, dass sie sich zeigt, beim Chefarzt und beim Empfang gleichermassen.\nSeine Sorge ist Kontrollverlust: warten, ohne zu wissen worauf, und niemand ist zuständig. Was ihn ärgert, sagt er der Direktion persönlich; den Rückmeldebogen füllt er kaum aus.\n\nWas Ruedi wissen will, und in welcher ReihenfolgeZuerst: wer ist für mich zuständig, mit Namen und Nummer. Dann: wann geht es los und wie lange dauert es, und wann werde ich informiert, wenn sich etwas verschiebt. Dann: was von dem, was ich bezahle, gilt am Eintrittstag und was erst nachher. Dann: wann bin ich wieder auf dem Platz. Die Vorbereitung soll ihm jemand am Telefon erklären.\nWas die Seite und der Fahrplan für Ruedi leisten müssenEine Ansprechperson mit Namen und Direktnummer auf Brief und Seite. Erwartungen werden vor dem Eintritt auf der Leistungsseite gesetzt, bevor der Empfang sie korrigieren muss: was am Eintrittstag für alle gleich ist und was er bezahlt (Zimmer, Küche, Wahlarzt). Am Eintrittstag ein Statusupdate alle 30 Minuten, auch ohne Neuigkeit. Der Anruf der Anästhesie fragt ihn selbst nach Medikamenten und Risiken, zusätzlich zu Monikas Angaben.\nWoher die Persona kommt. Hafkamp 2020 (Erfüllung der Erwartung erklärt Zufriedenheit in 93 % der Studien, Hüft- und Knieprothetik); Cooke 2006 (76 % erwarten ein Statusupdate alle 30 Minuten); Thompson 1996 (Information und Erklärung prädizieren Zufriedenheit); Ballacchino 2025 (Ältere wollen Kontakt mit der Anästhesie vor dem OP-Tag: «die sollen meine Krankheiten kennen»); Elliott 2008 (Stellvertreter-Antworten weichen von Selbstauskunft ab).\n\n\n\n\n\n  \n    Graziella Bernasconi\n    78 Jahre · aus Bellinzona TI, seit 2021 beim Sohn in Horw LU · Muttersprache Italienisch · Hüft-Totalprothese\n    GRUPPE 75 BIS 84 · SPRACHHÜRDE · HILFE IST DIE REGEL\n  \n  Zugangdigital mit Hilfe\n\n«Capisco il tedesco quando parlano piano. Sullo schermo è un'altra cosa. Marco mi legge tutto, poi gli chiedo tre volte.»\n\n  LebenssituationWitwe, lebt bei Sohn Marco und Familie. Deutsch mündlich für den Alltag; Lesen fällt ihr schwer, Fachwörter versteht sie selten. Smartphone für WhatsApp und Videoanrufe ins Tessin. Fragebogen mit Marco am Tablet ausgefüllt, zwei Abende.\n  Gesundheit und EingriffHüft-Totalprothese. Diabetes Typ 2 mit Tabletten, Hörminderung ohne Hörgerät. Nüchternheit, Diabetesmedikamente, Blutverdünner: drei Regeln, die sie selbst verstehen muss, auch wenn Marco übersetzt.\n  Digitales ProfilSmartphone im Alltag\nLesen am Bildschirm\nFormulare allein ausfüllen\nGesundheitskompetenz\nVertrauen in SMS und E-Mail\nDeutsch lesen88 % der 75- bis 84-Jährigen sind online; 81 % der über 76-Jährigen haben geringe digitale Gesundheitskompetenz, bei Sprachhürden tiefer. Graziella liest Deutsch Wort für Wort.\n  Haltung und WahrnehmungSie vertraut Menschen mehr als Texten: dem Hausarzt, dem Sohn, der Pflegefachfrau, die langsam spricht. Schriftliches auf Deutsch erlebt sie als Prüfung, und sie schämt sich, nachzufragen; deshalb fragt sie Marco dreimal, bevor sie die Klinik einmal fragt.\nIhre Sorge: etwas Wichtiges nicht verstanden zu haben und deshalb Schaden zu nehmen. Bilder beruhigen sie mehr als Worte; ein Gesicht, das sie wiedererkennt, am meisten.\n\nWas Graziella wissen will, und in welcher ReihenfolgeZuerst: die drei Regeln, die sie selbst einhalten muss, Essen, Zuckertabletten, Blutverdünner, in einer Sprache, die sie versteht. Dann: wer sie am Eintrittstag empfängt und ob Marco dabei sein darf. Dann: wie der Tag aussieht, am liebsten in Bildern. Dann: wie lange sie bleibt und wer ihr danach hilft. Begründungen, Verfahren und Versicherungsfragen überlässt sie Marco.\nWas die Seite und der Fahrplan für Graziella leisten müssenEinfache Sprache mit ganzen Sätzen: «Ab sechs Stunden vor dem Eintritt nichts mehr essen» statt «nüchtern». Die Sicherheitsregeln, die sie selbst einhalten muss, als eigener Block zuerst, und als italienisches Merkblatt auf einer Seite. Das Video: gesprochen, mit mitlaufendem Text, langsam, Untertitel wahlweise italienisch, reale Bilder von Empfang und Station. Für den Anruf der Anästhesie: Marco als Kontaktperson erfassen.\nWoher die Persona kommt. BAG/Careum 2021 und 2023 (geringe Gesundheitskompetenz häufiger bei Sprachhürden und über 76); Digital Seniors 2025 (75 bis 84: 88 % online); Riedl 2023 (Frauen 71 bis 80: 45 % brauchen Hilfe); Schatz 2017 (Einfache Sprache gleicht den Altersunterschied aus); Meppelink 2015 (gesprochene Animation bei geringer Kompetenz); Fenesi 2015 (mitlaufender Text hilft Älteren).\n\n\n\n\n\n  \n    Beat Odermatt\n    67 Jahre · Giswil OW · Landwirt, Hof übergeben · halbprivat · Leistenhernie beidseits\n    GRUPPE 65 BIS 74 · GERINGE GESUNDHEITSKOMPETENZ\n  \n  Zugangdigital, zögernd\n\n«Ein SMS mit einem Link, da drücke ich nicht drauf. Das hat man uns bei der Bank gesagt. Ich rufe lieber an.»\n\n  LebenssituationAndroid-Smartphone, grosse Hände, tippt mit dem Zeigefinger. Liest kurz und ungern. Das Fragebogen-SMS hat er für Betrug gehalten und gelöscht; nach dem Brief rief er an und füllte den Bogen mit seiner Frau am Küchentisch aus.\n  Gesundheit und EingriffLeistenhernie, Allgemeinanästhesie. Diabetes Typ 2 mit Metformin, Übergewicht, Schlafapnoe mit CPAP, raucht. Versteht «nüchtern» als «nichts essen» und trinkt den Milchkaffee.\n  Digitales ProfilSmartphone im Alltag\nLesen am Bildschirm\nFormulare allein ausfüllen\nGesundheitskompetenz\nVertrauen in SMS und E-Mail\nDeutsch lesen42 % der über 65-Jährigen sehen ihre Daten gefährdet; Ältere erkennen Phishing schlechter. Beat klickt deshalb gar nichts an.\n  Haltung und WahrnehmungEr nimmt Dinge wörtlich und erwartet eine klare Anweisung; bei drei Wahlmöglichkeiten steigt er aus. Digitalen Nachrichten von aussen misstraut er, einer Stimme am Telefon vertraut er sofort. Ärzten glaubt er; Formularen gegenüber bleibt er skeptisch.\nSeine Sorge ist, dumm dazustehen: eine Frage falsch zu verstehen, auf dem Bildschirm danebenzutippen, etwas falsch zu machen. Dann gibt er sich die Schuld und schweigt.\n\nWas Beat wissen will, und in welcher ReihenfolgeZuerst: was er am Morgen des Eintritts darf und was nicht, mit Uhrzeiten statt Fachbegriffen. Dann: welche Tabletten er nimmt und welche nicht, und ob das CPAP-Gerät mitkommt. Dann: wo er hin muss und wen er anruft, wenn etwas ist. Das genügt ihm. Mehr Text verwirrt ihn eher.\nWas die Seite und der Fahrplan für Beat leisten müssen«So sehen echte Nachrichten der Klinik aus», und der Brief kündigt die SMS an. Telefonnummer auf jedem Bildschirm; Anrufen ist für ihn der normale Weg. Kernbotschaft zuerst, als Aufgabe mit Uhrzeit: «Ab 02:00 Uhr nichts mehr essen. Wasser, Tee, schwarzer Kaffee bis 06:00 Uhr.» Überschriften als Fragen. Knöpfe mindestens 56 Pixel. Ein Hinweis auf dem Merkblatt am Kühlschrank, eigene Geräte und Medikamente mitzubringen.\nWoher die Persona kommt. Digital Seniors 2025 (42 % sehen Datensicherheit gefährdet); Lin 2019 und Pehlivanoglu 2024 (Phishing-Anfälligkeit steigt mit dem Alter); Babicz 2022; BAG/Careum 2021 (49 % geringe Gesundheitskompetenz); Sheridan 2011 (Kernbotschaft zuerst); Leitão 2012 (Berührungsziele ab 14 mm); NN/g 2013 (90 % geben sich selbst die Schuld); Wildenbos 2018 (Motivation und Kognition als Hauptbarrieren).\n\n\n\n\n\n  \n    Mirlinda Gashi\n    48 Jahre · Emmenbrücke LU · Mitarbeiterin Hauswirtschaft im Alterszentrum · allgemein versichert · laparoskopische Entfernung einer Ovarialzyste\n    UNTER 65 · DEUTSCH ALS ZWEITSPRACHE (B1–B2) · SMARTPHONE-FIRST\n  \n  Zugangdigital\n\n«Auf dem Handy geht alles. Nur die langen deutschen Sätze übersetze ich mit dem Handy, und dann hoffe ich, dass es stimmt.»\n\n  LebenssituationAufgewachsen in Pristina, seit 2004 in der Schweiz, Deutsch im Alltag gelernt. Verheiratet, zwei Kinder (19 und 16). Täglich Videoanrufe mit Mutter und Schwester im Kosovo. Flüge, Termine und Einkäufe bucht sie am Smartphone; einen Computer nutzt sie nicht. Den Fragebogen hat sie allein am Handy ausgefüllt, an zwei Abenden, mit der Übersetzungs-App daneben.\n  Gesundheit und EingriffZufallsbefund Ovarialzyste, laparoskopische Entfernung in Allgemeinanästhesie, in der Regel eine Nacht. Sonst gesund, keine Dauermedikamente. Das Wort «Zyste» hat sie gegoogelt; die Frage, ob es etwas Bösartiges sein könnte, trägt sie mit sich, stellt sie aber nicht von selbst. Und sie arbeitet körperlich: Wie lange sie nicht heben darf, entscheidet über ihren Alltag.\n  Digitales ProfilSmartphone im Alltag\nLesen am Bildschirm\nFormulare allein ausfüllen\nGesundheitskompetenz\nVertrauen in SMS und E-Mail\nDeutsch lesenDigital kompetent, aber ausschliesslich am Smartphone. Lange deutsche Texte liest sie mit maschineller Übersetzung; was sich nicht als Text markieren lässt (PDF, Bild, Grafik), bleibt für sie unübersetzt. Geringe Gesundheitskompetenz ist bei Sprachhürden deutlich häufiger.\n  Haltung und WahrnehmungDer Klinik begegnet sie mit Respekt und etwas Distanz. Sie will nicht als ungebildet gelten und nickt deshalb auch dann, wenn sie nur die Hälfte verstanden hat; Nachfragen kostet sie Überwindung, auf Deutsch doppelt.\nIhre Sorgen: ob der Befund wirklich harmlos ist, wie lange sie bei der Arbeit ausfällt und wer zu Hause übernimmt. Einfache, freundliche Sprache gewinnt sie sofort; spürt sie Ungeduld, fragt sie nichts mehr.\n\nWas Mirlinda wissen will, und in welcher ReihenfolgeZuerst: ist die Zyste etwas Schlimmes, in verständlichen Worten. Dann: wie lange sie bei der Arbeit ausfällt und was sie nicht heben darf, mit Zeugnis. Dann: Essen und Trinken vor dem Eintritt, mit Uhrzeiten statt «nüchtern». Dann: wer sie abholt und ob ihr Mann am Eintrittstag dabei sein darf. Versicherungsfragen und Verfahren überspringt sie.\nWas die Seite und der Fahrplan für Mirlinda leisten müssenEinfache Sprache auf B1-Niveau: kurze Hauptsätze, jedes Fachwort mit Erklärung («nüchtern: ab 02:00 Uhr nichts mehr essen»). Inhalte als echter Text statt PDF oder Bild, damit die Übersetzungsfunktion des Handys greift; eine Spalte, mobile-first. Die Arbeitsunfähigkeit als eigener, sichtbarer Punkt: wer das Zeugnis ausstellt und wen sie dazu fragen kann. Das gesprochene Video mit mitlaufendem Text hilft ihr doppelt. Im Anruf der Anästhesie: langsam sprechen und das Verständnis mit einer Rückfrage sichern statt mit «alles klar?».\nWoher die Persona kommt. BAG/Careum 2021 und 2023 (geringe Gesundheitskompetenz deutlich häufiger bei Sprachhürden und Migrationshintergrund); Schatz 2017 (Einfache Sprache verbessert das Verständnis über alle Gruppen); Meppelink 2015 (gesprochene Information bei geringer Gesundheitskompetenz); Fenesi 2015 (mitlaufender Text); Sheridan 2011 (Kernbotschaft zuerst).\n\n\n\n\n\n\n\nGeprüft am\nDatum\n\n\nNächste Prüfung\nDatum + 2 Jahre\n\n\nFachliche Freigabe\nName, Funktion\n\n\n\nDiese Seiten sind ein Prototyp. Alle Inhalte sind fiktive, fachlich nicht geprüfte Beispieltexte und dienen ausschliesslich der Veranschaulichung von Struktur und Sprache."
+  },
+  {
+    "objectID": "herzkatheter.html",
+    "href": "herzkatheter.html",
+    "title": "Herzkatheter-Untersuchung: Ihr Fahrplan",
+    "section": "",
+    "text": "⌂ Übersicht ← Allgemeiner Fahrplan\nDiese Seite gilt für Ihre Herzkatheter-Untersuchung, stationär oder ambulant. Was hier steht, geht für Sie den allgemeinen Regeln vor."
+  },
+  {
+    "objectID": "herzkatheter.html#variante",
+    "href": "herzkatheter.html#variante",
+    "title": "Herzkatheter-Untersuchung: Ihr Fahrplan",
+    "section": "Bleiben Sie über Nacht, oder gehen Sie am gleichen Tag nach Hause?",
+    "text": "Bleiben Sie über Nacht, oder gehen Sie am gleichen Tag nach Hause?\nOb Ihre Untersuchung stationär oder ambulant geplant ist, steht in Ihrer Anmeldebestätigung. Eintrittszeit, Anmeldung an der Réception und der Weg durch den Tag folgen dem allgemeinen Fahrplan; die Abschnitte unten beschreiben, was bei der Herzkatheter-Untersuchung dazukommt."
+  },
+  {
+    "objectID": "herzkatheter.html#stationaer",
+    "href": "herzkatheter.html#stationaer",
+    "title": "Herzkatheter-Untersuchung: Ihr Fahrplan",
+    "section": "Nach der Untersuchung: stationär",
+    "text": "Nach der Untersuchung: stationär\n\nEinstichstelle am Handgelenk (Pulsschlagader)\nNach der Untersuchung halten Sie das Handgelenk ruhig und belasten es zwei Tage nicht. Heben Sie mit dem betroffenen Arm nicht mehr als drei Kilogramm. Aufstehen dürfen Sie unmittelbar nach der Untersuchung.\n\n\nEinstichstelle in der Leiste\n\nBettruhe: Halten Sie die Bettruhe von vier bis sechs Stunden ein, mit gestrecktem Bein auf der Einstichseite. So vermeiden Sie eine Nachblutung, und die Einstichstelle an der Schlagader kann sich sicher verschliessen.\nSeitenlage: Ihre Kardiologin oder Ihr Kardiologe sagt Ihnen, ab wann Sie sich in die Seitenlage mit gestrecktem Bein drehen dürfen. Zur Entlastung der Wirbelsäule dürfen Sie das nicht betroffene Bein im Bett aufstellen.\nKopfhaltung: Heben Sie den Kopf nicht mit eigener Kraft an. Nutzen Sie zum Essen und Trinken die elektrische Bettbedienung, bis der Kopf leicht erhöht ist (maximal 30 Grad). Ideal sind die ersten Stunden möglichst flach und ruhig.\nNiesen oder Husten: Geben Sie dabei mit der Handfläche Gegendruck auf die Druckrolle, die feste Rolle auf dem Verband.\nToilettengang: Bitten Sie während der Bettruhe die Pflegefachperson um Hilfe; dafür ist sie da. Beim Stuhlgang nicht mit der Bauchmuskulatur pressen, das drückt auf die Einstichstelle.\nSitzen, Gehen, Heben: Nach dem Entfernen des Druckverbands dürfen Sie sich mit Begleitung an den Bettrand und auf den Lehnstuhl setzen und ein paar Schritte im Zimmer gehen. Körperliche Belastung am Untersuchungstag vermeiden, nichts über drei Kilogramm heben.\nDuschen: in der Regel ab dem nächsten Tag."
+  },
+  {
+    "objectID": "herzkatheter.html#ambulant",
+    "href": "herzkatheter.html#ambulant",
+    "title": "Herzkatheter-Untersuchung: Ihr Fahrplan",
+    "section": "Nach der Untersuchung: ambulant",
+    "text": "Nach der Untersuchung: ambulant\n\nHeimreise: Nehmen Sie bis 24 Stunden nach dem Eingriff nicht selbstständig am Strassenverkehr teil und organisieren Sie eine Begleitung oder einen Fahrdienst. Sorgen Sie dafür, dass Sie zu Hause nicht allein sind.\nMedikamente: In der Regel nehmen Sie Ihre Medikamente weiter. Blutverdünnende Medikamente nehmen Sie so, wie Ihre Ärztin oder Ihr Arzt es mit Ihnen besprochen hat.\nVerband: Den Verband wechselt die Hausarztpraxis oder die kardiologische Praxis beim ersten Kontrolltermin und schaut dabei die Einstichstelle an.\nBewegung: Einstichstelle am Handgelenk: den Arm etwa eine Woche schonen, nicht mehr als drei Kilogramm heben. Einstichstelle in der Leiste: etwa eine Woche kein schweres Heben, das betroffene Bein nicht stark beugen.\nDuschen: Die Einstichstelle für zwei bis drei Tage mit einem Duschpflaster abdecken.\nTrinken: Trinken Sie am Tag des Eingriffs ausreichend, das hilft, das Kontrastmittel auszuspülen. Essen dürfen Sie wie gewohnt."
+  },
+  {
+    "objectID": "herzkatheter.html#achten",
+    "href": "herzkatheter.html#achten",
+    "title": "Herzkatheter-Untersuchung: Ihr Fahrplan",
+    "section": "Worauf Sie achten sollten",
+    "text": "Worauf Sie achten sollten\n\nMelden Sie sich sofort bei diesen Anzeichen\n\nBlutung der Einstichstelle: sofort fest auf die Stelle drücken, dann Ihre Ärztin, Ihren Arzt oder die Notfallstation anrufen\nUnwohlsein, Schwindel oder Übelkeit\nFieber\nTaubheit oder Kribbeln an Arm oder Bein der Einstichseite\n\nNotfallzentrum, rund um die Uhr: Telefonnummer. Bei Brustschmerz oder Atemnot direkt 144.\n\n\n⌂ Übersicht ← Allgemeiner Fahrplan"
+  },
+  {
+    "objectID": "herzkatheter.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
+    "href": "herzkatheter.html#ich-habe-eine-frage-an-wen-wende-ich-mich",
+    "title": "Herzkatheter-Untersuchung: Ihr Fahrplan",
+    "section": "Ich habe eine Frage: An wen wende ich mich?",
+    "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nEintritt, Operationstermin: Patientendisposition, +41 41 208 30 12, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr\nGesundheitsfragebogen, medizinische Unterlagen und Narkose: Anästhesie, Telefonnummer\nFragen zur Operation selbst: Rufen Sie die Praxis Ihrer Operateurin oder Ihres Operateurs an\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
   }
 ]
