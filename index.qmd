@@ -16,3 +16,7 @@ Beispieltexte.
 ## Hintergrund für das Projektteam
 
 - [Personae: Für wen wir bauen, mit der Evidenz hinter dem Konzept →](personae.qmd)
+
+## Zur Kommentierung
+
+- [Review-Fassung «Stationär: Ihr Eintritt, Schritt für Schritt», mit Zeilennummern →](stationaer-review.qmd)

@@ -1,0 +1,29 @@
+/* Review-Fassung: Randspalte mit festen Nummern */
+#zn-rinne { position: absolute; top: 0; left: 0; width: 0; height: 0; }
+.zn-nr {
+  position: absolute; width: 2.4rem; text-align: right;
+  font: 500 .78rem/1.2 ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-variant-numeric: tabular-nums; color: #8a94a3; text-decoration: none;
+  user-select: none;
+}
+.zn-nr:hover { color: var(--accent-dark, #1f4e79); text-decoration: underline; }
+.zn-nr.zn-aktiv { color: #fff; background: var(--accent, #2b6cb0); border-radius: 3px; padding-right: .2rem; }
+.zn-linie { position: absolute; width: 1px; background: #dde2e8; }
+[data-z] { scroll-margin-top: 6rem; }
+.zn-ziel { background: #fff4c2 !important; box-shadow: 0 0 0 .25rem #fff4c2; border-radius: 2px; }
+
+/* Ohne Skript und im Druck: Nummer klein vor dem Block */
+body:not(.zn-js) [data-z]::before {
+  content: attr(data-z) "\2002"; font: .7rem ui-monospace, Menlo, monospace; color: #8a94a3;
+}
+@media print {
+  #zn-rinne { display: none; }
+  [data-z]::before { content: attr(data-z) "\2002"; font: .7rem ui-monospace, Menlo, monospace; color: #666; }
+  main { padding-left: 0 !important; }
+}
+
+.review-kopf {
+  border: 1px solid #c9d3df; border-left: 4px solid var(--accent, #2b6cb0);
+  background: #f5f8fb; padding: .9rem 1.1rem; margin: 0 0 1.6rem; font-size: .92rem;
+}
+.review-kopf p { margin: .3rem 0; max-width: none; }
