@@ -12,16 +12,6 @@ editor:
     wrap: none
 ---
 
-::: review-kopf
-**Review-Fassung** der Seite «Ihr Eintritt, Schritt für Schritt», Stand 28. Oktober 2026. Diese Fassung bleibt bis zum Ende der Review-Runde unverändert.
-
-Die Nummern am linken Rand bezeichnen jede Überschrift, jeden Absatz, jeden Listenpunkt und jede Tabellenzeile. Sie bleiben fest, unabhängig von Fenstergrösse und Zoom. Eine Nummer kann deshalb mehrere Bildschirmzeilen umfassen.
-
-Bitte beginnen Sie jeden Kommentar mit der Nummer, zum Beispiel «Z. 42: …» oder «Z. 42 bis 45: …». Ein Klick auf eine Nummer erzeugt einen Direktlink auf die Stelle.
-
-Rückmeldung bitte an [Name, E-Mail]{.ph} bis [Datum]{.ph}.
-:::
-
 ::: review-technik
 ```{=html}
 <script src="review-zeilennummern.js" defer></script>
@@ -118,13 +108,13 @@ Wir fragen per SMS, Email oder Internet nie nach Passwörtern oder Bankdaten. Wi
 
 ### Was wir tun
 
-Ihre Narkose besprechen wir persönlich mit Ihnen, spätestens am Vortag am Telefon (siehe [Am Vortag](#vortag)). Je nach Eingriff und Gesundheit **laden wir Sie vorher zusätzlich in die Anästhesie-Sprechstunde ein**. Das Gespräch findet in der Klinik oder am Telefon statt. Um den Termin kümmern wir uns. Wir kontaktieren Sie. Im Gespräch mit der Anästhesistin oder dem Anästhesisten können Sie alles fragen, was Sie zur Narkose wissen möchten. [Gibt es für Ihren Eingriff mehrere Möglichkeiten der Narkose, entscheiden Sie mit.]{.ph} Brauchen Sie nach dem Aufenthalt eine Rehabilitation oder Spitex? Dann planen wir das jetzt gemeinsam mit Ihnen und rufen Sie an.
+Ihre Narkose besprechen wir persönlich mit Ihnen, spätestens am Vortag am Telefon (siehe [Am Vortag](#vortag)). Je nach Eingriff und Gesundheit **laden wir Sie vorher zusätzlich in die Anästhesie-Sprechstunde ein**. Das Gespräch findet in der Klinik oder am Telefon statt. Um den Termin kümmern wir uns. Wir kontaktieren Sie. Im Gespräch mit der Anästhesistin oder dem Anästhesisten können Sie alles fragen, was Sie zur Narkose wissen möchten.
 
 ### Was in Ihrer Hand liegt
 
 ::: tun
 - Sie organisieren, wer Sie zum Eintritt hinfährt und nach dem Austritt abholt. Nach einer Narkose dürfen Sie 24 Stunden nicht selbst fahren.
-- Sie organisieren, wer Sie in der ersten Woche zu Hause unterstützt: Einkaufen, Kochen, Treppensteigen. [Haben Sie niemanden, der Sie abholt oder unterstützt? Sagen Sie es uns früh. Wir suchen mit Ihnen eine Lösung.]{.ph}
+- Sie organisieren, wer Sie in der ersten Woche zu Hause unterstützt: Einkaufen, Kochen, Treppensteigen.
 - Ihre Medikamente nehmen Sie weiter wie gewohnt. Blutverdünner und Diabetesmedikamente pausieren Sie nur nach Absprache mit der Anästhesie. Im Zweifel rufen Sie die Anästhesie an: [Anästhesie, Telefonnummer]{.ph}.
 - Bei Fieber, Husten oder Erkältung rufen Sie die Anästhesie an: [Anästhesie, Telefonnummer]{.ph}. Das gilt auch kurz vor dem Eintritt und wenn es Ihnen insgesamt schlechter geht. Wir besprechen dann mit Ihnen die Planung.
 :::
@@ -132,7 +122,7 @@ Ihre Narkose besprechen wir persönlich mit Ihnen, spätestens am Vortag am Tele
 ::: hilft
 ### Gönnen Sie sich eine bewusste Vorbereitung.
 
-Je besser vorbereitet Sie in die Operation gehen, desto schneller erholen Sie sich danach. Vier Dinge sind wissenschaftlich gut belegt:
+Je besser vorbereitet Sie in die Operation gehen, desto schneller erholen Sie sich danach. Vier Dinge sind wissenschaftlich gut begründet:
 
 - Bewegen: Bleiben Sie in Bewegung, im Rahmen Ihrer Möglichkeiten. Das hilft Ihnen, nach der Operation schneller wieder zu Kräften zu kommen.
 - Rauchstopp: Jeder rauchfreie Tag vor der Operation hilft. Je früher Sie aufhören, desto besser heilt die Wunde.
@@ -223,20 +213,22 @@ Ihre Ärztin oder Ihr Arzt kommt täglich zur Visite. Dort besprechen Sie gemein
 ::: hilft
 ### Was Ihnen jetzt hilft
 
-Die Erholung beginnt gleich nach der Operation, und das meiste davon leisten Sie selbst. Vier Dinge helfen dabei besonders:
+Die Erholung beginnt gleich nach der Operation. Vier Dinge helfen dabei besonders:
 
 - Tief durchatmen, mehrmals am Tag. So bleibt die Atmung frei.
-- Früh aufstehen und gehen, sobald die Pflege es freigibt. Die ersten Schritte sind die wichtigsten: Sie bringen Kreislauf, Atmung und Verdauung in Schwung, und die Kraft kehrt schneller zurück.
+- Früh aufstehen und gehen, sobald die Pflege es freigibt. Bewegung bringt Kreislauf, Atmung und Verdauung in Schwung, und die Kraft kehrt schneller zurück.
 - Essen und trinken, sobald es erlaubt ist. Das gibt Ihnen die Energie für die nächsten Schritte.
 - Nachts schlafen. Sagen Sie uns, wenn etwas Sie am Schlafen hindert.
 
-Schmerzmittel sind dazu da, dass Sie sich bewegen, durchatmen und schlafen können. Nehmen Sie sie [nach dem Plan, den die Pflege mit Ihnen bespricht]{.ph}, und bevor der Schmerz stark wird. So bleibt er klein. Jeder Tag bringt Sie ein Stück weiter in Richtung Zuhause.
+Schmerzmittel sind dazu da, dass Sie sich bewegen, durchatmen und schlafen können. Nehmen Sie sie [nach dem Plan, den die Pflege mit Ihnen bespricht]{.ph}, und bevor der Schmerz stark wird. Melden Sie sich bitte frühzeitig bei Schmerzen.
+
+Jeder Tag bringt Sie ein Stück weiter in Richtung Zuhause.
 :::
 
 ### Was in Ihrer Hand liegt
 
 ::: tun
-- Sie melden jede Beschwerde, auch kleine. Dann können wir früh etwas tun.
+- Sie melden jede Beschwerde, auch kleine. Dann können wir früh etwas für Sie tun.
 - Sie schreiben Fragen auf, wenn sie Ihnen einfallen, und stellen sie bei der Visite.
 :::
 
@@ -259,7 +251,7 @@ Wir wünschen Ihnen einen guten Aufenthalt bei uns und eine gute Erholung zu Hau
 ::: hilft
 ### Was Ihnen in der ersten Woche hilft
 
-Was im Spital geholfen hat, hilft zu Hause weiter: jeden Tag etwas mehr gehen, regelmässig essen und trinken, Schmerzmittel nach dem Plan, den Sie mitbekommen haben, nachts schlafen. Die Kraft kommt Woche für Woche zurück. [Hinweise je nach Eingriff: Belastung, Duschen, Wunde.]{.ph}
+Was im Spital geholfen hat, hilft zu Hause weiter: jeden Tag etwas mehr bewegen, regelmässig essen und trinken, Schmerzmittel nach dem Plan, den Sie mitbekommen haben, nachts schlafen. Die Kraft kommt Woche für Woche zurück.
 :::
 
 ### Was in Ihrer Hand liegt
