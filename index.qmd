@@ -1,12 +1,16 @@
 ---
-title: "Prototyp Patientenpfade"
+title: "Prototyp ST Webpage"
 toc: false
 ---
 
-::: {.hinweis-prototyp}
-Interne Übersicht. Alle Inhalte sind fiktive, fachlich nicht geprüfte
-Beispieltexte.
-:::
+## Zur Kommentierung
+
+- [Review-Fassung «Stationär: Ihr Eintritt, Schritt für Schritt», mit Zeilennummern →](stationaer-review.qmd)
+
+## Hintergrund für das Projektteam
+
+- [Personae: Für wen wir bauen, und die Evidenz hinter dem Konzept →](personae.qmd)
+
 
 ## Ihr Aufenthalt
 
@@ -17,6 +21,4 @@ Beispieltexte.
 
 - [Personae: Für wen wir bauen, mit der Evidenz hinter dem Konzept →](personae.qmd)
 
-## Zur Kommentierung
 
-- [Review-Fassung «Stationär: Ihr Eintritt, Schritt für Schritt», mit Zeilennummern →](stationaer-review.qmd)

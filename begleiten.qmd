@@ -1,6 +1,9 @@
 ---
 title: "Für Angehörige und Begleitpersonen"
 toc: false
+editor:
+  markdown:
+    wrap: none
 ---
 
 ::: {.mini-nav}
@@ -9,47 +12,89 @@ toc: false
 [Alles auf einem Blatt →](merkblatt.qmd)
 :::
 
-[Sie lesen für Ihre Mutter, Ihren Vater, Ihre Partnerin oder einen Freund. Diese Seite sagt, was Sie als Begleiterin oder Begleiter tun können, was Sie dürfen und wen Sie anrufen; sie ist mehr als Besuchszeiten. Ihre Unterstützung hilft der Person und uns. Danke dafür.]{.lede}
+[Sie begleiten jemanden in die Klinik St. Anna: Ihre Partnerin oder Ihren Partner, eine Freundin, einen Freund, Ihre Mutter oder Ihren Vater. Diese Seite sagt Ihnen, was Sie in jeder Phase tun können, was Sie dürfen und wen Sie anrufen. Ihre Unterstützung hilft der Person und uns. Danke dafür.]{.lede}
 
 ::: {.kontaktzeile}
-**So erreichen Sie uns.** Jede Frage ist willkommen; rufen Sie
-lieber einmal mehr an.
+**So erreichen Sie uns.** Jede Frage ist willkommen. Rufen Sie lieber einmal mehr an.
 
 {{< include _kontaktliste.qmd >}}
 :::
 
-## Was Sie vor dem Eintritt tun können {#vorher}
+## Nach der Anmeldung: Fragebogen und Unterlagen {#anmeldung}
+
+Die Person erhält von uns eine E-Mail mit dem Link zum Gesundheitsfragebogen und eine SMS mit einem Sicherheitscode. Später folgt die Anmeldebestätigung per Post mit dem Eintrittsdatum und dem Eintrittsformular.
 
 ::: {.tun}
 - Den Gesundheitsfragebogen gemeinsam ausfüllen. Das ist ausdrücklich erlaubt. Geben Sie am Anfang des Fragebogens an, dass Sie helfen. Bei Fragen zu Alkohol, Rauchen und Stimmung sollte die Person selbst antworten.
-- Die Eintrittszeit aus der SMS in den Kalender übernehmen und die Zeiten für Essen und Trinken ausrechnen: nichts mehr essen ab 6 Stunden vorher, nichts mehr trinken ab 2 Stunden vorher. Schreiben Sie die beiden Uhrzeiten gut sichtbar auf.
-- Die Medikamentenliste prüfen und die Packungen bereitlegen. Blutverdünner und Diabetesmedikamente werden erst pausiert, wenn es mit der Anästhesie vereinbart ist.
-- Fahrt hin und zurück organisieren. Nach einer Narkose wird die Person 24 Stunden lang gefahren.
-- Die erste Woche zu Hause planen: Einkaufen, Kochen, Treppen, Dusche, Haustiere, Post.
+- Wenn das Ausfüllen am Bildschirm schwerfällt: Den Fragebogen unausgefüllt lassen. Nach etwa [5 Tagen]{.ph} rufen wir die Person von uns aus an.
+- Das Eintrittsformular aus dem Brief ausfüllen, unterschreiben lassen und zurücksenden, [Frist]{.ph}.
 :::
 
-## Am Eintrittstag {#tag}
+## Bis zum Eintritt: Fahrt, erste Woche, Wohnung {#vorher}
 
-Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Dort sind die Plätze während des Umbaus mit Vorhängen abgetrennt. Für Begleitende stehen Stühle bereit, der Platz ist knapp. In den Operationsbereich und den Aufwachraum begleitet das Team die Person allein. Im Zimmer können Sie sie wieder besuchen.
+Je nach Eingriff und Gesundheit laden wir die Person zusätzlich in die Anästhesie-Sprechstunde ein, in die Klinik oder am Telefon. Sie dürfen zu diesem Gespräch mitkommen, wenn die Person das möchte. Braucht es nach dem Aufenthalt eine Rehabilitation oder Spitex, planen wir das jetzt gemeinsam.
 
-Hinterlassen Sie an der Réception Ihre Telefonnummer. Wir rufen Sie an, sobald die Person im Zimmer ist. Das kann [mehrere Stunden]{.ph} dauern. Sie können in dieser Zeit die Klinik verlassen.
+::: {.tun}
+- Die Fahrt hin und zurück organisieren. Nach einer Narkose darf die Person 24 Stunden lang nicht selbst fahren.
+- Die erste Woche zu Hause planen: Einkaufen, Kochen, Treppen, Haustiere, Post. Wer ist wann da?
+- Die Wohnung ansehen: Wege, Treppen, Stolperfallen, Teppiche, Dusche. Was jetzt frei geräumt ist, erleichtert die ersten Tage nach der Rückkehr.
+- Die Medikamentenliste prüfen und die Packungen bereitlegen. Blutverdünner und Diabetesmedikamente werden nur nach Absprache mit der Anästhesie pausiert: [Anästhesie, Telefonnummer]{.ph}.
+- Bei Fieber, Husten oder Erkältung kurz vor dem Eintritt: die Anästhesie anrufen. Wir besprechen dann die Planung.
+:::
 
-## Während des Aufenthalts {#waehrend}
+## Am Vortag: Zeiten ausrechnen {#vortag}
 
-Besuchszeiten: [Zeiten]{.ph}. Wenn die Patientin oder der Patient es wünscht, dürfen Sie bei der Visite dabei sein. Fragen Sie dort nach dem voraussichtlichen Austrittstag und danach, was zu Hause gebraucht wird: Hilfsmittel, Spitex, Rezepte. Das Case Management hilft bei der Organisation: [Kontakt]{.ph}.
+Die Eintrittszeit kommt am Vortag per SMS an die Person, bei Eintritt am Montag am Freitag davor. Ebenfalls am Vortag ruft die Anästhesieärztin oder der Anästhesiearzt an. Dafür sollte die Medikamentenliste bereitliegen.
 
-## Nach dem Austritt {#nachher}
+::: {.tun}
+- Die Eintrittszeit in den Kalender übernehmen.
+- Die zwei Uhrzeiten gemeinsam ausrechnen: bis wann die Person essen darf (6 Stunden vor der Eintrittszeit) und bis wann sie trinken darf (2 Stunden vorher). Schreiben Sie beide gut sichtbar auf, zum Beispiel an den Kühlschrank. Am Morgen des Eintritts ist das die wichtigste Hilfe.
+- Beim Packen helfen. Die Liste steht auf [dem Blatt «Das Wichtigste auf einem Blatt»](merkblatt.qmd).
+:::
+
+{{< include _rechenbeispiel.qmd >}}
+
+## Am Eintrittstag: Mitkommen und warten {#tag}
+
+Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Während des Umbaus der Klinik sind die Plätze dort mit Vorhängen abgetrennt. Für Begleitende stehen Stühle bereit, der Platz ist knapp. In den Operationsbereich und den Aufwachraum begleitet das Team die Person allein. Im Zimmer können Sie sie wieder besuchen.
+
+Zwischen Ankunft und Operation vergeht Zeit, manchmal eine halbe Stunde, manchmal mehrere Stunden. Wir sind ein Akutspital und stimmen den Operationsplan laufend ab. Ihre Gesellschaft hilft in dieser Zeit: reden, zusammen warten, zur Ruhe kommen.
+
+::: {.tun}
+- An der Réception Ihre Telefonnummer hinterlassen. Wir rufen Sie an, sobald die Person im Zimmer ist. Das kann [mehrere Stunden]{.ph} dauern. Sie können in dieser Zeit die Klinik verlassen.
+- Während des Umbaus sind Parkplätze knapp. Kommen Sie am besten mit dem öffentlichen Verkehr: [Adresse, Eingang, Haltestelle]{.ph}.
+:::
+
+## Die Tage im Spital: Besuch und Visite {#waehrend}
+
+Besuchszeiten: [Zeiten]{.ph}. Ihre Besuche gehören zur Erholung. Vertraute Gesichter und Gespräche tun gut. Die Ärztin oder der Arzt kommt täglich zur Visite. Wenn die Patientin oder der Patient es wünscht, dürfen Sie dabei sein.
+
+::: {.hilft}
+### Was der Person jetzt hilft
+
+Die Erholung beginnt gleich nach der Operation. Vier Dinge helfen dabei besonders, und Sie können dazu ermuntern: tief durchatmen, mehrmals am Tag. Früh aufstehen und gehen, sobald die Pflege es freigibt. Essen und trinken, sobald es erlaubt ist. Nachts schlafen. Schmerzmittel sind dazu da, dass all das gelingt. Wer wartet, bis der Schmerz stark ist, hat es schwerer. Ermuntern Sie die Person, sich früh zu melden.
+:::
+
+::: {.tun}
+- Bei der Visite nach dem voraussichtlichen Austrittstag fragen und danach, was zu Hause gebraucht wird: Hilfsmittel, Spitex, Rezepte. Das Case Management hilft bei der Organisation: [Kontakt]{.ph}.
+- Fragen aufschreiben, wenn sie Ihnen einfallen, und zur Visite mitbringen.
+:::
+
+## Austritt und die erste Woche zu Hause {#nachher}
+
+Am Austrittstag gibt die Person das Zimmer bis 10 Uhr frei. Sie erhält einen Austrittsbericht, Rezepte und die Termine für Nachkontrollen. Die Pflege erklärt Wundversorgung und Medikamente und gibt alles schriftlich mit.
 
 ::: {.tun}
 - Abholung bis 10 Uhr am Austrittstag.
-- Rezepte einlösen, Medikamente nach dem mitgegebenen Plan richten.
+- Rezepte in der Klinikapotheke oder einer Apotheke Ihrer Wahl einlösen, Medikamente nach dem mitgegebenen Plan richten.
 - In der ersten Nacht erreichbar sein.
+- Was im Spital geholfen hat, hilft zu Hause weiter: jeden Tag etwas mehr bewegen, regelmässig essen und trinken, Schmerzmittel nach Plan, nachts schlafen. Die Kraft kommt Woche für Woche zurück.
 :::
 
 ::: {.care}
 ### Sofort melden
 
-Fieber über 38.5 Grad, zunehmende Schmerzen trotz Medikamenten, Rötung oder Nässen der Wunde, Verwirrtheit, Atemnot, Brustschmerz, Wadenschmerz: [Klinik-Nummer, rund um die Uhr]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**. Wenn Ihnen etwas Sorgen macht, rufen Sie an, lieber einmal zu viel als einmal zu wenig.
+Leichte Schmerzen, etwas Schwellung und Müdigkeit sind in den ersten Tagen normal und nehmen von Tag zu Tag ab. Sofort anrufen bei Fieber über 38.5 Grad, zunehmenden Schmerzen trotz Medikamenten, Rötung oder Nässen der Wunde, Verwirrtheit, Atemnot, Brustschmerz oder Wadenschmerz: [Klinik-Nummer, rund um die Uhr]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**. Wenn Ihnen etwas Sorgen macht, rufen Sie an, lieber einmal zu viel als einmal zu wenig.
 :::
 
 ## Darf ich das überhaupt? {#duerfen}

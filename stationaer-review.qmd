@@ -80,17 +80,13 @@ Alles Weitere steht unten. Was bei Ihnen schon erledigt ist, überspringen Sie e
 :::::: station
 ## Nach der Anmeldung: Fragebogen und Bestätigung {#heute}
 
-[Wann]{.wann} Ab dem Tag, an dem Ihre Ärztin oder Ihr Arzt Sie bei uns anmeldet.
+### Wann
+
+Ab dem Tag, an dem Ihre Ärztin oder Ihr Arzt Sie bei uns anmeldet.
 
 ### Was wir tun
 
 Sie haben von uns eine **E-Mail** mit dem Link zum Gesundheitsfragebogen erhalten. Dazu kam eine SMS mit einem Sicherheitscode für den Fragebogen. Die **Anmeldebestätigung per Post** mit dem Eintrittsdatum und dem Eintrittsformular folgt, je nach Termin innerhalb von Tagen oder Wochen. Ab jetzt bereitet unser Team Ihren Aufenthalt für Sie vor.
-
-::: echt
-### So prüfen Sie, ob eine Nachricht von uns kommt
-
-Wir fragen per SMS, Email oder Internet nie nach Passwörtern oder Bankdaten. Wir verlangen nie eine Zahlung. Wir setzen Sie nie unter Druck. Sind Sie unsicher, ob die Nachricht von uns ist? Suchen Sie selbst im Internet nach der Internetseite der Klinik St. Anna. Rufen Sie die Nummer an, die dort steht.
-:::
 
 ### Was in Ihrer Hand liegt
 
@@ -104,7 +100,9 @@ Wir fragen per SMS, Email oder Internet nie nach Passwörtern oder Bankdaten. Wi
 ::::: station
 ## Bis zum Eintritt: Vorbereitung und Narkosegespräch {#wochen}
 
-[Wann]{.wann} Zwischen Anmeldung und Eintritt. Das können mehrere Wochen sein oder wenige Tage.
+### Wann
+
+Zwischen Anmeldung und Eintritt. Das können mehrere Wochen sein oder wenige Tage.
 
 ### Was wir tun
 
@@ -120,25 +118,24 @@ Ihre Narkose besprechen wir persönlich mit Ihnen, spätestens am Vortag am Tele
 :::
 
 ::: hilft
-### Gönnen Sie sich eine bewusste Vorbereitung.
+### Was Sie für sich tun können
 
-Je besser vorbereitet Sie in die Operation gehen, desto schneller erholen Sie sich danach. Vier Dinge sind wissenschaftlich gut begründet:
+Je besser vorbereitet Sie in die Operation gehen, desto schneller erholen Sie sich danach. Vier Dinge sind wissenschaftlich gut belegt:
 
 - Bewegen: Bleiben Sie in Bewegung, im Rahmen Ihrer Möglichkeiten. Das hilft Ihnen, nach der Operation schneller wieder zu Kräften zu kommen.
 - Rauchstopp: Jeder rauchfreie Tag vor der Operation hilft. Je früher Sie aufhören, desto besser heilt die Wunde.
 - Essen und Schlafen: Essen Sie regelmässig und eiweissreich und schlafen Sie genug. So gehen Sie mit Kraft in die Operation. Alkohol: je weniger, desto besser.
-- Fragen: Schreiben Sie auf, was Sie wissen möchten, und nehmen Sie die Liste zu den Arztgesprächen mit.
+- Ihre Fragen: Schreiben Sie auf, was Sie wissen möchten, und nehmen Sie die Liste zu den Arztgesprächen mit.
 :::
 
-::: begleit
-**Für Angehörige und Begleitpersonen:** Jetzt ist die Zeit, das Praktische zu klären: wer fährt, wer in der ersten Woche da ist, wer sich um Haustiere und Post kümmert. Schauen Sie auch die Wohnung an: Wege, Treppen, Stolperfallen, Teppiche, Dusche.
-:::
 :::::
 
 ::::: station
 ## Am Vortag: Uhrzeit und Vorbereitung {#vortag}
 
-[Wann]{.wann} Am Tag vor dem Eintritt. Bei Eintritt am Montag: am Freitag davor.
+### Wann
+
+Am Tag vor dem Eintritt. Bei Eintritt am Montag: am Freitag davor.
 
 ### Was wir tun
 
@@ -160,15 +157,14 @@ Je besser vorbereitet Sie in die Operation gehen, desto schneller erholen Sie si
 
 {{< include _rechenbeispiel.qmd >}}
 
-::: begleit
-**Für Angehörige und Begleitpersonen:** Rechnen Sie die Zeiten für Essen und Trinken gemeinsam aus und schreiben Sie sie gut sichtbar auf, zum Beispiel an den Kühlschrank. Am Morgen des Eintritts ist das die wichtigste Hilfe.
-:::
 :::::
 
 :::::: station
 ## Am Eintrittstag: Ankommen, warten, Operation {#eintrittstag}
 
-[Wann]{.wann} Vom Aufstehen bis zum Abend.
+### Wann
+
+Vom Aufstehen bis zum Abend.
 
 ### Was wir tun, und wie der Ablauf ist
 
@@ -196,15 +192,14 @@ Während des **Umbaus der Klinik St. Anna** (ANNAplus, voraussichtlich bis [Datu
 - Mit Essen und Trinken warten Sie, bis die Pflege das OK gibt.
 :::
 
-::: begleit
-**Für Angehörige und Begleitpersonen:** Sie dürfen bis zur Tagesklinik mitkommen und dort [bis zur Abholung in den Operationsbereich]{.ph} bleiben. Hinterlassen Sie Ihre Telefonnummer. Wir rufen Sie an, sobald das Zimmer bezogen ist. Rechnen Sie mit [mehreren Stunden]{.ph}. Sie können in dieser Zeit die Klinik verlassen, wir erreichen Sie telefonisch.
-:::
 ::::::
 
 ::::: station
 ## Die Tage im Spital {#spital}
 
-[Wann]{.wann} Vom Abend der Operation bis zum Austritt, meist [2 bis 5]{.ph} Tage.
+### Wann
+
+Vom Abend der Operation bis zum Austritt, meist [2 bis 5]{.ph} Tage.
 
 ### Was wir tun
 
@@ -232,15 +227,14 @@ Jeder Tag bringt Sie ein Stück weiter in Richtung Zuhause.
 - Sie schreiben Fragen auf, wenn sie Ihnen einfallen, und stellen sie bei der Visite.
 :::
 
-::: begleit
-**Für Angehörige und Begleitpersonen:** Sie dürfen bei der Visite dabei sein. Ob Sie dabei sind, entscheidet die Patientin oder der Patient. Ihre Besuche helfen: Vertraute Gesichter und Gespräche gehören zur Erholung. Fragen Sie nach dem voraussichtlichen Austrittstag und was zu Hause gebraucht wird: Hilfsmittel, Spitex, Rezepte.
-:::
 :::::
 
 :::::: station
 ## Austritt und die erste Woche zu Hause {#austritt}
 
-[Wann]{.wann} Am Austrittstag bis 10 Uhr, dann die ersten sieben Tage.
+### Wann
+
+Am Austrittstag bis 10 Uhr, dann die ersten sieben Tage.
 
 ### Was wir tun
 
@@ -268,9 +262,6 @@ Was im Spital geholfen hat, hilft zu Hause weiter: jeden Tag etwas mehr bewegen,
 Leichte Schmerzen, etwas Schwellung und Müdigkeit sind in den ersten Tagen normal und nehmen von Tag zu Tag ab. Sofort anrufen bei Fieber über 38.5 Grad, zunehmenden Schmerzen trotz Medikamenten, Rötung oder Nässen der Wunde, Atemnot, Brustschmerz oder Wadenschmerz: [Klinik-Nummer, rund um die Uhr]{.ph}. Bei Atemnot oder Brustschmerz direkt **144**.
 :::
 
-::: begleit
-**Für Angehörige und Begleitpersonen:** In der ersten Nacht zu Hause sollte jemand erreichbar sein. Die Zeichen oben gelten auch für Sie: Wenn Ihnen etwas Sorgen macht, rufen Sie an.
-:::
 ::::::
 ::::::::::::::::::::::::
 

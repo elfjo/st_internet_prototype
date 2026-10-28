@@ -75,10 +75,13 @@ local filter = {
 }
 
 -- Nur der Dokumentkörper, nicht Titel, Navigation oder Fusszeile. Quarto rendert
--- die Fusszeile in einem eigenen Durchlauf; erkennbar am fehlenden review-kopf.
+-- die Fusszeile in einem eigenen Durchlauf; erkennbar an fehlendem review-kopf
+-- und review-technik.
 local function ist_review(blocks)
   for _, b in ipairs(blocks) do
-    if b.t == "Div" and b.classes:includes("review-kopf") then return true end
+    if b.t == "Div" and (b.classes:includes("review-kopf") or b.classes:includes("review-technik")) then
+      return true
+    end
   end
   return false
 end
