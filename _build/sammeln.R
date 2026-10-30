@@ -329,6 +329,7 @@ tabelle <- function(eintraege_gruppe, lokal = FALSE) {
 }
 
 gruppen <- unique(map_chr(eintraege, "gruppe"))
+abschnitte <- map_chr(manifest$gruppen, "titel")[map_lgl(manifest$gruppen, \(g) isTRUE(g$abschnitt))]
 heute <- format(Sys.Date(), "%d.%m.%Y")
 
 # Übersicht für die Startseite der Site (index.qmd bindet sie ein):
@@ -347,7 +348,10 @@ listenpunkt <- function(e, tiefe) {
 uebersicht <- character()
 for (g in gruppen) {
   eg <- keep(eintraege, \(e) e$gruppe == g)
-  if (length(eg) == 1) {
+  if (g %in% abschnitte) {
+    uebersicht <- c(uebersicht, "", paste0("## ", g), "")
+    for (e in eg) uebersicht <- c(uebersicht, listenpunkt(e, if (e$eingerueckt) 1 else 0))
+  } else if (length(eg) == 1) {
     uebersicht <- c(uebersicht, listenpunkt(eg[[1]], 0))
   } else {
     uebersicht <- c(uebersicht, paste0("- ", g))

@@ -25,11 +25,10 @@ sidebar: false
         - Hüfte
         - Knie
         - Wirbelsäule
-    - Geburt
     - Video zum Eintrittsprozess
 - Couvert
-    - **[Anmeldebestätigung](review/15-brief.qmd)**
-    - **[Faltblatt «Ihr Eintritt»](review/16-heft.qmd)**
+    - **[Anmeldebestätigung](review/14-brief.qmd)**
+    - **[Faltblatt «Ihr Eintritt»](review/15-heft.qmd)**
     - Anästhesieaufklärung (Daniel)
     - Legal-Texte
         - Eintrittsformular mit Behandlungsvertrag
@@ -37,5 +36,10 @@ sidebar: false
         - Elektronisches Patientendossier (EPD)
         - Generalkonsent Forschung
     - Taxigutscheine, nur bei Privatversicherung
-- [SMS mit der Eintrittszeit](review/24-sms-eintrittszeit.qmd) (Platzhalter)
+- [SMS mit der Eintrittszeit](review/23-sms-eintrittszeit.qmd) (Platzhalter)
+
+## Geburt
+
+- Webseite Geburt
+- Broschüre Geburt
 <!-- arbeitsstand:ende -->
