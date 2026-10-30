@@ -12,10 +12,12 @@ sidebar: false
 
 <!-- arbeitsstand:start -->
 - **[Personae: Zielgruppenanalyse](personae.html)**
-- Zuweiserinfo präoperativer Prozess
+- Zuweiser
+    - **[Webseite «Präoperative Beurteilung» für Hausärzte](review/02-zuweiser-webseite.qmd)**
+    - Broschüre Anästhesie für Hausärzte
 - Nachrichten der Anästhesie zum Gesundheitsfragebogen
-    - **[E-Mail zum Gesundheitsfragebogen](review/03-email-fragebogen.qmd)**
-    - **[SMS zum Gesundheitsfragebogen](review/04-sms-fragebogen.qmd)**
+    - **[E-Mail zum Gesundheitsfragebogen](review/04-email-fragebogen.qmd)**
+    - **[SMS zum Gesundheitsfragebogen](review/05-sms-fragebogen.qmd)**
 - Gesundheitsfragebogen
 - Webseite
     - **[Stationär, Ihr Eintritt Schritt für Schritt](stationaer.html)**
@@ -27,8 +29,8 @@ sidebar: false
         - Wirbelsäule
     - Video zum Eintrittsprozess
 - Couvert
-    - **[Anmeldebestätigung](review/14-brief.qmd)**
-    - **[Faltblatt «Ihr Eintritt»](review/15-heft.qmd)**
+    - **[Anmeldebestätigung](review/15-brief.qmd)**
+    - **[Faltblatt «Ihr Eintritt»](review/16-heft.qmd)**
     - Anästhesieaufklärung (Daniel)
     - Legal-Texte
         - Eintrittsformular mit Behandlungsvertrag
@@ -36,7 +38,7 @@ sidebar: false
         - Elektronisches Patientendossier (EPD)
         - Generalkonsent Forschung
     - Taxigutscheine, nur bei Privatversicherung
-- [SMS mit der Eintrittszeit](review/23-sms-eintrittszeit.qmd) (Platzhalter)
+- [SMS mit der Eintrittszeit](review/24-sms-eintrittszeit.qmd) (Platzhalter)
 
 ## Geburt
 
