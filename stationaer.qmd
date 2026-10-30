@@ -74,11 +74,6 @@ Alles Weitere steht unten. Was bei Ihnen schon erledigt ist, überspringen Sie e
 
 Sie haben von uns eine **E-Mail** mit dem Link zum Gesundheitsfragebogen erhalten. Dazu kam eine SMS mit einem Sicherheitscode für den Fragebogen. Die **Anmeldebestätigung per Post** mit dem Eintrittsdatum und dem Eintrittsformular folgt, je nach Termin innerhalb von Tagen oder Wochen. Ab jetzt bereitet unser Team Ihren Aufenthalt für Sie vor.
 
-::: echt
-### So prüfen Sie, ob eine Nachricht von uns kommt
-
-Wir fragen per SMS, Email oder Internet nie nach Passwörtern oder Bankdaten. Wir verlangen nie eine Zahlung. Wir setzen Sie nie unter Druck. Sind Sie unsicher, ob die Nachricht von uns ist? Suchen Sie selbst im Internet nach der Internetseite der Klinik St. Anna. Rufen Sie die Nummer an, die dort steht.
-:::
 
 ### Was in Ihrer Hand liegt
 
@@ -130,7 +125,7 @@ Je besser vorbereitet Sie in die Operation gehen, desto schneller erholen Sie si
 
 ### Was wir tun
 
-**Ihre Eintrittszeit.** Sie erhalten sie am Vortag **per SMS**. Haben wir keine Handynummer von Ihnen, rufen wir Sie auf dem Festnetz an. Haben Sie am Vortag bis 14 Uhr nichts von uns gehört, rufen Sie uns an: [Patientendisposition, Nummer]{.ph}, 13 bis 17 Uhr.
+**Ihre Eintrittszeit.** Sie erhalten sie am Vortag **per SMS**. Haben Sie keine Handynummer oder bis 14 Uhr keine SMS erhalten, rufen Sie uns bitte an: Patientendisposition, +41 41 208 30 12, 13 bis 17 Uhr.
 
 **Der Anruf zur Narkose.** Am Vortag **ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an**, auch wenn Sie schon in der Sprechstunde waren. [Vor einem Eingriff am Montag kann dieser Anruf schon am Freitag oder am Sonntag kommen]{.ph}. Halten Sie dafür Ihre Medikamentenliste bereit. [Zeitfenster des Anrufs; was gilt, wenn Sie den Anruf verpassen: Rückrufnummer oder zweiter Versuch.]{.ph}
 
@@ -169,7 +164,7 @@ Je besser vorbereitet Sie in die Operation gehen, desto schneller erholen Sie si
 ::: anders
 ### Zurzeit ist die Klinik St. Anna im Umbau
 
-Während des **Umbaus der Klinik St. Anna** (ANNAplus, voraussichtlich bis [Datum]{.ph}) bereiten wir Sie in der Tagesklinik auf die Operation vor. Das gilt für alle Patientinnen und Patienten, unabhängig von der Versicherung. Die Plätze dort sind mit Vorhängen abgetrennt. Für vertrauliche Gespräche gibt es einen Besprechungsraum. Auch der Weg in den Operationsbereich ist während des Umbaus ein Provisorium. Ihr Zimmer beziehen Sie nach der Operation.
+Während des **Umbaus der Klinik St. Anna** (ANNAplus, voraussichtlich bis [Datum]{.ph}) bereiten wir Sie in der Tagesklinik auf die Operation vor. Das gilt für alle Patientinnen und Patienten, unabhängig von der Versicherung. Die Plätze dort sind mit Vorhängen abgetrennt. Auch der Weg in den Operationsbereich ist während des Umbaus ein Provisorium. Ihr Zimmer beziehen Sie nach der Operation.
 :::
 
 **Warten.** Wir sind ein Akutspital und behandeln auch Notfälle. Deshalb stimmen wir den Operationsplan laufend ab. Zwischen Ihrer Ankunft und der Operation vergeht Zeit: manchmal eine halbe Stunde, manchmal mehrere Stunden. Wir halten Sie vor Ort auf dem Laufenden, wann Ihre Operation beginnt. Diese Zeit ist Ihre Zeit: lesen, Musik hören, mit Ihrer Begleitung reden, die Augen schliessen. Viele nutzen sie, um zur Ruhe zu kommen.

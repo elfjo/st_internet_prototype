@@ -1,9 +1,12 @@
 project:
   type: website
   output-dir: _site
+  pre-render: _build/sammeln.R
   resources:
     - robots.txt
     - _headers
+    - review/heft/**
+    - review/media/**
 
 lang: de
 
@@ -19,6 +22,15 @@ website:
         href: stationaer.qmd
       - text: "Kontakt & Anmeldung"
         href: stationaer.html#kontaktzone
+
+  sidebar:
+    - id: review
+      title: "Review"
+      style: floating
+      collapse-level: 1
+      contents:
+        - index.qmd
+        - auto: review/*.qmd
 
   page-navigation: true
   back-to-top-navigation: false

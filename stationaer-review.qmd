@@ -86,14 +86,14 @@ Ab dem Tag, an dem Ihre Ärztin oder Ihr Arzt Sie bei uns anmeldet.
 
 ### Was wir tun
 
-Sie haben von uns eine **E-Mail** mit dem Link zum Gesundheitsfragebogen erhalten. Dazu kam eine SMS mit einem Sicherheitscode für den Fragebogen.
+Sie haben von uns eine **E-Mail** mit dem Link zum Gesundheitsfragebogen erhalten. Eine SMS hat Sie auf die E-Mail hingewiesen. Wenn Sie den Fragebogen öffnen, erhalten Sie einen Code per SMS.
 
 Später schicken wir Ihnen eine **Anmeldebestätigung per Post**. Darin ist das Eintrittsdatum und ein Eintrittsformular. Der Brief kann Tage bis Wochen nach der Anmeldung kommen. Ab jetzt bereitet unser Team Ihren Aufenthalt für Sie vor.
 
 ### Was in Ihrer Hand liegt
 
 ::: tun
-- Sie füllen den **Gesundheitsfragebogen** innerhalb von [5 Tagen]{.ph} aus, allein oder mit jemandem zusammen. Rechnen Sie mit 10 bis 60 Minuten. Mit Ihren Antworten geben Sie der Anästhesie Informationen, die sie für Ihre Narkoseplanung braucht. Falls Sie den Fragebogen schon ausgefüllt haben, ist dieser Punkt erledigt.
+- Sie füllen den **Gesundheitsfragebogen** innerhalb von 5 Tagen aus, so lange ist der Link gültig. Allein oder mit jemandem zusammen. Halten Sie Ihre Medikamentenliste bereit, dann geht es schneller. Rechnen Sie mit 15 bis 30 Minuten. Mit Ihren Antworten geben Sie der Anästhesie Informationen, die sie für Ihre Narkoseplanung braucht. Falls Sie den Fragebogen schon ausgefüllt haben, ist dieser Punkt erledigt.
 - Wenn Ihnen das Ausfüllen am Bildschirm schwerfällt, oder es technische Schwierigkeiten gibt: Dann lassen Sie den Fragebogen unausgefüllt. Nach etwa [5 Tagen]{.ph} rufen wir Sie von uns aus an.
 - Sie füllen das **Eintrittsformular** aus dem Brief aus, unterschreiben es und senden es zurück, [Frist]{.ph}.
 :::
@@ -110,15 +110,15 @@ Zwischen Anmeldung und Eintritt. Das können mehrere Wochen sein oder wenige Tag
 
 **Ihr Anästhesiegespräch.** Bezüglich der Narkose spricht eine Ärztin oder ein Arzt der Anästhesie mit Ihnen. Das gehört zu jeder Narkose dazu. So können wir die Narkose passend zu Ihrer Gesundheit und Ihrer Operation planen. Auch Ihre Fragen haben dort Platz.
 
-**So läuft es ab.** Am Vortag ruft Sie die Anästhesie an (siehe [Am Vortag](#vortag)). Bei manchen Operationen oder Erkrankungen laden wir Sie vorher zusätzlich in die **Anästhesie-Sprechstunde** ein. Das Gespräch findet in der Klinik oder am Telefon statt. Um den Termin kümmern wir uns. Wir melden uns bei Ihnen.
+**So läuft es ab.** Am Vortag ruft Sie die Anästhesie an (siehe [Am Vortag](#vortag)). Bei manchen Operationen oder Erkrankungen laden wir Sie vorher zusätzlich in die **Anästhesie-Sprechstunde** ein. Das Gespräch findet in der Klinik statt, an der St. Anna-Strasse 32 in Luzern (3. Stock, Trakt C), oder am Telefon. Das gilt auch, wenn Ihre Operation in Meggen stattfindet. Um den Termin kümmern wir uns und rufen Sie dazu an. Am Tag davor erinnern wir Sie per SMS.
 
 ### Was in Ihrer Hand liegt
 
 ::: tun
 - Sie organisieren, wer Sie zum Eintritt hinfährt und nach dem Austritt abholt. Nach einer Narkose dürfen Sie 24 Stunden nicht selbst fahren.
 - Sie organisieren, wer Sie in der ersten Woche zu Hause unterstützt: Einkaufen, Kochen, Treppensteigen.
-- Ihre Medikamente nehmen Sie weiter wie gewohnt. Blutverdünner und Diabetesmedikamente pausieren Sie nur nach Absprache mit der Anästhesie. Im Zweifel rufen Sie die Anästhesie an: [Anästhesie, Telefonnummer]{.ph}.
-- Bei Fieber, Husten oder Erkältung rufen Sie die Anästhesie an: [Anästhesie, Telefonnummer]{.ph}. Das gilt auch kurz vor dem Eintritt und wenn es Ihnen insgesamt schlechter geht. Wir besprechen dann mit Ihnen die Planung.
+- Ihre Medikamente nehmen Sie weiter wie gewohnt. Nehmen Sie Blutverdünner oder Diabetesmedikamente, und muss davor etwas geändert werden, melden wir uns rechtzeitig bei Ihnen. Ohne Nachricht bleibt alles wie gewohnt. Im Zweifel rufen Sie die Anästhesie an: +41 41 208 33 88.
+- Bei Fieber, Husten oder Erkältung rufen Sie die Anästhesie an: +41 41 208 33 88. Das gilt auch kurz vor dem Eintritt und wenn es Ihnen insgesamt schlechter geht. Wir besprechen dann mit Ihnen die Planung.
 :::
 
 ::: hilft
@@ -143,9 +143,9 @@ Am Tag vor dem Eintritt. Bei Eintritt am Montag: am Freitag davor.
 
 ### Was wir tun
 
-**Ihre Eintrittszeit.** Sie erhalten sie am Vortag **per SMS**. Haben wir keine Handynummer von Ihnen, rufen wir Sie auf dem Festnetz an. Haben Sie am Vortag bis 14 Uhr nichts von uns gehört, rufen Sie uns an: [Patientendisposition, Nummer]{.ph}, 13 bis 17 Uhr.
+**Ihre Eintrittszeit.** Sie erhalten sie am Vortag **per SMS**. Haben Sie keine Handynummer oder bis 14 Uhr keine SMS erhalten, rufen Sie uns bitte an: Patientendisposition, +41 41 208 30 12, 13 bis 17 Uhr.
 
-**Der Anruf zur Narkose.** Am Vortag **ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an**, auch wenn Sie schon in der Sprechstunde waren. [Vor einem Eingriff am Montag kann dieser Anruf schon am Freitag oder am Sonntag kommen]{.ph}. Halten Sie dafür Ihre Medikamentenliste bereit. [Zeitfenster des Anrufs; was gilt, wenn Sie den Anruf verpassen: Rückrufnummer oder zweiter Versuch.]{.ph}
+**Der Anruf zur Narkose.** Am Vortag **ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an**, auch wenn Sie schon in der Sprechstunde waren. Der Anruf kommt in der Regel zwischen 13 und 17 Uhr. Vor einem Eingriff am Montag kommt er am Freitag- oder am Sonntagnachmittag. Halten Sie dafür Ihre Medikamentenliste bereit. [Was gilt, wenn Sie den Anruf verpassen: zweiter Versuch oder Rückruf unter +41 41 208 33 88.]{.ph}
 
 ### Was in Ihrer Hand liegt
 
@@ -181,7 +181,7 @@ Vom Aufstehen bis zum Abend.
 ::: anders
 ### Zurzeit ist die Klinik St. Anna im Umbau
 
-Während des **Umbaus der Klinik St. Anna** (ANNAplus, voraussichtlich bis [Datum]{.ph}) bereiten wir Sie in der Tagesklinik auf die Operation vor. Das gilt für alle Patientinnen und Patienten, unabhängig von der Versicherung. Die Plätze dort sind mit Vorhängen abgetrennt. Für vertrauliche Gespräche gibt es einen Besprechungsraum. Auch der Weg in den Operationsbereich ist während des Umbaus ein Provisorium. Ihr Zimmer beziehen Sie nach der Operation.
+Während des **Umbaus der Klinik St. Anna** (ANNAplus, voraussichtlich bis [Datum]{.ph}) bereiten wir Sie in der Tagesklinik auf die Operation vor. Das gilt für alle Patientinnen und Patienten, unabhängig von der Versicherung. Die Plätze dort sind mit Vorhängen abgetrennt. Auch der Weg in den Operationsbereich ist während des Umbaus ein Provisorium. Ihr Zimmer beziehen Sie nach der Operation.
 :::
 
 **Warten.** Wir sind ein Akutspital und behandeln auch Notfälle. Deshalb stimmen wir den Operationsplan laufend ab. Zwischen Ihrer Ankunft und der Operation vergeht Zeit: manchmal eine halbe Stunde, manchmal mehrere Stunden. Wir halten Sie vor Ort auf dem Laufenden, wann Ihre Operation beginnt. Diese Zeit ist Ihre Zeit: lesen, Musik hören, mit Ihrer Begleitung reden, die Augen schliessen. Viele nutzen sie, um zur Ruhe zu kommen.

@@ -1,0 +1,90 @@
+/* Layout des Faltblatts, Fassung nahe am Hirslanden-CD (Broschüre «Präoperative Informationen», 2025).
+   Farben aus der Broschüre gesampelt: Dunkelgrau 685850, Cyan 00A0D8, Flächen D8D0D0 / C8E8F0.
+   Schrift: Jost als freie Entsprechung der geometrischen Hausschrift; Lesetext grösser als im CD, begründet durch die Zielgruppe.
+   Inhalt steht in Faltblatt.qmd. Warme Alternative: faltblatt-warm.css */
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&display=swap");
+
+:root{--paper:#FFFFFF;--ink:#4A403B;--ink-head:#685850;--ink-soft:#7D726B;--line:#D8D0D0;--grey:#EFECE9;--blue:#00A0D8;--blue-soft:#E3F3FA;--blue-line:#C8E8F0;
+  --sans:"Jost","Futura","Avenir Next","Helvetica Neue",Arial,sans-serif;--pw:148mm;--ph:210mm}
+*{box-sizing:border-box}
+html,body{margin:0;background:#2b2f36;color:var(--ink);font-family:var(--sans)}
+body{padding:28px 16px 80px}
+#title-block-header{max-width:980px;margin:0 auto 6px;color:#fff}
+#title-block-header h1{font:500 24px/1.2 var(--sans);margin:0;letter-spacing:.04em;text-transform:uppercase}
+.intro{max-width:980px;margin:0 auto 28px;color:#e8e6e1;font-size:15px;line-height:1.5}
+.intro p{margin:0}
+main,#quarto-content{max-width:none}
+
+.spread{display:flex;box-shadow:0 18px 50px rgba(0,0,0,.45);transform-origin:top left;margin:0 auto 36px;width:calc(2*var(--pw))}
+.page{width:var(--pw);height:var(--ph);background:var(--paper);position:relative;overflow:hidden;padding:10mm 11mm 11mm;display:flex;flex-direction:column;flex:0 0 auto}
+.page.left{border-right:1px dashed rgba(0,0,0,.18)}
+.page > *{max-width:none}
+
+/* Typografie: Versalien gesperrt für Titel, Lesetext 11.5 pt */
+p,li,td{font-size:11.5pt;line-height:1.36;font-weight:400}
+p{margin:0 0 6pt}
+h1{font:500 22pt/1.1 var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--ink-head);margin:0 0 6pt;border:0;padding:0}
+h2{font:500 14.5pt/1.2 var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--ink-head);margin:0 0 7pt;border:0;padding:0}
+h3{font:600 9.5pt/1.3 var(--sans);text-transform:uppercase;letter-spacing:.12em;color:var(--ink-head);margin:9pt 0 3pt;border:0;padding:0}
+strong{font-weight:600;color:var(--ink-head)}
+.lede{font:400 13pt/1.4 var(--sans);color:var(--ink-head);display:block;margin-bottom:8pt}
+.klein{font-size:9.6pt;color:var(--ink-soft);line-height:1.35;display:block;margin-bottom:5pt}
+.pnum{position:absolute;bottom:7mm;font-size:8.5pt;color:var(--ink-soft)}
+.pnum p{margin:0;font-size:8.5pt}
+.left .pnum{left:11mm}.right .pnum{right:11mm}
+.fuss{position:absolute;bottom:7mm;left:11mm;right:11mm}
+.fuss p{font-size:9pt;color:var(--ink-soft);margin:0;line-height:1.3;letter-spacing:.02em}
+.fusslink{position:absolute;bottom:7mm;left:11mm;right:17mm}
+.fusslink p{font-size:9.3pt;color:var(--ink-head);margin:0}
+
+/* Listen */
+.page ul{padding:0;list-style:none;margin:0 0 5pt}
+.pack li{position:relative;padding-left:20px;margin:0 0 2.5pt;font-size:10.5pt;line-height:1.3}
+.pack li::before{content:"";position:absolute;left:0;top:4px;width:10px;height:10px;border:1.2px solid var(--ink-head)}
+.kontakte p{font-size:10pt;margin-bottom:2pt;line-height:1.28}
+.schritte ol{list-style:none;padding:0;margin:0 0 4pt;counter-reset:s}
+.schritte li{counter-increment:s;position:relative;padding-left:26px;margin:0 0 5pt;font-size:10.8pt;line-height:1.3}
+.schritte li::before{content:counter(s);position:absolute;left:0;top:2px;width:18px;height:18px;border-radius:50%;background:var(--blue);color:#fff;font:600 10pt/18px var(--sans);text-align:center}
+.schritte li p{margin:0;font-size:10.8pt}
+
+/* Kästen: Sicherheit in Hellblau mit Cyan-Linie, wie die Tabellen der Broschüre */
+.box{background:var(--blue-soft);border-top:3px solid var(--blue);padding:7px 10px 6px;margin:6pt 0}
+.box h3{color:var(--blue);margin-top:0}
+.box p{font-size:11pt;margin-bottom:3pt}
+
+/* Titelseite */
+.band{background:var(--blue);color:#fff;padding:15px 12px 14px 56px;margin:-10mm -11mm 7mm;position:relative}
+.band::before{content:"↓";position:absolute;left:13px;top:50%;transform:translateY(-50%);width:30px;height:30px;border-radius:50%;background:#fff;color:var(--blue);font:600 20px/30px var(--sans);text-align:center}
+.band p{margin:0;font:500 9.5pt/1.2 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:#e6f5fb;margin-top:4px}
+.band p strong{display:block;font:500 23pt/1 var(--sans);letter-spacing:.04em;text-transform:uppercase;color:#fff;margin-bottom:5px}
+.titelbild{display:block;width:100%;height:44mm;object-fit:cover;object-position:center 30%;margin:0 0 7mm}
+.nummern{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:6pt 0}
+.nr{background:var(--grey);padding:7px 9px}
+.nr p{margin:0;font-size:9.3pt;color:var(--ink-soft);line-height:1.3}
+.nr p strong{display:block;color:var(--ink-head);font-size:9.5pt;text-transform:uppercase;letter-spacing:.08em}
+.nr .tel{font-size:14pt;font-weight:500;color:var(--blue);line-height:1.4}
+.web{display:flex;gap:10px;align-items:center;margin-top:6pt}
+.qr{width:24mm;height:24mm;border:1.5px solid var(--ink-head);display:grid;place-items:center;background:#fff;flex:0 0 auto}
+.qr p{margin:0;font-size:9pt;color:var(--ink-soft)}
+.webtext p{margin:0;font-size:11pt}
+.webtext .url{color:var(--blue);font-weight:500;font-size:12.5pt}
+.webtext .klein{display:inline;margin:0}
+
+/* Kompass-Tabelle und Stapel */
+table{border-collapse:collapse;width:100%;margin:2pt 0 6pt}
+table.komp th{font:600 9pt var(--sans);text-transform:uppercase;letter-spacing:.1em;color:#fff;background:var(--blue);text-align:left;padding:4px 5px}
+table.komp td{padding:3px 5px;border-bottom:1px solid var(--line);vertical-align:top;font-size:9.9pt;line-height:1.26}
+table.komp tr:nth-child(even) td{background:var(--blue-soft)}
+table.komp td:first-child{font-weight:500;color:var(--ink-head)}
+table.felder{margin:4pt 0 0}
+table.felder thead{display:none}
+table.felder td{border:0;border-bottom:1px solid var(--ink-head);padding:6pt 0 2pt;font-size:10pt;color:var(--ink-soft);background:transparent}
+table.felder td:last-child{text-align:right;font-weight:500;color:var(--ink-head);font-size:11pt;white-space:nowrap}
+.stapel{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px;margin:3pt 0 5pt}
+.st{background:var(--grey);padding:6px 8px;border-top:3px solid var(--ink-head)}
+.st p{margin:0;font-size:9.6pt;line-height:1.28}
+.st p strong{display:block;color:var(--ink-head);text-transform:uppercase;font-size:9pt;letter-spacing:.1em;margin-bottom:3px}
+
+@media print{html,body{background:#fff;padding:0}.intro,#title-block-header{display:none}
+  .spread{display:block;box-shadow:none;transform:none!important;width:auto}
+  .page{page-break-after:always;break-after:page}.page.left{border:0}@page{size:148mm 210mm;margin:0}}

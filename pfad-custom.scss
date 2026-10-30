@@ -523,6 +523,8 @@ h3 { font-size: 1.12rem; }
 
 /* Links: deutlicher, aber leiser */
 main a { text-underline-offset: 3px; text-decoration-thickness: 1px; }
+/* Bootstrap setzt a auf 400; fett ausgezeichnete Links sollen fett bleiben */
+main strong a, main b a { font-weight: inherit; }
 main a:hover { text-decoration-thickness: 2px; }
 
 /* Interaktion: sanfte Übergänge, sichtbarer Fokus (BehiG/WCAG) */

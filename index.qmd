@@ -1,21 +1,34 @@
 ---
-title: "Prototyp ST Webpage"
+title: "Review und Arbeitsstand"
 toc: false
 ---
 
 ## Zur Kommentierung
 
-- [Review-Fassung «Stationär: Ihr Eintritt, Schritt für Schritt», mit Zeilennummern →](stationaer-review.qmd)
+- [Review-Fassung «Stationär: Ihr Eintritt, Schritt für Schritt», →](stationaer-review.qmd)
 
-## Hintergrund des Konzepts
+## Alle Artefakte (aktueller Arbeitsstand)
 
-- [Personae: Für wen wir bauen, und die Evidenz hinter dem Konzept →](personae.qmd)
-
-<!--
-## Ihr Aufenthalt
-
-- [Stationär: Ihr Eintritt, Schritt für Schritt →](stationaer.qmd)
-- [Ambulant: Ihr Eingriff, Schritt für Schritt →](ambulant.qmd)
-
--->
-
+<!-- arbeitsstand:start -->
+- **[Personae: Zielgruppenanalyse](personae.html)**
+- Zuweiserinfo präoperativer Prozess
+- Nachrichten der Anästhesie zum Gesundheitsfragebogen
+    - **[E-Mail zum Gesundheitsfragebogen](review/03-email-fragebogen.qmd)**
+    - **[SMS zum Gesundheitsfragebogen](review/04-sms-fragebogen.qmd)**
+- Gesundheitsfragebogen
+- Webseite
+    - **[Stationär, Ihr Eintritt Schritt für Schritt](stationaer.html)**
+    - **[Ambulant](ambulant.html)**
+    - [Herzkatheter](herzkatheter.html) (pending)
+    - Motion (pending)
+        - Hüfte
+        - Knie
+        - Wirbelsäule
+    - Video zum Eintrittsprozess
+- Couvert
+    - **[Anmeldebestätigung](review/14-brief.qmd)**
+    - **[Faltblatt «Ihr Eintritt»](review/15-heft.qmd)**
+    - Anästhesieaufklärung (Daniel)
+    - Legal-Texte
+- [SMS mit der Eintrittszeit](review/18-sms-eintrittszeit.qmd) (Platzhalter)
+<!-- arbeitsstand:ende -->

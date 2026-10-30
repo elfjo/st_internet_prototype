@@ -22,7 +22,7 @@ editor:
 
 ## Nach der Anmeldung: Fragebogen und Unterlagen {#anmeldung}
 
-Die Person erhält von uns eine E-Mail mit dem Link zum Gesundheitsfragebogen und eine SMS mit einem Sicherheitscode. Später folgt die Anmeldebestätigung per Post mit dem Eintrittsdatum und dem Eintrittsformular.
+Die Person erhält von uns eine E-Mail mit dem Link zum Gesundheitsfragebogen und eine SMS, die auf die E-Mail hinweist. Den Code zum Öffnen schicken wir per SMS, sobald der Fragebogen geöffnet wird. Später folgt die Anmeldebestätigung per Post mit dem Eintrittsdatum und dem Eintrittsformular.
 
 ::: {.tun}
 - Den Gesundheitsfragebogen gemeinsam ausfüllen. Das ist ausdrücklich erlaubt. Geben Sie am Anfang des Fragebogens an, dass Sie helfen. Bei Fragen zu Alkohol, Rauchen und Stimmung sollte die Person selbst antworten.
@@ -32,13 +32,13 @@ Die Person erhält von uns eine E-Mail mit dem Link zum Gesundheitsfragebogen un
 
 ## Bis zum Eintritt: Fahrt, erste Woche, Wohnung {#vorher}
 
-Je nach Eingriff und Gesundheit laden wir die Person zusätzlich in die Anästhesie-Sprechstunde ein, in die Klinik oder am Telefon. Sie dürfen zu diesem Gespräch mitkommen, wenn die Person das möchte. Braucht es nach dem Aufenthalt eine Rehabilitation oder Spitex, planen wir das jetzt gemeinsam.
+Je nach Eingriff und Gesundheit laden wir die Person zusätzlich in die Anästhesie-Sprechstunde ein, in die Klinik an der St. Anna-Strasse 32 in Luzern oder am Telefon, auch bei einer Operation in Meggen. Sie dürfen zu diesem Gespräch mitkommen, wenn die Person das möchte. Braucht es nach dem Aufenthalt eine Rehabilitation oder Spitex, planen wir das jetzt gemeinsam.
 
 ::: {.tun}
 - Die Fahrt hin und zurück organisieren. Nach einer Narkose darf die Person 24 Stunden lang nicht selbst fahren.
 - Die erste Woche zu Hause planen: Einkaufen, Kochen, Treppen, Haustiere, Post. Wer ist wann da?
 - Die Wohnung ansehen: Wege, Treppen, Stolperfallen, Teppiche, Dusche. Was jetzt frei geräumt ist, erleichtert die ersten Tage nach der Rückkehr.
-- Die Medikamentenliste prüfen und die Packungen bereitlegen. Blutverdünner und Diabetesmedikamente werden nur nach Absprache mit der Anästhesie pausiert: [Anästhesie, Telefonnummer]{.ph}.
+- Die Medikamentenliste prüfen und die Packungen bereitlegen. Blutverdünner und Diabetesmedikamente werden nur nach Absprache mit der Anästhesie pausiert: Anästhesie +41 41 208 33 88.
 - Bei Fieber, Husten oder Erkältung kurz vor dem Eintritt: die Anästhesie anrufen. Wir besprechen dann die Planung.
 :::
 

@@ -7,3 +7,6 @@
 **/*.quarto_ipynb
 
 .DS_Store
+
+# generiert von _build/sammeln.R aus ../../review.yml
+/review/
