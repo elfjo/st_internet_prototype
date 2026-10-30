@@ -1,6 +1,7 @@
 ---
 title: "Review und Arbeitsstand"
 toc: false
+sidebar: false
 ---
 
 ## Zur Kommentierung
@@ -30,5 +31,10 @@ toc: false
     - **[Faltblatt «Ihr Eintritt»](review/15-heft.qmd)**
     - Anästhesieaufklärung (Daniel)
     - Legal-Texte
-- [SMS mit der Eintrittszeit](review/18-sms-eintrittszeit.qmd) (Platzhalter)
+        - Eintrittsformular mit Behandlungsvertrag
+        - Datenverarbeitung für nicht medizinische Dienstleistungen
+        - Elektronisches Patientendossier (EPD)
+        - Generalkonsent Forschung
+    - Taxigutscheine, nur bei Privatversicherung
+- [SMS mit der Eintrittszeit](review/23-sms-eintrittszeit.qmd) (Platzhalter)
 <!-- arbeitsstand:ende -->

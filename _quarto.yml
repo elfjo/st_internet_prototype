@@ -29,7 +29,8 @@ website:
       style: floating
       collapse-level: 1
       contents:
-        - index.qmd
+        - text: "← Review und Arbeitsstand"
+          href: index.html
         - auto: review/*.qmd
 
   page-navigation: true

@@ -52,23 +52,23 @@
     ]
   },
   {
-    "objectID": "review/18-sms-eintrittszeit.html",
-    "href": "review/18-sms-eintrittszeit.html",
-    "title": "SMS mit der Eintrittszeit",
+    "objectID": "review/03-email-fragebogen-ist.html",
+    "href": "review/03-email-fragebogen-ist.html",
+    "title": "Ist: E-Mail zum Gesundheitsfragebogen",
     "section": "",
-    "text": "Arbeitsversion: v1, 2026-10-30, Platzhalter\nStatus: Platzhalter\nQuelle: 400_SMS_Vorabend_Eintrittszeit/SMS_Eintrittszeit_Entwurf_v1_2026-10-30.qmd\n\n⟨Text der SMS folgt.⟩",
+    "text": "Ist-Dokument, unverändert. Quelle: 100_Email_AN_Gesundheitsfragebogen/_ausgangslage/Ist_Email_Gesundheitsfragebogen.md\n\n{health_praeop.Anrede} ?{health_praeop.PatVorNachName} Ihre behandelnde Ärztin oder Ihr behandelnder Arzt ?{health_praeop.Doctor} hat Sie für einen Eingriff / Operation in der Hirslanden Klinik St. Anna (inklusive Standorte St. Anna in Meggen und St. Anna im Bahnhof) angemeldet. Während des Eingriffs / Operation werden Sie von unserem Anästhesieteam betreut. Damit wir Ihre anästhesiologische Betreuung sicher planen können, benötigen wir vorab Informationen zu Ihrem Gesundheitszustand. Wichtig Bitte füllen Sie unseren Gesundheitsfragebogen aus. Darin fragen wir nach Ihren Erkrankungen und Medikamenten. Bitte halten Sie dafür Ihren aktuellen Medikamentenplan bereit. Das Ausfüllen des Gesundheitsfragebogen dauert etwa 15 Minuten. So gelangen Sie zum Gesundheitsfragebogen • Klicken Sie den Link zum Gesundheitsfragebogen • Zum Schutz Ihrer Daten erhalten Sie einen Code per SMS auf Ihr Mobiltelefon • Geben Sie den Code ein und füllen Sie den Fragebogen vollständig aus Bitte erledigen Sie dies zeitnah, idealerweise heute oder morgen. Der Link ist 5 Tage gültig. LINK ZUM GESUNDHEITSFRAGEBOGEN Brauchen Sie Hilfe? Falls Sie den Gesundheitsfragebogen nicht selbstständig oder mit Unterstützung aus Ihrem Umfeld ausfüllen können, rufen Sie uns unter +41 41 208 33 88 an. Wir helfen Ihnen gerne. Was passiert danach? Wenn Ihre Angaben im Gesundheitsfragebogen vollständig sind und sich daraus keine weiteren Fragen oder zusätzlichen Untersuchungen ergeben, meldet sich Ihre Anästhesieärztin oder Ihr Anästhesiearzt telefonisch am Tag vor dem Eingriff / Operation bei Ihnen. Der Telefonanruf erfolgt in der Regel am Vortag zwischen 13 und 17 Uhr. Falls Ihr Eingriff am Montag stattfindet, erfolgt das Telefon entweder am Freitag- oder Sonntagnachmittag. Wenn Ihre Angaben im Gesundheitsfragebogen oder der bevorstehende Eingriff weitere Abklärungen benötigen, erhalten Sie die kommenden Tage eine telefonische Einladung zu einem persönlichen Gespräch mit einer Anästhesieärztin oder einem Anästhesiearzt. Dieser Termin findet in der Regel bei uns im Anästhesiesekretariat der Hirslanden Klinik St. Anna an der St. Anna-Strasse 32 im 3. Stock Trakt C statt. Haben Sie Fragen? - Fragen zur Anästhesie, zum Anästhesiegespräch oder zum Gesundheitsfragebogen Telefon: +41 41 208 33 88 - Fragen zum Eingriff oder zur Operation Bitte wenden Sie sich an die Praxis Ihrer behandelnden Ärztin oder Ihres behandelnden Arztes. - Fragen zum Operationstermin oder zu Ihrem Eintritt zur Operation / Eingriff Telefon: +41 41 208 30 12\nFreundliche Grüsse Ihr Anästhesieteam Klinik für Anästhesie, Intensivmedizin und Schmerztherapie Hirslanden Klinik St. Anna St. Anna-Strasse 32 6006 Luzern\nE-Mail: kais@hirslanden.ch",
     "crumbs": [
-      "SMS mit der Eintrittszeit"
+      "Ist: E-Mail zum Gesundheitsfragebogen"
     ]
   },
   {
-    "objectID": "review/15-heft.html",
-    "href": "review/15-heft.html",
-    "title": "Faltblatt «Ihr Eintritt»",
+    "objectID": "review/03-email-fragebogen.html",
+    "href": "review/03-email-fragebogen.html",
+    "title": "E-Mail zum Gesundheitsfragebogen",
     "section": "",
-    "text": "Arbeitsversion: geändert 30.10.2026\nQuelle: 310_Couvert_Heft/Faltblatt.qmd\nIst-Dokument: Ist_Checkliste_stationaer.pdf (nur lokal)\n\nIn eigenem Fenster öffnen →",
+    "text": "Arbeitsversion: v1, 2026-10-30, Ausgangsversion\nStatus: Inhaltlich identisch mit dem Ist-Text (KAIS-Versand). Platzhalter in ⟨Klammern⟩ statt KAI…\nQuelle: 100_Email_AN_Gesundheitsfragebogen/Email_Gesundheitsfragebogen_Entwurf_v1_2026-10-30.qmd\nIst-Dokument: Ist_Email_Gesundheitsfragebogen.md\nHinweis: Kann bereits auf die Webseite verweisen, mit dem Hinweis, dass auf jeden Fall noch Post kommt.\n\n⟨Anrede⟩ ⟨Vorname Nachname⟩\nIhre behandelnde Ärztin oder Ihr behandelnder Arzt ⟨Name⟩ hat Sie für einen Eingriff / Operation in der Hirslanden Klinik St. Anna (inklusive Standorte St. Anna in Meggen und St. Anna im Bahnhof) angemeldet.\nWährend des Eingriffs / Operation werden Sie von unserem Anästhesieteam betreut. Damit wir Ihre anästhesiologische Betreuung sicher planen können, benötigen wir vorab Informationen zu Ihrem Gesundheitszustand.\nWichtig\nBitte füllen Sie unseren Gesundheitsfragebogen aus. Darin fragen wir nach Ihren Erkrankungen und Medikamenten. Bitte halten Sie dafür Ihren aktuellen Medikamentenplan bereit. Das Ausfüllen des Gesundheitsfragebogen dauert etwa 15 Minuten.\nSo gelangen Sie zum Gesundheitsfragebogen\n\nKlicken Sie den Link zum Gesundheitsfragebogen\nZum Schutz Ihrer Daten erhalten Sie einen Code per SMS auf Ihr Mobiltelefon\nGeben Sie den Code ein und füllen Sie den Fragebogen vollständig aus\n\nBitte erledigen Sie dies zeitnah, idealerweise heute oder morgen. Der Link ist 5 Tage gültig.\n⟨LINK ZUM GESUNDHEITSFRAGEBOGEN⟩\nBrauchen Sie Hilfe?\nFalls Sie den Gesundheitsfragebogen nicht selbstständig oder mit Unterstützung aus Ihrem Umfeld ausfüllen können, rufen Sie uns unter +41 41 208 33 88 an. Wir helfen Ihnen gerne.\nWas passiert danach?\nWenn Ihre Angaben im Gesundheitsfragebogen vollständig sind und sich daraus keine weiteren Fragen oder zusätzlichen Untersuchungen ergeben, meldet sich Ihre Anästhesieärztin oder Ihr Anästhesiearzt telefonisch am Tag vor dem Eingriff / Operation bei Ihnen. Der Telefonanruf erfolgt in der Regel am Vortag zwischen 13 und 17 Uhr. Falls Ihr Eingriff am Montag stattfindet, erfolgt das Telefon entweder am Freitag- oder Sonntagnachmittag.\nWenn Ihre Angaben im Gesundheitsfragebogen oder der bevorstehende Eingriff weitere Abklärungen benötigen, erhalten Sie die kommenden Tage eine telefonische Einladung zu einem persönlichen Gespräch mit einer Anästhesieärztin oder einem Anästhesiearzt. Dieser Termin findet in der Regel bei uns im Anästhesiesekretariat der Hirslanden Klinik St. Anna an der St. Anna-Strasse 32 im 3. Stock Trakt C statt.\nHaben Sie Fragen?\n\nFragen zur Anästhesie, zum Anästhesiegespräch oder zum Gesundheitsfragebogen: Telefon +41 41 208 33 88\nFragen zum Eingriff oder zur Operation: Bitte wenden Sie sich an die Praxis Ihrer behandelnden Ärztin oder Ihres behandelnden Arztes.\nFragen zum Operationstermin oder zu Ihrem Eintritt zur Operation / Eingriff: Telefon +41 41 208 30 12\n\nFreundliche Grüsse\nIhr Anästhesieteam\nKlinik für Anästhesie, Intensivmedizin und Schmerztherapie\nHirslanden Klinik St. Anna\nSt. Anna-Strasse 32\n6006 Luzern\nE-Mail: kais@hirslanden.ch",
     "crumbs": [
-      "Faltblatt «Ihr Eintritt»"
+      "E-Mail zum Gesundheitsfragebogen"
     ]
   },
   {
@@ -88,7 +88,7 @@
     "section": "",
     "text": "Review-Fassung «Stationär: Ihr Eintritt, Schritt für Schritt», →",
     "crumbs": [
-      "Review und Arbeitsstand"
+      "← Review und Arbeitsstand"
     ]
   },
   {
@@ -98,7 +98,7 @@
     "section": "",
     "text": "Review-Fassung «Stationär: Ihr Eintritt, Schritt für Schritt», →",
     "crumbs": [
-      "Review und Arbeitsstand"
+      "← Review und Arbeitsstand"
     ]
   },
   {
@@ -106,9 +106,9 @@
     "href": "index.html#alle-artefakte-aktueller-arbeitsstand",
     "title": "Review und Arbeitsstand",
     "section": "Alle Artefakte (aktueller Arbeitsstand)",
-    "text": "Alle Artefakte (aktueller Arbeitsstand)\n\n\nPersonae: Zielgruppenanalyse\nZuweiserinfo präoperativer Prozess\nNachrichten der Anästhesie zum Gesundheitsfragebogen\n\nE-Mail zum Gesundheitsfragebogen\nSMS zum Gesundheitsfragebogen\n\nGesundheitsfragebogen\nWebseite\n\nStationär, Ihr Eintritt Schritt für Schritt\nAmbulant\nHerzkatheter (pending)\nMotion (pending)\n\nHüfte\nKnie\nWirbelsäule\n\nVideo zum Eintrittsprozess\n\nCouvert\n\nAnmeldebestätigung\nFaltblatt «Ihr Eintritt»\nAnästhesieaufklärung (Daniel)\nLegal-Texte\n\nSMS mit der Eintrittszeit (Platzhalter)",
+    "text": "Alle Artefakte (aktueller Arbeitsstand)\n\n\nPersonae: Zielgruppenanalyse\nZuweiserinfo präoperativer Prozess\nNachrichten der Anästhesie zum Gesundheitsfragebogen\n\nE-Mail zum Gesundheitsfragebogen\nSMS zum Gesundheitsfragebogen\n\nGesundheitsfragebogen\nWebseite\n\nStationär, Ihr Eintritt Schritt für Schritt\nAmbulant\nHerzkatheter (pending)\nMotion (pending)\n\nHüfte\nKnie\nWirbelsäule\n\nVideo zum Eintrittsprozess\n\nCouvert\n\nAnmeldebestätigung\nFaltblatt «Ihr Eintritt»\nAnästhesieaufklärung (Daniel)\nLegal-Texte\n\nEintrittsformular mit Behandlungsvertrag\nDatenverarbeitung für nicht medizinische Dienstleistungen\nElektronisches Patientendossier (EPD)\nGeneralkonsent Forschung\n\nTaxigutscheine, nur bei Privatversicherung\n\nSMS mit der Eintrittszeit (Platzhalter)",
     "crumbs": [
-      "Review und Arbeitsstand"
+      "← Review und Arbeitsstand"
     ]
   },
   {
@@ -357,23 +357,23 @@
     "text": "Ich habe eine Frage: An wen wende ich mich?\nKurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber einmal mehr angerufen:\n\nEintritt, Operationstermin: Patientendisposition, +41 41 208 30 12, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr\nGesundheitsfragebogen, medizinische Unterlagen und Narkose: Anästhesie, +41 41 208 33 88, Montag bis Freitag Zeiten\nFragen zur Operation selbst: Rufen Sie die Praxis Ihrer Operateurin oder Ihres Operateurs an\nDringend, rund um die Uhr: Klinik-Nummer. Bei Atemnot oder Brustschmerz direkt 144"
   },
   {
-    "objectID": "review/03-email-fragebogen.html",
-    "href": "review/03-email-fragebogen.html",
-    "title": "E-Mail zum Gesundheitsfragebogen",
+    "objectID": "review/23-sms-eintrittszeit.html",
+    "href": "review/23-sms-eintrittszeit.html",
+    "title": "SMS mit der Eintrittszeit",
     "section": "",
-    "text": "Arbeitsversion: v1, 2026-10-30, Ausgangsversion\nStatus: Inhaltlich identisch mit dem Ist-Text (KAIS-Versand). Platzhalter in ⟨Klammern⟩ statt KAI…\nQuelle: 100_Email_AN_Gesundheitsfragebogen/Email_Gesundheitsfragebogen_Entwurf_v1_2026-10-30.qmd\nIst-Dokument: Ist_Email_Gesundheitsfragebogen.md\nHinweis: Kann bereits auf die Webseite verweisen, mit dem Hinweis, dass auf jeden Fall noch Post kommt.\n\n⟨Anrede⟩ ⟨Vorname Nachname⟩\nIhre behandelnde Ärztin oder Ihr behandelnder Arzt ⟨Name⟩ hat Sie für einen Eingriff / Operation in der Hirslanden Klinik St. Anna (inklusive Standorte St. Anna in Meggen und St. Anna im Bahnhof) angemeldet.\nWährend des Eingriffs / Operation werden Sie von unserem Anästhesieteam betreut. Damit wir Ihre anästhesiologische Betreuung sicher planen können, benötigen wir vorab Informationen zu Ihrem Gesundheitszustand.\nWichtig\nBitte füllen Sie unseren Gesundheitsfragebogen aus. Darin fragen wir nach Ihren Erkrankungen und Medikamenten. Bitte halten Sie dafür Ihren aktuellen Medikamentenplan bereit. Das Ausfüllen des Gesundheitsfragebogen dauert etwa 15 Minuten.\nSo gelangen Sie zum Gesundheitsfragebogen\n\nKlicken Sie den Link zum Gesundheitsfragebogen\nZum Schutz Ihrer Daten erhalten Sie einen Code per SMS auf Ihr Mobiltelefon\nGeben Sie den Code ein und füllen Sie den Fragebogen vollständig aus\n\nBitte erledigen Sie dies zeitnah, idealerweise heute oder morgen. Der Link ist 5 Tage gültig.\n⟨LINK ZUM GESUNDHEITSFRAGEBOGEN⟩\nBrauchen Sie Hilfe?\nFalls Sie den Gesundheitsfragebogen nicht selbstständig oder mit Unterstützung aus Ihrem Umfeld ausfüllen können, rufen Sie uns unter +41 41 208 33 88 an. Wir helfen Ihnen gerne.\nWas passiert danach?\nWenn Ihre Angaben im Gesundheitsfragebogen vollständig sind und sich daraus keine weiteren Fragen oder zusätzlichen Untersuchungen ergeben, meldet sich Ihre Anästhesieärztin oder Ihr Anästhesiearzt telefonisch am Tag vor dem Eingriff / Operation bei Ihnen. Der Telefonanruf erfolgt in der Regel am Vortag zwischen 13 und 17 Uhr. Falls Ihr Eingriff am Montag stattfindet, erfolgt das Telefon entweder am Freitag- oder Sonntagnachmittag.\nWenn Ihre Angaben im Gesundheitsfragebogen oder der bevorstehende Eingriff weitere Abklärungen benötigen, erhalten Sie die kommenden Tage eine telefonische Einladung zu einem persönlichen Gespräch mit einer Anästhesieärztin oder einem Anästhesiearzt. Dieser Termin findet in der Regel bei uns im Anästhesiesekretariat der Hirslanden Klinik St. Anna an der St. Anna-Strasse 32 im 3. Stock Trakt C statt.\nHaben Sie Fragen?\n\nFragen zur Anästhesie, zum Anästhesiegespräch oder zum Gesundheitsfragebogen: Telefon +41 41 208 33 88\nFragen zum Eingriff oder zur Operation: Bitte wenden Sie sich an die Praxis Ihrer behandelnden Ärztin oder Ihres behandelnden Arztes.\nFragen zum Operationstermin oder zu Ihrem Eintritt zur Operation / Eingriff: Telefon +41 41 208 30 12\n\nFreundliche Grüsse\nIhr Anästhesieteam\nKlinik für Anästhesie, Intensivmedizin und Schmerztherapie\nHirslanden Klinik St. Anna\nSt. Anna-Strasse 32\n6006 Luzern\nE-Mail: kais@hirslanden.ch",
+    "text": "Arbeitsversion: v1, 2026-10-30, Platzhalter\nStatus: Platzhalter\nQuelle: 400_SMS_Vorabend_Eintrittszeit/SMS_Eintrittszeit_Entwurf_v1_2026-10-30.qmd\n\n⟨Text der SMS folgt.⟩",
     "crumbs": [
-      "E-Mail zum Gesundheitsfragebogen"
+      "SMS mit der Eintrittszeit"
     ]
   },
   {
-    "objectID": "review/03-email-fragebogen-ist.html",
-    "href": "review/03-email-fragebogen-ist.html",
-    "title": "Ist: E-Mail zum Gesundheitsfragebogen",
+    "objectID": "review/15-heft.html",
+    "href": "review/15-heft.html",
+    "title": "Faltblatt «Ihr Eintritt»",
     "section": "",
-    "text": "Ist-Dokument, unverändert. Quelle: 100_Email_AN_Gesundheitsfragebogen/_ausgangslage/Ist_Email_Gesundheitsfragebogen.md\n\n{health_praeop.Anrede} ?{health_praeop.PatVorNachName} Ihre behandelnde Ärztin oder Ihr behandelnder Arzt ?{health_praeop.Doctor} hat Sie für einen Eingriff / Operation in der Hirslanden Klinik St. Anna (inklusive Standorte St. Anna in Meggen und St. Anna im Bahnhof) angemeldet. Während des Eingriffs / Operation werden Sie von unserem Anästhesieteam betreut. Damit wir Ihre anästhesiologische Betreuung sicher planen können, benötigen wir vorab Informationen zu Ihrem Gesundheitszustand. Wichtig Bitte füllen Sie unseren Gesundheitsfragebogen aus. Darin fragen wir nach Ihren Erkrankungen und Medikamenten. Bitte halten Sie dafür Ihren aktuellen Medikamentenplan bereit. Das Ausfüllen des Gesundheitsfragebogen dauert etwa 15 Minuten. So gelangen Sie zum Gesundheitsfragebogen • Klicken Sie den Link zum Gesundheitsfragebogen • Zum Schutz Ihrer Daten erhalten Sie einen Code per SMS auf Ihr Mobiltelefon • Geben Sie den Code ein und füllen Sie den Fragebogen vollständig aus Bitte erledigen Sie dies zeitnah, idealerweise heute oder morgen. Der Link ist 5 Tage gültig. LINK ZUM GESUNDHEITSFRAGEBOGEN Brauchen Sie Hilfe? Falls Sie den Gesundheitsfragebogen nicht selbstständig oder mit Unterstützung aus Ihrem Umfeld ausfüllen können, rufen Sie uns unter +41 41 208 33 88 an. Wir helfen Ihnen gerne. Was passiert danach? Wenn Ihre Angaben im Gesundheitsfragebogen vollständig sind und sich daraus keine weiteren Fragen oder zusätzlichen Untersuchungen ergeben, meldet sich Ihre Anästhesieärztin oder Ihr Anästhesiearzt telefonisch am Tag vor dem Eingriff / Operation bei Ihnen. Der Telefonanruf erfolgt in der Regel am Vortag zwischen 13 und 17 Uhr. Falls Ihr Eingriff am Montag stattfindet, erfolgt das Telefon entweder am Freitag- oder Sonntagnachmittag. Wenn Ihre Angaben im Gesundheitsfragebogen oder der bevorstehende Eingriff weitere Abklärungen benötigen, erhalten Sie die kommenden Tage eine telefonische Einladung zu einem persönlichen Gespräch mit einer Anästhesieärztin oder einem Anästhesiearzt. Dieser Termin findet in der Regel bei uns im Anästhesiesekretariat der Hirslanden Klinik St. Anna an der St. Anna-Strasse 32 im 3. Stock Trakt C statt. Haben Sie Fragen? - Fragen zur Anästhesie, zum Anästhesiegespräch oder zum Gesundheitsfragebogen Telefon: +41 41 208 33 88 - Fragen zum Eingriff oder zur Operation Bitte wenden Sie sich an die Praxis Ihrer behandelnden Ärztin oder Ihres behandelnden Arztes. - Fragen zum Operationstermin oder zu Ihrem Eintritt zur Operation / Eingriff Telefon: +41 41 208 30 12\nFreundliche Grüsse Ihr Anästhesieteam Klinik für Anästhesie, Intensivmedizin und Schmerztherapie Hirslanden Klinik St. Anna St. Anna-Strasse 32 6006 Luzern\nE-Mail: kais@hirslanden.ch",
+    "text": "Arbeitsversion: geändert 30.10.2026\nQuelle: 310_Couvert_Heft/Faltblatt.qmd\nIst-Dokument: Ist_Checkliste_stationaer.pdf (nur lokal)\n\nIn eigenem Fenster öffnen →",
     "crumbs": [
-      "Ist: E-Mail zum Gesundheitsfragebogen"
+      "Faltblatt «Ihr Eintritt»"
     ]
   },
   {
