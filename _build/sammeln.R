@@ -170,7 +170,7 @@ for (g in manifest$gruppen) {
   for (a in g$artefakte) {
     order <- order + 1
     e <- list(gruppe = g$titel, id = a$id, titel = a$titel, typ = a$typ, status = a$status %||% "",
-              eingerueckt = isTRUE(a$eingerueckt), status_manifest = a$status %||% "",
+              eingerueckt = isTRUE(a$eingerueckt), pdf = NULL, status_manifest = a$status %||% "",
               hinweis = a$hinweis %||% "", version = "", seite = NULL, quelle_rel = a$quelle %||% "",
               quelle_lokal = NULL, ist_quelle = NULL, ist_link = NULL, ist_lokal = NULL)
     datei <- sprintf("%02d-%s.qmd", order, a$id)
@@ -266,6 +266,11 @@ for (g in manifest$gruppen) {
     if (a$typ == "verweis") {
       e$ziel <- a$ziel
     }
+    if (!is.null(a$pdf) && file_exists(path(projekt_dir, a$pdf))) {
+      dir_create(path(review_dir, "pdf"))
+      file_copy(path(projekt_dir, a$pdf), path(review_dir, "pdf", path_file(a$pdf)), overwrite = TRUE)
+      e$pdf <- paste0("pdf/", path_file(a$pdf))
+    }
     if (a$typ == "extern") {
       e$bei <- a$bei %||% ""
       e$quelle_lokal <- a$quelle
@@ -340,7 +345,9 @@ in_arbeit <- function(e) {
 listenpunkt <- function(e, tiefe) {
   text <- e$titel
   if (!is.null(e$seite)) text <- paste0("[", text, "](", web_pfad(e$seite), ")")
+  else if (!is.null(e$pdf)) text <- paste0("[", text, " (PDF)](", web_pfad(e$pdf), ")")
   if (in_arbeit(e)) text <- paste0("**", text, "**")
+  if (!is.null(e$seite) && !is.null(e$pdf)) text <- paste0(text, " · [PDF](", web_pfad(e$pdf), ")")
   if (e$typ == "extern" && e$bei != "") text <- paste0(text, " (", e$bei, ")")
   else if (e$status_manifest != "") text <- paste0(text, " (", e$status_manifest, ")")
   paste0(strrep("    ", tiefe), "- ", text)

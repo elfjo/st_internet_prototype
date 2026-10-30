@@ -13,8 +13,8 @@ sidebar: false
 <!-- arbeitsstand:start -->
 - **[Personae: Zielgruppenanalyse](personae.html)**
 - Zuweiser
-    - **[Webseite «Präoperative Beurteilung» für Hausärzte](review/02-zuweiser-webseite.qmd)**
-    - Broschüre Anästhesie für Hausärzte
+    - [Broschüre Preop Informationen HA (PDF)](review/pdf/Ist_Broschuere_Anaesthesie_Hausarzt.pdf)
+    - **[Formular Hausarzt Preop](review/03-formular-hausarzt-preop.qmd)** · [PDF](review/pdf/Ist_Webseite_Praeoperative_Beurteilung_Hausarzt.pdf)
 - Nachrichten der Anästhesie zum Gesundheitsfragebogen
     - **[E-Mail zum Gesundheitsfragebogen](review/04-email-fragebogen.qmd)**
     - **[SMS zum Gesundheitsfragebogen](review/05-sms-fragebogen.qmd)**

@@ -6,6 +6,7 @@ project:
     - robots.txt
     - _headers
     - review/heft/**
+    - review/pdf/**
     - review/media/**
 
 lang: de
