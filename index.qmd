@@ -19,16 +19,17 @@ sidebar: false
 - Gesundheitsfragebogen
 - Webseite
     - **[Stationär, Ihr Eintritt Schritt für Schritt](stationaer.html)**
-    - **[Ambulant](ambulant.html)**
+    - [Ambulant](ambulant.html) (pending)
     - [Herzkatheter](herzkatheter.html) (pending)
     - Motion (pending)
         - Hüfte
         - Knie
         - Wirbelsäule
+    - Geburt
     - Video zum Eintrittsprozess
 - Couvert
-    - **[Anmeldebestätigung](review/14-brief.qmd)**
-    - **[Faltblatt «Ihr Eintritt»](review/15-heft.qmd)**
+    - **[Anmeldebestätigung](review/15-brief.qmd)**
+    - **[Faltblatt «Ihr Eintritt»](review/16-heft.qmd)**
     - Anästhesieaufklärung (Daniel)
     - Legal-Texte
         - Eintrittsformular mit Behandlungsvertrag
@@ -36,5 +37,5 @@ sidebar: false
         - Elektronisches Patientendossier (EPD)
         - Generalkonsent Forschung
     - Taxigutscheine, nur bei Privatversicherung
-- [SMS mit der Eintrittszeit](review/23-sms-eintrittszeit.qmd) (Platzhalter)
+- [SMS mit der Eintrittszeit](review/24-sms-eintrittszeit.qmd) (Platzhalter)
 <!-- arbeitsstand:ende -->
