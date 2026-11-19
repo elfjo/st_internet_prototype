@@ -32,7 +32,6 @@ Auch nach einer Zusage gilt: Wenn Ihnen im Nachhinein zusätzliche Fragen kommen
 
 Für viele Beschwerden gibt es mehr als einen Weg. Zu einer guten
 Entscheidung gehört, dass Sie kennen und Übersicht haben über:
-
 - die vorgeschlagene Operation
 - andere Behandlungen ohne Operation
 - Abwarten mit regelmässiger Kontrolle. Auch das ist eine aktive
@@ -60,7 +59,6 @@ Nehmen Sie diese Fragen mit in die Sprechstunde:
 :::
 
 Drei Dinge, die das Gespräch erfahrungsgemäss erleichtern können:
-
 - **Nehmen Sie jemanden mit.** Vier Ohren hören mehr als zwei, und zu
   zweit lässt sich das Gehörte bei Bedarf danach in Ruhe sortieren.
 - **Notieren Sie Ihre Fragen vorher.** Am besten am Vortag auf einem

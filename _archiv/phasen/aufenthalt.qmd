@@ -53,7 +53,6 @@ allem, was Sie beschäftigt.
 
 An Ihrer Behandlung sind mehrere Berufsgruppen beteiligt. Damit Sie
 wissen, wen Sie vor sich haben:
-
 - [Pflegefachpersonen: Ihre erste Anlaufstelle, rund um die Uhr]{.ph}
 - [Ärztinnen und Ärzte: Operateur, Anästhesie, Stationsarzt: wer
   wofür zuständig ist]{.ph}

@@ -18,7 +18,6 @@ rechtzeitig behandeln; das senkt Komplikationen und Transfusionen.
 Der Algorithmus ist regional einheitlich abgestimmt.]{.lede}
 
 ## Das Wichtigste {#kern}
-
 - **Ziel:** präoperativer Hb **130 g/l**, bei Frauen und Männern.
 - **Wann abklären:** elektive Eingriffe mit potenziellem Blutverlust
   über [500 ml bzw. 10 ml/kg]{.ph}, insbesondere Gelenkersatz und
@@ -36,7 +35,6 @@ Der Algorithmus ist regional einheitlich abgestimmt.]{.lede}
 ## Der Algorithmus {#algorithmus}
 
 Nach dem PBM-Labor entscheidet die Konstellation:
-
 - **Hb unter 100 g/l, Ursache unbekannt:** Operationsstopp und
   Abklärung.
 - **Hb 100 bis 130 g/l:**
@@ -53,7 +51,6 @@ Nach dem PBM-Labor entscheidet die Konstellation:
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Dosierung und Anwendung
-
 - **Eisencarboxymaltose:** Kurzinfusion über 20 bis 30 Minuten unter
   Monitorkontrolle, [20 mg/kg, maximal 1 g pro Woche]{.ph}.
 - **EPO-α:** 600 E/kg s.c., [z. B. 40'000 E, maximal 1-mal pro

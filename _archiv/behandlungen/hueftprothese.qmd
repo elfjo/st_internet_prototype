@@ -72,7 +72,6 @@ zusammengefasst.
 :::
 
 ## Gut zu wissen
-
 - [Ihre Anästhesie bei der Hüftoperation](hueftprothese/anaesthesie.qmd)
 - [Praktisches rund um den Aufenthalt: Anreise, Zimmer, Besuch, WLAN;
   «Gut zu wissen», Seite noch nicht angelegt]{.ph}

@@ -53,7 +53,6 @@ davon haben Sie selbst in der Hand:
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Die Zeit bis zum Eintritt nutzen: Kraft, Ernährung, Rauchstopp
-
 - **Kraft aufbauen:** Das Übungsprogramm, das Sie nach der Operation
   begleitet, dürfen Sie schon vorher beginnen; die Anleitung erhalten
   Sie am Übungstermin bei der Physiotherapie. Darüber hinaus gilt:
@@ -78,7 +77,6 @@ bewusst Platz bekommen.
 :::
 
 ### Essen und Trinken vor dem Eintritt {#nuechtern}
-
 - Essen bis **6 Stunden** vor der Eintrittszeit, danach bitte nichts
   mehr.
 - Trinken (Wasser ohne Kohlensäure, Tee, schwarzer Kaffee, Zucker ist
@@ -157,7 +155,6 @@ einen Anruf verdient:
 
 ::: {.care}
 ### Melden Sie sich sofort bei diesen Anzeichen
-
 - Fieber über [38.5 °C]{.ph}
 - Zunehmende Rötung, Schwellung oder Nässen der Wunde
 - Plötzlich stark zunehmende Schmerzen

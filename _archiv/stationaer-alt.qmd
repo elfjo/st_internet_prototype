@@ -81,7 +81,6 @@ gepflegt und verlinkt.
 :::
 
 ## Gut zu wissen
-
 - [Das Wichtigste auf einem Blatt, zum Ausdrucken](merkblatt.qmd)
 - [Ihre Anästhesie: Fragebogen, Gespräch, Verfahren](anaesthesie.qmd)
 

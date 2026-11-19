@@ -31,7 +31,6 @@ den digitalen Gesundheitsfragebogen für Sie ausgelöst. Die E-Mail mit
 dem Link liegt schon in Ihrem Postfach. Ihre Angaben sind eine
 wichtige Grundlage, auf der das Anästhesieteam das für Sie passende
 Vorgehen plant.
-
 - Der Link ist **5 Tage gültig**. Am besten füllen Sie den
   Fragebogen heute oder morgen aus.
 - Dauer etwa **15 Minuten**; mit dem aktuellen Medikamentenplan zur

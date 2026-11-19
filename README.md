@@ -22,7 +22,6 @@ anlegen, pushen, in Netlify «Import from Git» wählen — Build command
 leer lassen.
 
 ## Struktur
-
 - `index.qmd` — Einstiegsseite mit Phasennavigation (Ich-Form nach dem
   Grazer Muster), Kontaktzone getrennt von der Information
 - `phasen/vorbereitung.qmd` — generische Phasenseite («Ich bereite
@@ -48,7 +47,6 @@ Anspannung utilisieren statt wegerklären. Negationen nur, wo sie
 sicherheitskritisch sind (Nüchternheit, Blutverdünner, Warnzeichen) —
 dort klare Instruktionssprache, keine Weichzeichnung. Keine
 Wirkversprechen über die Evidenz hinaus.
-
 - Platzhalter für klinische Angaben: `[Text]{.ph}` — rendert violett
   in ⟨Klammern⟩. Nichts davon ist geprüfte medizinische Information.
 - Warnhinweise: `::: {.warnung}` mit inhaltlicher `###`-Überschrift,

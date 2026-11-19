@@ -36,7 +36,6 @@ Die Wochen bis zum Eintritt können Sie aktiv für eine optimale Vorbereitung nu
 
 ::: {.callout-note collapse="true" icon="false"}
 ### Die Zeit bis zum Eintritt nutzen: Kraft, Ernährung, Rauchstopp
-
 - **In Bewegung bleiben:** so aktiv, wie Ihr Gesundheitszustand es
   zulässt. Schon tägliches Gehen erhält Kraft und Ausdauer.
 - **Essen für die Heilung:** ausgewogen, genug Eiweiss, wenig
@@ -55,7 +54,6 @@ eingenommen sein, sprechen Sie mit uns über das, was Sie beschäftigt.
 :::
 
 ### Essen und Trinken vor dem Eintritt {#nuechtern}
-
 - Essen bis **6 Stunden** vor der Eintrittszeit, danach bitte nichts
   mehr.
 - Trinken (Wasser ohne Kohlensäure, Tee, schwarzer Kaffee, Zucker ist
@@ -145,7 +143,6 @@ einen Anruf verdient:
 
 ::: {.care}
 ### Melden Sie sich sofort bei diesen Anzeichen
-
 - Fieber über [38.5 °C]{.ph}
 - Zunehmende Rötung, Schwellung oder Nässen der Wunde
 - Plötzlich stark zunehmende Schmerzen

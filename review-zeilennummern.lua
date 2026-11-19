@@ -10,11 +10,20 @@ local function attr()
   return pandoc.Attr("z" .. n, { "zn" }, { { "data-z", tostring(n) } })
 end
 
+-- Im HTML bleibt die Marke leer (das Skript stellt die Nummer in die Randspalte);
+-- in Word steht die Nummer sichtbar vor dem Block, damit Korrekturen dieselben Nummern tragen.
 local function marke()
+  if FORMAT:match("docx") then
+    local a = attr(); a.attributes["custom-style"] = "Zeilennummer"
+    return pandoc.Span({ pandoc.Str(tostring(n)), pandoc.Space() }, a)
+  end
   return pandoc.Span({}, attr())
 end
 
 local function block_marke(el)
+  if FORMAT:match("docx") then
+    return pandoc.Div({ pandoc.Para({ marke() }), el })
+  end
   return pandoc.Div({ el }, attr())
 end
 
@@ -86,13 +95,25 @@ local function ist_review(blocks)
   return false
 end
 
+local ph = {
+  Span = function(el)
+    if FORMAT:match("docx") and el.classes:includes("ph") then
+      el.content:insert(1, pandoc.Str("⟨")); el.content:insert(pandoc.Str("⟩"))
+      return el
+    end
+  end,
+}
+
 return {
   {
     Pandoc = function(doc)
       if not ist_review(doc.blocks) then return nil end
+      -- Word-Fassung: ohne Nummern, die Korrektur läuft im Überarbeitungsmodus
+      if FORMAT:match("docx") then return nil end
       n = 0
       doc.blocks = doc.blocks:walk(filter)
       return doc
     end,
   },
+  ph,
 }

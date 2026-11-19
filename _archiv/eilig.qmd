@@ -25,7 +25,6 @@ Das Wichtigste (diese Seite hier) als Merkblatt zum **Ausdrucken**:
 ## Die häufigsten Fragen, direkt beantwortet {#schnellantworten}
 
 ## Ab wann darf ich nichts mehr essen und trinken? {#nuechtern}
-
 - Essen bis **6 Stunden** vor der Eintrittszeit
 - Trinken (Wasser ohne Kohlensäure, Tee, schwarzer Kaffee) bis **2 Stunden** vorher
 - Danach nichts mehr, auch keine Bonbons oder Kaugummis.
@@ -42,7 +41,6 @@ Diabetesmedikamente** pausieren Sie nur nach Absprache mit Ihrer
 [Details zu Ihren Medikamenten →](phasen/vorbereitung.qmd#medikamente)
 
 ## Was nehme ich mit? {#mitnehmen}
-
 - Versichertenkarte
 - Ausweis
 - Medikamentenliste
@@ -51,7 +49,6 @@ Diabetesmedikamente** pausieren Sie nur nach Absprache mit Ihrer
 - bequeme Kleidung
 - feste Schuhe
 - Toilettenartikel
-
 - Schmuck und Wertsachen bleiben zu Hause.
 
 [Vollständige Packliste →](phasen/vorbereitung.qmd#packliste)

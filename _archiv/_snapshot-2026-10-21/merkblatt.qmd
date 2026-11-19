@@ -28,7 +28,6 @@ Aufhängen.]{.lede}
 | Bei Fragen vorab | [Telefonnummer, Mo–Fr xx–xx Uhr]{.ph} |
 
 ## Essen und Trinken vor dem Eintritt
-
 - Bis **6 Stunden** vor der Eintrittszeit: leichte Mahlzeit erlaubt,
   danach nichts mehr essen.
 - Bis **2 Stunden** vor dem Eintritt: Wasser ohne Kohlensäure, Tee oder
@@ -39,7 +38,6 @@ Aufhängen.]{.lede}
 {{< include _rechenbeispiel.qmd >}}
 
 ## Medikamente
-
 - Alle gewohnten Medikamente weiternehmen, **ausser** es wurde anders
   mit Ihnen besprochen.
 - **Blutverdünner und Diabetesmedikamente:** nur nach Absprache
@@ -54,7 +52,6 @@ bequeme Kleidung · feste rutschfeste Schuhe · Toilettenartikel ·
 Brille, Hörgerät mit Batterien, CPAP-Gerät. **Zu Hause lassen:** Schmuck, Wertsachen.
 
 ## Vorher noch erledigen
-
 - Gesundheitsfragebogen ausfüllen (Link in E-Mail und SMS)
 - Eintrittsformular ausfüllen und zurücksenden
 - Abholung nach dem Austritt organisieren (nicht selbst fahren)

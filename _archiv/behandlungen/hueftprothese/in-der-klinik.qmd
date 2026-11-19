@@ -21,7 +21,6 @@ die Heilung in Gang, und mit jedem Tag übernehmen Sie mehr
 selbst.]{.lede}
 
 ## So kommen Sie auf die Beine {#programm}
-
 - **Operationstag:** die ersten Schritte an Stöcken, mit Begleitung.
   Das operierte Bein darf teilbelastet werden.
 - **Tag 1:** Gehtraining, Körperpflege mit Unterstützung, normales
@@ -48,7 +47,6 @@ stellen wir die Behandlung auf Sie ein.
 
 An Ihrer Behandlung sind mehrere Berufsgruppen beteiligt. Damit Sie
 wissen, wen Sie vor sich haben:
-
 - [Pflegefachpersonen: Ihre erste Anlaufstelle, rund um die Uhr]{.ph}
 - [Ärztinnen und Ärzte: Operateur, Anästhesie, Stationsarzt: wer
   wofür zuständig ist]{.ph}

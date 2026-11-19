@@ -98,7 +98,6 @@ einen Anruf verdient:
 
 ::: {.care}
 ### Melden Sie sich sofort bei diesen Anzeichen {#warnzeichen}
-
 - Fieber über [38.5 °C]{.ph}
 - Zunehmende Rötung, Schwellung oder Nässen der Wunde
 - Plötzlich stark zunehmende Schmerzen
