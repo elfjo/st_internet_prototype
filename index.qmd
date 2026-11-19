@@ -26,7 +26,7 @@ sidebar: false
         - Hüfte
         - Knie
         - Wirbelsäule
-    - **[Video zum Eintrittsprozess: Sprechtext](review/14-video.qmd)** (Entwurf, vor dem Gespräch mit der Produktionsfirma)
+    - **[Video zum Eintrittsprozess](review/14-video.qmd)**
 - Couvert
     - **[Anmeldebestätigung](review/15-brief.qmd)**
     - **[Faltblatt «Ihr Eintritt»](review/16-heft.qmd)**
