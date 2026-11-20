@@ -1,8 +1,7 @@
 ::: {.kontakt-hilfe}
 ## Ich habe eine Frage: An wen wende ich mich? {.unnumbered}
 
-Kurzer Draht statt langer Suche. Jede Frage ist willkommen, denn lieber
-einmal mehr angerufen:
+Hier finden Sie die richtige Nummer für Ihre Frage.
 
 {{< include _kontaktliste.qmd >}}
 :::

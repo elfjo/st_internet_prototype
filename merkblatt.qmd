@@ -28,7 +28,7 @@ Struktur-Prototyp. Inhalte beispielhafte Platzhalter.
 
 ## Essen und Trinken vor dem Eintritt
 - Bis **6 Stunden** vor der Eintrittszeit: leichte Mahlzeit erlaubt, danach nichts mehr essen.
-- Bis **2 Stunden** vor dem Eintritt: Wasser, Tee oder schwarzer Kaffee erlaubt.
+- Bis **2 Stunden** vor dem Eintritt: Wasser, Tee oder Kaffee ohne Milch erlaubt.
 - Die **2 Stunden** direkt vor dem Eintritt: gar nichts mehr, auch keine Bonbons oder Kaugummis.
 
 {{< include _rechenbeispiel.qmd >}}
