@@ -25,11 +25,11 @@ p,li,td{font-size:11.5pt;line-height:1.36;font-weight:400}
 p{margin:0 0 6pt}
 h1{font:500 22pt/1.1 var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--ink-head);margin:0 0 6pt;border:0;padding:0}
 h2{font:500 14.5pt/1.2 var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--ink-head);margin:0 0 7pt;border:0;padding:0}
-.page h2:not(:first-child){margin-top:9pt}
-h3{font:600 9.5pt/1.3 var(--sans);text-transform:uppercase;letter-spacing:.12em;color:var(--ink-head);margin:9pt 0 3pt;border:0;padding:0}
+.page h2:not(:first-child){margin-top:6pt}
+h3{font:600 10pt/1.3 var(--sans);text-transform:uppercase;letter-spacing:.12em;color:var(--ink-head);margin:9pt 0 3pt;border:0;padding:0}
 strong{font-weight:600;color:var(--ink-head)}
 .lede{font:400 13pt/1.4 var(--sans);color:var(--ink-head);display:block;margin-bottom:8pt}
-.klein{font-size:9.6pt;color:var(--ink-soft);line-height:1.35;display:block;margin-bottom:5pt}
+.klein{font-size:10.3pt;color:var(--ink-soft);line-height:1.35;display:block;margin-bottom:5pt}
 .pnum{position:absolute;bottom:7mm;font-size:8.5pt;color:var(--ink-soft)}
 .pnum p{margin:0;font-size:8.5pt}
 .left .pnum{left:11mm}.right .pnum{right:11mm}
@@ -40,12 +40,14 @@ strong{font-weight:600;color:var(--ink-head)}
 
 /* Listen */
 .page ul{padding:0;list-style:none;margin:0 0 5pt}
-.pack li{position:relative;padding-left:20px;margin:0 0 2.5pt;font-size:10.5pt;line-height:1.3}
+.pack li{position:relative;padding-left:20px;margin:0 0 3pt;font-size:10.8pt;line-height:1.3}
 .pack li::before{content:"";position:absolute;left:0;top:4px;width:10px;height:10px;border:1.2px solid var(--ink-head)}
-.kontakte p{font-size:10pt;margin-bottom:2pt;line-height:1.28}
+.kontakte{display:grid;grid-template-columns:1fr 1fr;gap:9pt 16px;margin-top:3pt}
+.kontakte p{font-size:10.8pt;margin:0;line-height:1.35}
+.kontakte .tel{color:var(--blue);font-weight:500;font-size:12.5pt;white-space:nowrap}
 .schritte ol{list-style:none;padding:0;margin:0 0 4pt;counter-reset:s}
 .schritte.ab3 ol{counter-reset:s 2}
-.schritte li{counter-increment:s;position:relative;padding-left:26px;margin:0 0 5pt;font-size:10.8pt;line-height:1.3}
+.schritte li{counter-increment:s;position:relative;padding-left:26px;margin:0 0 4pt;font-size:10.8pt;line-height:1.3}
 .schritte li::before{content:counter(s);position:absolute;left:0;top:2px;width:18px;height:18px;border-radius:50%;background:var(--blue);color:#fff;font:600 10pt/18px var(--sans);text-align:center}
 .schritte li p{margin:0;font-size:10.8pt}
 
@@ -62,7 +64,7 @@ strong{font-weight:600;color:var(--ink-head)}
 .titelbild{display:block;width:100%;height:36mm;object-fit:cover;object-position:center 30%;margin:0 0 7mm}
 .nummern{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:6pt 0}
 .nr{background:var(--grey);padding:7px 9px}
-.nr p{margin:0;font-size:9.3pt;color:var(--ink-soft);line-height:1.3}
+.nr p{margin:0;font-size:10pt;color:var(--ink-soft);line-height:1.3}
 .nr p strong{display:block;color:var(--ink-head);font-size:9.5pt;text-transform:uppercase;letter-spacing:.08em}
 .nr .tel{font-size:14pt;font-weight:500;color:var(--blue);line-height:1.4}
 .web{margin-top:8pt;border-top:3px solid var(--blue);padding-top:9pt}
@@ -76,12 +78,12 @@ strong{font-weight:600;color:var(--ink-head)}
 /* Kompass-Tabelle und Stapel */
 table{border-collapse:collapse;width:100%;margin:2pt 0 6pt}
 table.komp th{font:600 9pt var(--sans);text-transform:uppercase;letter-spacing:.1em;color:#fff;background:var(--blue);text-align:left;padding:4px 5px}
-table.komp td{padding:3px 5px;border-bottom:1px solid var(--line);vertical-align:top;font-size:9.9pt;line-height:1.26}
+table.komp td{padding:2px 5px;border-bottom:1px solid var(--line);vertical-align:top;font-size:10.4pt;line-height:1.26}
 table.komp tr:nth-child(even) td{background:var(--blue-soft)}
 table.komp td:first-child{font-weight:500;color:var(--ink-head)}
 table.felder{margin:4pt 0 0}
 table.felder thead{display:none}
-table.felder td{border:0;border-bottom:1px solid var(--ink-head);padding:6pt 0 2pt;font-size:10pt;color:var(--ink-soft);background:transparent}
+table.felder td{border:0;border-bottom:1px solid var(--ink-head);padding:5pt 0 2pt;font-size:10.5pt;color:var(--ink-soft);background:transparent}
 table.felder td:last-child{text-align:right;font-weight:500;color:var(--ink-head);font-size:11pt;white-space:nowrap}
 .stapel{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px;margin:3pt 0 5pt}
 .st{background:var(--grey);padding:6px 8px;border-top:3px solid var(--ink-head)}
