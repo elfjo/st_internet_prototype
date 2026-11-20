@@ -55,7 +55,7 @@ strong{font-weight:600;color:var(--ink-head)}
 .box p{font-size:11pt;margin-bottom:3pt}
 
 /* Titelseite */
-.band{background:var(--blue);color:#fff;padding:34px 12px 32px 76px;margin:-10mm -11mm 10mm;position:relative}
+.band{background:var(--blue);color:#fff;padding:27px 12px 25px 76px;margin:-10mm -11mm 9mm;position:relative}
 .band::before{content:"↓";position:absolute;left:18px;top:50%;transform:translateY(-50%);width:42px;height:42px;border-radius:50%;background:#fff;color:var(--blue);font:600 28px/42px var(--sans);text-align:center}
 .band p{margin:0;font:500 10.5pt/1.25 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:#e6f5fb;margin-top:4px}
 .band p strong{display:block;font:500 31pt/1 var(--sans);letter-spacing:.04em;text-transform:uppercase;color:#fff;margin-bottom:9px}
@@ -65,7 +65,7 @@ strong{font-weight:600;color:var(--ink-head)}
 .nr p{margin:0;font-size:9.3pt;color:var(--ink-soft);line-height:1.3}
 .nr p strong{display:block;color:var(--ink-head);font-size:9.5pt;text-transform:uppercase;letter-spacing:.08em}
 .nr .tel{font-size:14pt;font-weight:500;color:var(--blue);line-height:1.4}
-.web{margin-top:12pt;border-top:3px solid var(--blue);padding-top:9pt}
+.web{margin-top:8pt;border-top:3px solid var(--blue);padding-top:9pt}
 .webkopf p{margin:0 0 8pt;font:600 13.5pt/1.25 var(--sans);color:var(--ink-head)}
 .webzeile{display:flex;gap:16px;align-items:flex-start}
 .qr{width:31mm;height:31mm;border:1.5px solid var(--ink-head);display:grid;place-items:center;background:#fff;flex:0 0 auto}
