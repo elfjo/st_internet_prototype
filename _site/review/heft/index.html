@@ -46,13 +46,13 @@ ul.task-list li input[type="checkbox"] {
 
 <!--
 Quelldatei des Faltblatts. Vorschau: im Terminal `quarto preview Faltblatt.qmd`, dann speichern und zuschauen.
-Jede Seite steht zwischen `::: {.page ...}` und `:::`. Zwei Seiten bilden einen `.spread` (links, rechts).
+Jede Seite steht zwischen `::: {.page ...}` und `:::`. Zwei Seiten bilden einen `.spread` (links, rechts). Die Klassen `.aussen` und `.innen` setzen die Seitenbezeichnung über dem Bogen (nur Bildschirm, nicht im Druck).
 Platzhalter in ⟨Klammern⟩. Export für InDesign: `_build/export_indesign.sh`.
 -->
 <div class="intro">
 <p>Faltblatt, A4 quer einmal gefalzt, vier Seiten A5. Stand 29. Oktober 2026. Angaben zu den Formularen sind Annahmen bis zur Liste der Disposition.</p>
 </div>
-<div class="spread">
+<div class="spread aussen">
 <section id="was-sie-mitbringen" class="page left">
 <h2>Was Sie mitbringen</h2>
 <div class="pack">
@@ -74,10 +74,10 @@ Platzhalter in ⟨Klammern⟩. Export für InDesign: `_build/export_indesign.sh`
 <p>Den Austrittstag legt Ihre Ärztin oder Ihr Arzt mit Ihnen fest; das Zimmer geben Sie bis 10 Uhr frei. Spitex, Hilfsmittel, Reha: Case Management ⟨Nummer⟩, am besten vor dem Eintritt.</p>
 <h3 id="so-erreichen-sie-uns">So erreichen Sie uns</h3>
 <div class="kontakte">
-<p><strong>Eintritt, Termin, Uhrzeit:</strong> Patientendisposition, +41 41 208 30 12, Mo bis Fr 8 bis 12 und 13 bis 17 Uhr</p>
+<p><strong>Eintritt und Termin:</strong> +41 41 208 30 12, Mo bis Fr 8 bis 12, 13 bis 17 Uhr</p>
 <p><strong>Narkose, Medikamente, Fragebogen:</strong> Anästhesie, +41 41 208 33 88, ⟨Zeiten⟩</p>
 <p><strong>Fragen zur Operation:</strong> Praxis Ihrer Operateurin oder Ihres Operateurs</p>
-<p><strong>Dringend, rund um die Uhr:</strong> ⟨Klinik-Nummer⟩. Bei Atemnot oder Brustschmerz direkt 144</p>
+<p><strong>Dringend, rund um die Uhr:</strong> ⟨Klinik-Nummer⟩. Atemnot oder Brustschmerz: 144</p>
 </div>
 <div class="fuss">
 <p><em>Informazioni in italiano e informations en français: ⟨stanna.ch/eintritt⟩</em><br>
@@ -119,7 +119,7 @@ Anästhesie</p>
 </div>
 </div>
 </div>
-<div class="spread">
+<div class="spread innen">
 <section id="bis-zu-ihrer-ankunft-in-der-klinik" class="page left">
 <h2>Bis zu Ihrer Ankunft in der Klinik</h2>
 <div class="schritte">

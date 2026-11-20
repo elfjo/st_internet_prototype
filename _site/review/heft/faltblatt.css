@@ -85,6 +85,13 @@ table.felder td:last-child{text-align:right;font-weight:500;color:var(--ink-head
 .st p{margin:0;font-size:9.6pt;line-height:1.28}
 .st p strong{display:block;color:var(--ink-head);text-transform:uppercase;font-size:9pt;letter-spacing:.1em;margin-bottom:3px}
 
+/* Seitenbezeichnung über dem Bogen, nur am Bildschirm */
+.spread{position:relative;margin-top:30px}
+.spread::before,.spread::after{position:absolute;top:-24px;width:var(--pw);text-align:center;font:600 10pt/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:#e8e6e1}
+.spread::before{left:0}.spread::after{right:0}
+.spread.aussen::before{content:"Rückseite"}.spread.aussen::after{content:"Cover"}
+.spread.innen::before{content:"Innen links"}.spread.innen::after{content:"Innen rechts"}
+
 @media print{html,body{background:#fff;padding:0}.intro,#title-block-header{display:none}
-  .spread{display:block;box-shadow:none;transform:none!important;width:auto}
+  .spread{display:block;box-shadow:none;transform:none!important;width:auto;margin-top:0}.spread::before,.spread::after{display:none}
   .page{page-break-after:always;break-after:page}.page.left{border:0}@page{size:148mm 210mm;margin:0}}
