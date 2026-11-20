@@ -55,7 +55,7 @@ strong{font-weight:600;color:var(--ink-head)}
 .box p{font-size:11pt;margin-bottom:3pt}
 
 /* Titelseite */
-.band{background:var(--blue);color:#fff;padding:27px 12px 25px 76px;margin:-10mm -11mm 9mm;position:relative}
+.band{background:var(--blue);color:#fff;padding:27px 12px 25px 76px;margin:-10mm -11mm 7mm;position:relative}
 .band::before{content:"↓";position:absolute;left:18px;top:50%;transform:translateY(-50%);width:42px;height:42px;border-radius:50%;background:#fff;color:var(--blue);font:600 28px/42px var(--sans);text-align:center}
 .band p{margin:0;font:500 10.5pt/1.25 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:#e6f5fb;margin-top:4px}
 .band p strong{display:block;font:500 31pt/1 var(--sans);letter-spacing:.04em;text-transform:uppercase;color:#fff;margin-bottom:9px}
