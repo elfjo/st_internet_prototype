@@ -65,12 +65,13 @@ strong{font-weight:600;color:var(--ink-head)}
 .nr p{margin:0;font-size:9.3pt;color:var(--ink-soft);line-height:1.3}
 .nr p strong{display:block;color:var(--ink-head);font-size:9.5pt;text-transform:uppercase;letter-spacing:.08em}
 .nr .tel{font-size:14pt;font-weight:500;color:var(--blue);line-height:1.4}
-.web{display:flex;gap:10px;align-items:center;margin-top:6pt}
-.qr{width:24mm;height:24mm;border:1.5px solid var(--ink-head);display:grid;place-items:center;background:#fff;flex:0 0 auto}
+.web{margin-top:12pt;border-top:3px solid var(--blue);padding-top:9pt}
+.webkopf p{margin:0 0 8pt;font:600 13.5pt/1.25 var(--sans);color:var(--ink-head)}
+.webzeile{display:flex;gap:16px;align-items:flex-start}
+.qr{width:31mm;height:31mm;border:1.5px solid var(--ink-head);display:grid;place-items:center;background:#fff;flex:0 0 auto}
 .qr p{margin:0;font-size:9pt;color:var(--ink-soft)}
-.webtext p{margin:0;font-size:11pt}
-.webtext .url{color:var(--blue);font-weight:500;font-size:12.5pt}
-.webtext .klein{display:inline;margin:0}
+.webtext p{margin:0 0 5pt;font-size:10.8pt;line-height:1.35}
+.webtext .url{color:var(--blue);font-weight:500;font-size:15.5pt}
 
 /* Kompass-Tabelle und Stapel */
 table{border-collapse:collapse;width:100%;margin:2pt 0 6pt}
