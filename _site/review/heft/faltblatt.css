@@ -55,10 +55,10 @@ strong{font-weight:600;color:var(--ink-head)}
 .box p{font-size:11pt;margin-bottom:3pt}
 
 /* Titelseite */
-.band{background:var(--blue);color:#fff;padding:15px 12px 14px 56px;margin:-10mm -11mm 7mm;position:relative}
-.band::before{content:"↓";position:absolute;left:13px;top:50%;transform:translateY(-50%);width:30px;height:30px;border-radius:50%;background:#fff;color:var(--blue);font:600 20px/30px var(--sans);text-align:center}
-.band p{margin:0;font:500 9.5pt/1.2 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:#e6f5fb;margin-top:4px}
-.band p strong{display:block;font:500 23pt/1 var(--sans);letter-spacing:.04em;text-transform:uppercase;color:#fff;margin-bottom:5px}
+.band{background:var(--blue);color:#fff;padding:34px 12px 32px 76px;margin:-10mm -11mm 10mm;position:relative}
+.band::before{content:"↓";position:absolute;left:18px;top:50%;transform:translateY(-50%);width:42px;height:42px;border-radius:50%;background:#fff;color:var(--blue);font:600 28px/42px var(--sans);text-align:center}
+.band p{margin:0;font:500 10.5pt/1.25 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:#e6f5fb;margin-top:4px}
+.band p strong{display:block;font:500 31pt/1 var(--sans);letter-spacing:.04em;text-transform:uppercase;color:#fff;margin-bottom:9px}
 .titelbild{display:block;width:100%;height:36mm;object-fit:cover;object-position:center 30%;margin:0 0 7mm}
 .nummern{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:6pt 0}
 .nr{background:var(--grey);padding:7px 9px}
