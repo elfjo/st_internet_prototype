@@ -49,7 +49,7 @@ Tippen Sie auf den Schritt, bei dem Sie gerade stehen. Was bei Ihnen schon erled
 :::
 
 ::: {#kurz-weg .kurzweg}
-**Ist Ihre Operation kurzfristig geplant?** Manchmal liegen zwischen Anmeldung und Operation nur wenige Tage. Die Reihenfolge bleibt dann gleich, die Schritte folgen nur dichter aufeinander. Sie haben nichts verpasst. Am wichtigsten sind dann der Gesundheitsfragebogen, Ihre medizinischen Unterlagen, die Regeln für den Eintrittstag und die Frage, wer Sie nach dem Austritt nach Hause bringt.
+**Ist Ihre Operation kurzfristig geplant?** Manchmal liegen zwischen Anmeldung und Operation nur wenige Tage. Die Reihenfolge bleibt dann gleich, die Schritte folgen nur dichter aufeinander. Sie haben nichts verpasst.
 :::
 
 :::::::::::::::::::::::: zeit
@@ -60,16 +60,16 @@ Tippen Sie auf den Schritt, bei dem Sie gerade stehen. Was bei Ihnen schon erled
 
 ### Was wir tun
 
-Sie haben von uns eine **E-Mail** mit dem Link zum Gesundheitsfragebogen erhalten. Dazu kam eine SMS mit einem Sicherheitscode für den Fragebogen. Die **Anmeldebestätigung** mit dem Eintrittsdatum und dem Eintrittsformular kommt per Post. Je nach Termin dauert das einige Tage oder einige Wochen.
+Sie haben von uns eine **E-Mail** mit dem Link zum Online-Gesundheitsfragebogen erhalten. Dazu kam eine SMS mit einem Sicherheitscode für den Fragebogen. Die **Anmeldebestätigung** mit dem Eintrittsdatum und den Eintrittsformularen kommt per Post. Je nach Termin kommt das Couvert von uns das einige Tage oder einige Wochen.
 
 
 ### Was in Ihrer Hand liegt
 
 ::: tun
-- Sie füllen den **Gesundheitsfragebogen** innerhalb von [5 Tagen]{.ph} aus, allein oder mit jemandem zusammen. Hilft Ihnen jemand, geben Sie das am Anfang des Fragebogens an. Rechnen Sie mit 10 bis 60 Minuten. Die Anästhesie ist das Team für Ihre Narkose. Sie braucht Ihre Antworten, um die Narkose zu planen. Falls Sie den Fragebogen schon ausgefüllt haben, ist dieser Punkt erledigt.
+- Sie füllen den **Gesundheitsfragebogen** innerhalb von [5 Tagen]{.ph} aus, allein oder mit jemandem zusammen. Rechnen Sie mit 10 bis 60 Minuten. Die Anästhesie ist das Team für Ihre Narkose. Sie braucht Ihre Antworten, um die Narkose zu planen. Falls Sie den Fragebogen schon ausgefüllt haben, ist dieser Punkt erledigt.
 - Fällt Ihnen das Ausfüllen am Bildschirm schwer, oder funktioniert etwas technisch nicht? Dann lassen Sie den Fragebogen leer. Wir rufen Sie nach etwa [5 Tagen]{.ph} an.
 - Sie füllen das **Eintrittsformular** aus, das der Anmeldebestätigung beiliegt, unterschreiben es und senden es bis [Frist]{.ph} zurück.
-- [Sollen unsere Anrufe und die SMS mit der Eintrittszeit an eine Angehörige oder einen Angehörigen gehen? Dann sagen Sie uns Name und Telefonnummer dieser Person. Der Weg dafür ist noch zu bestätigen.]{.ph}
+- Sind Sie über 70 Jahre alt, oder haben Sie eine Krankheit an Herz oder Kreislauf oder eine andere gesundheitliche Einschränkung? Dann gehen Sie bitte jetzt zu Ihrer **Hausärztin oder Ihrem Hausarzt** und lassen dort einen Gesundheitsbericht ausstellen. Der Bericht geht an zuweiserberichte@hirslanden.ch.
 :::
 ::::::
 

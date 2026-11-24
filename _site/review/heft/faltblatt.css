@@ -25,7 +25,7 @@ p,li,td{font-size:11.5pt;line-height:1.36;font-weight:400}
 p{margin:0 0 6pt}
 h1{font:500 22pt/1.1 var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--ink-head);margin:0 0 6pt;border:0;padding:0}
 h2{font:500 14.5pt/1.2 var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--ink-head);margin:0 0 7pt;border:0;padding:0}
-.page h2:not(:first-child){margin-top:6pt}
+.page h2:not(:first-child){margin-top:4pt}
 h3{font:600 10pt/1.3 var(--sans);text-transform:uppercase;letter-spacing:.12em;color:var(--ink-head);margin:9pt 0 3pt;border:0;padding:0}
 strong{font-weight:600;color:var(--ink-head)}
 .lede{font:400 13pt/1.4 var(--sans);color:var(--ink-head);display:block;margin-bottom:8pt}
@@ -46,7 +46,7 @@ strong{font-weight:600;color:var(--ink-head)}
 .kontakte p{font-size:10.8pt;margin:0;line-height:1.35}
 .kontakte .tel{color:var(--blue);font-weight:500;font-size:12.5pt;white-space:nowrap}
 .schritte ol{list-style:none;padding:0;margin:0 0 4pt;counter-reset:s}
-.schritte.ab3 ol{counter-reset:s 2}
+.schritte.ab4 ol{counter-reset:s 3}
 .schritte li{counter-increment:s;position:relative;padding-left:26px;margin:0 0 4pt;font-size:10.8pt;line-height:1.3}
 .schritte li::before{content:counter(s);position:absolute;left:0;top:2px;width:18px;height:18px;border-radius:50%;background:var(--blue);color:#fff;font:600 10pt/18px var(--sans);text-align:center}
 .schritte li p{margin:0;font-size:10.8pt}
@@ -76,7 +76,7 @@ strong{font-weight:600;color:var(--ink-head)}
 .webtext .url{color:var(--blue);font-weight:500;font-size:15.5pt}
 
 /* Kompass-Tabelle und Stapel */
-table{border-collapse:collapse;width:100%;margin:2pt 0 6pt}
+table{border-collapse:collapse;width:100%;margin:2pt 0 4pt}
 table.komp th{font:600 9pt var(--sans);text-transform:uppercase;letter-spacing:.1em;color:#fff;background:var(--blue);text-align:left;padding:4px 5px}
 table.komp td{padding:2px 5px;border-bottom:1px solid var(--line);vertical-align:top;font-size:10.4pt;line-height:1.26}
 table.komp tr:nth-child(even) td{background:var(--blue-soft)}
