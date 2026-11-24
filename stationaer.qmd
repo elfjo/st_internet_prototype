@@ -60,7 +60,7 @@ Tippen Sie auf den Schritt, bei dem Sie gerade stehen. Was bei Ihnen schon erled
 
 ### Was wir tun
 
-Sie haben von uns eine **E-Mail** mit dem Link zum Online-Gesundheitsfragebogen erhalten. Dazu kam eine SMS mit einem Sicherheitscode für den Fragebogen. Die **Anmeldebestätigung** mit dem Eintrittsdatum und den Eintrittsformularen kommt per Post. Je nach Termin kommt das Couvert von uns das einige Tage oder einige Wochen.
+Sie haben von uns eine **E-Mail** mit dem Link zum Online-Gesundheitsfragebogen erhalten. Dazu kam eine SMS mit einem Sicherheitscode für den Fragebogen. Die **Anmeldebestätigung** mit dem Eintrittsdatum und den Eintrittsformularen kommt per Post. Je nach Termin kommt das Couvert von uns in einigen Tagen oder Wochen.
 
 
 ### Was in Ihrer Hand liegt
@@ -68,8 +68,8 @@ Sie haben von uns eine **E-Mail** mit dem Link zum Online-Gesundheitsfragebogen 
 ::: tun
 - Sie füllen den **Gesundheitsfragebogen** innerhalb von [5 Tagen]{.ph} aus, allein oder mit jemandem zusammen. Rechnen Sie mit 10 bis 60 Minuten. Die Anästhesie ist das Team für Ihre Narkose. Sie braucht Ihre Antworten, um die Narkose zu planen. Falls Sie den Fragebogen schon ausgefüllt haben, ist dieser Punkt erledigt.
 - Fällt Ihnen das Ausfüllen am Bildschirm schwer, oder funktioniert etwas technisch nicht? Dann lassen Sie den Fragebogen leer. Wir rufen Sie nach etwa [5 Tagen]{.ph} an.
-- Sie füllen das **Eintrittsformular** aus, das der Anmeldebestätigung beiliegt, unterschreiben es und senden es bis [Frist]{.ph} zurück.
-- Sind Sie über 70 Jahre alt, oder haben Sie eine Krankheit an Herz oder Kreislauf oder eine andere gesundheitliche Einschränkung? Dann gehen Sie bitte jetzt zu Ihrer **Hausärztin oder Ihrem Hausarzt** und lassen dort einen Gesundheitsbericht ausstellen. Der Bericht geht an zuweiserberichte@hirslanden.ch.
+- Sie füllen die Formulare im Couvert aus, das wir Ihnen zusenden, unterschreiben sie und senden sie möglichst bald{.ph} zurück.
+- Sind Sie über 70 Jahre alt, oder haben Sie eine Krankheit an Herz oder Kreislauf oder eine andere gesundheitliche Einschränkung? Dann gehen Sie bitte jetzt zu Ihrer **Hausärztin oder Ihrem Hausarzt** und lassen dort einen Gesundheitsbericht ausstellen. Den Bericht schicken Sie an zuweiserberichte@hirslanden.ch.
 :::
 ::::::
 
@@ -80,15 +80,17 @@ Sie haben von uns eine **E-Mail** mit dem Link zum Online-Gesundheitsfragebogen 
 
 ### Was wir tun
 
-Wir besprechen Ihre Narkose mit Ihnen, spätestens am Vortag am Telefon (siehe [Am Vortag](#vortag)). Je nach Operation und Gesundheitszustand **laden wir Sie vorher zusätzlich zu einem Narkosegespräch in die Anästhesie-Sprechstunde ein**. Dieses Gespräch findet in der Klinik oder am Telefon statt. Für den Termin melden wir uns bei Ihnen. Im Gespräch mit der Anästhesieärztin oder dem Anästhesiearzt können Sie alles fragen, was Sie zur Narkose wissen möchten. [Gibt es für Ihre Operation mehrere Arten der Narkose, entscheiden Sie mit.]{.ph} Brauchen Sie nach dem Aufenthalt eine Rehabilitation oder die Spitex (Pflege zu Hause)? Dann rufen wir Sie an und planen das mit Ihnen.
+Wir besprechen Ihre Narkose mit Ihnen, spätestens am Vortag am Telefon (siehe [Am Vortag](#vortag)). Je nach Operation und Gesundheitszustand **laden wir Sie vorher zusätzlich zu einem Narkosegespräch in die Anästhesie-Sprechstunde ein**. Dieses Gespräch findet in der Klinik oder am Telefon statt. Für den Termin melden wir uns bei Ihnen. Im Gespräch mit der Anästhesieärztin oder dem Anästhesiearzt wird Ihre Narkose auf Sie abgestimmt. Sie können auch alles fragen, was Sie zur Narkose wissen möchten.
+
+Brauchen Sie nach dem Aufenthalt eine Rehabilitation oder die Spitex (Pflege zu Hause)? Dann rufen wir Sie an und planen das mit Ihnen. Fragen dazu: Case Management (Telefon)
 
 ### Was in Ihrer Hand liegt
 
 ::: tun
 - Sie organisieren, wer Sie zum Eintritt hinfährt und nach dem Austritt abholt. Nach einer Narkose dürfen Sie 24 Stunden nicht selbst fahren.
-- Je nach Operation brauchen Sie in der ersten Woche zu Hause Hilfe, zum Beispiel beim Einkaufen oder auf der Treppe. Klären Sie früh, wer das übernimmt. [Haben Sie niemanden, der Sie abholt oder unterstützt? Sagen Sie es uns früh. Wir suchen mit Ihnen eine Lösung.]{.ph}
+- Je nach Operation brauchen Sie eventuell in der ersten Woche zu Hause Hilfe, zum Beispiel beim Einkaufen oder auf der Treppe. Klären Sie früh, wer das übernimmt. Haben Sie niemanden, der Sie abholt oder unterstützt? Sagen Sie es uns früh. Wir suchen mit Ihnen eine Lösung (Case Management Tel.).
 - Gehen Sie nach der Operation an Stöcken, oder sind Sie dann unsicher auf den Beinen? Dann räumen Sie vorher weg, worüber Sie stolpern könnten, zum Beispiel lose Teppiche.
-- Nehmen Sie Blutverdünner oder Diabetesmedikamente? Dann sagt Ihnen die Anästhesie, ob Sie diese vor der Operation weglassen sollen und ab welchem Tag. Bis dahin nehmen Sie sie wie gewohnt. [Ist Ihnen wegen der Blutverdünner oder Diabetesmedikamente etwas unklar? Dann rufen Sie die Anästhesie an: +41 41 208 33 88.]{.ph}
+- Nehmen Sie Blutverdünner oder Diabetesmedikamente? Dann sagt Ihnen die Anästhesie, ob Sie diese vor der Operation weglassen sollen und ab welchem Tag. Bis dahin nehmen Sie sie wie gewohnt.
 - Alle anderen Medikamente nehmen Sie weiter wie gewohnt. Falls Änderungen nötig sind, werden sie von der Anästhesie oder Ihrer Operateurin oder Ihrem Operateur darauf hingewiesen.
 - Bei Fieber, Husten oder Erkältung vor der Operation rufen Sie die Anästhesie an: +41 41 208 33 88. Das gilt auch kurz vor dem Eintritt und wenn es Ihnen insgesamt schlechter geht. Diese Information ist sehr wichtig für uns.
 :::
