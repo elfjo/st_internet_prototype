@@ -36,13 +36,6 @@ Tippen Sie auf den Schritt, bei dem Sie gerade stehen. Was bei Ihnen schon erled
 </p>
 ```
 
-::: {#film .video-einstieg}
-[Ein kurzer Film zeigt Ihnen in gut einer Minute, wie die Bereiche aussehen, in denen Sie ankommen und warten.]{.einladung}
-
-![Standbild des Films: der Platz im Vorbereitungsbereich, an dem Sie ankommen und warten](_images/video-poster.jpg)
-
-:::
-
 ::: kontaktzeile
 **So erreichen Sie uns.** Jede Frage ist willkommen.
 
@@ -148,7 +141,14 @@ Vier Dinge helfen Ihnen bei der Vorbereitung auf die Operation:
 
 **Ankommen.** Sie melden sich an der Réception und erhalten Ihr Patientenarmband mit Name, Geburtsdatum und einem Barcode. Im Lauf des Tages fragen wir Sie mehrmals nach Name und Geburtsdatum. So stellen wir sicher, dass jede Behandlung zur richtigen Person kommt. An der Réception zeigen wir Ihnen den Weg zum Vorbereitungsbereich.
 
-**Ihr Platz.** Im Vorbereitungsbereich bereiten wir alle Patientinnen und Patienten auf die Operation vor. Sie haben dort einen eigenen Platz, der mit einem Vorhang abgetrennt ist. Hier ziehen Sie sich um und warten. Ihr Spitalzimmer beziehen Sie nach der Operation. In der Klinik St. Anna bauen wir zurzeit neu, voraussichtlich bis [Datum]{.ph}. Der Vorbereitungsbereich und der Weg in den Operationsbereich sind deshalb eine Übergangslösung. [Wie der Vorbereitungsbereich aussieht, zeigt der kurze Film oben auf dieser Seite.](#film)
+**Ihr Platz.** Im Vorbereitungsbereich bereiten wir alle Patientinnen und Patienten auf die Operation vor. Sie haben dort einen eigenen Platz, der mit einem Vorhang abgetrennt ist. Hier ziehen Sie sich um und warten. Ihr Spitalzimmer beziehen Sie nach der Operation. In der Klinik St. Anna bauen wir zurzeit neu, voraussichtlich bis [Datum]{.ph}. Der Vorbereitungsbereich und der Weg in den Operationsbereich sind deshalb eine Übergangslösung.
+
+::: {#film .video-einstieg}
+[Der Film zeigt Ihnen in gut einer Minute, was Sie beim Ankommen erwartet: die Réception, den Weg in den Vorbereitungsbereich und Ihren Platz dort.]{.einladung}
+
+![Standbild des Films: der Platz im Vorbereitungsbereich, an dem Sie ankommen und warten](_images/video-poster.jpg)
+
+:::
 
 **Warten.** Bis Ihre Operation beginnt, kann es eine halbe Stunde dauern oder mehrere Stunden. Wie lange die Operationen vor Ihnen dauern, lässt sich nicht genau planen, denn wir nehmen uns für jede Patientin und für jeden Patienten die Zeit, die es braucht. Die Pflege kommt bei Ihnen vorbei und hält Sie auf dem Laufenden. Nehmen Sie etwas zum Lesen, Hören oder Arbeiten mit.
 
