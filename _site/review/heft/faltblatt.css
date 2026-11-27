@@ -67,6 +67,10 @@ strong{font-weight:600;color:var(--ink-head)}
 .nr p{margin:0;font-size:10pt;color:var(--ink-soft);line-height:1.3}
 .nr p strong{display:block;color:var(--ink-head);font-size:9.5pt;text-transform:uppercase;letter-spacing:.08em}
 .nr .tel{font-size:14pt;font-weight:500;color:var(--blue);line-height:1.4}
+.hkl{display:flex;gap:12px;align-items:center;border:2px solid var(--blue);padding:8px 10px;margin:7pt 0 4pt}
+.hkl .qr{width:20mm;height:20mm}
+.hkltext p{margin:0;font-size:10.9pt;line-height:1.33}
+.hkltext .url{color:var(--blue);font-weight:500}
 .web{margin-top:8pt;border-top:3px solid var(--blue);padding-top:9pt}
 .webkopf p{margin:0 0 8pt;font:600 13.5pt/1.25 var(--sans);color:var(--ink-head)}
 .webzeile{display:flex;gap:16px;align-items:flex-start}

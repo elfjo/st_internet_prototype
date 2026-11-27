@@ -30,7 +30,7 @@ Per Post erhalten Sie ein **Couvert** von uns. Darin sind die Anmeldebestätigun
 
 ::: tun
 - **Füllen Sie die Formulare aus dem Couvert aus.** Das Faltblatt erklärt zu jedem Formular, was Sie damit tun. Die Formulare, die an uns zurückgehen, schicken Sie im beiliegenden Rücksendecouvert.
-- **Das Faltblatt ist für Operationen geschrieben.** Schritt 2 (Bericht der Hausärztin oder des Hausarztes) gilt beim Herzkatheter nicht. Sie brauchen dafür nicht eigens in die Hausarztpraxis zu gehen. Für Ihren Herzkatheter ohne Narkose gelten ausserdem drei Stellen nicht: Schritt 1 (Gesundheitsfragebogen), Schritt 3 (Anruf der Anästhesie) und der Kasten mit den Zeiten für Essen und Trinken. Sie haben nichts verpasst. Für Essen, Trinken und Medikamente gilt, was die Praxis Ihnen sagt.
+- **Das Faltblatt ist für Operationen geschrieben.** Für Ihren Herzkatheter gilt daraus nur die Tabelle «Die Formulare im Couvert». Die Schritte 1 bis 6 und der Kasten mit den Zeiten für Essen und Trinken gelten für Sie nicht. Sie brauchen keinen Gesundheitsfragebogen auszufüllen, nicht eigens in die Hausarztpraxis zu gehen und nicht auf einen Anruf der Anästhesie zu warten. Sie haben nichts verpasst. Für Essen, Trinken und Medikamente gilt, was die Praxis Ihnen sagt.
 - **Bringen Sie Ihre Medikamente in der Originalpackung mit.** Sie nehmen sie in der Klinik selbst weiter, so wie zu Hause. Lassen Sie die Tabletten in der Packung, und füllen Sie sie nicht in eine Dosierbox um. Die Pflege fragt Sie, was Sie eingenommen haben. Ihre Medikamentenliste hilft Ihnen dabei.
 - **Organisieren Sie, wer Sie abholt.** Gehen Sie am gleichen Tag nach Hause, fahren Sie 24 Stunden nicht selbst, und Sie sollten zu Hause nicht allein sein. Leben Sie allein? Dann sagen Sie es der Praxis vorher.
 - **Ihre Eintrittszeit** erhalten Sie am Vortag per SMS, bei einem Termin am Montag schon am Freitag. Haben Sie keine Handynummer, oder ist bis 14 Uhr keine SMS gekommen? Dann rufen Sie uns am selben Nachmittag an, bis 17 Uhr: Patientendisposition, +41 41 208 30 12.
@@ -98,12 +98,12 @@ Rufen Sie Ihre Kardiologin, Ihren Kardiologen oder das Notfallzentrum der Klinik
 
 ## Wenn Ihr Herzkatheter mit Narkose geplant ist {#narkose}
 
-Ob eine Narkose geplant ist, sagt Ihnen Ihre Kardiologin oder Ihr Kardiologe vorher. Dann gilt alles, was oben steht, und zusätzlich:
+Ob eine Narkose geplant ist, sagt Ihnen Ihre Kardiologin oder Ihr Kardiologe vorher. Dann gilt alles, was oben steht, mit diesen Ausnahmen:
 
 ::: tun
 - **Gesundheitsfragebogen:** Sie erhalten von der Anästhesie eine E-Mail mit dem Link zum Online-Fragebogen und eine SMS mit einem Sicherheitscode. Das ist Schritt 1 im Faltblatt.
 - **Narkosegespräch:** Meist laden wir Sie vorher in die Anästhesie-Sprechstunde ein. Für den Termin melden wir uns bei Ihnen. Am Vortag ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an. Das ist Schritt 3 im Faltblatt.
-- **Essen und Trinken:** Anders als ohne Narkose gelten für Sie die Zeiten im Kasten des Faltblatts.
+- **Essen und Trinken:** Für Sie gelten die Zeiten im Kasten des Faltblatts.
 - **Medikamente:** Es gilt, was Ihre Kardiologin oder Ihr Kardiologe Ihnen sagt, auch beim Blutverdünner.
 - **Fragen zur Narkose** beantwortet die Anästhesie, +41 41 208 33 88.
 :::
