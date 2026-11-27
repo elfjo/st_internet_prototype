@@ -1,113 +1,102 @@
 ---
 title: "Herzkatheter-Untersuchung: Ihr Fahrplan"
+toc: false
+editor:
+  markdown:
+    wrap: none
 ---
 
-::: {.mini-nav}
-[⌂ Übersicht](index.qmd)
-[← Allgemeiner Fahrplan](stationaer.qmd)
+::: mini-nav
+[⌂ Übersicht](index.qmd) [← Allgemeiner Fahrplan](stationaer.qmd)
 :::
 
-::: {.hinweis-prototyp}
-Erstfassung: Inhalte von der bestehenden Aufenthaltsseite
-übernommen, sprachlich nach Prüfraster geglättet. Vor Verwendung
-fachlich freigeben.
+::: hinweis-prototyp
+Entwurf vom 27. November 2026. Aufbau neu. Die Abschnitte nach der Untersuchung stammen von der bestehenden Aufenthaltsseite. Fachlich noch nicht freigegeben.
 :::
 
-[Diese Seite gilt für Ihre Herzkatheter-Untersuchung, stationär oder
-ambulant. Was hier steht, geht für Sie den allgemeinen Regeln
-vor.]{.lede}
+[Diese Seite gilt für Ihre Herzkatheter-Untersuchung. Sie zeigt Ihnen, was vor der Untersuchung für Sie gilt und worauf Sie danach achten.]{.lede}
 
-::: {.melden}
-### Essen, Trinken und Medikamente: für Sie gilt die persönliche Absprache
+## Zuerst: mit oder ohne Narkose? {#weiche}
 
-Die allgemeinen Nüchternheitszeiten gelten bei der
-Herzkatheter-Untersuchung nicht automatisch. Ihre Ärztin oder Ihr
-Arzt sagt Ihnen im Voraus, was Sie vor der Untersuchung essen und
-trinken dürfen und welche Ihrer Medikamente Sie wie gewohnt nehmen.
-Im Zweifel rufen Sie an: [Telefonnummer]{.ph}.
+Die meisten Herzkatheter-Untersuchungen finden ohne Narkose statt. Die Einstichstelle wird örtlich betäubt, und Sie sind wach. [Woran Sie es erkennen: Haben Sie von der Anästhesie eine E-Mail mit einem Gesundheitsfragebogen bekommen? Dann ist Ihre Untersuchung mit Narkose geplant. Annahme, noch zu bestätigen.]{.ph} Sind Sie unsicher, fragen Sie in der Praxis Ihrer Kardiologin oder Ihres Kardiologen nach.
+
+::: weiche
+**Ohne Narkose**
+
+- Was Sie vor der Untersuchung essen und trinken dürfen und welche Medikamente Sie nehmen, sagt Ihnen die Praxis. Die Zeiten für Essen und Trinken im Faltblatt gelten für Sie nicht.
+- Den Gesundheitsfragebogen und den Anruf der Anästhesie am Vortag gibt es für Sie nicht. Sie haben nichts verpasst.
+- Alles andere aus dem Couvert gilt auch für Sie: die Formulare, die Eintrittszeit und die Packliste.
+- Fragen zur Untersuchung, zu Essen, Trinken und Medikamenten: Praxis Ihrer Kardiologin oder Ihres Kardiologen. Fragen zu Eintritt und Termin: Patientendisposition, +41 41 208 30 12.
 :::
 
-## Bleiben Sie über Nacht, oder gehen Sie am gleichen Tag nach Hause? {#variante}
+::: weiche
+**Mit Narkose**
 
-Ob Ihre Untersuchung stationär oder ambulant geplant ist, steht in
-Ihrer Anmeldebestätigung. Eintrittszeit, Anmeldung an der Réception
-und der Weg durch den Tag folgen dem
-[allgemeinen Fahrplan](stationaer.qmd); die Abschnitte unten
-beschreiben, was bei der Herzkatheter-Untersuchung dazukommt.
+- Für Sie gilt der allgemeine Fahrplan mit Gesundheitsfragebogen, Narkosegespräch und den Zeiten für Essen und Trinken: [Ihr Eintritt, Schritt für Schritt →](stationaer.qmd)
+- Herzmedikamente und Blutverdünner: [Wessen Anweisung gilt, die der Praxis oder die der Anästhesie?]{.ph}
+- Fragen zur Narkose und zum Gesundheitsfragebogen: Anästhesie, +41 41 208 33 88. Fragen zur Untersuchung: Praxis. Fragen zu Eintritt und Termin: Patientendisposition, +41 41 208 30 12.
+:::
 
-## Nach der Untersuchung: stationär {#stationaer}
+## Vor der Untersuchung: das gilt für alle {#vorher}
 
-### Einstichstelle am Handgelenk (Pulsschlagader)
+::: tun
+- **Packen Sie für eine Nacht.** Ob Sie am gleichen Tag nach Hause gehen oder über Nacht bleiben, entscheidet Ihre Kardiologin oder Ihr Kardiologe oft erst nach der Untersuchung.
+- **Organisieren Sie, wer Sie abholt.** In den 24 Stunden nach der Untersuchung fahren Sie nicht selbst.
+- **Bringen Sie Ihre Medikamente in der Originalpackung mit.** Sie nehmen sie in der Klinik selbst weiter, so wie zu Hause. Lassen Sie die Tabletten in der Packung, und füllen Sie sie nicht in eine Dosierbox um. Die Pflege fragt Sie, was Sie eingenommen haben.
+- **Füllen Sie die Formulare aus dem Couvert aus.** Das Faltblatt «Bitte zuerst lesen» erklärt zu jedem Formular, was Sie damit tun.
+- **Ihre Eintrittszeit** erhalten Sie am Vortag per SMS. [Gilt das auch beim Herzkatheter?]{.ph}
+:::
 
-Nach der Untersuchung halten Sie das Handgelenk ruhig und belasten
-es zwei Tage nicht. Heben Sie mit dem betroffenen Arm nicht mehr als
-drei Kilogramm. Aufstehen dürfen Sie unmittelbar nach der
-Untersuchung.
+### Was Sie mitbringen
+
+{{< include _mitbringen.qmd >}}
+
+## Nach der Untersuchung {#danach}
+
+Der Katheter wird am Handgelenk oder in der Leiste eingeführt. Wo es bei Ihnen war, sagt Ihnen das Team nach der Untersuchung.
+
+### Einstichstelle am Handgelenk
+
+Aufstehen dürfen Sie gleich nach der Untersuchung. Halten Sie das Handgelenk ruhig, und belasten Sie es zwei Tage nicht. Heben Sie mit diesem Arm nicht mehr als drei Kilogramm.
 
 ### Einstichstelle in der Leiste
-- **Bettruhe:** Halten Sie die Bettruhe von vier bis sechs Stunden
-  ein, mit gestrecktem Bein auf der Einstichseite. So vermeiden Sie
-  eine Nachblutung, und die Einstichstelle an der Schlagader kann
-  sich sicher verschliessen.
-- **Seitenlage:** Ihre Kardiologin oder Ihr Kardiologe sagt Ihnen, ab
-  wann Sie sich in die Seitenlage mit gestrecktem Bein drehen dürfen.
-  Zur Entlastung der Wirbelsäule dürfen Sie das nicht betroffene Bein
-  im Bett aufstellen.
-- **Kopfhaltung:** Heben Sie den Kopf nicht mit eigener Kraft an.
-  Nutzen Sie zum Essen und Trinken die elektrische Bettbedienung, bis
-  der Kopf leicht erhöht ist (maximal 30 Grad). Ideal sind die ersten
-  Stunden möglichst flach und ruhig.
-- **Niesen oder Husten:** Geben Sie dabei mit der Handfläche
-  Gegendruck auf die Druckrolle, die feste Rolle auf dem Verband.
-- **Toilettengang:** Bitten Sie während der Bettruhe die
-  Pflegefachperson um Hilfe; dafür ist sie da. Beim Stuhlgang nicht
-  mit der Bauchmuskulatur pressen, das drückt auf die
-  Einstichstelle.
-- **Sitzen, Gehen, Heben:** Nach dem Entfernen des Druckverbands
-  dürfen Sie sich mit Begleitung an den Bettrand und auf den
-  Lehnstuhl setzen und ein paar Schritte im Zimmer gehen. Körperliche
-  Belastung am Untersuchungstag vermeiden, nichts über drei Kilogramm
-  heben.
+
+- **Bettruhe:** Sie liegen vier bis sechs Stunden im Bett, das Bein auf der Einstichseite bleibt gestreckt. So kann sich die Einstichstelle sicher verschliessen.
+- **Seitenlage:** Ihre Kardiologin oder Ihr Kardiologe sagt Ihnen, ab wann Sie sich mit gestrecktem Bein auf die Seite drehen dürfen. Das andere Bein dürfen Sie aufstellen. Das entlastet den Rücken.
+- **Kopf:** Heben Sie den Kopf nicht aus eigener Kraft an. Zum Essen und Trinken stellen Sie das Kopfteil mit der Bettbedienung leicht hoch, höchstens 30 Grad.
+- **Niesen oder Husten:** Drücken Sie dabei mit der flachen Hand auf die feste Rolle auf dem Verband.
+- **Toilette:** Bitten Sie während der Bettruhe die Pflege um Hilfe. Pressen Sie beim Stuhlgang nicht mit dem Bauch, das drückt auf die Einstichstelle.
+- **Aufstehen:** Wenn der Druckverband entfernt ist, setzen Sie sich mit Begleitung an den Bettrand oder in den Lehnstuhl und gehen ein paar Schritte im Zimmer. Am Tag der Untersuchung strengen Sie sich nicht an und heben nichts über drei Kilogramm.
 - **Duschen:** in der Regel ab dem nächsten Tag.
 
-## Nach der Untersuchung: ambulant {#ambulant}
-- **Heimreise:** Nehmen Sie bis 24 Stunden nach dem Eingriff nicht
-  selbstständig am Strassenverkehr teil und organisieren Sie eine
-  Begleitung oder einen Fahrdienst. Sorgen Sie dafür, dass Sie zu
-  Hause nicht allein sind.
-- **Medikamente:** In der Regel nehmen Sie Ihre Medikamente weiter.
-  Blutverdünnende Medikamente nehmen Sie so, wie Ihre Ärztin oder Ihr
-  Arzt es mit Ihnen besprochen hat.
-- **Verband:** Den Verband wechselt die Hausarztpraxis oder die
-  kardiologische Praxis beim ersten Kontrolltermin und schaut dabei
-  die Einstichstelle an.
-- **Bewegung:** Einstichstelle am Handgelenk: den Arm etwa eine Woche
-  schonen, nicht mehr als drei Kilogramm heben. Einstichstelle in der
-  Leiste: etwa eine Woche kein schweres Heben, das betroffene Bein
-  nicht stark beugen.
-- **Duschen:** Die Einstichstelle für zwei bis drei Tage mit einem
-  Duschpflaster abdecken.
-- **Trinken:** Trinken Sie am Tag des Eingriffs ausreichend, das
-  hilft, das Kontrastmittel auszuspülen. Essen dürfen Sie wie
-  gewohnt.
+### Wenn Sie über Nacht bleiben
 
-## Worauf Sie achten sollten {#achten}
+Ihr Zimmer beziehen Sie nach der Untersuchung. Ihre eigenen Medikamente nehmen Sie selbst weiter. Die Pflege fragt Sie, was Sie eingenommen haben, und gleicht es mit Ihrer Medikamentenliste ab. Den Austritt bespricht Ihre Kardiologin oder Ihr Kardiologe mit Ihnen.
 
-::: {.care}
-### Melden Sie sich sofort bei diesen Anzeichen
-- Blutung der Einstichstelle: sofort fest auf die Stelle drücken,
-  dann Ihre Ärztin, Ihren Arzt oder die Notfallstation anrufen
-- Unwohlsein, Schwindel oder Übelkeit
-- Fieber
-- Taubheit oder Kribbeln an Arm oder Bein der Einstichseite
+### Wenn Sie am gleichen Tag nach Hause gehen
 
-[Notfallzentrum, rund um die Uhr: Telefonnummer]{.ph}. Bei
-Brustschmerz oder Atemnot direkt **144**.
+- **Heimweg:** Lassen Sie sich abholen oder nehmen Sie einen Fahrdienst. Sorgen Sie dafür, dass Sie in der ersten Nacht zu Hause nicht allein sind.
+- **Medikamente:** In der Regel nehmen Sie Ihre Medikamente weiter. Blutverdünner nehmen Sie so, wie Ihre Ärztin oder Ihr Arzt es mit Ihnen besprochen hat.
+- **Verband:** Beim ersten Kontrolltermin wechselt die Hausarztpraxis oder die kardiologische Praxis den Verband und schaut die Einstichstelle an.
+- **Schonen:** Nach einem Einstich am Handgelenk schonen Sie den Arm etwa eine Woche und heben nicht mehr als drei Kilogramm. Nach einem Einstich in der Leiste heben Sie etwa eine Woche nichts Schweres und beugen das Bein nicht stark.
+- **Duschen:** Decken Sie die Einstichstelle zwei bis drei Tage mit einem Duschpflaster ab.
+- **Trinken:** Trinken Sie am Tag der Untersuchung genug. Das hilft, das Kontrastmittel auszuspülen. Essen dürfen Sie wie gewohnt.
+
+::: care
+### Sofort melden
+
+Melden Sie sich sofort bei diesen Anzeichen:
+
+- Die Einstichstelle blutet: Drücken Sie sofort fest auf die Stelle, und rufen Sie dann an.
+- Ihnen ist unwohl, schwindlig oder übel.
+- Sie haben Fieber.
+- Arm oder Bein auf der Einstichseite fühlen sich taub an oder kribbeln.
+
+Die Nummer ist [Notfallzentrum, rund um die Uhr]{.ph}. Bei Brustschmerz oder Atemnot wählen Sie direkt den Notruf **144**.
 :::
 
-::: {.mini-nav}
-[⌂ Übersicht](index.qmd)
-[← Allgemeiner Fahrplan](stationaer.qmd)
+::: mini-nav
+[⌂ Übersicht](index.qmd) [← Allgemeiner Fahrplan](stationaer.qmd)
 :::
 
 ::: {#kontaktzone}
