@@ -7,49 +7,61 @@ editor:
 ---
 
 ::: mini-nav
-[⌂ Übersicht](index.qmd) [← Allgemeiner Fahrplan](stationaer.qmd)
+[⌂ Übersicht](index.qmd)
 :::
 
 ::: hinweis-prototyp
 Entwurf vom 27. November 2026. Aufbau neu. Die Abschnitte nach der Untersuchung stammen von der bestehenden Aufenthaltsseite. Fachlich noch nicht freigegeben.
 :::
 
-[Diese Seite gilt für Ihre Herzkatheter-Untersuchung. Sie zeigt Ihnen, was vor der Untersuchung für Sie gilt und worauf Sie danach achten.]{.lede}
+[Diese Seite gilt für Ihre Herzkatheter-Untersuchung. Hier steht alles, was Sie vor der Untersuchung und danach wissen müssen.]{.lede}
 
-## Zuerst: mit oder ohne Narkose? {#weiche}
+## Mit oder ohne Narkose? {#weiche}
 
-Die meisten Herzkatheter-Untersuchungen finden ohne Narkose statt. Die Einstichstelle wird örtlich betäubt, und Sie sind wach. Ob Ihre Untersuchung mit oder ohne Narkose geplant ist, sagt Ihnen Ihre Kardiologin oder Ihr Kardiologe vorher. Ist eine Narkose geplant, erhalten Sie zusätzlich von der Anästhesie eine E-Mail und eine SMS zum Gesundheitsfragebogen. Meist laden wir Sie dann auch vorher in die Anästhesie-Sprechstunde ein. Sind Sie unsicher, fragen Sie in der Praxis Ihrer Kardiologin oder Ihres Kardiologen nach.
+Die meisten Herzkatheter-Untersuchungen finden ohne Narkose statt. Die Einstichstelle wird örtlich betäubt, und Sie sind wach. Ob Ihre Untersuchung mit oder ohne Narkose geplant ist, sagt Ihnen Ihre Kardiologin oder Ihr Kardiologe vorher. Ist eine Narkose geplant, erhalten Sie zusätzlich von der Anästhesie eine E-Mail und eine SMS zum Gesundheitsfragebogen. Sind Sie unsicher, fragen Sie in der Praxis nach.
 
-::: weiche
-**Ohne Narkose**
-
-- Was Sie vor der Untersuchung essen und trinken dürfen und welche Medikamente Sie nehmen, sagt Ihnen die Praxis. Die Zeiten für Essen und Trinken im Faltblatt gelten für Sie nicht.
-- Den Gesundheitsfragebogen und den Anruf der Anästhesie am Vortag gibt es für Sie nicht. Sie haben nichts verpasst.
-- Alles andere aus dem Couvert gilt auch für Sie: die Formulare, die Eintrittszeit und die Packliste.
-- Fragen zur Untersuchung, zu Essen, Trinken und Medikamenten: Praxis Ihrer Kardiologin oder Ihres Kardiologen. Fragen zu Eintritt und Termin: Patientendisposition, +41 41 208 30 12.
-:::
-
-::: weiche
-**Mit Narkose**
-
-- Für Sie gilt der allgemeine Fahrplan mit Gesundheitsfragebogen, Narkosegespräch und den Zeiten für Essen und Trinken: [Ihr Eintritt, Schritt für Schritt →](stationaer.qmd)
-- Für Ihre Medikamente gilt, was Ihre Kardiologin oder Ihr Kardiologe Ihnen sagt. Das betrifft auch Herzmedikamente und Blutverdünner.
-- Fragen zur Narkose und zum Gesundheitsfragebogen: Anästhesie, +41 41 208 33 88. Fragen zur Untersuchung: Praxis. Fragen zu Eintritt und Termin: Patientendisposition, +41 41 208 30 12.
-:::
+Diese Seite sagt Ihnen zuerst, was für alle gilt. Danach folgt ein Abschnitt für die Untersuchung ohne Narkose und einer für die Untersuchung mit Narkose. Sie lesen nur den, der für Sie zutrifft.
 
 ## Vor der Untersuchung: das gilt für alle {#vorher}
 
+Per Post erhalten Sie ein **Couvert** von uns. Darin sind die Anmeldebestätigung mit dem Datum Ihrer Untersuchung, mehrere Formulare und das Faltblatt «Bitte zuerst lesen».
+
 ::: tun
-- **Nach Hause oder über Nacht?** Ob Sie am gleichen Tag nach Hause gehen oder über Nacht bleiben, bespricht die Praxis Ihrer Kardiologin oder Ihres Kardiologen mit Ihnen.
-- **Organisieren Sie, wer Sie abholt.** In den 24 Stunden nach der Untersuchung fahren Sie nicht selbst.
+- **Füllen Sie die Formulare aus dem Couvert aus.** Das Faltblatt erklärt zu jedem Formular, was Sie damit tun. Die Formulare, die an uns zurückgehen, schicken Sie im beiliegenden Rücksendecouvert.
+- **Für Ihre Medikamente gilt, was Ihre Kardiologin oder Ihr Kardiologe Ihnen sagt.** Das betrifft auch Herzmedikamente und Blutverdünner.
 - **Bringen Sie Ihre Medikamente in der Originalpackung mit.** Sie nehmen sie in der Klinik selbst weiter, so wie zu Hause. Lassen Sie die Tabletten in der Packung, und füllen Sie sie nicht in eine Dosierbox um. Die Pflege fragt Sie, was Sie eingenommen haben.
-- **Füllen Sie die Formulare aus dem Couvert aus.** Das Faltblatt «Bitte zuerst lesen» erklärt zu jedem Formular, was Sie damit tun.
-- **Ihre Eintrittszeit** erhalten Sie am Vortag per SMS. Die Untersuchung findet in der Klinik St. Anna in Luzern statt.
+- **Organisieren Sie, wer Sie abholt.** In den 24 Stunden nach der Untersuchung fahren Sie nicht selbst.
+- **Nach Hause oder über Nacht?** Ob Sie am gleichen Tag nach Hause gehen oder über Nacht bleiben, bespricht die Praxis Ihrer Kardiologin oder Ihres Kardiologen mit Ihnen.
+- **Ihre Eintrittszeit** erhalten Sie am Vortag per SMS, bei einer Untersuchung am Montag schon am Freitag. Haben Sie keine Handynummer, oder ist bis 14 Uhr keine SMS gekommen? Dann rufen Sie uns am selben Nachmittag an, bis 17 Uhr: Patientendisposition, +41 41 208 30 12.
 :::
 
 ### Was Sie mitbringen
 
 {{< include _mitbringen.qmd >}}
+
+## Wenn Ihre Untersuchung ohne Narkose stattfindet {#ohne}
+
+::: weiche
+- **Essen und Trinken:** Was Sie vor der Untersuchung essen und trinken dürfen, sagt Ihnen die Praxis. Die Zeiten für Essen und Trinken im Faltblatt gelten für Sie nicht.
+- **Kein Fragebogen, kein Anruf der Anästhesie:** Die Schritte 1 und 3 im Faltblatt entfallen für Sie. Sie haben nichts verpasst.
+- **Fragen** zur Untersuchung, zu Essen, Trinken und Medikamenten beantwortet die Praxis Ihrer Kardiologin oder Ihres Kardiologen.
+:::
+
+## Wenn Ihre Untersuchung mit Narkose stattfindet {#mit}
+
+::: weiche
+- **Gesundheitsfragebogen:** Sie erhalten von der Anästhesie eine E-Mail mit dem Link zum Online-Fragebogen und eine SMS mit einem Sicherheitscode. Füllen Sie den Fragebogen innerhalb von [5 Tagen]{.ph} aus. Kommen Sie damit nicht weiter? Dann lassen Sie ihn offen, wir rufen Sie an.
+- **Narkosegespräch:** Meist laden wir Sie vor der Untersuchung in die Anästhesie-Sprechstunde ein. Für den Termin melden wir uns bei Ihnen. Am Vortag ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an, vor einer Untersuchung am Montag schon am Freitag oder am Sonntag. Sie können dort alles fragen, was Sie zur Narkose wissen möchten.
+- **Essen und Trinken:** Bis 6 Stunden vor der Eintrittszeit aus der SMS dürfen Sie eine leichte Mahlzeit essen, zum Beispiel Brot mit Konfitüre. Bis 2 Stunden vorher dürfen Sie Wasser, Tee oder Kaffee ohne Milch trinken. Danach nehmen Sie nichts mehr zu sich, auch keine Bonbons und keinen Kaugummi. So schützen Sie Ihre Atemwege während der Narkose.
+- **Krank geworden?** Bei Fieber, Husten oder Erkältung vor der Untersuchung rufen Sie die Anästhesie an: +41 41 208 33 88.
+- **Fragen** zur Narkose und zum Fragebogen beantwortet die Anästhesie, +41 41 208 33 88. Fragen zur Untersuchung und zu Ihren Medikamenten beantwortet die Praxis.
+:::
+
+{{< include _rechenbeispiel.qmd >}}
+
+## Am Tag der Untersuchung {#tag}
+
+Die Untersuchung findet in der Klinik St. Anna in Luzern statt. Sie melden sich zur Eintrittszeit aus der SMS an der Réception und halten den Ausweis bereit. Dort erhalten Sie Ihr Patientenarmband mit Name, Geburtsdatum und einem Barcode. Im Lauf des Tages fragen wir Sie mehrmals nach Name und Geburtsdatum. So stellen wir sicher, dass jede Behandlung zur richtigen Person kommt. [Wohin es von der Réception geht und wo Sie warten.]{.ph}
 
 ## Nach der Untersuchung {#danach}
 
@@ -96,7 +108,7 @@ Die Nummer ist [Notfallzentrum, rund um die Uhr]{.ph}. Bei Brustschmerz oder Ate
 :::
 
 ::: mini-nav
-[⌂ Übersicht](index.qmd) [← Allgemeiner Fahrplan](stationaer.qmd)
+[⌂ Übersicht](index.qmd)
 :::
 
 ::: {#kontaktzone}
