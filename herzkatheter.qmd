@@ -11,27 +11,28 @@ editor:
 :::
 
 ::: hinweis-prototyp
-Entwurf vom 27. November 2026. Aufbau neu. Die Abschnitte «Nach dem Herzkatheter» stammen von der bestehenden Aufenthaltsseite. Fachlich noch nicht freigegeben.
+Entwurf vom 27. November 2026. Die Seite beschreibt den Ablauf in der Klinik. Die Angaben zur Zeit nach dem Herzkatheter stammen von der bestehenden Aufenthaltsseite. Fachlich noch nicht freigegeben.
 :::
 
-[Diese Seite gilt für Ihren Herzkatheter, ob zur Untersuchung oder zur Behandlung. Hier steht alles, was Sie vorher und danach wissen müssen.]{.lede}
+[Diese Seite gilt für Ihren Herzkatheter in der Klinik St. Anna in Luzern, ob zur Untersuchung oder zur Behandlung. Sie zeigt Ihnen den Ablauf bei uns, vom Couvert bis zu den Tagen danach.]{.lede}
 
-## Mit oder ohne Narkose? {#weiche}
+::: weiche
+**Wer sagt Ihnen was?**
 
-Die meisten Herzkatheter finden ohne Narkose statt. Die Einstichstelle wird örtlich betäubt, und Sie sind wach. Ob Ihr Herzkatheter mit oder ohne Narkose geplant ist, sagt Ihnen Ihre Kardiologin oder Ihr Kardiologe vorher. Ist eine Narkose geplant, erhalten Sie zusätzlich von der Anästhesie eine E-Mail und eine SMS zum Gesundheitsfragebogen. Sind Sie unsicher, fragen Sie in der Praxis nach.
+- **Ihre Kardiologin oder Ihr Kardiologe** sagt Ihnen, was Sie vor dem Herzkatheter essen und trinken dürfen, welche Medikamente Sie nehmen und ob Sie voraussichtlich über Nacht bleiben. Fehlt Ihnen eine dieser Angaben, oder sind Sie nicht mehr sicher? Dann rufen Sie in der Praxis an.
+- **Die Klinik** schickt Ihnen die Formulare und die Eintrittszeit und betreut Sie am Tag des Herzkatheters. Davon handelt diese Seite.
+- **Ist eine Narkose geplant?** Das sagt Ihnen Ihre Kardiologin oder Ihr Kardiologe vorher. Dann lesen Sie zusätzlich den Abschnitt [Wenn Ihr Herzkatheter mit Narkose geplant ist](#narkose). Alle anderen brauchen ihn nicht.
+:::
 
-Diese Seite sagt Ihnen zuerst, was für alle gilt. Danach folgt ein Abschnitt für den Herzkatheter ohne Narkose und einer für den Herzkatheter mit Narkose. Sie lesen nur den, der für Sie zutrifft.
-
-## Vor dem Herzkatheter: das gilt für alle {#vorher}
+## Vor dem Herzkatheter {#vorher}
 
 Per Post erhalten Sie ein **Couvert** von uns. Darin sind die Anmeldebestätigung mit Ihrem Termin, mehrere Formulare und das Faltblatt «Bitte zuerst lesen».
 
 ::: tun
 - **Füllen Sie die Formulare aus dem Couvert aus.** Das Faltblatt erklärt zu jedem Formular, was Sie damit tun. Die Formulare, die an uns zurückgehen, schicken Sie im beiliegenden Rücksendecouvert.
-- **Für Ihre Medikamente gilt, was Ihre Kardiologin oder Ihr Kardiologe Ihnen sagt.** Das betrifft auch Herzmedikamente und Blutverdünner.
-- **Bringen Sie Ihre Medikamente in der Originalpackung mit.** Sie nehmen sie in der Klinik selbst weiter, so wie zu Hause. Lassen Sie die Tabletten in der Packung, und füllen Sie sie nicht in eine Dosierbox um. Die Pflege fragt Sie, was Sie eingenommen haben.
-- **Organisieren Sie, wer Sie abholt.** In den 24 Stunden nach dem Herzkatheter fahren Sie nicht selbst.
-- **Nach Hause oder über Nacht?** Ob Sie am gleichen Tag nach Hause gehen oder über Nacht bleiben, bespricht die Praxis Ihrer Kardiologin oder Ihres Kardiologen mit Ihnen.
+- **Das Faltblatt ist für Operationen geschrieben.** Für Ihren Herzkatheter ohne Narkose gelten drei Stellen darin nicht: Schritt 1 (Gesundheitsfragebogen), Schritt 3 (Anruf der Anästhesie) und der Kasten mit den Zeiten für Essen und Trinken. Sie haben nichts verpasst. Für Essen, Trinken und Medikamente gilt, was die Praxis Ihnen sagt.
+- **Bringen Sie Ihre Medikamente in der Originalpackung mit.** Sie nehmen sie in der Klinik selbst weiter, so wie zu Hause. Lassen Sie die Tabletten in der Packung, und füllen Sie sie nicht in eine Dosierbox um. Die Pflege fragt Sie, was Sie eingenommen haben. Ihre Medikamentenliste hilft Ihnen dabei.
+- **Organisieren Sie, wer Sie abholt.** Gehen Sie am gleichen Tag nach Hause, fahren Sie 24 Stunden nicht selbst, und Sie sollten zu Hause nicht allein sein. Leben Sie allein? Dann sagen Sie es der Praxis vorher.
 - **Ihre Eintrittszeit** erhalten Sie am Vortag per SMS, bei einem Termin am Montag schon am Freitag. Haben Sie keine Handynummer, oder ist bis 14 Uhr keine SMS gekommen? Dann rufen Sie uns am selben Nachmittag an, bis 17 Uhr: Patientendisposition, +41 41 208 30 12.
 :::
 
@@ -39,39 +40,31 @@ Per Post erhalten Sie ein **Couvert** von uns. Darin sind die Anmeldebestätigun
 
 {{< include _mitbringen.qmd >}}
 
-## Wenn Ihr Herzkatheter ohne Narkose stattfindet {#ohne}
-
-::: weiche
-- **Essen und Trinken:** Was Sie vorher essen und trinken dürfen, sagt Ihnen die Praxis. Die Zeiten für Essen und Trinken im Faltblatt gelten für Sie nicht.
-- **Kein Fragebogen, kein Anruf der Anästhesie:** Die Schritte 1 und 3 im Faltblatt entfallen für Sie. Sie haben nichts verpasst.
-- **Fragen** zum Herzkatheter, zu Essen, Trinken und Medikamenten beantwortet die Praxis Ihrer Kardiologin oder Ihres Kardiologen.
-:::
-
-## Wenn Ihr Herzkatheter mit Narkose stattfindet {#mit}
-
-::: weiche
-- **Gesundheitsfragebogen:** Sie erhalten von der Anästhesie eine E-Mail mit dem Link zum Online-Fragebogen und eine SMS mit einem Sicherheitscode. Füllen Sie den Fragebogen innerhalb von [5 Tagen]{.ph} aus. Kommen Sie damit nicht weiter? Dann lassen Sie ihn offen, wir rufen Sie an.
-- **Narkosegespräch:** Meist laden wir Sie vorher in die Anästhesie-Sprechstunde ein. Für den Termin melden wir uns bei Ihnen. Am Vortag ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an, vor einem Termin am Montag schon am Freitag oder am Sonntag. Sie können dort alles fragen, was Sie zur Narkose wissen möchten.
-- **Essen und Trinken:** Bis 6 Stunden vor der Eintrittszeit aus der SMS dürfen Sie eine leichte Mahlzeit essen, zum Beispiel Brot mit Konfitüre. Bis 2 Stunden vorher dürfen Sie Wasser, Tee oder Kaffee ohne Milch trinken. Danach nehmen Sie nichts mehr zu sich, auch keine Bonbons und keinen Kaugummi. So schützen Sie Ihre Atemwege während der Narkose.
-- **Krank geworden?** Bei Fieber, Husten oder Erkältung vor dem Herzkatheter rufen Sie die Anästhesie an: +41 41 208 33 88.
-- **Fragen** zur Narkose und zum Fragebogen beantwortet die Anästhesie, +41 41 208 33 88. Fragen zum Herzkatheter und zu Ihren Medikamenten beantwortet die Praxis.
-:::
-
-{{< include _rechenbeispiel.qmd >}}
-
 ## Am Tag Ihres Herzkatheters {#tag}
 
-Der Herzkatheter findet in der Klinik St. Anna in Luzern statt. Sie melden sich zur Eintrittszeit aus der SMS an der Réception und halten den Ausweis bereit. Dort erhalten Sie Ihr Patientenarmband mit Name, Geburtsdatum und einem Barcode. Im Lauf des Tages fragen wir Sie mehrmals nach Name und Geburtsdatum. So stellen wir sicher, dass jede Behandlung zur richtigen Person kommt. Von der Réception gehen Sie in den Herzkatheterbereich oder in die Tagesklinik. Dort warten Sie, bis es so weit ist.
+Sie melden sich zur Eintrittszeit aus der SMS an der Réception und halten den Ausweis bereit. Dort erhalten Sie Ihr Patientenarmband mit Name, Geburtsdatum und einem Barcode. Im Lauf des Tages fragen wir Sie mehrmals nach Name und Geburtsdatum. So stellen wir sicher, dass jede Behandlung zur richtigen Person kommt.
+
+Von der Réception gehen Sie in den Herzkatheterbereich oder in die Tagesklinik. Dort warten Sie, bis es so weit ist. [Wie lange das Warten dauern kann und ob eine Begleitperson dabei sein darf.]{.ph}
+
+Ohne Narkose sind Sie während des Herzkatheters wach. Der Katheter wird am Handgelenk oder in der Leiste eingeführt. Welche Stelle es bei Ihnen ist, erfahren Sie vom Team.
 
 ## Nach dem Herzkatheter {#danach}
 
-Der Katheter wird am Handgelenk oder in der Leiste eingeführt. Wo es bei Ihnen war, sagt Ihnen das Team danach.
+Ob Sie über Nacht bleiben oder am gleichen Tag nach Hause gehen, bespricht Ihre Kardiologin oder Ihr Kardiologe mit Ihnen. Manchmal entscheidet es sich erst nach dem Herzkatheter. Die beiden Abschnitte unten brauchen Sie deshalb erst danach, wenn Sie wissen, ob Sie bleiben und wo der Einstich war.
 
-### Einstichstelle am Handgelenk
+::: kurzliste
+- [Wenn Sie über Nacht bleiben](#nacht)
+- [Wenn Sie am gleichen Tag nach Hause gehen](#heim)
+- [Sofort melden](#melden)
+:::
 
-Aufstehen dürfen Sie gleich danach. Halten Sie das Handgelenk ruhig, und belasten Sie es zwei Tage nicht. Heben Sie mit diesem Arm nicht mehr als drei Kilogramm.
+### Wenn Sie über Nacht bleiben {#nacht}
 
-### Einstichstelle in der Leiste
+Ihre eigenen Medikamente nehmen Sie selbst weiter. Die Pflege fragt Sie, was Sie eingenommen haben.
+
+**Einstichstelle am Handgelenk.** Aufstehen dürfen Sie gleich nach dem Herzkatheter. Halten Sie das Handgelenk ruhig, und belasten Sie es zwei Tage nicht. Heben Sie mit diesem Arm nicht mehr als drei Kilogramm.
+
+**Einstichstelle in der Leiste.**
 
 - **Bettruhe:** Sie liegen vier bis sechs Stunden im Bett, das Bein auf der Einstichseite bleibt gestreckt. So kann sich die Einstichstelle sicher verschliessen.
 - **Seitenlage:** Ihre Kardiologin oder Ihr Kardiologe sagt Ihnen, ab wann Sie sich mit gestrecktem Bein auf die Seite drehen dürfen. Das andere Bein dürfen Sie aufstellen. Das entlastet den Rücken.
@@ -81,13 +74,9 @@ Aufstehen dürfen Sie gleich danach. Halten Sie das Handgelenk ruhig, und belast
 - **Aufstehen:** Wenn der Druckverband entfernt ist, setzen Sie sich mit Begleitung an den Bettrand oder in den Lehnstuhl und gehen ein paar Schritte im Zimmer. Am selben Tag strengen Sie sich nicht an und heben nichts über drei Kilogramm.
 - **Duschen:** in der Regel ab dem nächsten Tag.
 
-### Wenn Sie über Nacht bleiben
+### Wenn Sie am gleichen Tag nach Hause gehen {#heim}
 
-Ihr Zimmer beziehen Sie nach dem Herzkatheter. Ihre eigenen Medikamente nehmen Sie selbst weiter. Die Pflege fragt Sie, was Sie eingenommen haben, und gleicht es mit Ihrer Medikamentenliste ab. Den Austritt bespricht Ihre Kardiologin oder Ihr Kardiologe mit Ihnen.
-
-### Wenn Sie am gleichen Tag nach Hause gehen
-
-- **Heimweg:** Lassen Sie sich abholen oder nehmen Sie einen Fahrdienst. Sorgen Sie dafür, dass Sie in der ersten Nacht zu Hause nicht allein sind.
+- **Heimweg:** Lassen Sie sich abholen oder nehmen Sie einen Fahrdienst. Fahren Sie 24 Stunden nicht selbst. Sorgen Sie dafür, dass Sie zu Hause nicht allein sind.
 - **Medikamente:** In der Regel nehmen Sie Ihre Medikamente weiter. Blutverdünner nehmen Sie so, wie Ihre Ärztin oder Ihr Arzt es mit Ihnen besprochen hat.
 - **Verband:** Beim ersten Kontrolltermin wechselt die Hausarztpraxis oder die kardiologische Praxis den Verband und schaut die Einstichstelle an.
 - **Schonen:** Nach einem Einstich am Handgelenk schonen Sie den Arm etwa eine Woche und heben nicht mehr als drei Kilogramm. Nach einem Einstich in der Leiste heben Sie etwa eine Woche nichts Schweres und beugen das Bein nicht stark.
@@ -95,7 +84,7 @@ Ihr Zimmer beziehen Sie nach dem Herzkatheter. Ihre eigenen Medikamente nehmen S
 - **Trinken:** Trinken Sie an diesem Tag genug. Das hilft, das Kontrastmittel auszuspülen. Essen dürfen Sie wie gewohnt.
 
 ::: care
-### Sofort melden
+### Sofort melden {#melden}
 
 Melden Sie sich sofort bei diesen Anzeichen:
 
@@ -104,7 +93,19 @@ Melden Sie sich sofort bei diesen Anzeichen:
 - Sie haben Fieber.
 - Arm oder Bein auf der Einstichseite fühlen sich taub an oder kribbeln.
 
-Die Nummer ist [Notfallzentrum, rund um die Uhr]{.ph}. Bei Brustschmerz oder Atemnot wählen Sie direkt den Notruf **144**.
+Rufen Sie Ihre Kardiologin, Ihren Kardiologen oder das Notfallzentrum der Klinik an: [Nummer des Notfallzentrums, rund um die Uhr]{.ph}. Bei Brustschmerz oder Atemnot wählen Sie direkt den Notruf **144**.
+:::
+
+## Wenn Ihr Herzkatheter mit Narkose geplant ist {#narkose}
+
+Ob eine Narkose geplant ist, sagt Ihnen Ihre Kardiologin oder Ihr Kardiologe vorher. Dann gilt alles, was oben steht, und zusätzlich:
+
+::: tun
+- **Gesundheitsfragebogen:** Sie erhalten von der Anästhesie eine E-Mail mit dem Link zum Online-Fragebogen und eine SMS mit einem Sicherheitscode. Das ist Schritt 1 im Faltblatt.
+- **Narkosegespräch:** Meist laden wir Sie vorher in die Anästhesie-Sprechstunde ein. Für den Termin melden wir uns bei Ihnen. Am Vortag ruft Sie Ihre Anästhesieärztin oder Ihr Anästhesiearzt an. Das ist Schritt 3 im Faltblatt.
+- **Essen und Trinken:** Anders als ohne Narkose gelten für Sie die Zeiten im Kasten des Faltblatts.
+- **Medikamente:** Es gilt, was Ihre Kardiologin oder Ihr Kardiologe Ihnen sagt, auch beim Blutverdünner.
+- **Fragen zur Narkose** beantwortet die Anästhesie, +41 41 208 33 88.
 :::
 
 ::: mini-nav
