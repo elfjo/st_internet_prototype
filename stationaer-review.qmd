@@ -25,7 +25,7 @@ editor:
 [Danke für Ihr Vertrauen in die Klinik St. Anna. Diese Seite führt Sie vom Tag der Anmeldung bis zur ersten Woche zu Hause. Jeder Abschnitt erklärt, was wir tun und was in Ihrer Hand liegt.]{.lede}
 
 ::: weiche
-**Kommen Sie zu einer Herzkatheter-Untersuchung?** Dann gilt für Sie einiges anders, vor allem wenn die Untersuchung ohne Narkose stattfindet. Lesen Sie bitte zuerst hier: [Herzkatheter: Ihr Fahrplan →](herzkatheter.qmd)
+**Kommen Sie zu einem Herzkatheter?** Dann gilt für Sie einiges anders, vor allem wenn er ohne Narkose stattfindet. Lesen Sie bitte zuerst hier: [Ihr Herzkatheter, Schritt für Schritt →](herzkatheter.qmd)
 :::
 
 ## So läuft Ihr Eintritt ab {#kurz}
