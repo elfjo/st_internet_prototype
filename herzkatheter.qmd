@@ -18,7 +18,7 @@ Entwurf vom 27. November 2026. Aufbau neu. Die Abschnitte nach der Untersuchung 
 
 ## Zuerst: mit oder ohne Narkose? {#weiche}
 
-Die meisten Herzkatheter-Untersuchungen finden ohne Narkose statt. Die Einstichstelle wird örtlich betäubt, und Sie sind wach. Woran Sie es erkennen: Haben Sie von der Anästhesie eine E-Mail mit einem Gesundheitsfragebogen bekommen? Dann ist Ihre Untersuchung mit Narkose geplant. Meist laden wir Sie dann auch vorher in die Anästhesie-Sprechstunde ein. Sind Sie unsicher, fragen Sie in der Praxis Ihrer Kardiologin oder Ihres Kardiologen nach.
+Die meisten Herzkatheter-Untersuchungen finden ohne Narkose statt. Die Einstichstelle wird örtlich betäubt, und Sie sind wach. Ob Ihre Untersuchung mit oder ohne Narkose geplant ist, sagt Ihnen Ihre Kardiologin oder Ihr Kardiologe vorher. Ist eine Narkose geplant, erhalten Sie zusätzlich von der Anästhesie eine E-Mail und eine SMS zum Gesundheitsfragebogen. Meist laden wir Sie dann auch vorher in die Anästhesie-Sprechstunde ein. Sind Sie unsicher, fragen Sie in der Praxis Ihrer Kardiologin oder Ihres Kardiologen nach.
 
 ::: weiche
 **Ohne Narkose**
@@ -40,7 +40,7 @@ Die meisten Herzkatheter-Untersuchungen finden ohne Narkose statt. Die Einstichs
 ## Vor der Untersuchung: das gilt für alle {#vorher}
 
 ::: tun
-- **Packen Sie für eine Nacht.** Ob Sie am gleichen Tag nach Hause gehen oder über Nacht bleiben, entscheidet Ihre Kardiologin oder Ihr Kardiologe oft erst nach der Untersuchung.
+- **Nach Hause oder über Nacht?** Ob Sie am gleichen Tag nach Hause gehen oder über Nacht bleiben, bespricht die Praxis Ihrer Kardiologin oder Ihres Kardiologen mit Ihnen.
 - **Organisieren Sie, wer Sie abholt.** In den 24 Stunden nach der Untersuchung fahren Sie nicht selbst.
 - **Bringen Sie Ihre Medikamente in der Originalpackung mit.** Sie nehmen sie in der Klinik selbst weiter, so wie zu Hause. Lassen Sie die Tabletten in der Packung, und füllen Sie sie nicht in eine Dosierbox um. Die Pflege fragt Sie, was Sie eingenommen haben.
 - **Füllen Sie die Formulare aus dem Couvert aus.** Das Faltblatt «Bitte zuerst lesen» erklärt zu jedem Formular, was Sie damit tun.
