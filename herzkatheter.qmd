@@ -18,7 +18,7 @@ Entwurf vom 27. November 2026. Aufbau neu. Die Abschnitte nach der Untersuchung 
 
 ## Zuerst: mit oder ohne Narkose? {#weiche}
 
-Die meisten Herzkatheter-Untersuchungen finden ohne Narkose statt. Die Einstichstelle wird örtlich betäubt, und Sie sind wach. [Woran Sie es erkennen: Haben Sie von der Anästhesie eine E-Mail mit einem Gesundheitsfragebogen bekommen? Dann ist Ihre Untersuchung mit Narkose geplant. Annahme, noch zu bestätigen.]{.ph} Sind Sie unsicher, fragen Sie in der Praxis Ihrer Kardiologin oder Ihres Kardiologen nach.
+Die meisten Herzkatheter-Untersuchungen finden ohne Narkose statt. Die Einstichstelle wird örtlich betäubt, und Sie sind wach. Woran Sie es erkennen: Haben Sie von der Anästhesie eine E-Mail mit einem Gesundheitsfragebogen bekommen? Dann ist Ihre Untersuchung mit Narkose geplant. Meist laden wir Sie dann auch vorher in die Anästhesie-Sprechstunde ein. Sind Sie unsicher, fragen Sie in der Praxis Ihrer Kardiologin oder Ihres Kardiologen nach.
 
 ::: weiche
 **Ohne Narkose**
@@ -33,7 +33,7 @@ Die meisten Herzkatheter-Untersuchungen finden ohne Narkose statt. Die Einstichs
 **Mit Narkose**
 
 - Für Sie gilt der allgemeine Fahrplan mit Gesundheitsfragebogen, Narkosegespräch und den Zeiten für Essen und Trinken: [Ihr Eintritt, Schritt für Schritt →](stationaer.qmd)
-- Herzmedikamente und Blutverdünner: [Wessen Anweisung gilt, die der Praxis oder die der Anästhesie?]{.ph}
+- Für Ihre Medikamente gilt, was Ihre Kardiologin oder Ihr Kardiologe Ihnen sagt. Das betrifft auch Herzmedikamente und Blutverdünner.
 - Fragen zur Narkose und zum Gesundheitsfragebogen: Anästhesie, +41 41 208 33 88. Fragen zur Untersuchung: Praxis. Fragen zu Eintritt und Termin: Patientendisposition, +41 41 208 30 12.
 :::
 
